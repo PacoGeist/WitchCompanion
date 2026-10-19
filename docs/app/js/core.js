@@ -180,6 +180,8 @@ const Store = {
       names.push([i.name, i.id]);
       if (i.type === 'herb') arr(i.folkNames).forEach(f => f.length > 4 && names.push([f, i.id]));
     });
+    // formula (blended) oils such as "Road Opener Oil", used to dress candles
+    items.filter(i => i.type === 'oil' && (!i.kind || i.kind === 'formula')).forEach(i => names.push([i.name, i.id]));
     // single essential oils and carrier oils, e.g. "Lavender essential oil", "olive oil"
     const EO_ALIAS = { cedarwood: ['cedar'], 'juniper berry': ['juniper'], 'roman chamomile': ['chamomile'], 'rose geranium': ['geranium'], 'sweet orange': ['orange'], 'sweet marjoram': ['marjoram'], 'lemon balm (melissa)': ['lemon balm', 'melissa'], 'lemon balm': ['melissa'], 'ylang ylang': ['ylang-ylang'], 'tea tree': ['tea-tree'] };
     items.filter(i => i.type === 'oil' && (i.kind === 'essential' || i.kind === 'carrier')).forEach(i => {

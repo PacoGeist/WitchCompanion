@@ -546,3 +546,7 @@ mark{background:rgba(212,173,90,.35);color:inherit;border-radius:3px;padding:0 1
 .cite .cu{display:block;font-size:.75rem;opacity:.75;overflow-wrap:anywhere;word-break:break-word;margin-bottom:4px}
 .cite .chips{min-width:0}.cite .chip{white-space:normal;max-width:100%;overflow-wrap:anywhere}
 .upd-prog{margin:10px 0}.upd-prog .bar{height:8px;border-radius:6px;background:var(--line);overflow:hidden}.upd-prog .bar i{display:block;height:100%;background:linear-gradient(90deg,var(--gold),var(--gold2));transition:width .3s}
+.thumb.candle-swatch,.candle-swatch{display:flex!important;flex-direction:row!important;flex-wrap:nowrap;gap:3px;align-items:center;justify-content:center;background:transparent!important}
+.candle-swatch i{display:block;flex:0 0 auto;width:10px;height:34px;border-radius:5px 5px 3px 3px;box-shadow:0 0 8px rgba(240,212,138,.35),inset 0 -6px 8px rgba(0,0,0,.25);border:1px solid rgba(255,255,255,.15)}
+.candle-swatch.big i{width:16px;height:40px}
+.candle-link{display:inline-flex;gap:6px;align-items:center;margin:4px 0 8px}.candle-link svg{width:16px;height:16px}

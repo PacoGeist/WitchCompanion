@@ -1,11 +1,12 @@
 {
-  "versionCode": 34,
-  "versionName": "3.8",
-  "apk": "https://github.com/PacoGeist/WitchCompanion/releases/download/v3.8/WitchcraftCompanion.apk",
+  "versionCode": 35,
+  "versionName": "3.9",
+  "apk": "https://github.com/PacoGeist/WitchCompanion/releases/download/v3.9/WitchcraftCompanion.apk",
   "notes": [
-    "44 new spells (99 in all)",
-    "5 new ways to break a curse, including a completely non-toxic salt, water and sunlight method",
-    "New love, home, prosperity, career, moon and Wheel of the Year spells, each with a full Safety box and sources"
+    "New Candles section on the home page (replaces Herb Tables, which is still in the More menu)",
+    "Candle Basics: 10 lessons in candle magic, with practices, guided mode and quizzes",
+    "33 candle spells and 18 candle dressings, each with a Safety box and sources",
+    "Candle Colors guide, and formula oils now link from every recipe"
   ],
   "site": "https://pacogeist.github.io/WitchCompanion/"
 }

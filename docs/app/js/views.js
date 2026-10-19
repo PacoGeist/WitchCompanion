@@ -41,13 +41,14 @@ function timingBlock(it) {
 /* home grid tiles: order and visibility can be changed in Settings */
 const HOME_TILES = [
   ['spell', 'Spells'], ['tarot', 'Tarot'], ['moon', 'Moon Tracker'], ['oil', 'Oils'], ['incense', 'Incense'], ['tincture', 'Tinctures'],
-  ['brew', 'Brews'], ['herb', 'Herbs'], ['crystal', 'Crystals'], ['tables', 'Herb Tables'], ['sigil', 'Sigils'], ['more', 'More'],
+  ['brew', 'Brews'], ['herb', 'Herbs'], ['crystal', 'Crystals'], ['candles', 'Candles'], ['sigil', 'Sigils'], ['more', 'More'],
   ['deity', 'Deities'], ['journal', 'Journal'], ['favs', 'Favourites'],
   ['craft', 'Learn Witchcraft'],
 ];
 const HOME_DEFAULT_HIDDEN = ['craft'];
 function homeTileOrder() {
-  const saved = arr(Store.settings.homeOrder).filter(k => HOME_TILES.some(t => t[0] === k));
+  // Herb Tables left the home page in v3.9; Candles takes its place in a saved order
+  const saved = arr(Store.settings.homeOrder).map(k => k === 'tables' ? 'candles' : k).filter(k => HOME_TILES.some(t => t[0] === k));
   return [...saved, ...HOME_TILES.map(t => t[0]).filter(k => !saved.includes(k))];
 }
 const homeTileHidden = () => Array.isArray(Store.settings.homeHidden) ? Store.settings.homeHidden : HOME_DEFAULT_HIDDEN;
@@ -66,6 +67,7 @@ route('', async v => {
   const extra = {
     moon: `<a class="tile" href="#/moon">${ART.triplemoon}<b>Moon Tracker</b><span>phases & full moons</span></a>`,
     tables: `<a class="tile" href="#/tables/meta">${ART.table}<b>Herb Tables</b><span>by magical & medical use</span></a>`,
+    candles: `<a class="tile" href="#/candles">${ART.candle}<b>Candles</b><span>basics, spells & dressings</span></a>`,
     more: `<a class="tile" href="#/more">${ART.pentacle}<b>More</b><span>settings, backup</span></a>`,
     learn: `<a class="tile" href="#/learn">${ART.book}<b>Learn Tarot</b><span>cards, symbols & lessons</span></a>`,
     deck: `<a class="tile" href="#/deck">${ART.tarot}<b>The Deck</b><span>all 78 cards</span></a>`,
@@ -211,6 +213,7 @@ route('view/:id', async (v, [id]) => {
   } else if (FORMULA_TYPES.includes(it.type)) {
     body = `
       ${safetyBanner(it)}
+      ${it.category === 'candle' ? `<a class="chip gold candle-link" href="#/candles">${ART.candle} Candle Magic · basics, dressings & more</a>` : ''}
       ${it.description ? `<p class="lead">${esc(it.description)}</p>` : ''}
       ${it.intention ? `<p class="intention">“${esc(it.intention)}”</p>` : ''}
       ${DIV}
@@ -509,6 +512,7 @@ route('more', async v => {
   setTitle('More');
   const L = (href, icon, b, s) => `<a href="${href}">${ART[icon]}<div><b>${b}</b><span>${s}</span></div></a>`;
   v.innerHTML = `<div class="menu-list">
+    <a href="#/more" id="moreUpd">${ART.shuffle || ART.star}<div><b>Check for Updates</b><span>You have version ${esc(Updater.current().name)}${Updater.android() ? '. Tap to look for a newer one' : '. Updates arrive by themselves when online'}</span></div></a>
     ${L('#/journal', 'book', 'Journal', 'Your readings and workings, with notes and results')}
     ${L('#/craft', 'pentacle', 'Learn Witchcraft', 'Grounding, cleansing, circles, altars, spells, protection & more')}
     ${L('#/learn', 'book', 'Learn Tarot', 'Every card, its symbols, lessons and flashcards')}
@@ -523,6 +527,7 @@ route('more', async v => {
     ${L('#/citations', 'book', 'Citations', 'Where the information in this app comes from')}
     ${L('#/credits', 'hand', 'About & Credits', 'Photo credits, disclaimer')}
   </div>`;
+  $('#moreUpd', v).onclick = e => { e.preventDefault(); checkForUpdates(true); };
 });
 route('favorites', async v => {
   setTitle('Favourites');

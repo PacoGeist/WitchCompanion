@@ -8,8 +8,9 @@ const Craft = {
 };
 const practicesFor = id => Workings.list.filter(w => w.lessonId === id);
 
-function craftProgressHTML() {
-  const n = Craft.count(), t = Craft.lessons().length, pct = t ? Math.round(n / t * 100) : 0;
+function craftProgressHTML(L) {
+  L = L || Craft.lessons();
+  const n = L.filter(l => Craft.done[l.id]).length, t = L.length, pct = t ? Math.round(n / t * 100) : 0;
   return `<div class="craft-prog"><div class="bar"><i style="width:${pct}%"></i></div><span>${n} of ${t} lessons complete</span></div>`;
 }
 // the banner on the home page
@@ -39,10 +40,12 @@ route('craft', async v => {
     <p class="disclaimer">Witchcraft is a personal, varied practice. These lessons offer common, beginner-friendly ways of working; adapt them to your own path. Energy work is a spiritual practice, not a substitute for medical or mental health care.</p>`;
 });
 
-route('craft/:id', async (v, [id]) => {
+route('craft/:id', async (v, [id]) => lessonPage(v, id, Craft.lessons(), 'craft'));
+// one lesson page; `base` is the route of its lesson list (craft, candles/basics)
+async function lessonPage(v, id, L, base) {
   await Craft.load(); await Workings.load();
-  const L = Craft.lessons(), i = L.findIndex(l => l.id === id), l = L[i];
-  if (!l) return (location.hash = '#/craft');
+  const i = L.findIndex(l => l.id === id), l = L[i];
+  if (!l) return (location.hash = '#/' + base);
   setTitle(`Lesson ${i + 1}`);
   const P = (t, icon, html) => html ? `<div class="block"><h3>${ART[icon] || ''}${t}</h3>${html}</div>` : '';
   const ul = a => a && a.length ? `<ul class="craft-ul">${a.map(x => `<li>${esc(x)}</li>`).join('')}</ul>` : '';
@@ -67,7 +70,7 @@ route('craft/:id', async (v, [id]) => {
     <div class="block"><h3>${ART.book}My Notes</h3><textarea id="cn" class="craft-notes" placeholder="Your own notes, adaptations and discoveries for this lesson…">${esc(Craft.notes[l.id] || '')}</textarea><div class="hint" id="cns"></div></div>
     <div class="block"><h3>${ART.star}Check Your Understanding</h3><div id="quiz">${l.quiz.map((q, k) => `<div class="quiz-q" data-k="${k}"><p><b>${k + 1}.</b> ${esc(q.q)}</p>${q.options.map((o, j) => `<button class="quiz-o" data-j="${j}">${esc(o)}</button>`).join('')}</div>`).join('')}</div></div>
     <div class="actions"><button class="btn ${done ? '' : 'primary'}" id="done">${done ? '✓ Lesson complete (tap to undo)' : 'Mark lesson complete'}</button></div>
-    <div class="actions">${i > 0 ? `<a class="btn ghost" href="#/craft/${L[i - 1].id}">‹ ${esc(L[i - 1].title)}</a>` : ''}${i < L.length - 1 ? `<a class="btn ghost" href="#/craft/${L[i + 1].id}">${esc(L[i + 1].title)} ›</a>` : `<a class="btn ghost" href="#/craft">All lessons ›</a>`}</div>`;
+    <div class="actions">${i > 0 ? `<a class="btn ghost" href="#/${base}/${L[i - 1].id}">‹ ${esc(L[i - 1].title)}</a>` : ''}${i < L.length - 1 ? `<a class="btn ghost" href="#/${base}/${L[i + 1].id}">${esc(L[i + 1].title)} ›</a>` : `<a class="btn ghost" href="#/${base}">All lessons ›</a>`}</div>`;
 
   let t; $('#cn', v).oninput = e => { clearTimeout(t); t = setTimeout(async () => { Craft.notes[l.id] = e.target.value; await Craft.save(); $('#cns', v).textContent = 'Saved'; }, 500); };
   $('#done', v).onclick = async () => {
@@ -84,7 +87,7 @@ route('craft/:id', async (v, [id]) => {
   };
   $('#logp', v).onclick = () => logWorkingModal({ id: 'lesson-' + l.id, lessonId: l.id, type: 'practice', name: `${l.practice.name}` }, () => render());
   $('#guide', v).onclick = () => guidedPractice(l);
-});
+}
 
 // step-by-step guided practice: one step per screen, with an optional gentle timer
 function guidedPractice(l) {
