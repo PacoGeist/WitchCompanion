@@ -1,0 +1,6 @@
+# never publish the signing key or local builds
+*.keystore
+*.jks
+*.apk
+*.idsig
+android/build/

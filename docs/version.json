@@ -1,0 +1,12 @@
+{
+  "versionCode": 33,
+  "versionName": "3.7",
+  "apk": "https://github.com/PacoGeist/WitchCompanion/releases/download/v3.7/WitchcraftCompanion.apk",
+  "notes": [
+    "Automatic updates from GitHub (Settings \u2192 App Updates)",
+    "21 herb photos replaced with free-licensed pictures; garlic now shows a garlic bulb",
+    "Every herb, crystal, spell, oil, incense, tincture and brew safety-checked with 2+ sources",
+    "New Citations page in Settings"
+  ],
+  "site": "https://pacogeist.github.io/WitchCompanion/"
+}
