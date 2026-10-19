@@ -1,12 +1,11 @@
 {
-  "versionCode": 33,
-  "versionName": "3.7",
-  "apk": "https://github.com/PacoGeist/WitchCompanion/releases/download/v3.7/WitchcraftCompanion.apk",
+  "versionCode": 34,
+  "versionName": "3.8",
+  "apk": "https://github.com/PacoGeist/WitchCompanion/releases/download/v3.8/WitchcraftCompanion.apk",
   "notes": [
-    "Automatic updates from GitHub (Settings \u2192 App Updates)",
-    "21 herb photos replaced with free-licensed pictures; garlic now shows a garlic bulb",
-    "Every herb, crystal, spell, oil, incense, tincture and brew safety-checked with 2+ sources",
-    "New Citations page in Settings"
+    "44 new spells (99 in all)",
+    "5 new ways to break a curse, including a completely non-toxic salt, water and sunlight method",
+    "New love, home, prosperity, career, moon and Wheel of the Year spells, each with a full Safety box and sources"
   ],
   "site": "https://pacogeist.github.io/WitchCompanion/"
 }
