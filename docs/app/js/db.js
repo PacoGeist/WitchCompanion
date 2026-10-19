@@ -50,6 +50,20 @@
       const v = await tx('kv', 'readonly', s => s.get(k));
       return v === undefined ? def : v;
     },
+    async delKey(k) {
+      if (fallback) { try { localStorage.removeItem('g_kv_' + k); } catch (e) { } return; }
+      return tx('kv', 'readwrite', s => s.delete(k));
+    },
+    // all kv entries whose key starts with prefix -> {key: value}
+    async prefixed(prefix) {
+      if (fallback) { const o = {}; for (let i = 0; i < localStorage.length; i++) { const k = localStorage.key(i); if (k.startsWith('g_kv_' + prefix)) try { o[k.slice(5)] = JSON.parse(localStorage.getItem(k)); } catch (e) { } } return o; }
+      const range = IDBKeyRange.bound(prefix, prefix + '\uffff');
+      return open().then(db => new Promise((res, rej) => {
+        const o = {}, t = db.transaction('kv', 'readonly'), r = t.objectStore('kv').openCursor(range);
+        r.onsuccess = () => { const c = r.result; if (c) { o[c.key] = c.value; c.continue(); } };
+        t.oncomplete = () => res(o); t.onerror = () => rej(t.error);
+      }));
+    },
     async set(k, v) {
       if (fallback) { try { localStorage.setItem('g_kv_' + k, JSON.stringify(v)); } catch (e) { } return; }
       return tx('kv', 'readwrite', s => s.put(v, k));

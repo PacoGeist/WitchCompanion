@@ -46,6 +46,7 @@
 <script src="js/tarot.js"></script>
 <script src="js/trends.js"></script>
 <script src="js/tarot-hub.js"></script>
+<script src="js/deck-photos.js"></script>
 <script src="js/craft.js"></script>
 <script src="js/candles.js"></script>
 <script src="js/version.js"></script>
@@ -58,6 +59,7 @@
   await Store.load();
   await Journal.load();
   await Workings.load();
+  await applyDeckImages().catch(() => { });
   applyTheme();
   window.addEventListener('hashchange', render);
   render();

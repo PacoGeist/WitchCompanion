@@ -601,8 +601,9 @@ route('settings', async v => {
   $('#theme', v).onclick = async e => { const b = e.target.closest('button'); if (!b) return; await Store.setSetting('theme', b.dataset.t); applyTheme(); paint(); };
   $('#title', v).onchange = e => Store.setSetting('title', e.target.value.trim());
   $('#motto', v).onchange = e => Store.setSetting('motto', e.target.value.trim());
-  $('#exp', v).onclick = () => {
-    const data = { app: 'witchcraft-companion', version: 1, exported: new Date().toISOString(), items: Object.values(Store.user), hidden: [...Store.hidden], favs: [...Store.favs], settings: Store.settings, readings: Journal.list, workings: Workings.list, craft: { done: Craft.done, notes: Craft.notes }, decks: Decks.list };
+  $('#exp', v).onclick = async () => {
+    const deckImages = await DB.prefixed('deckimg:').catch(() => ({}));
+    const data = { app: 'witchcraft-companion', version: 1, exported: new Date().toISOString(), items: Object.values(Store.user), hidden: [...Store.hidden], favs: [...Store.favs], settings: Store.settings, readings: Journal.list, workings: Workings.list, craft: { done: Craft.done, notes: Craft.notes }, decks: Decks.list, deckImages };
     const n = (data.readings || []).length, w = (data.workings || []).length;
     saveFile(`grimoire-backup-${new Date().toISOString().slice(0, 10)}.json`, 'application/json', JSON.stringify(data))
       .then(ok => { if (ok) toast(`Backup saved: ${n} reading${n === 1 ? '' : 's'}, ${w} working${w === 1 ? '' : 's'}`); });
@@ -619,6 +620,7 @@ route('settings', async v => {
       if (Array.isArray(data.workings)) { const have = new Set(Workings.list.map(r => r.id)); data.workings.forEach(r => { if (r && r.id && !have.has(r.id)) Workings.list.push(r); }); Workings.list.sort((a, b) => b.at - a.at); await Workings.persist(); }
       if (data.craft) { await Craft.load(); Craft.done = { ...Craft.done, ...(data.craft.done || {}) }; Craft.notes = { ...Craft.notes, ...(data.craft.notes || {}) }; await Craft.save(); }
       if (Array.isArray(data.decks)) { await Decks.load(); const have = new Set(Decks.list.map(d => d.id)); data.decks.forEach(d => { if (d && d.id && !have.has(d.id)) Decks.list.push(d); }); await Decks.save(); }
+      if (data.deckImages && typeof data.deckImages === 'object') { for (const [k, url] of Object.entries(data.deckImages)) if (/^deckimg:[\w-]+:\d+$/.test(k) && typeof url === 'string' && url.startsWith('data:image/')) await DB.set(k, url); await applyDeckImages(); }
       if (data.favs) { Store.favs = new Set(data.favs); await DB.set('favs', data.favs); }
       if (data.settings) { Store.settings = { ...Store.settings, ...data.settings }; await DB.set('settings', Store.settings); applyTheme(); }
       Store.reindex(); toast('Backup restored ✶'); render();

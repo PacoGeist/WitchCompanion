@@ -78,11 +78,12 @@ route('decks', async v => {
   setTitle('My Decks');
   const used = id => Journal.list.filter(r => r.deck === id).length;
   v.innerHTML = `<p class="center small muted" style="margin:6px 4px 10px">Keep a record of the decks you own. When you record a reading, choose which deck you used, and Card Stats can show the trends for each deck.</p>
-    <div class="list">${Decks.list.map(d => `<a class="row" href="javascript:void 0" data-deck="${d.id}"><div class="thumb">${d.image ? `<img src="${d.image}" alt="" style="object-fit:cover">` : ART.tarot}</div>
-      <div class="txt"><div class="nm">${esc(d.name)}</div><div class="sb">${esc([d.creator, d.since ? 'since ' + d.since : ''].filter(Boolean).join(' · '))}</div><div class="small muted">${used(d.id)} recorded reading${used(d.id) === 1 ? '' : 's'}${d.isDefault ? ' · your usual deck' : ''}</div></div></a>`).join('') || `<div class="empty">${ART.tarot}No decks yet. Add the first one you love.</div>`}</div>
-    <div class="actions"><button class="btn primary" id="dadd">${ART.plus} Add a deck</button></div>`;
+    <div class="list">${Decks.list.map(d => `<a class="row" href="#/decks/${d.id}"><div class="thumb">${d.image ? `<img src="${d.image}" alt="" style="object-fit:cover">` : ART.tarot}</div>
+      <div class="txt"><div class="nm">${esc(d.name)}</div><div class="sb">${esc([d.creator, d.since ? 'since ' + d.since : ''].filter(Boolean).join(' · '))}</div><div class="small muted">${(d.cards || []).length ? `${d.cards.length} of 78 cards photographed · ` : ''}${used(d.id)} recorded reading${used(d.id) === 1 ? '' : 's'}${d.isDefault ? ' · your usual deck' : ''}${Store.settings.activeDeck === d.id ? ' · shown in the app' : ''}</div></div></a>`).join('') || `<div class="empty">${ART.tarot}No decks yet. Add the first one you love.</div>`}</div>
+    <div class="actions"><button class="btn primary" id="dadd">${ART.plus} Add a deck</button><button class="btn ghost" id="dimp">Install a shared deck</button></div>
+    <p class="small muted center">Open a deck to photograph its 78 cards, show them in your readings, or export the deck as a file to give to a friend.</p>`;
   $('#dadd', v).onclick = () => deckEditor(null);
-  v.querySelector('.list').onclick = e => { const a = e.target.closest('[data-deck]'); if (a) deckEditor(Decks.get(a.dataset.deck)); };
+  $('#dimp', v).onclick = () => importDeckFile();
 });
 function deckEditor(d) {
   const x = d ? { ...d } : { id: newId('deck'), name: '', creator: '', since: '', notes: '', image: '' };
@@ -96,13 +97,14 @@ function deckEditor(d) {
       <div class="actions">${d ? `<button class="btn danger" id="ddel">${ART.trash} Remove</button>` : ''}<button class="btn ghost" id="dcan">Cancel</button><button class="btn primary" id="dsav">Save</button></div></div>`, (m, close) => {
     $('#dph', m).onclick = async () => { const f = await pickFile('image/*'); if (!f) return; x.image = await readImageFile(f, 600, .8); $('#dph', m).innerHTML = `<img src="${x.image}" alt="">`; };
     $('#dcan', m).onclick = close;
-    if (d) $('#ddel', m).onclick = async () => { close(); if (!await confirmBox(`Remove “${d.name}”? Readings recorded with it are kept.`, 'Remove')) return; Decks.list = Decks.list.filter(y => y.id !== d.id); await Decks.save(); render(); };
+    if (d) $('#ddel', m).onclick = async () => { close(); if (!await confirmBox(`Remove “${d.name}”? Readings recorded with it are kept.`, 'Remove')) return; await DeckImg.delAll(d); Decks.list = Decks.list.filter(y => y.id !== d.id); await Decks.save(); if (Store.settings.activeDeck === d.id) { await Store.setSetting('activeDeck', ''); await applyDeckImages(); } location.hash = '#/decks'; render(); };
     $('#dsav', m).onclick = async () => {
       x.name = $('#dn', m).value.trim(); if (!x.name) { toast('Give the deck a name'); return; }
       x.creator = $('#dc', m).value.trim(); x.since = $('#ds', m).value.trim(); x.notes = $('#dnt', m).value.trim(); x.isDefault = $('#ddef', m).checked;
       if (x.isDefault) Decks.list.forEach(y => y.isDefault = false);
       const i = Decks.list.findIndex(y => y.id === x.id); if (i >= 0) Decks.list[i] = x; else Decks.list.push(x);
-      await Decks.save(); close(); toast('Deck saved ✶'); render();
+      await Decks.save(); close(); toast('Deck saved ✶');
+      if (!d) location.hash = '#/decks/' + x.id; else render();
     };
   });
 }
