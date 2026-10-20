@@ -29,11 +29,11 @@ route('decks/:id', async (v, [id]) => {
   setTitle('My Deck');
   const imgs = await DeckImg.all(d.id), have = Object.keys(imgs).length, active = Store.settings.activeDeck === d.id;
   const groups = ['Major', 'Wands', 'Cups', 'Swords', 'Pentacles'];
-  v.innerHTML = `<div class="deck-head"><div class="deck-cover">${d.image ? `<img src="${d.image}" alt="">` : ART.tarot}</div>
+  v.innerHTML = `<div class="deck-head"><button type="button" class="deck-cover" id="dcov" aria-label="Deck cover photo">${d.image ? `<img src="${d.image}" alt="">` : `${ART.image}<span class="small">cover</span>`}</button>
       <div><h1>${esc(d.name)}</h1><div class="small muted">${esc([d.creator, d.since ? 'since ' + d.since : ''].filter(Boolean).join(' · '))}</div>
       <div class="craft-prog" style="margin-top:6px"><div class="bar"><i style="width:${Math.round(have / 78 * 100)}%"></i></div><span>${have} of 78 cards photographed</span></div></div></div>
     <div class="actions">
-      <button class="btn primary" id="dshoot">${ART.image} ${have ? (have < 78 ? 'Photograph the next card' : 'Retake a card') : 'Photograph my cards'}</button>
+      <button class="btn primary big" id="dshoot">${ART.image} ${have ? (have < 78 ? `Photograph the next card (${78 - have} to go)` : 'Retake a card') : 'Photograph my 78 cards'}</button>
       <button class="btn ghost" id="dedit">${ART.edit} Edit details</button></div>
     <div class="switch"><div><b class="fell">Show my deck in the app</b></div>
       <div class="seg" id="duse"><button data-v="on" class="${active ? 'on' : ''}">On</button><button data-v="off" class="${active ? '' : 'on'}">Off</button></div></div>
@@ -43,6 +43,7 @@ route('decks/:id', async (v, [id]) => {
     <div id="dslots">${groups.map(g => `<div class="section-title"><h2>${g === 'Major' ? 'Major Arcana' : g}</h2></div>
       <div class="deck-grid small-grid">${TAROT_DECK.map((c, i) => c.arcana !== g ? '' : `<button type="button" class="deck-card ${imgs[i] ? '' : 'missing'}" data-n="${i}"><img src="${imgs[i] || c.imgRWS || c.img}" alt="" loading="lazy"><b>${esc(cardShort(c))}</b>${imgs[i] ? '' : '<span>tap to photograph</span>'}</button>`).join('')}</div>`).join('')}</div>`;
   $('#dedit', v).onclick = () => deckEditor(d);
+  $('#dcov', v).onclick = () => photoChoice('Deck cover', d.image, () => captureCard(d, -1, false), async () => { const f = await pickFile('image/*'); if (!f) return; adjustCard(d, -1, await readImageFile(f, 2000, .9), false); });
   $('#dshoot', v).onclick = () => { const first = TAROT_DECK.findIndex((c, i) => !imgs[i]); captureCard(d, first < 0 ? 0 : first, first >= 0); };
   $('#duse', v).onclick = async e => { const b = e.target.closest('button'); if (!b) return; await Store.setSetting('activeDeck', b.dataset.v === 'on' ? d.id : ''); await applyDeckImages(); toast(b.dataset.v === 'on' ? `Showing ${d.name} in the app ✶` : 'Showing Rider–Waite–Smith'); render(); };
   $('#dexp', v).onclick = () => exportDeck(d);
@@ -66,14 +67,21 @@ route('decks/:id', async (v, [id]) => {
   };
 });
 
+// a small sheet: take a photo with the camera, or choose one already on the phone
+function photoChoice(title, current, onCamera, onPick, extra = '') {
+  modal(`<h2>${esc(title)}</h2>${current ? `<div class="deck-slot-prev"><img src="${current}" alt=""></div>` : ''}
+    <div class="actions" style="flex-direction:column"><button class="btn primary" id="pc">${ART.image} Take a photo</button><button class="btn" id="pp">Choose a picture</button>${extra}<button class="btn ghost" id="px">Cancel</button></div>`,
+    (m, close) => { $('#px', m).onclick = close; $('#pc', m).onclick = () => { close(); onCamera(); }; $('#pp', m).onclick = () => { close(); onPick(); }; });
+}
+
 /* ----- the camera: a live viewfinder with a card-shaped guide ----- */
 let camStream = null;
 function stopCamera() { if (camStream) { camStream.getTracks().forEach(t => t.stop()); camStream = null; } }
 async function captureCard(deck, n, sequence) {
-  const c = TAROT_DECK[n];
+  const c = n < 0 ? { name: 'Deck cover', img: '', imgRWS: '' } : TAROT_DECK[n];
   const ov = document.createElement('div'); ov.className = 'cam';
-  ov.innerHTML = `<div class="cam-top"><b>${esc(cardShort(c))}</b><span>Card ${n + 1} of 78</span></div>
-    <div class="cam-view"><video playsinline muted autoplay></video><div class="cam-frame"><img src="${c.imgRWS || c.img}" alt=""></div><p class="cam-msg">Starting the camera…</p></div>
+  ov.innerHTML = `<div class="cam-top"><b>${esc(cardShort(c))}</b><span>${n < 0 ? 'The box, or your favorite card' : `Card ${n + 1} of 78`}</span></div>
+    <div class="cam-view"><video playsinline muted autoplay></video><div class="cam-frame">${n < 0 ? '' : `<img src="${c.imgRWS || c.img}" alt="">`}</div><p class="cam-msg">Starting the camera…</p></div>
     <div class="cam-tip">Lay the card flat in good light and line it up inside the frame.</div>
     <div class="cam-bar"><button class="btn ghost" id="cx">Done</button><button class="cam-shoot" id="cs" aria-label="Take photo"></button><button class="btn ghost" id="cp">Photos</button></div>
     ${sequence ? `<div class="cam-skip"><button class="btn small ghost" id="ck">Skip this card ›</button></div>` : ''}`;
@@ -117,7 +125,7 @@ function nextCard(deck, n) {
 
 /* ----- the editor: pinch, drag and twist the photo inside the card frame ----- */
 function adjustCard(deck, n, src, sequence, guide) {
-  const c = TAROT_DECK[n];
+  const c = n < 0 ? { name: 'Deck cover', img: '', imgRWS: '' } : TAROT_DECK[n];
   const img = new Image();
   img.onload = () => {
     const ov = document.createElement('div'); ov.className = 'cam adj';
@@ -189,7 +197,8 @@ function adjustCard(deck, n, src, sequence, guide) {
     $('#as', ov).onclick = async () => {
       const out = document.createElement('canvas'); out.width = CARD_W; out.height = CARD_H;
       const g = out.getContext('2d'); g.fillStyle = '#111'; g.fillRect(0, 0, CARD_W, CARD_H); drawTo(g, 0, 0, 1);
-      await DeckImg.set(deck, n, out.toDataURL('image/jpeg', .85));
+      if (n < 0) { deck.image = out.toDataURL('image/jpeg', .8); const i = Decks.list.findIndex(y => y.id === deck.id); if (i >= 0) Decks.list[i].image = deck.image; await Decks.save(); }
+      else await DeckImg.set(deck, n, out.toDataURL('image/jpeg', .85));
       if (Store.settings.activeDeck === deck.id) await applyDeckImages();
       done(); toast(`${cardShort(c)} saved ✶`);
       if (sequence) nextCard(deck, n); else render();

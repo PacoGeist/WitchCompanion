@@ -58,7 +58,7 @@ route('tarot', async v => {
       ${tile('#/journal?t=tarot', 'book', 'Journal', nWait ? `${nWait} awaiting results` : `${Journal.list.length} readings`)}
       ${tile('#/moon', 'triplemoon', 'Moon Tracker', 'phases & full moons')}
       ${tile('#/mine?t=tarot', 'plus', 'My Spreads', mine ? `${mine} of your own` : 'design your own')}
-      ${tile('#/decks', 'crystal', 'My Decks', Decks.list.length ? `${Decks.list.length} deck${Decks.list.length === 1 ? '' : 's'}` : 'add your decks')}
+      ${tile('#/decks', 'crystal', 'My Decks', Decks.list.length ? `${Decks.list.length} deck${Decks.list.length === 1 ? '' : 's'} · photograph & share` : 'photograph your own deck')}
       ${tile('#/tarot/stats', 'star', 'Card Stats', 'trends in your cards')}
     </div>`;
 });
@@ -78,24 +78,33 @@ route('decks', async v => {
   setTitle('My Decks');
   const used = id => Journal.list.filter(r => r.deck === id).length;
   v.innerHTML = `<p class="center small muted" style="margin:6px 4px 10px">Keep a record of the decks you own. When you record a reading, choose which deck you used, and Card Stats can show the trends for each deck.</p>
+    <div class="actions" style="margin-top:0"><button class="btn primary big" id="dphoto">${ART.image} Photograph a deck</button></div>
     <div class="list">${Decks.list.map(d => `<a class="row" href="#/decks/${d.id}"><div class="thumb">${d.image ? `<img src="${d.image}" alt="" style="object-fit:cover">` : ART.tarot}</div>
-      <div class="txt"><div class="nm">${esc(d.name)}</div><div class="sb">${esc([d.creator, d.since ? 'since ' + d.since : ''].filter(Boolean).join(' · '))}</div><div class="small muted">${(d.cards || []).length ? `${d.cards.length} of 78 cards photographed · ` : ''}${used(d.id)} recorded reading${used(d.id) === 1 ? '' : 's'}${d.isDefault ? ' · your usual deck' : ''}${Store.settings.activeDeck === d.id ? ' · shown in the app' : ''}</div></div></a>`).join('') || `<div class="empty">${ART.tarot}No decks yet. Add the first one you love.</div>`}</div>
+      <div class="txt"><div class="nm">${esc(d.name)}</div><div class="sb">${esc([d.creator, d.since ? 'since ' + d.since : ''].filter(Boolean).join(' · '))}</div><div class="small" style="color:var(--gold2)">${(d.cards || []).length}/78 cards photographed · open to photograph ›</div><div class="small muted">${used(d.id)} recorded reading${used(d.id) === 1 ? '' : 's'}${d.isDefault ? ' · your usual deck' : ''}${Store.settings.activeDeck === d.id ? ' · shown in the app' : ''}</div></div></a>`).join('') || `<div class="empty">${ART.tarot}No decks yet. Add the first one you love.</div>`}</div>
     <div class="actions"><button class="btn primary" id="dadd">${ART.plus} Add a deck</button><button class="btn ghost" id="dimp">Install a shared deck</button></div>
     <p class="small muted center">Open a deck to photograph its 78 cards, show them in your readings, or export the deck as a file to give to a friend.</p>`;
   $('#dadd', v).onclick = () => deckEditor(null);
+  $('#dphoto', v).onclick = () => {
+    if (!Decks.list.length) return deckEditor(null, true);
+    modal(`<h2>Photograph a Deck</h2><p class="small center">Which deck are you photographing?</p><div class="list">${Decks.list.map(d => `<a class="row" href="#/decks/${d.id}" data-shoot="${d.id}"><div class="thumb">${d.image ? `<img src="${d.image}" alt="" style="object-fit:cover">` : ART.tarot}</div><div class="txt"><div class="nm">${esc(d.name)}</div><div class="sb">${(d.cards || []).length}/78 photographed</div></div></a>`).join('')}</div>
+      <div class="actions"><button class="btn" id="pnew">${ART.plus} A new deck</button><button class="btn ghost" id="pcx">Cancel</button></div>`, (m, close) => {
+      $('#pcx', m).onclick = close; $('#pnew', m).onclick = () => { close(); deckEditor(null, true); };
+      m.querySelector('.list').onclick = e => { const a = e.target.closest('[data-shoot]'); if (!a) return; e.preventDefault(); close(); const d = Decks.get(a.dataset.shoot); location.hash = '#/decks/' + d.id; const first = TAROT_DECK.findIndex((c, i) => !(d.cards || []).includes(i)); setTimeout(() => captureCard(d, first < 0 ? 0 : first, first >= 0), 300); };
+    });
+  };
   $('#dimp', v).onclick = () => importDeckFile();
 });
-function deckEditor(d) {
+function deckEditor(d, thenShoot) {
   const x = d ? { ...d } : { id: newId('deck'), name: '', creator: '', since: '', notes: '', image: '' };
   modal(`<h2>${d ? 'Edit Deck' : 'Add a Deck'}</h2><div class="form">
-      <div class="deck-photo" id="dph">${x.image ? `<img src="${x.image}" alt="">` : `${ART.image}<span class="small">Add a photo</span>`}</div>
+      ${d ? `<div class="deck-photo" id="dph">${x.image ? `<img src="${x.image}" alt="">` : `${ART.image}<span class="small">Add a cover photo</span>`}</div>` : `<p class="small muted center" style="margin:0 0 6px">Name your deck, then save. Next the camera opens to photograph all 78 cards, one at a time. Tap the cover box on the deck page any time to add a cover photo.</p>`}
       <label for="dn">Deck name</label><input type="text" id="dn" value="${esc(x.name)}" placeholder="e.g. Rider–Waite–Smith, Wild Unknown…">
       <label for="dc">Creator or publisher (optional)</label><input type="text" id="dc" value="${esc(x.creator)}">
       <label for="ds">Owned since (optional)</label><input type="text" id="ds" value="${esc(x.since)}" placeholder="e.g. 2019, or a birthday gift">
       <label for="dnt">Notes</label><textarea id="dnt" placeholder="How it reads for you, how you cleanse it, its personality…">${esc(x.notes)}</textarea>
       <label class="small" style="display:flex;gap:8px;align-items:center;margin-top:8px"><input type="checkbox" id="ddef" ${x.isDefault ? 'checked' : ''}> This is my usual deck (chosen automatically when I record a reading)</label>
-      <div class="actions">${d ? `<button class="btn danger" id="ddel">${ART.trash} Remove</button>` : ''}<button class="btn ghost" id="dcan">Cancel</button><button class="btn primary" id="dsav">Save</button></div></div>`, (m, close) => {
-    $('#dph', m).onclick = async () => { const f = await pickFile('image/*'); if (!f) return; x.image = await readImageFile(f, 600, .8); $('#dph', m).innerHTML = `<img src="${x.image}" alt="">`; };
+      <div class="actions">${d ? `<button class="btn danger" id="ddel">${ART.trash} Remove</button>` : ''}<button class="btn ghost" id="dcan">Cancel</button><button class="btn primary" id="dsav">${d ? 'Save' : 'Save & photograph cards'}</button></div></div>`, (m, close) => {
+    if (d) $('#dph', m).onclick = () => { close(); photoChoice('Deck cover', d.image, () => captureCard(d, -1, false), async () => { const f = await pickFile('image/*'); if (!f) return; adjustCard(d, -1, await readImageFile(f, 2000, .9), false); }); };
     $('#dcan', m).onclick = close;
     if (d) $('#ddel', m).onclick = async () => { close(); if (!await confirmBox(`Remove “${d.name}”? Readings recorded with it are kept.`, 'Remove')) return; await DeckImg.delAll(d); Decks.list = Decks.list.filter(y => y.id !== d.id); await Decks.save(); if (Store.settings.activeDeck === d.id) { await Store.setSetting('activeDeck', ''); await applyDeckImages(); } location.hash = '#/decks'; render(); };
     $('#dsav', m).onclick = async () => {
@@ -104,7 +113,7 @@ function deckEditor(d) {
       if (x.isDefault) Decks.list.forEach(y => y.isDefault = false);
       const i = Decks.list.findIndex(y => y.id === x.id); if (i >= 0) Decks.list[i] = x; else Decks.list.push(x);
       await Decks.save(); close(); toast('Deck saved ✶');
-      if (!d) location.hash = '#/decks/' + x.id; else render();
+      if (!d) { location.hash = '#/decks/' + x.id; setTimeout(() => captureCard(Decks.get(x.id), 0, true), 400); } else render();
     };
   });
 }

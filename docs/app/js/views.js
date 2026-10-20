@@ -681,7 +681,9 @@ route('citations', async (v, a, qs) => {
 route('credits', async v => {
   setTitle('About');
   const herbs = Store.all('herb').filter(h => h.builtin && h.credit), crys = [...Store.all('crystal'), ...Store.all('deity')].filter(h => h.builtin && h.credit);
-  v.innerHTML = `<div class="hero"><h1>${esc(Store.settings.title || "Paco Morningstar's Witches' Companion")}</h1></div>${DIV}
+  const ver = Updater.current();
+  v.innerHTML = `<div class="about-ver">Version ${esc(ver.name)}${ver.code ? ` · build ${esc(ver.code)}` : ''}</div>
+   <div class="hero"><h1>${esc(Store.settings.title || "Paco Morningstar's Witches' Companion")}</h1></div>${DIV}
    <div class="frame"><p>An offline grimoire. Every entry, photo and font is stored inside the app; anything you write is kept privately on this device. The only time the app goes online is to check GitHub for updates, which you can turn off in Settings.</p>
    <p class="small">Correspondences draw on traditional European folk magic, hoodoo & rootwork, Wiccan and herbal lore. Medicinal notes reflect <b>traditional folk use</b> and are not medical advice — consult a qualified healthcare provider, especially when pregnant, nursing, on medication, or treating children. Plants marked ☠ are poisonous.</p>
    <p class="small">Moon phases are calculated on-device (Meeus algorithms) and shown in local time.</p></div>

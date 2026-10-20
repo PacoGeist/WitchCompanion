@@ -1,13 +1,12 @@
 {
-  "versionCode": 36,
-  "versionName": "4.0",
-  "apk": "https://github.com/PacoGeist/WitchCompanion/releases/download/v4.0/WitchcraftCompanion.apk",
+  "versionCode": 37,
+  "versionName": "4.1",
+  "apk": "https://github.com/PacoGeist/WitchCompanion/releases/download/v4.1/WitchcraftCompanion.apk",
   "notes": [
-    "Photograph your own tarot deck: My Decks has a camera with a card-shaped guide that walks you through all 78 cards",
-    "Adjust every photo: pinch or slide to size it, drag to center it, twist or use the Turn slider to straighten it, and rotate in 90-degree steps",
-    "Show your own deck in readings, card pages and Learn Tarot",
-    "Export a deck as a file to share, and install a deck a friend sends you",
-    "Backups now include your deck photos"
+    "New Photograph a Deck button on My Decks: name your deck and the camera opens straight away",
+    "Take the deck's cover photo with the camera too (tap the cover box on the deck page)",
+    "Each deck shows how many of its 78 cards are photographed",
+    "The About page shows the app version at the very top"
   ],
   "site": "https://pacogeist.github.io/WitchCompanion/"
 }
