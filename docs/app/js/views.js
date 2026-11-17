@@ -297,12 +297,14 @@ route('view/:id', async (v, [id]) => {
       ${usedHTML}`;
   }
   v.innerHTML = `${banner}${credit}
-    <div class="dhead"><div class="type">${esc(singleOil ? (it.kind === 'essential' ? 'Essential Oil' : 'Carrier Oil') : T.one)}${it.builtin ? '' : it.edited ? ' · edited' : ' · your own'}</div><h1>${esc(it.name)}</h1>${sub}</div>
+    <div class="dhead"><div class="type">${esc(singleOil ? (it.kind === 'essential' ? 'Essential Oil' : 'Carrier Oil') : T.one)}${it.builtin ? '' : it.edited ? ' · edited' : it.sharedBy ? ' · shared by ' + esc(it.sharedBy) : ' · your own'}</div><h1>${esc(it.name)}</h1>${sub}</div>
     ${body}
     ${it.type !== 'tarot' ? journalSectionHTML(it) : ''}
     ${DIV}
     <div class="actions">
       <button class="btn" id="fav">${isFav ? ART.starFill : ART.star} ${isFav ? 'Favourite' : 'Add to favourites'}</button>
+      ${Store.user[id] ? `<button class="btn" id="sendf">${ART.share || ART.star} Send to a friend</button>` : ''}
+      <button class="btn ghost" id="prt">${ART.print} Print</button>
       <a class="btn ghost" href="#/edit/${it.type}/${encodeURIComponent(id)}">${ART.edit} Edit</a>
       ${it.edited && Store.seed[id] ? `<button class="btn ghost" id="revert">Restore original</button>` : ''}
       <button class="btn danger" id="del">${ART.trash} ${it.builtin && !Store.user[id] ? 'Hide' : 'Delete'}</button>
@@ -317,6 +319,8 @@ route('view/:id', async (v, [id]) => {
   const lw = $('#logw', v); if (lw) lw.onclick = () => logWorkingModal(it, () => render());
   const rv = $('#revert', v); if (rv) rv.onclick = async () => { await Store.revert(id); toast('Original restored'); render(); };
   const ss = $('#saveSig', v); if (ss) ss.onclick = () => exportSigil(it);
+  const sf = $('#sendf', v); if (sf) sf.onclick = () => shareItemsModal([it]);
+  $('#prt', v).onclick = () => printPage(it.name);
 });
 
 async function exportSigil(it) {
@@ -518,6 +522,8 @@ route('more', async v => {
     ${L('#/learn', 'book', 'Learn Tarot', 'Every card, its symbols, lessons and flashcards')}
     ${L('#/deck', 'tarot', 'The Tarot Deck', 'All 78 Rider–Waite–Smith cards with their meanings')}
     ${L('#/record', 'edit', 'Record a Tarot Reading', 'Log a reading you did with your own deck')}
+    ${L('#/share', 'star', 'Send to a Friend', 'Email, text or message your own spells, recipes and spreads')}
+    ${L('#/receive', 'book', 'Receive from a Friend', 'Add something a friend sent you')}
     ${L('#/favorites', 'star', 'Favourites', 'Everything you have starred')}
     ${L('#/mine', 'book', 'My Book of Shadows', 'Entries you have written or edited')}
     ${L('#/tables/meta', 'table', 'Magical Uses Table', 'Herbs & crystals grouped by purpose')}
@@ -539,7 +545,7 @@ route('mine', async (v, a, qs) => {
   setTitle(only === 'tarot' ? 'My Spreads' : 'My Book of Shadows');
   const mine = Object.values(Store.user).filter(i => !only || i.type === only).sort((a, b) => (b.updated || 0) - (a.updated || 0));
   v.innerHTML = `<div class="grid" style="margin-bottom:14px">${(only ? [only] : TYPE_ORDER).map(t => `<a class="tile" href="#/edit/${t}" style="min-height:90px">${ART.plus}<b>New ${TYPES[t].one}</b></a>`).join('')}</div>` +
-    (mine.length ? `<div class="list">${mine.map(i => rowHTML(i, `<span class="muted">${TYPES[i.type].one}${i.edited ? ' · edited' : ''}</span>`)).join('')}</div>` : `<div class="empty">${ART.book}Your own pages will appear here.</div>`);
+    (mine.length ? `<div class="actions" style="margin-top:0"><a class="btn" href="#/share">${ART.share || ART.star} Send to a friend</a><a class="btn ghost" href="#/receive">Receive</a></div><div class="list">${mine.map(i => rowHTML(i, `<span class="muted">${TYPES[i.type].one}${i.edited ? ' · edited' : ''}</span>`)).join('')}</div>` : `<div class="empty">${ART.book}Your own pages will appear here.</div>`);
 });
 route('settings', async v => {
   setTitle('Settings'); await Craft.load(); await Decks.load();
@@ -554,9 +560,8 @@ route('settings', async v => {
       <div class="mb-prev" id="mbp">${MOON.photo(MOON.current().fraction, 92)}</div><div class="mb-prev" id="mbf">${MOON.photo(0.5, 92)}</div></div>
     <div class="actions" style="margin-top:0"><button class="btn small ghost" id="mbreset">Reset moon brightness</button></div>
     <div class="section-title"><h2>Home Screen</h2></div>
-    <p class="small">Arrange the Grimoire buttons on the home page in the order that matters most to you. Use the arrows to move a button, and the eye to show or hide it.</p>
-    <div class="tile-order" id="tord"></div>
-    <div class="actions"><button class="btn ghost" id="treset">Reset to the original order</button></div>
+    <p class="small">Choose the order of the buttons on the home page, which ones show, and the quick buttons along the bottom of the screen.</p>
+    <div class="actions"><a class="btn" href="#/settings/home">${ART.gear} Arrange home screen & bottom buttons</a></div>
     <div class="section-title"><h2>Backup</h2></div>
     <p class="small">Everything you add lives only on this phone. Export a backup file now and then (and before uninstalling) to keep your Book of Shadows safe.</p>
     <div class="actions"><button class="btn" id="exp">Export backup</button><button class="btn ghost" id="imp">Import backup</button></div>
@@ -575,6 +580,65 @@ route('settings', async v => {
   $('#mbr', v).onchange = e => Store.setSetting('moonBright', +e.target.value);
   $('#mbreset', v).onclick = async () => { MOON.bright = 1; $('#mbr', v).value = 1; paintMoon(); await Store.setSetting('moonBright', 1); toast('Moon brightness reset'); };
   $('#hemi', v).onclick = async e => { const b = e.target.closest('button'); if (!b) return; await Store.setSetting('hemisphere', b.dataset.h); MOON.south = b.dataset.h === 'south'; paint(); toast(b.dataset.h === 'south' ? 'Southern hemisphere moon' : 'Northern hemisphere moon'); };
+  paint();
+  $('#theme', v).onclick = async e => { const b = e.target.closest('button'); if (!b) return; await Store.setSetting('theme', b.dataset.t); applyTheme(); paint(); };
+  $('#title', v).onchange = e => Store.setSetting('title', e.target.value.trim());
+  $('#motto', v).onchange = e => Store.setSetting('motto', e.target.value.trim());
+  $('#exp', v).onclick = async () => {
+    const deckImages = await DB.prefixed('deckimg:').catch(() => ({}));
+    const data = { app: 'witchcraft-companion', version: 1, exported: new Date().toISOString(), items: Object.values(Store.user), hidden: [...Store.hidden], favs: [...Store.favs], settings: Store.settings, readings: Journal.list, workings: Workings.list, craft: { done: Craft.done, notes: Craft.notes }, decks: Decks.list, deckImages };
+    const n = (data.readings || []).length, w = (data.workings || []).length;
+    saveFile(`grimoire-backup-${new Date().toISOString().slice(0, 10)}.json`, 'application/json', JSON.stringify(data))
+      .then(ok => { if (ok) toast(`Backup saved: ${n} reading${n === 1 ? '' : 's'}, ${w} working${w === 1 ? '' : 's'}`); });
+  };
+  $('#imp', v).onclick = async () => {
+    const f = await pickFile('application/json,.json,text/plain,*/*'); if (!f) return;
+    try { await importBackupData(JSON.parse(await f.text())); } catch (e) { toast('That file is not a grimoire backup'); }
+  };
+  $('#unhide', v).onclick = async () => { Store.hidden.clear(); await DB.set('hidden', []); Store.reindex(); toast('Restored'); render(); };
+});
+
+
+/* ---------- restore a backup (Settings → Import backup, or opening a backup file with the app) ---------- */
+async function importBackupData(data) {
+  if (!data || !Array.isArray(data.items)) throw new Error('not a backup');
+  await Journal.load(); await Workings.load(); await Decks.load();
+  const n = (data.readings || []).length, d = (data.decks || []).length;
+  if (!await confirmBox(`Restore this backup? It has ${data.items.length} of your own entries, ${n} reading${n === 1 ? '' : 's'}${d ? ` and ${d} deck${d === 1 ? '' : 's'}` : ''}. Anything with the same name already in the app is replaced by the backup's copy.`, 'Restore')) return false;
+      for (const it of data.items) if (it && it.id && TYPES[it.type]) { Store.user[it.id] = it; await DB.put(it); }
+      if (data.hidden) { Store.hidden = new Set(data.hidden); await DB.set('hidden', data.hidden); }
+      if (Array.isArray(data.readings)) { const have = new Set(Journal.list.map(r => r.id)); data.readings.forEach(r => { if (r && r.id && !have.has(r.id)) Journal.list.push(r); }); Journal.list.sort((a, b) => b.at - a.at); await Journal.persist(); }
+      if (Array.isArray(data.workings)) { const have = new Set(Workings.list.map(r => r.id)); data.workings.forEach(r => { if (r && r.id && !have.has(r.id)) Workings.list.push(r); }); Workings.list.sort((a, b) => b.at - a.at); await Workings.persist(); }
+      if (data.craft) { await Craft.load(); Craft.done = { ...Craft.done, ...(data.craft.done || {}) }; Craft.notes = { ...Craft.notes, ...(data.craft.notes || {}) }; await Craft.save(); }
+      if (Array.isArray(data.decks)) { await Decks.load(); const have = new Set(Decks.list.map(d => d.id)); data.decks.forEach(d => { if (d && d.id && !have.has(d.id)) Decks.list.push(d); }); await Decks.save(); }
+      if (data.deckImages && typeof data.deckImages === 'object') { for (const [k, url] of Object.entries(data.deckImages)) if (/^deckimg:[\w-]+:\d+$/.test(k) && typeof url === 'string' && url.startsWith('data:image/')) await DB.set(k, url); await applyDeckImages(); }
+      if (data.favs) { Store.favs = new Set(data.favs); await DB.set('favs', data.favs); }
+      if (data.settings) { Store.settings = { ...Store.settings, ...data.settings }; await DB.set('settings', Store.settings); applyTheme(); }
+  await applyDeckImages().catch(() => { });
+  Store.reindex(); renderTabbar(); toast('Backup restored ✶'); location.hash = '#/'; render();
+  return true;
+}
+/* ---------- ARRANGE THE HOME SCREEN and the quick buttons along the bottom ---------- */
+route('settings/home', async v => {
+  setTitle('Arrange Home Screen');
+  const opts = TABBAR_CHOICES();
+  v.innerHTML = `<div class="form">
+    <div class="section-title"><h2>Bottom Buttons</h2></div>
+    <p class="small">Home always sits on the left and Search on the right. Choose the three quick buttons in between.</p>
+    <div class="tabpick">${[0, 1, 2].map(n => `<label>Button ${n + 2}<select data-slot="${n}">${opts.map(o => `<option value="${o.k}" ${tabbarKeys()[n] === o.k ? 'selected' : ''}>${esc(o.label)}</option>`).join('')}</select></label>`).join('')}</div>
+    <div class="actions"><button class="btn ghost" id="tbreset">Back to Herbs, Crystals & Moon</button></div>
+    <div class="section-title"><h2>Home Page Buttons</h2></div>
+    <p class="small">Arrange the Grimoire buttons on the home page in the order that matters most to you. Use the arrows to move a button, and the eye to show or hide it.</p>
+    <div class="tile-order" id="tord"></div>
+    <div class="actions"><button class="btn ghost" id="treset">Reset to the original order</button></div></div>`;
+  $$('select[data-slot]', v).forEach(sel => sel.onchange = async () => {
+    const keys = tabbarKeys(), n = +sel.dataset.slot, other = keys.indexOf(sel.value);
+    if (other >= 0 && other !== n) keys[other] = keys[n];      // picking one that's already there swaps the two
+    keys[n] = sel.value;
+    await Store.setSetting('tabbar', keys); renderTabbar(); setTab('settings');
+    $$('select[data-slot]', v).forEach(x => x.value = keys[+x.dataset.slot]); toast('Bottom buttons updated ✶');
+  });
+  $('#tbreset', v).onclick = async () => { await Store.setSetting('tabbar', null); renderTabbar(); render(); toast('Bottom buttons restored'); };
   const label = k => (HOME_TILES.find(t => t[0] === k) || [k, k])[1];
   const paintTiles = (flash) => {
     const order = homeTileOrder(), hid = homeTileHidden();
@@ -597,36 +661,6 @@ route('settings', async v => {
   };
   $('#treset', v).onclick = async () => { await Store.setSetting('homeOrder', []); await Store.setSetting('homeHidden', null); delete Store.settings.homeHidden; await Store.setSetting('homeOrder', []); paintTiles(); toast('Home screen order restored'); };
   paintTiles();
-  paint();
-  $('#theme', v).onclick = async e => { const b = e.target.closest('button'); if (!b) return; await Store.setSetting('theme', b.dataset.t); applyTheme(); paint(); };
-  $('#title', v).onchange = e => Store.setSetting('title', e.target.value.trim());
-  $('#motto', v).onchange = e => Store.setSetting('motto', e.target.value.trim());
-  $('#exp', v).onclick = async () => {
-    const deckImages = await DB.prefixed('deckimg:').catch(() => ({}));
-    const data = { app: 'witchcraft-companion', version: 1, exported: new Date().toISOString(), items: Object.values(Store.user), hidden: [...Store.hidden], favs: [...Store.favs], settings: Store.settings, readings: Journal.list, workings: Workings.list, craft: { done: Craft.done, notes: Craft.notes }, decks: Decks.list, deckImages };
-    const n = (data.readings || []).length, w = (data.workings || []).length;
-    saveFile(`grimoire-backup-${new Date().toISOString().slice(0, 10)}.json`, 'application/json', JSON.stringify(data))
-      .then(ok => { if (ok) toast(`Backup saved: ${n} reading${n === 1 ? '' : 's'}, ${w} working${w === 1 ? '' : 's'}`); });
-  };
-  $('#imp', v).onclick = async () => {
-    const f = await pickFile('application/json,.json,text/plain,*/*'); if (!f) return;
-    try {
-      const data = JSON.parse(await f.text());
-      if (!Array.isArray(data.items)) throw 0;
-      if (!await confirmBox(`Import ${data.items.length} entries? Entries with the same id will be replaced.`, 'Import')) return;
-      for (const it of data.items) if (it && it.id && TYPES[it.type]) { Store.user[it.id] = it; await DB.put(it); }
-      if (data.hidden) { Store.hidden = new Set(data.hidden); await DB.set('hidden', data.hidden); }
-      if (Array.isArray(data.readings)) { const have = new Set(Journal.list.map(r => r.id)); data.readings.forEach(r => { if (r && r.id && !have.has(r.id)) Journal.list.push(r); }); Journal.list.sort((a, b) => b.at - a.at); await Journal.persist(); }
-      if (Array.isArray(data.workings)) { const have = new Set(Workings.list.map(r => r.id)); data.workings.forEach(r => { if (r && r.id && !have.has(r.id)) Workings.list.push(r); }); Workings.list.sort((a, b) => b.at - a.at); await Workings.persist(); }
-      if (data.craft) { await Craft.load(); Craft.done = { ...Craft.done, ...(data.craft.done || {}) }; Craft.notes = { ...Craft.notes, ...(data.craft.notes || {}) }; await Craft.save(); }
-      if (Array.isArray(data.decks)) { await Decks.load(); const have = new Set(Decks.list.map(d => d.id)); data.decks.forEach(d => { if (d && d.id && !have.has(d.id)) Decks.list.push(d); }); await Decks.save(); }
-      if (data.deckImages && typeof data.deckImages === 'object') { for (const [k, url] of Object.entries(data.deckImages)) if (/^deckimg:[\w-]+:\d+$/.test(k) && typeof url === 'string' && url.startsWith('data:image/')) await DB.set(k, url); await applyDeckImages(); }
-      if (data.favs) { Store.favs = new Set(data.favs); await DB.set('favs', data.favs); }
-      if (data.settings) { Store.settings = { ...Store.settings, ...data.settings }; await DB.set('settings', Store.settings); applyTheme(); }
-      Store.reindex(); toast('Backup restored ✶'); render();
-    } catch (e) { toast('That file is not a grimoire backup'); }
-  };
-  $('#unhide', v).onclick = async () => { Store.hidden.clear(); await DB.set('hidden', []); Store.reindex(); toast('Restored'); render(); };
 });
 /* ---------- CITATIONS: every source cited by the built-in entries ---------- */
 const SOURCE_NAMES = {

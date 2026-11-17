@@ -19,6 +19,7 @@
 <header class="appbar">
   <button class="iconbtn" id="backBtn" aria-label="Back"></button>
   <div class="title" id="title"></div>
+  <button class="iconbtn" id="printBtn" aria-label="Print this page"></button>
   <a class="iconbtn" href="#/more" id="menuBtn" aria-label="Menu"></a>
 </header>
 <main id="view"><div class="empty" style="padding-top:40vh">Opening the grimoire…</div></main>
@@ -51,12 +52,14 @@
 <script src="js/candles.js"></script>
 <script src="js/version.js"></script>
 <script src="js/update.js"></script>
+<script src="js/share.js"></script>
 <script>
 (async function () {
   $$('[data-art]').forEach(s => s.innerHTML = ART[s.dataset.art]);
-  $('#backBtn').innerHTML = ART.back; $('#menuBtn').innerHTML = ART.menu;
+  $('#backBtn').innerHTML = ART.back; $('#menuBtn').innerHTML = ART.menu; $('#printBtn').innerHTML = ART.print; $('#printBtn').onclick = () => printPage($('#title').textContent);
   $('#backBtn').onclick = () => { if (history.length > 1) history.back(); else location.hash = '#/'; };
   await Store.load();
+  renderTabbar();
   await Journal.load();
   await Workings.load();
   await applyDeckImages().catch(() => { });
@@ -64,6 +67,7 @@
   window.addEventListener('hashchange', render);
   render();
   autoUpdateCheck();
+  checkIncomingShare();
   // Android hardware back: let the page close modals first
   window.appBack = function () { const lb = document.querySelector('.lightbox'); if (lb) { lb._close(); return true; } const m = document.querySelector('.modal'); if (m) { m.remove(); return true; } if (location.hash && location.hash !== '#/' && location.hash !== '#') { history.back(); return true; } return false; };
 })();

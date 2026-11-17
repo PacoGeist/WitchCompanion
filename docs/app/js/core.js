@@ -110,6 +110,12 @@ async function saveFile(name, mime, dataUrlOrText) {
   const a = document.createElement('a'); a.href = `data:${mime};base64,${b64}`; a.download = name; a.click();
   return true;
 }
+// print the page that is showing (Android's print service, or the browser's print dialog)
+function printPage(title) {
+  document.title = title ? `${title} · Witches' Companion` : "Paco Morningstar's Witches' Companion";
+  if (window.AndroidBridge && AndroidBridge.print) { AndroidBridge.print(document.title); return; }
+  try { window.print(); } catch (e) { toast('Printing is not available here'); }
+}
 // last resort when a file can't be saved: show the text so it can be copied
 function showTextForCopy(name, text) {
   modal(`<h2>Copy your backup</h2><p class="small center">This screen can't save files, so here is your backup as text. Copy it, paste it into a new file called <b>${esc(name)}</b>, and import that file in the app.</p>
@@ -302,12 +308,41 @@ function setTitle(t, showBack = true) {
   $('#title').textContent = t;
   $('#backBtn').style.visibility = showBack ? 'visible' : 'hidden';
 }
+/* ---------- the bottom bar: Home (left) · three buttons you choose · Search (right) ---------- */
+const TABBAR_DEFAULT = ['herb', 'crystal', 'moon'];
+const TAB_SPECIAL = {
+  tarot: { href: '#/tarot', art: 'tarot', short: 'Tarot', match: p => p.startsWith('tarot') || p.startsWith('decks') || p.startsWith('reading') },
+  moon: { href: '#/moon', art: 'moon', short: 'Moon', match: p => p.startsWith('moon') || p.startsWith('phase') },
+  candles: { href: '#/candles', art: 'candle', short: 'Candles', match: p => p.startsWith('candles') },
+  more: { href: '#/more', art: 'pentacle', short: 'More', match: p => p === 'more' },
+  journal: { href: '#/journal', art: 'book', short: 'Journal', match: p => p.startsWith('journal') },
+  favs: { href: '#/favorites', art: 'star', short: 'Favourites', match: p => p === 'favorites' },
+  craft: { href: '#/craft', art: 'pentacle', short: 'Learn', match: p => p.startsWith('craft') },
+  tables: { href: '#/tables/meta', art: 'table', short: 'Tables', match: p => p.startsWith('tables') },
+};
+function tabDef(k) {
+  if (TAB_SPECIAL[k]) return { k, ...TAB_SPECIAL[k] };
+  const T = TYPES[k]; if (!T) return null;
+  const short = { herb: 'Herbs', crystal: 'Crystals', spell: 'Spells', oil: 'Oils', incense: 'Incense', tincture: 'Tinctures', brew: 'Brews', sigil: 'Sigils', deity: 'Deities' }[k] || T.label;
+  return { k, href: '#/list/' + k, art: T.art, short, match: p => p === 'list/' + k || p.startsWith('list/' + k + '?') || (p.startsWith('view/' + k + '-')) };
+}
+// everything on the home screen can be a bottom button
+const TABBAR_CHOICES = () => (typeof HOME_TILES !== 'undefined' ? HOME_TILES : []).map(([k, label]) => ({ k, label })).filter(o => tabDef(o.k));
+function tabbarKeys() {
+  const saved = Array.isArray(Store.settings.tabbar) ? Store.settings.tabbar : [];
+  return [0, 1, 2].map(i => (saved[i] && tabDef(saved[i])) ? saved[i] : TABBAR_DEFAULT[i]);
+}
+function renderTabbar() {
+  const bar = $('.tabbar'); if (!bar) return;
+  const item = (k, href, art, label) => `<a href="${href}" data-tab="${k}"><span>${ART[art] || ART.star}</span>${esc(label)}</a>`;
+  bar.innerHTML = item('home', '#/', 'home', 'Home') + tabbarKeys().map(k => { const d = tabDef(k); return item(k, d.href, d.art, d.short); }).join('') + item('search', '#/search', 'search', 'Search');
+  setTab(location.hash.replace(/^#\/?/, ''));
+}
 function setTab(path) {
-  const top = path.split('/')[0];
-  const sub = path.split('/')[1];
+  path = String(path || '');
   $$('.tabbar a').forEach(a => {
-    const t = a.dataset.tab;
-    a.classList.toggle('on', (t === 'home' && top === '') || (t === 'herb' && top === 'list' && sub === 'herb') || (t === 'crystal' && top === 'list' && sub === 'crystal') || (t === 'moon' && top === 'moon') || (t === 'search' && top === 'search'));
+    const t = a.dataset.tab, d = tabDef(t);
+    a.classList.toggle('on', t === 'home' ? path === '' : t === 'search' ? path.startsWith('search') : !!(d && d.match(path)));
   });
 }
 function applyTheme() {

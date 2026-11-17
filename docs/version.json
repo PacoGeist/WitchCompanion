@@ -1,12 +1,13 @@
 {
-  "versionCode": 37,
-  "versionName": "4.1",
-  "apk": "https://github.com/PacoGeist/WitchCompanion/releases/download/v4.1/WitchcraftCompanion.apk",
+  "versionCode": 1,
+  "versionName": "1.0",
+  "apk": "https://github.com/PacoGeist/WitchCompanion/releases/download/v1.0/WitchcraftCompanion.apk",
   "notes": [
-    "New Photograph a Deck button on My Decks: name your deck and the camera opens straight away",
-    "Take the deck's cover photo with the camera too (tap the cover box on the deck page)",
-    "Each deck shows how many of its 78 cards are photographed",
-    "The About page shows the app version at the very top"
+    "Version 1.0: Paco Morningstar's Witches' Companion, now with its own app ID and signing key",
+    "Tried an earlier test version? In the old app go to Settings \u2192 Export backup, then uninstall it, install this one and use Settings \u2192 Import backup (or just open the backup file with the app)",
+    "Send to a Friend and Receive from a Friend, for your own spells, recipes, spreads and photographed decks",
+    "Print any page, choose your own bottom buttons, and arrange the home screen from Settings",
+    "One-tap updates from now on"
   ],
   "site": "https://pacogeist.github.io/WitchCompanion/"
 }

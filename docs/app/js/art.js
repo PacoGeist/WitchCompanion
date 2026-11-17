@@ -49,6 +49,8 @@
     edit: S(`<path d="M20 80l6-22 42-42 16 16-42 42z"/><path d="M60 24l16 16"/><path d="M20 80h26"/>`),
     trash: S(`<path d="M22 28h56M40 28V18h20v10M28 28l4 56h36l4-56"/><path d="M42 40v32M58 40v32"/>`),
     table: S(`<rect x="14" y="18" width="72" height="64" rx="3"/><path d="M14 36h72M14 54h72M38 18v64"/>`),
+    print: S(`<path d="M28 38V14h44v24"/><rect x="14" y="38" width="72" height="32" rx="5"/><path d="M28 60h44v26H28z"/><path d="M36 70h28M36 78h20"/><circle cx="74" cy="48" r="2.5" fill="currentColor"/>`),
+    share: S(`<circle cx="72" cy="22" r="10"/><circle cx="28" cy="50" r="10"/><circle cx="72" cy="78" r="10"/><path d="M37 45l26-18M37 55l26 18"/>`),
     menu: S(`<line x1="18" y1="30" x2="82" y2="30"/><line x1="18" y1="50" x2="82" y2="50"/><line x1="18" y1="70" x2="82" y2="70"/>`),
     close: S(`<line x1="24" y1="24" x2="76" y2="76" stroke-width="6"/><line x1="76" y1="24" x2="24" y2="76" stroke-width="6"/>`),
     image: S(`<rect x="12" y="20" width="76" height="60" rx="4"/><path d="M12 70l22-22 18 18 12-10 24 20"/><path d="M70 32a7 7 0 1 0 5 11 5 5 0 0 1-5-11z"/>`),

@@ -216,14 +216,19 @@ async function exportDeck(d) {
   const data = { app: 'witches-companion-deck', version: 1, exported: new Date().toISOString(), deck: { name: d.name, creator: d.creator || '', since: d.since || '', notes: d.notes || '', image: d.image || '' }, cards };
   const fname = `${d.name.replace(/[^\w\- ]+/g, '').trim().replace(/\s+/g, '-') || 'tarot'}-deck.json`;
   const n = Object.keys(cards).length;
-  const ok = await saveFile(fname, 'application/json', JSON.stringify(data));
-  if (ok) toast(`Deck saved: ${n} card${n === 1 ? '' : 's'}. Send the file to a friend to install.`);
+  const ok = await sendFileToFriend(fname, JSON.stringify(data), `Here is my tarot deck “${d.name}” (${n} card pictures) for Paco Morningstar's Witches' Companion. Open the file with the app, or go to Tarot → My Decks → Install a shared deck. Get the free app: ${SITE_URL}`);
+  if (ok) toast(`Deck ready to send: ${n} card${n === 1 ? '' : 's'} ✶`);
 }
 async function importDeckFile() {
   const f = await pickFile('application/json,.json,text/plain,*/*'); if (!f) return;
   let data;
   try { data = JSON.parse(await f.text()); if (data.app !== 'witches-companion-deck' || !data.deck || !data.cards) throw 0; }
   catch (e) { toast('That file is not a Witches\' Companion deck'); return; }
+  return installDeckData(data);
+}
+async function installDeckData(data) {
+  if (!data || !data.deck || !data.cards) { toast('That deck file is incomplete'); return; }
+  if (!await confirmBox(`Install the deck “${String(data.deck.name || 'Shared deck').slice(0, 80)}” with ${Object.keys(data.cards).length} card pictures?`, 'Install')) return;
   await Decks.load();
   const names = new Set(Decks.list.map(x => x.name));
   let name = String(data.deck.name || 'Shared deck'); if (names.has(name)) { let k = 2; while (names.has(`${name} (${k})`)) k++; name = `${name} (${k})`; }

@@ -29,7 +29,8 @@ window.onUpdateStatus = (state, detail) => {
   const bar = box.querySelector('i'), msg = box.querySelector('.msg');
   if (state === 'downloading') { bar.style.width = (+detail || 0) + '%'; msg.textContent = `Downloading… ${+detail || 0}%`; }
   else if (state === 'installing') { bar.style.width = '100%'; msg.textContent = 'Opening the installer…'; }
-  else if (state === 'confirm') msg.innerHTML = 'Tap <b>Update</b> (or <b>Install</b>) on the Android screen. If Android asks, allow this app to install updates, then come back and tap Update again.';
+  else if (state === 'permission') msg.innerHTML = 'One time only: Android needs your OK. Turn on <b>Allow from this source</b>, then come back. The update carries on by itself.';
+  else if (state === 'confirm') msg.innerHTML = 'Tap <b>Update</b> on the Android screen to finish.';
   else if (state === 'done') msg.textContent = 'Updated! The app will restart.';
   else if (state === 'cancelled') { msg.textContent = 'Update cancelled. You can try again any time from Settings.'; box.dataset.done = 1; }
   else if (state === 'failed') { msg.textContent = 'The update could not be completed: ' + detail + '. Try again later, or download it from the website.'; box.dataset.done = 1; }
