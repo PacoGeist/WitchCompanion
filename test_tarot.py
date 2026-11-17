@@ -1,0 +1,31 @@
+import asyncio
+from playwright.async_api import async_playwright
+async def main():
+    async with async_playwright() as p:
+        b = await p.chromium.launch(executable_path='/opt/pw-browsers/chromium-1243/chrome-linux64/chrome')
+        pg = await b.new_page(viewport={'width': 400, 'height': 860}, device_scale_factor=2)
+        errs=[]; pg.on('pageerror', lambda e: errs.append(str(e)))
+        await pg.goto('http://localhost:8765/index.html#/deck'); await pg.wait_for_timeout(1500)
+        await pg.screenshot(path='shots/t1.png')
+        await pg.evaluate("location.hash='#/reading/tarot-celtic-cross'"); await pg.wait_for_timeout(1800)
+        await pg.screenshot(path='shots/t2.png', full_page=True)
+        await pg.click('.layout .card.pic >> nth=3'); await pg.wait_for_timeout(400)
+        print('lightbox from layout:', await pg.locator('.lightbox').count()); await pg.screenshot(path='shots/t3.png')
+        await pg.keyboard.press('Escape')
+        await pg.evaluate("location.hash='#/record'"); await pg.wait_for_timeout(600)
+        await pg.select_option('#rs','tarot-past-present-future'); await pg.wait_for_timeout(300)
+        await pg.fill('#rq','Will the move go smoothly?')
+        for i,name in enumerate(['Star','Three of Cups','Ace of Pentacles']):
+            await pg.click(f'[data-pos="{i}"]'); await pg.wait_for_timeout(300)
+            await pg.fill('#pf', name); await pg.wait_for_timeout(200)
+            if i==0: await pg.screenshot(path='shots/t4.png')
+            await pg.click('#pg [data-pick] >> nth=0'); await pg.wait_for_timeout(250)
+        await pg.screenshot(path='shots/t5.png', full_page=True)
+        await pg.fill('#rn','Did this with my Rider-Waite deck at the kitchen table.')
+        await pg.click('#rsave'); await pg.wait_for_timeout(800)
+        print('saved ->', await pg.evaluate('location.hash'))
+        await pg.screenshot(path='shots/t6.png', full_page=True)
+        await pg.evaluate("location.hash='#/journal?t=tarot'"); await pg.wait_for_timeout(600)
+        await pg.screenshot(path='shots/t7.png')
+        print(errs); await b.close()
+asyncio.run(main())

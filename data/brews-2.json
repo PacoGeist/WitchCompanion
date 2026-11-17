@@ -1,0 +1,1782 @@
+[
+ {
+  "type": "brew",
+  "id": "brew-snow-water",
+  "name": "Snow Water",
+  "description": "Freshly fallen snow, melted slowly indoors, carries the hush of deep winter: stillness, endings and pure new beginnings. Old hedge-witches kept the first snow of the year for cleansing tools and cooling hot tempers. It is an external-use water unless the snow is boiled and you trust its source.",
+  "ingredients": [
+   {
+    "item": "Freshly fallen snow, gathered from an untouched spot away from roads",
+    "amount": "1 large bowlful"
+   },
+   {
+    "item": "Clean glass jar with lid",
+    "amount": "1"
+   },
+   {
+    "item": "Clear Quartz or Selenite (optional, placed beside the bowl, not in it)",
+    "amount": "1"
+   },
+   {
+    "item": "Pine or Cedar sprig (optional, for the altar)",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Go out during or just after a snowfall and scoop the clean top layer from a spot no person, animal or road spray has touched.",
+   "Bring the bowl inside and let it melt slowly at room temperature, without heat, while you sit quietly with it.",
+   "Once melted, strain through a clean cloth or coffee filter to remove grit and needles.",
+   "Pour into a clean jar, speak the chant over it and label with the date and moon phase.",
+   "Store in the refrigerator or a cool dark place."
+  ],
+  "howToUse": "Use to cleanse altar tools, mirrors and crystals; add to banishing and ending spells; sprinkle at thresholds to freeze out trouble; add to a winter ritual bath for stillness and clarity. External use only: do not drink it, since boiling kills germs but does not remove soot, metals or chemical pollutants.",
+  "chant": "Silent snow, so white and deep, cleanse and bless and safely keep. What is old, now laid to rest; what is new, by winter blessed.",
+  "intention": "This water holds the stillness and purity of winter to cleanse and begin anew.",
+  "timing": "The first snowfall of the year, or any snowy night of the waning moon for endings.",
+  "bestTime": "Winter, Yule to Imbolc (Dec–Feb), at the first snowfall",
+  "moonPhases": [
+   "Waning Crescent",
+   "Dark Moon",
+   "New Moon"
+  ],
+  "metaphysical": [
+   "purification",
+   "cleansing",
+   "endings",
+   "new beginnings",
+   "calm",
+   "banishing"
+  ],
+  "medical": [],
+  "caution": "EXTERNAL USE ONLY: do not drink. Snow collects soot, metals, pesticides, exhaust chemicals, soil and bacteria; boiling kills germs but does not remove chemical pollutants. Avoid snow near roads, roofs, plowed piles or yellowed patches. Discard if cloudy or smelly after a week.",
+  "interactions": "",
+  "pets": "Do not let pets drink melted snow water, which may contain road salt or chemicals.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.npr.org/sections/thesalt/2016/01/23/463959512/so-you-want-to-eat-snow-is-it-safe-we-asked-scientists",
+   "https://www.cdc.gov/healthywater/drinking/private/rainwater-collection.html"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-beltane-dew-water",
+  "name": "Beltane Dew Water",
+  "description": "Since medieval times maidens have risen before dawn on May Morning to wash their faces in the dew, believing it granted beauty, youth and luck in love for the year to come. Gathered at the threshold of summer, Beltane dew is considered faery-blessed and deeply fertile. This is an external-use beauty water.",
+  "ingredients": [
+   {
+    "item": "Morning dew, gathered from grass, Hawthorn leaves or flowers before sunrise",
+    "amount": "as much as you can gather"
+   },
+   {
+    "item": "Clean white cotton cloth or handkerchief",
+    "amount": "1"
+   },
+   {
+    "item": "Small glass bottle with lid",
+    "amount": "1"
+   },
+   {
+    "item": "Rose petals or Hawthorn blossom (optional, placed beside the bottle)",
+    "amount": "a few"
+   }
+  ],
+  "steps": [
+   "Rise before dawn on Beltane morning (May 1st) and go barefoot or quietly into a garden or meadow free of sprays and chemicals.",
+   "Drag a clean cloth over the dewy grass and leaves, then wring it into your bottle; repeat until you have a few spoonfuls.",
+   "Wash your face directly with dew from your palms as the first light comes, speaking the chant.",
+   "Cap the bottle and keep it in the refrigerator, labeled with the date."
+  ],
+  "howToUse": "Dab on the face, wrists and heart for beauty, glamour and attraction; anoint love and fertility charms; add a few drops to a ritual bath; sprinkle on seed packets for a fruitful garden. External use only; do not drink.",
+  "chant": "Dew of May on grass and thorn, bless me on this Beltane morn. Fair of face and light of heart, beauty, love, to me impart.",
+  "intention": "I am blessed with the beauty, fertility and joy of Beltane.",
+  "timing": "Beltane dawn (May 1st), before sunrise; Midsummer morning is a second traditional time.",
+  "bestTime": "Spring, Beltane morning (May 1st); also Litha dawn (late June)",
+  "moonPhases": [
+   "Waxing Crescent",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "beauty",
+   "youth",
+   "love",
+   "fertility",
+   "faery",
+   "glamour",
+   "luck"
+  ],
+  "medical": [
+   "skin"
+  ],
+  "caution": "EXTERNAL USE ONLY; do not drink. Gather only from plants that have not been sprayed with pesticides or fertilizer, and avoid areas used by pets or near roads. Do not use on broken skin or near the eyes. Use within a week; discard if cloudy.",
+  "interactions": "",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/healthywater/drinking/private/rainwater-collection.html",
+   "https://www.npr.org/sections/thesalt/2016/01/23/463959512/so-you-want-to-eat-snow-is-it-safe-we-asked-scientists"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-rain-water",
+  "name": "Rain Water",
+  "description": "Gentle rainwater is the water of growth, renewal and the blessing of the sky, distinct from the wild power of storm water. A soft spring rain is said to nourish wishes the way it nourishes seeds, while rain gathered at the waning moon washes away sorrow. This is an external-use water.",
+  "ingredients": [
+   {
+    "item": "Rainwater, collected directly from the sky in a clean bowl (not from gutters or roofs)",
+    "amount": "1–2 cups"
+   },
+   {
+    "item": "Clean glass jar with lid",
+    "amount": "1"
+   },
+   {
+    "item": "Moss Agate or Green Aventurine (optional, beside the jar)",
+    "amount": "1"
+   },
+   {
+    "item": "Basil leaf or seed packet (optional, for the altar)",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "During a gentle rain, set a clean glass or ceramic bowl in an open area away from trees and roof runoff.",
+   "As it fills, speak your wish for growth into the falling rain.",
+   "Strain through a coffee filter into a clean jar.",
+   "Label with the date and the kind of rain (spring shower, first rain after drought, etc.) and refrigerate."
+  ],
+  "howToUse": "Water seeds and houseplants that carry a wish; add to growth, fertility and prosperity spells; wash your hands with it before planting; use in ritual baths for emotional release when gathered on the waning moon. External use only; do not drink.",
+  "chant": "Gentle rain upon the ground, bring the growth where I am bound. Seed and wish, take root and rise, blessed by water from the skies.",
+  "intention": "This water nourishes my wishes so they grow strong.",
+  "timing": "Spring rains of the waxing moon for growth; waning moon rain for release.",
+  "bestTime": "Spring, Ostara to Beltane (Mar–May); first rain after a dry spell at any season",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous",
+   "Waning Gibbous"
+  ],
+  "metaphysical": [
+   "fertility",
+   "abundance",
+   "new beginnings",
+   "cleansing",
+   "emotional healing",
+   "manifestation"
+  ],
+  "medical": [],
+  "caution": "EXTERNAL USE ONLY; do not drink rainwater, which can carry germs, bird droppings and air pollutants such as dust and smoke. Never collect from gutters, metal or tarred roofs. Use within a week or two.",
+  "interactions": "",
+  "pets": "Do not leave bowls of collected rainwater where pets can drink.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/healthywater/drinking/private/rainwater-collection.html",
+   "https://www.npr.org/sections/thesalt/2016/01/23/463959512/so-you-want-to-eat-snow-is-it-safe-we-asked-scientists"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-sea-salt-water",
+  "name": "Sea Salt Cleansing Water",
+  "description": "Salt water is the oldest purifier in the craft, echoing the cleansing tides of the ocean. Where real seawater is not at hand, sea salt dissolved in spring water recreates its protective, absorbing power. This is an external-use cleansing water for spaces and sturdy tools.",
+  "ingredients": [
+   {
+    "item": "Clean spring or filtered water (or clean seawater if you live by the coast)",
+    "amount": "2 cups (500 ml)"
+   },
+   {
+    "item": "Coarse sea salt",
+    "amount": "2 tbsp"
+   },
+   {
+    "item": "Rosemary sprig",
+    "amount": "1"
+   },
+   {
+    "item": "Lemon juice (optional, for extra cutting power)",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Glass spray bottle or jar",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Warm the water slightly and stir in the sea salt clockwise until fully dissolved.",
+   "Add the lemon juice if using, and bruise the Rosemary sprig in your hand before dropping it in.",
+   "Hold your hands over the bowl and speak the chant three times.",
+   "Strain out the Rosemary after an hour and pour into a labeled glass bottle."
+  ],
+  "howToUse": "Asperge (sprinkle) around the home, along windowsills and thresholds; wipe down altar surfaces and doorknobs; cleanse salt-safe stones such as Clear Quartz and Amethyst; draw a protective line across a doorway. External use only; do not drink.",
+  "chant": "Salt of earth and water of sea, cleanse this space and set it free. What is foul now washed away, only blessing here may stay.",
+  "intention": "This salt water washes away all that is harmful and leaves only blessing.",
+  "timing": "Waning moon for cleansing; Saturday for protection.",
+  "bestTime": "Year-round; especially spring cleaning (Mar–Apr) and Samhain (Oct 31)",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent"
+  ],
+  "metaphysical": [
+   "purification",
+   "cleansing",
+   "protection",
+   "banishing",
+   "blessing"
+  ],
+  "medical": [],
+  "caution": "EXTERNAL USE ONLY; do not drink. Salt water damages wood finishes, metals, electronics and many stones (Selenite, Malachite, Pyrite, Hematite, Opal, Pearl and other soft or porous stones). Rinse skin if irritated; keep away from eyes and cuts. Keep spray bottles away from children, and keep pets from drinking it or licking salt lines, since salt can poison pets.",
+  "interactions": "",
+  "pets": "Salt is toxic to cats and dogs (thirst, vomiting, tremors, seizures); do not leave bowls or salt lines where pets can lick them.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets",
+   "https://www.gemsociety.org/article/gemstone-toxicity-table"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-holy-basil-calm-tea",
+  "name": "Holy Basil Calm Tea",
+  "description": "Holy Basil, or tulsi, is revered in India as a sacred plant of the goddess Tulsi and planted beside homes for protection and devotion. This gentle tea weaves it with Lemon Balm and Chamomile to soothe a frazzled spirit and open the heart to meditation. A daily cup is a small act of devotion and self-care.",
+  "ingredients": [
+   {
+    "item": "Holy Basil (tulsi) leaves, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Lemon Balm leaves, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Chamomile flowers",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Rose petals, food-grade (optional)",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Honey",
+    "amount": "to taste"
+   },
+   {
+    "item": "Freshly boiled water",
+    "amount": "1 cup (250 ml)"
+   }
+  ],
+  "steps": [
+   "Place the herbs in a teapot or infuser and hold the cup to your heart, breathing slowly.",
+   "Pour just-boiled water over the herbs and cover to keep the aromatic oils in.",
+   "Steep for 5–7 minutes while speaking the chant or sitting in silence.",
+   "Strain, sweeten with honey and stir clockwise three times."
+  ],
+  "howToUse": "Sip slowly before meditation, prayer or journaling, or in the late afternoon when stress peaks. Offer the first sip to your guides or to Tulsi. Drink up to 2–3 cups daily.",
+  "chant": "Sacred basil, gentle friend, bring my scattered thoughts to mend. Calm my heart and still my mind, peace within me now I find.",
+  "intention": "I drink in calm, devotion and the peace of the sacred.",
+  "timing": "Any day, especially Monday or Friday; dawn or dusk for devotional work.",
+  "bestTime": "Year-round; especially late summer harvest of fresh tulsi (Jul–Sep)",
+  "moonPhases": [
+   "Waxing Crescent",
+   "Full Moon",
+   "Waning Crescent"
+  ],
+  "metaphysical": [
+   "calm",
+   "peace",
+   "spirituality",
+   "meditation",
+   "protection",
+   "balance"
+  ],
+  "medical": [
+   "stress",
+   "anxiety",
+   "digestion",
+   "immune support"
+  ],
+  "caution": "Do not use Holy Basil in pregnancy or when trying to conceive (animal studies show reduced fertility), and avoid while breastfeeding, as safety is unknown. Holy Basil may lower blood sugar, slow clotting and lower thyroid hormone; use caution with diabetes, bleeding disorders or an underactive thyroid, and stop 2 weeks before surgery. It has been studied for up to 8 weeks of daily use. Lemon balm may also affect thyroid function and cause drowsiness. Chamomile may cause reactions in those allergic to ragweed or daisies. Do not give honey to infants under 12 months. Herbal teas are traditional folk preparations, not a substitute for medical care; consult a healthcare provider if pregnant, breastfeeding, giving to children, or taking medication.",
+  "interactions": "Holy Basil may add to blood thinners and antiplatelet drugs and to diabetes medicines, and with lemon balm may reduce the effect of thyroid hormone medication; lemon balm and chamomile may add to sedatives and alcohol, and chamomile has been reported to interact with warfarin.",
+  "pets": "Chamomile is toxic to cats and dogs; keep herbs and tea away from pets.",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.merckmanuals.com/professional/special-subjects/dietary-supplements/holy-basil",
+   "https://www.webmd.com/vitamins-and-supplements/holy-basiil-uses-and-risks",
+   "https://www.rxlist.com/supplements/lemon_balm.htm",
+   "https://www.nccih.nih.gov/health/chamomile/ataglance.htm?nav=gsa",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/chamomile"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-mabon-apple-tea",
+  "name": "Mabon Apple Harvest Tea",
+  "description": "At the autumn equinox, when day and night stand in balance, the apple is the queen of the harvest and a symbol of the Otherworld. This warming tea of dried Apple, Cinnamon and Clove gives thanks for the year's abundance and invites balance as the dark half begins. Its scent alone fills a home with hearth magic.",
+  "ingredients": [
+   {
+    "item": "Dried Apple pieces (or 1/2 fresh apple, sliced)",
+    "amount": "2 tbsp"
+   },
+   {
+    "item": "Cinnamon stick, broken",
+    "amount": "1 small"
+   },
+   {
+    "item": "Clove buds",
+    "amount": "2"
+   },
+   {
+    "item": "Orange Peel, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Rose hips, dried (optional)",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Honey or maple syrup",
+    "amount": "to taste"
+   },
+   {
+    "item": "Water",
+    "amount": "1 1/2 cups (375 ml)"
+   }
+  ],
+  "steps": [
+   "Cut a fresh apple crosswise to reveal the hidden five-pointed star, and give thanks for it.",
+   "Simmer the Apple, Cinnamon, Clove, Orange Peel and rose hips in the water for 10 minutes on low heat.",
+   "Remove from heat, cover and steep 5 minutes more while you name three things you are grateful for.",
+   "Strain, sweeten and stir clockwise for gratitude and abundance."
+  ],
+  "howToUse": "Drink at your Mabon feast or while writing a gratitude list; pour a little at the foot of a tree as a harvest offering; serve to guests to bless the gathering. Enjoy daily through autumn.",
+  "chant": "Apple red and harvest gold, blessings more than hands can hold. Light and dark in balance stand; thanks I give to sky and land.",
+  "intention": "I give thanks for my harvest and welcome balance into my life.",
+  "timing": "Mabon (around September 21–23); any autumn evening.",
+  "bestTime": "Autumn, Mabon to Samhain (Sep–Oct)",
+  "moonPhases": [
+   "Full Moon",
+   "Waning Gibbous"
+  ],
+  "metaphysical": [
+   "abundance",
+   "balance",
+   "prosperity",
+   "happiness",
+   "blessing",
+   "love"
+  ],
+  "medical": [
+   "digestion",
+   "circulation",
+   "colds"
+  ],
+  "caution": "Cinnamon is best kept to culinary amounts in pregnancy and with liver problems (cassia contains coumarin), and large amounts may affect blood sugar. Clove is potent; do not exceed a few buds, and never use clove oil in place of buds. Discard apple seeds. Do not give honey to infants under 12 months.",
+  "interactions": "Culinary amounts are unlikely to interact; large amounts of cinnamon may add to diabetes medicines, and clove may add slightly to blood thinners.",
+  "pets": "Apple seeds, stems and leaves and citrus peel are toxic to cats and dogs; do not leave the strained solids or offerings where pets can eat them.",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://nccih.nih.gov/health/cinnamon",
+   "https://www.rxlist.com/supplements/clove.htm",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/apple",
+   "https://www.poison.org/articles/dont-feed-honey-to-infants"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-imbolc-milk-honey",
+  "name": "Imbolc Milk & Honey Potion",
+  "description": "Imbolc, the feast of Brigid, takes its name from the Old Irish for ewe's milk, celebrating the first lambs and the quickening of spring. Warm milk and honey were left as offerings for Brigid on her eve, and this gentle potion carries her blessings of inspiration, healing and hearth. It is a nurturing cup for the coldest weeks of late winter.",
+  "ingredients": [
+   {
+    "item": "Milk (dairy, oat or almond)",
+    "amount": "1 cup (250 ml)"
+   },
+   {
+    "item": "Honey",
+    "amount": "1–2 tsp"
+   },
+   {
+    "item": "Vanilla bean or extract",
+    "amount": "1/4 bean or 1/4 tsp"
+   },
+   {
+    "item": "Cinnamon, ground",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Lavender buds, food-grade (optional)",
+    "amount": "1/4 tsp"
+   },
+   {
+    "item": "Nutmeg, freshly grated",
+    "amount": "a tiny pinch"
+   }
+  ],
+  "steps": [
+   "Light a white candle for Brigid and gently warm the milk in a small pan without letting it boil.",
+   "Add Vanilla, Cinnamon and Lavender if using, and steep on the lowest heat for 5 minutes.",
+   "Strain into a mug, stir in honey and a whisper of Nutmeg.",
+   "Draw Brigid's cross or a small flame on the surface with a spoon before drinking."
+  ],
+  "howToUse": "Drink on Imbolc eve while making a Brigid's cross or planning the year's creative projects. Pour a small cup on the doorstep or windowsill overnight as an offering to Brigid. Enjoy any cold evening for comfort and inspiration.",
+  "chant": "Brigid bright of flame and well, in my hearth and heart now dwell. Milk of life and honey sweet, make my coming spring complete.",
+  "intention": "I welcome Brigid's light, inspiration and healing into my home.",
+  "timing": "Imbolc eve or day (February 1–2); evenings near the waxing moon.",
+  "bestTime": "Late winter, Imbolc (Feb 1–2) through early March",
+  "moonPhases": [
+   "New Moon",
+   "Waxing Crescent",
+   "First Quarter"
+  ],
+  "metaphysical": [
+   "new beginnings",
+   "healing",
+   "blessing",
+   "home blessing",
+   "fertility",
+   "happiness"
+  ],
+  "medical": [
+   "insomnia",
+   "stress",
+   "sore throat"
+  ],
+  "caution": "Do not give honey to infants under 12 months. Use lactose-free or plant milk if needed, and avoid nut milks with nut allergies. Keep nutmeg to a tiny culinary pinch; large amounts are harmful. Lavender may add mild drowsiness.",
+  "interactions": "Lavender may add to the drowsiness of sedatives and alcohol.",
+  "pets": "Lavender is toxic to cats and dogs, and milk can upset their stomachs; keep offerings out of pets' reach.",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.poison.org/articles/dont-feed-honey-to-infants",
+   "https://medlineplus.gov/ency/article/002899.htm",
+   "https://niaaa.nih.gov/publications/brochures-and-fact-sheets/harmful-interactions-mixing-alcohol-with-medicines",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-ostara-nettle-spring-tonic",
+  "name": "Ostara Nettle Spring Tonic",
+  "description": "Country folk have long gathered the first tender Nettle tops in spring as a cleansing tonic after the lean winter months. This green brew of Nettle, Cleavers and Dandelion honors Ostara's awakening earth, shaking off winter heaviness and bringing fresh energy and new beginnings. It tastes of the spring hedgerow.",
+  "ingredients": [
+   {
+    "item": "Nettle leaves, dried (or a handful of fresh young tops)",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Cleavers, dried (or a small handful fresh)",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Dandelion leaf, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Peppermint or Spearmint leaf",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Lemon slice",
+    "amount": "1"
+   },
+   {
+    "item": "Honey",
+    "amount": "to taste"
+   },
+   {
+    "item": "Freshly boiled water",
+    "amount": "1 1/2 cups (375 ml)"
+   }
+  ],
+  "steps": [
+   "If foraging, wear gloves and pick only the top four leaves of young Nettle plants away from roads and sprays; rinse well.",
+   "Place the herbs in a teapot and pour just-boiled water over them.",
+   "Cover and steep 10–15 minutes for a strong green infusion.",
+   "Strain, add Lemon and honey, and drink facing the rising sun."
+  ],
+  "howToUse": "Drink one cup daily for a week or two around Ostara as a seasonal reset; share a cup with friends at the equinox; pour the spent herbs onto the garden as an offering to the waking earth.",
+  "chant": "Green of nettle, sting and shoot, wake the leaf and stir the root. Winter gone and spring begun, I rise renewed beneath the sun.",
+  "intention": "I shake off winter and awaken with fresh energy and new beginnings.",
+  "timing": "Ostara (around March 20–21); early morning of the waxing moon.",
+  "bestTime": "Spring, Imbolc to Beltane (Feb–May), when young nettles appear",
+  "moonPhases": [
+   "New Moon",
+   "Waxing Crescent",
+   "First Quarter"
+  ],
+  "metaphysical": [
+   "new beginnings",
+   "purification",
+   "energy",
+   "vitality",
+   "protection",
+   "healing"
+  ],
+  "medical": [
+   "allergies",
+   "diuretic",
+   "kidney support",
+   "liver support"
+  ],
+  "caution": "Do not use in pregnancy (nettle may cause uterine contractions) or while breastfeeding. Never eat raw fresh nettle; heat or drying removes the sting. Nettle and dandelion are diuretic and may lower blood pressure and blood sugar: consult a healthcare provider first if you have kidney disease, diabetes or low blood pressure. Avoid dandelion if allergic to ragweed or the daisy family. Correctly identify all foraged plants. Do not give honey to infants under 12 months. Herbal teas are traditional folk preparations, not a substitute for medical care; consult a healthcare provider if pregnant, breastfeeding, giving to children, or taking medication.",
+  "interactions": "Nettle and dandelion may raise lithium levels and add to diuretics, blood pressure medicines and diabetes medicines; nettle's vitamin K may weaken warfarin, and large amounts may add to sedatives; dandelion may reduce absorption of quinolone antibiotics and add potassium with potassium-sparing diuretics.",
+  "pets": "Mint and citrus are toxic to cats and dogs; keep tea and spent herbs out of pets' reach.",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.rxlist.com/supplements/stinging_nettle.htm",
+   "https://www.rxlist.com/supplements/dandelion.htm",
+   "https://www.rxlist.com/clivers/supplements.htm",
+   "https://www.poison.org/articles/dont-feed-honey-to-infants",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/mint"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-litha-sun-tea",
+  "name": "Litha Midsummer Sun Tea",
+  "description": "On the longest day the sun stands at its height, and herbs gathered at Midsummer were said to hold their greatest power. This tea is brewed slowly by the sun itself, steeping golden Calendula, Lemon Balm and Chamomile into a bright cup of joy, vitality and solar blessing. It is a celebration of light poured into a glass.",
+  "ingredients": [
+   {
+    "item": "Calendula petals, food-grade",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Lemon Balm leaves",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Chamomile flowers",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Orange Peel or Lemon slices",
+    "amount": "1 tbsp peel or 3 slices"
+   },
+   {
+    "item": "Honey (optional)",
+    "amount": "to taste"
+   },
+   {
+    "item": "Cold filtered water",
+    "amount": "1 quart (1 L)"
+   }
+  ],
+  "steps": [
+   "Place the herbs in a clean glass jar and fill with cold filtered water; cap tightly.",
+   "Set the jar in full sun for no more than 2–3 hours on Midsummer day, ideally around noon (for safety you may instead steep it in the refrigerator overnight and set it in the sun only briefly for the blessing).",
+   "Raise the jar to the sun at its peak and speak the chant.",
+   "Strain, refrigerate immediately and sweeten if desired. Serve over ice."
+  ],
+  "howToUse": "Share at a Litha gathering or bonfire, pour a glass as an offering to the sun on the earth, and drink for joy, courage and vitality. Use within 24 hours.",
+  "chant": "Sun at height on longest day, fill this brew with golden ray. Joy and health and strength of fire, grant to me my heart's desire.",
+  "intention": "I drink in the strength, joy and abundance of the Midsummer sun.",
+  "timing": "Litha (around June 20–21) at noon; any sunny Sunday in summer.",
+  "bestTime": "Summer, Litha (Jun 20–21) through Lammas (Aug 1)",
+  "moonPhases": [
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "sun magic",
+   "happiness",
+   "vitality",
+   "energy",
+   "success",
+   "confidence"
+  ],
+  "medical": [
+   "stress",
+   "digestion",
+   "anxiety"
+  ],
+  "caution": "Sun tea steeps at warm temperatures where bacteria can grow, and food-safety experts advise against it: the safer way is to cold-steep the jar in the refrigerator (6 hours to overnight) or brew with hot water, and set the jar in the sun only briefly for the blessing. If you do sun-steep, use a very clean jar, steep no more than 3 hours, refrigerate promptly and discard after 24 hours or if it looks thick or ropey. Calendula and Chamomile may cause reactions in those allergic to daisies or ragweed; avoid Calendula in pregnancy, and ask a provider before using chamomile or lemon balm regularly while pregnant or breastfeeding. Chamomile, lemon balm and calendula are mildly relaxing and may add to sedatives or alcohol; lemon balm may interfere with thyroid medication. No honey for babies under 12 months.",
+  "interactions": "Chamomile, lemon balm and calendula may add to the effects of sedatives, sleep aids and alcohol. Chamomile has reported interactions with warfarin and may reduce the effect of birth control pills; lemon balm may interfere with thyroid hormone medication.",
+  "pets": "Do not share with pets or leave offerings where they can drink them; citrus peel and some herbs can upset cats and dogs.",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://livesmartohio.osu.edu/uncategorized/miller-59osu-edu/is-sun-tea-safe",
+   "https://www.nccih.nih.gov/health/chamomile/ataglance.htm?nav=gsa",
+   "https://mskcc.org/cancer-care/integrative-medicine/herbs/calendula",
+   "https://www.rxlist.com/supplements/lemon_balm.htm",
+   "https://www.cdc.gov/botulism/prevention/index.html"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-lammas-barley-water",
+  "name": "Lammas Barley Water",
+  "description": "Lughnasadh or Lammas, the \"loaf-mass,\" celebrates the first grain harvest and the sacrifice of the grain god. Old-fashioned barley water, simmered from whole grains and sweetened with Lemon and honey, has been a cooling summer drink for centuries. Drunk at the first harvest, it honors the grain and gives thanks for the bread on the table.",
+  "ingredients": [
+   {
+    "item": "Pearl barley, rinsed",
+    "amount": "1/3 cup (65 g)"
+   },
+   {
+    "item": "Water",
+    "amount": "5 cups (1.25 L)"
+   },
+   {
+    "item": "Lemon, zest and juice",
+    "amount": "1"
+   },
+   {
+    "item": "Honey",
+    "amount": "2–3 tbsp"
+   },
+   {
+    "item": "Ginger, fresh slices (optional)",
+    "amount": "3 thin slices"
+   },
+   {
+    "item": "Sprig of Spearmint (optional)",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Rinse the barley well and place it in a pot with the water, Lemon zest and Ginger.",
+   "Bring to a boil, then simmer gently for 25–30 minutes while stirring sunwise and giving thanks for the harvest.",
+   "Strain the liquid into a jug, keeping the cooked barley for a harvest loaf or stew.",
+   "Stir in the Lemon juice and honey while warm, add the Spearmint and chill."
+  ],
+  "howToUse": "Serve at the Lammas feast alongside fresh bread; pour the first glass on the earth as an offering to the land; drink for prosperity, gratitude and steady abundance through the harvest season. Keeps 3 days refrigerated.",
+  "chant": "Grain of gold from field and sun, the first of harvest now is won. Bread and blessing, thanks I give; by the grain, the people live.",
+  "intention": "I honor the harvest and give thanks for abundance that sustains me.",
+  "timing": "Lammas (August 1st); Sunday or Thursday for prosperity.",
+  "bestTime": "Late summer, Lammas (Aug 1) to Mabon (Sep)",
+  "moonPhases": [
+   "Full Moon",
+   "Waning Gibbous"
+  ],
+  "metaphysical": [
+   "abundance",
+   "prosperity",
+   "blessing",
+   "success",
+   "health"
+  ],
+  "medical": [
+   "digestion",
+   "kidney support",
+   "diuretic"
+  ],
+  "caution": "Barley contains gluten; not suitable for those with celiac disease or gluten sensitivity. Do not give honey to infants under 12 months. The ginger here is a food-level amount, but people on blood thinners or with gallstones should not increase it to medicinal doses.",
+  "interactions": "None expected at these food amounts; large medicinal amounts of ginger may add to blood thinners and diabetes medication.",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.health.arizona.edu/sites/default/files/celiac_disease_and_your_gluten_free_diet.pdf",
+   "https://www.cdc.gov/botulism/prevention/index.html",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ginger"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-yule-mulled-juice",
+  "name": "Yule Mulled Juice",
+  "description": "An alcohol-free cousin of wassail, this mulled grape and apple juice fills the house with the scent of the returning sun. Cinnamon, Clove, Orange Peel and Star Anise are classic Yule spices of warmth, prosperity and joy, perfect for family celebrations where everyone, young and old, can share the cup.",
+  "ingredients": [
+   {
+    "item": "Red grape juice",
+    "amount": "2 cups (500 ml)"
+   },
+   {
+    "item": "Apple juice or cider (unfermented)",
+    "amount": "2 cups (500 ml)"
+   },
+   {
+    "item": "Cinnamon sticks",
+    "amount": "2"
+   },
+   {
+    "item": "Clove buds",
+    "amount": "6"
+   },
+   {
+    "item": "Star Anise pods (culinary Chinese star anise, Illicium verum, only; leave out for young children)",
+    "amount": "2"
+   },
+   {
+    "item": "Orange, sliced into wheels",
+    "amount": "1"
+   },
+   {
+    "item": "Ginger, fresh slices",
+    "amount": "3"
+   },
+   {
+    "item": "Allspice berries",
+    "amount": "4"
+   }
+  ],
+  "steps": [
+   "Pour the juices into a large pot and add all the spices and Orange wheels.",
+   "Warm gently over low heat for 20–30 minutes without boiling, stirring sunwise.",
+   "As it steams, name a blessing for each person who will drink it.",
+   "Strain into mugs and float an Orange wheel on top of each like a little sun."
+  ],
+  "howToUse": "Serve on Yule night while keeping vigil for the returning sun; offer a cup to the household spirits or pour some at the base of an evergreen; share with children (not babies under 12 months; make theirs without star anise) and guests for warmth and family blessing.",
+  "chant": "Longest night and coldest day, spice and fire keep dark at bay. Sun returns and light is born; joy to all this Yuletide morn.",
+  "intention": "I welcome the returning sun and share warmth, joy and plenty with all I love.",
+  "timing": "Yule, the Winter Solstice (around December 21); any winter gathering.",
+  "bestTime": "Winter, Yule (Dec 21) through Twelfth Night (Jan 6)",
+  "moonPhases": [
+   "New Moon",
+   "Waxing Crescent",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "happiness",
+   "prosperity",
+   "sun magic",
+   "blessing",
+   "home blessing",
+   "friendship"
+  ],
+  "medical": [
+   "circulation",
+   "colds",
+   "digestion"
+  ],
+  "caution": "Use only culinary Chinese star anise (Illicium verum) from a food supplier: toxic Japanese star anise looks almost identical and has contaminated star anise products, and star anise teas have caused seizures, jitteriness and vomiting in babies, so omit the star anise when serving toddlers and young children. Do not give juice to babies under 12 months, and keep portions small for toddlers (no more than about 4 oz/120 ml of juice a day for ages 1 to 3). Serve warm, not boiling, especially to children, and remove whole spices before serving to small children (choking hazard). Juice is high in sugar; dilute with water for little ones or those watching blood sugar.",
+  "interactions": "None expected at these food amounts.",
+  "pets": "Never give to dogs: grapes and grape products can cause kidney failure in dogs; keep spiced juice away from all pets.",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.webmd.com/vitamins-supplements/star-anise",
+   "https://pubmed.ncbi.nlm.nih.gov/15492355/",
+   "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html",
+   "https://aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pets",
+   "https://www.aspcapro.org/node/104073"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-midwinter-hot-chocolate",
+  "name": "Midwinter Hot Chocolate Potion",
+  "description": "Cacao was a sacred drink of the Maya and Aztecs, offered to the gods and prized as the food of joy, love and courage. This rich hot chocolate is spiked with Cinnamon, Vanilla and a whisper of Cayenne to kindle inner fire through the darkest nights. It is a potion of comfort, heart-opening and self-love.",
+  "ingredients": [
+   {
+    "item": "Milk (dairy or plant)",
+    "amount": "1 cup (250 ml)"
+   },
+   {
+    "item": "Cacao or unsweetened cocoa powder",
+    "amount": "1 1/2 tbsp"
+   },
+   {
+    "item": "Dark chocolate, chopped (optional)",
+    "amount": "1 square (10 g)"
+   },
+   {
+    "item": "Honey or maple syrup",
+    "amount": "1–2 tsp"
+   },
+   {
+    "item": "Cinnamon, ground",
+    "amount": "1/4 tsp"
+   },
+   {
+    "item": "Vanilla extract",
+    "amount": "1/4 tsp"
+   },
+   {
+    "item": "Cayenne",
+    "amount": "a tiny pinch"
+   },
+   {
+    "item": "Sea salt",
+    "amount": "a pinch"
+   }
+  ],
+  "steps": [
+   "Warm the milk gently in a small pan until steaming but not boiling.",
+   "Whisk in the cacao, chocolate, Cinnamon, Cayenne and salt, whisking sunwise to draw in warmth and joy.",
+   "Remove from heat and stir in the Vanilla and sweetener.",
+   "Pour into your favorite mug and hold it to your heart before drinking."
+  ],
+  "howToUse": "Drink on a long winter night for self-love, comfort and courage; share with a beloved to open hearts; offer a small cup to the ancestors or household spirits on the solstice.",
+  "chant": "Food of gods, so dark and sweet, warm my heart from head to feet. Fire of spice and joy of bean, kindle love where cold has been.",
+  "intention": "I fill my heart with warmth, joy and love for myself and others.",
+  "timing": "Winter evenings; Friday for love; Yule night.",
+  "bestTime": "Winter, Samhain to Imbolc (Nov–Feb)",
+  "moonPhases": [
+   "Waxing Gibbous",
+   "Full Moon",
+   "Waning Crescent"
+  ],
+  "metaphysical": [
+   "self-love",
+   "love",
+   "happiness",
+   "courage",
+   "energy",
+   "emotional healing"
+  ],
+  "medical": [
+   "circulation",
+   "stress"
+  ],
+  "caution": "Cacao contains caffeine and theobromine; avoid late at night if sensitive, keep to a small, weaker cup for children (caffeine is not advised for children under 2), and count it toward the caffeine limit in pregnancy. Never share with pets (chocolate is toxic to dogs and cats). Keep Cayenne to a pinch and avoid with stomach ulcers or reflux. Do not use honey for babies under 12 months.",
+  "interactions": "Caffeine in cacao may add to stimulant medicines and decongestants; avoid large amounts if you take medicines that interact with caffeine.",
+  "pets": "Chocolate and cocoa are toxic to dogs and cats; never share or leave offerings within reach.",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pets",
+   "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html",
+   "https://www.cdc.gov/botulism/prevention/index.html",
+   "https://www.mdanderson.org/cancerwise/how-much-caffeine-is-too-much.h00-159776445.html"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-clarity-study-tea",
+  "name": "Clarity Study Tea",
+  "description": "Rosemary has been worn by scholars since ancient Greece to sharpen memory, and Mercury-ruled Peppermint clears foggy thinking. This bright tea blends them with Lemon Balm and a bright twist of Lemon for focus, memory and clear communication. Brew it before exams, writing or learning a new magical skill.",
+  "ingredients": [
+   {
+    "item": "Rosemary leaves, dried (or 1 small fresh sprig)",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Peppermint leaves",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Lemon Balm leaves",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Lemon peel or Lemon slice",
+    "amount": "1 strip or slice"
+   },
+   {
+    "item": "Honey",
+    "amount": "to taste"
+   },
+   {
+    "item": "Freshly boiled water",
+    "amount": "1 cup (250 ml)"
+   }
+  ],
+  "steps": [
+   "Place the herbs in a teapot and breathe their scent deeply three times.",
+   "Pour over just-boiled water and cover to keep the volatile oils in.",
+   "Steep 5–7 minutes, then strain.",
+   "Stir clockwise and trace the symbol of Mercury (a circle with horns over a cross) on the surface with your spoon."
+  ],
+  "howToUse": "Drink before studying, exams, writing, divination study or any task that needs a clear head. Keep a sprig of Rosemary on your desk while you drink. Up to 2–3 cups daily.",
+  "chant": "Rosemary for memory, mint to clear the way; mind be sharp and thoughts be bright, wisdom here to stay.",
+  "intention": "My mind is clear, focused and able to learn and remember.",
+  "timing": "Wednesday (Mercury's day); morning hours; waxing moon for learning.",
+  "bestTime": "Year-round; especially back-to-school and exam seasons (Sep, Dec, May)",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous"
+  ],
+  "metaphysical": [
+   "clarity",
+   "focus",
+   "memory",
+   "knowledge",
+   "wisdom",
+   "communication"
+  ],
+  "medical": [
+   "headache",
+   "digestion",
+   "stress",
+   "nausea"
+  ],
+  "caution": "Rosemary in medicinal amounts should be avoided in pregnancy and by people with epilepsy or seizure disorders; the culinary amount here is generally fine. Peppermint may aggravate acid reflux. Lemon Balm may interact with thyroid medication and adds to sedatives, so it may make some people drowsy rather than alert. No honey for babies under 12 months.",
+  "interactions": "Lemon balm may interfere with thyroid hormone medication and add to sedatives and alcohol; medicinal amounts of rosemary may interact with blood thinners and seizure medicines.",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.drugs.com/npp/rosemary.html",
+   "https://www.rxlist.com/supplements/lemon_balm.htm",
+   "https://www.nccih.nih.gov/health/peppermintoil",
+   "https://www.cdc.gov/botulism/prevention/index.html"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-hecates-night-tea",
+  "name": "Hecate's Night Tea",
+  "description": "Hecate, goddess of crossroads, keys and the dark moon, is honored at night with offerings left where three roads meet. This dusky tea of Linden, Lavender, Chamomile and Lemon Balm is a gentle brew for shadow work, intuition and dark moon devotion, without the risky herbs of older night potions. Drink it by candlelight before journaling or divination.",
+  "ingredients": [
+   {
+    "item": "Linden flowers",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Lavender buds, food-grade",
+    "amount": "1/4 tsp"
+   },
+   {
+    "item": "Chamomile flowers",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Lemon Balm leaves",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Blackberry leaf, dried (optional)",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Honey",
+    "amount": "to taste"
+   },
+   {
+    "item": "Freshly boiled water",
+    "amount": "1 cup (250 ml)"
+   }
+  ],
+  "steps": [
+   "After dark, light a black or deep purple candle and call to Hecate at your altar or a crossroads symbol.",
+   "Place the herbs in a pot, pour just-boiled water over them and cover.",
+   "Steep 7 minutes in silence, gazing into the candle flame.",
+   "Strain, sweeten with honey and pour a small portion aside as an offering to Hecate."
+  ],
+  "howToUse": "Drink before shadow work, journaling, dream work or tarot on the dark moon. Leave the offering portion at a crossroads or at the foot of a tree, walking away without looking back. Best as a single evening cup; it is relaxing.",
+  "chant": "Hecate of the triple way, guard my steps by night and day. Torch and key and darkened moon, grant me sight and wisdom soon.",
+  "intention": "I walk with Hecate into the dark to find wisdom, intuition and transformation.",
+  "timing": "Dark moon, after sunset; Hecate's Night (November 16) or the eve of each new moon.",
+  "bestTime": "Autumn and winter, Samhain to Yule (Oct–Dec)",
+  "moonPhases": [
+   "Dark Moon",
+   "Waning Crescent",
+   "New Moon"
+  ],
+  "metaphysical": [
+   "shadow work",
+   "psychic powers",
+   "divination",
+   "wisdom",
+   "transformation",
+   "calm"
+  ],
+  "medical": [
+   "insomnia",
+   "anxiety",
+   "stress"
+  ],
+  "caution": "Mildly sedating; do not drive after drinking or combine with sedative medications or alcohol. Chamomile may cause reactions in those allergic to ragweed or daisies. Regular linden tea has been linked to heart damage, so people with heart disease should ask a provider first, and linden may raise lithium levels. Avoid in pregnancy and breastfeeding without professional advice, and no honey for babies under 12 months. Never leave candles unattended.",
+  "interactions": "Adds to sedatives, sleeping pills and alcohol. Linden may reduce lithium clearance; chamomile has reported interactions with warfarin and may reduce the effect of birth control pills; lemon balm may affect thyroid medication.",
+  "pets": "Lavender and chamomile can upset cats and dogs; place outdoor offerings where pets will not drink them, and keep candles away from pets.",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.webmd.com/vitamins/ai/ingredientmono-550/linden",
+   "https://www.nccih.nih.gov/health/chamomile/ataglance.htm?nav=gsa",
+   "https://www.nccih.nih.gov/health/lavender?nav=govd",
+   "https://www.rxlist.com/supplements/lemon_balm.htm",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-peace-home-simmer-pot",
+  "name": "Peace-in-the-Home Simmer Pot (External)",
+  "description": "A simmer pot is kitchen-witch incense: herbs and fruit simmered gently on the stove to fill the home with intention through scent. This blend of Lavender, Chamomile, Lemon and Rosemary calms tension, smooths quarrels and invites harmony into every room. NOT FOR DRINKING; it is for scent only.",
+  "ingredients": [
+   {
+    "item": "Water",
+    "amount": "4 cups (1 L)"
+   },
+   {
+    "item": "Lavender buds",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Chamomile flowers",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Lemon, sliced",
+    "amount": "1/2"
+   },
+   {
+    "item": "Rosemary sprig",
+    "amount": "1"
+   },
+   {
+    "item": "Vanilla extract or bean",
+    "amount": "1 tsp or 1/2 bean"
+   },
+   {
+    "item": "Rose petals (optional)",
+    "amount": "a handful"
+   }
+  ],
+  "steps": [
+   "Fill a saucepan with water and bring it to a gentle simmer (this brew is for scent only and is never drunk).",
+   "Add each ingredient one at a time, naming the peace it brings (Lavender for calm, Lemon for clearing, Rosemary for protection, Vanilla for sweetness).",
+   "Stir counterclockwise to release tension, then clockwise to draw in harmony.",
+   "Keep on the lowest heat, topping up with water every 30 minutes as it evaporates."
+  ],
+  "howToUse": "Simmer during family gatherings, after an argument or when moving into a new home. Let the steam drift through the house for 1–3 hours. Afterwards, pour the cooled water across the front step to seal in peace. NOT FOR DRINKING.",
+  "chant": "Lavender and lemon bright, fill this home with peace tonight. Angry words now fade away; love and calm are here to stay.",
+  "intention": "My home is filled with peace, harmony and gentle understanding.",
+  "timing": "Monday or Friday; full moon for harmony, waning moon to dissolve conflict.",
+  "bestTime": "Year-round; especially during busy holiday seasons (Nov–Jan)",
+  "moonPhases": [
+   "Full Moon",
+   "Waning Gibbous",
+   "Last Quarter"
+  ],
+  "metaphysical": [
+   "peace",
+   "calm",
+   "home blessing",
+   "reconciliation",
+   "happiness",
+   "purification"
+  ],
+  "medical": [],
+  "caution": "EXTERNAL / SCENT ONLY: do not drink. Never leave a simmer pot unattended or let it boil dry; keep handles turned in and away from children and pets. Lavender is toxic to cats and dogs if they drink or eat it, so keep the pot and the cooled liquid where pets cannot reach, and ventilate if anyone finds the scent strong.",
+  "interactions": "",
+  "pets": "Lavender is listed as toxic to cats and dogs; keep pets from drinking the liquid or eating the herbs.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-money-simmer-pot",
+  "name": "Money-Drawing Simmer Pot (External)",
+  "description": "The warm spices of the hearth, Cinnamon, Clove, Orange and Bay, are traditional money-drawers in folk magic. Simmered together, they fill the home with the scent of prosperity and invite abundance through the door. NOT FOR DRINKING; it is for scent only.",
+  "ingredients": [
+   {
+    "item": "Water",
+    "amount": "4 cups (1 L)"
+   },
+   {
+    "item": "Cinnamon sticks",
+    "amount": "2"
+   },
+   {
+    "item": "Clove buds",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Orange, sliced (or peel of 1 orange)",
+    "amount": "1"
+   },
+   {
+    "item": "Bay Laurel leaves (write a wish on one)",
+    "amount": "3"
+   },
+   {
+    "item": "Basil leaves, fresh or dried",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Allspice berries",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Shiny coin (rinsed, set beside the pot, not in it)",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Bring the water to a gentle simmer in a pot you reserve for magical work (this brew is for scent only and is never drunk).",
+   "Write your money wish or a dollar sign on one Bay Laurel leaf with a pen.",
+   "Add the Orange, Cinnamon, Clove, Allspice, Basil and Bay leaves, stirring clockwise to draw wealth toward you.",
+   "Place the coin beside the pot and simmer on the lowest heat for 1–3 hours, topping up water as needed."
+  ],
+  "howToUse": "Simmer on Thursdays or Sundays, when paying bills, before payday or when starting a new business venture. Let the scent fill your workspace. Afterwards, pour the cooled liquid at your front door path (leading inward) and keep the coin in your wallet. NOT FOR DRINKING.",
+  "chant": "Cinnamon, clove and orange gold, bring me riches manifold. Through the door and to my hand, money flows at my command.",
+  "intention": "Money and abundance flow easily into my home and life.",
+  "timing": "Thursday (Jupiter) or Sunday (Sun); waxing moon to draw money.",
+  "bestTime": "Year-round; especially the start of the year and harvest season (Jan, Aug–Sep)",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "money",
+   "prosperity",
+   "abundance",
+   "success",
+   "luck",
+   "business"
+  ],
+  "medical": [],
+  "caution": "EXTERNAL / SCENT ONLY: do not drink. Never leave unattended or let it boil dry. Cinnamon and clove steam can irritate sensitive airways; ventilate the room. Bay laurel is toxic to cats and dogs, so keep the pot, used herbs and cooled liquid away from pets. Do not put coins in a pot used for food.",
+  "interactions": "",
+  "pets": "Bay laurel is toxic to cats and dogs; keep pets away from the pot, spent leaves and the poured-out liquid.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bay-laurel",
+   "https://www.rxlist.com/supplements/clove.htm"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-love-simmer-pot",
+  "name": "Love & Romance Simmer Pot (External)",
+  "description": "Rose, Vanilla, Cinnamon and Apple are among the sweetest love herbs in the craft, ruled by Venus and the warmth of desire. This simmer pot perfumes the home with romance and self-love, perfect before a date, an anniversary or a night devoted to your own heart. NOT FOR DRINKING; it is for scent only.",
+  "ingredients": [
+   {
+    "item": "Water",
+    "amount": "4 cups (1 L)"
+   },
+   {
+    "item": "Rose petals or buds",
+    "amount": "2 tbsp"
+   },
+   {
+    "item": "Apple, sliced crosswise to show the star",
+    "amount": "1"
+   },
+   {
+    "item": "Cinnamon stick",
+    "amount": "1"
+   },
+   {
+    "item": "Vanilla bean, split (or 1 tsp extract)",
+    "amount": "1/2"
+   },
+   {
+    "item": "Hibiscus flowers",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Orange Peel",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Cardamom pods, cracked",
+    "amount": "3"
+   }
+  ],
+  "steps": [
+   "Bring the water to a gentle simmer in a pot on a Friday evening (this brew is for scent only and is never drunk).",
+   "Add the Apple slices star-side up, then the Rose, Hibiscus, Cinnamon, Vanilla, Orange Peel and Cardamom.",
+   "Stir clockwise in a heart shape while speaking the chant.",
+   "Keep on the lowest heat for 1–3 hours, adding water as needed, and let the pink steam fill the house."
+  ],
+  "howToUse": "Simmer before a date, during a romantic dinner, on Valentine's Day or Beltane, or during a self-love ritual night with a bath and journaling. Afterwards, pour the cooled water under a rose bush or flowering plant as thanks. NOT FOR DRINKING.",
+  "chant": "Rose and apple, spice so sweet, make my heart and home complete. Love draw near and passion bloom, fill with sweetness every room.",
+  "intention": "My home and heart are open to sweet, joyful and true love.",
+  "timing": "Friday (Venus); waxing to full moon to draw love.",
+  "bestTime": "Year-round; especially Beltane (May 1) and mid-February",
+  "moonPhases": [
+   "Waxing Crescent",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "love",
+   "self-love",
+   "attraction",
+   "lust",
+   "happiness",
+   "beauty"
+  ],
+  "medical": [],
+  "caution": "EXTERNAL / SCENT ONLY: do not drink. Never leave unattended or let it boil dry. Hibiscus can stain pots and surfaces. Keep the pot and cooled liquid away from children and pets.",
+  "interactions": "",
+  "pets": "Keep pets away from the hot pot and the poured-out liquid; citrus peel and spices can upset cats and dogs.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pets",
+   "https://www.drugs.com/npp/roselle.html"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-protection-simmer-pot",
+  "name": "Hearth Protection Simmer Pot (External)",
+  "description": "Rosemary, Bay, Clove and Pine have guarded homes for centuries, hung over doors and burned on hearths against harm. Simmered together with a pinch of salt, they create a protective cloud of scent that clears negativity and seals the household in safety. NOT FOR DRINKING; it is for scent only.",
+  "ingredients": [
+   {
+    "item": "Water",
+    "amount": "4 cups (1 L)"
+   },
+   {
+    "item": "Rosemary sprigs",
+    "amount": "2"
+   },
+   {
+    "item": "Bay Laurel leaves",
+    "amount": "3"
+   },
+   {
+    "item": "Clove buds",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Pine needles or Juniper berries",
+    "amount": "1 small handful or 1 tsp"
+   },
+   {
+    "item": "Lemon, sliced",
+    "amount": "1/2"
+   },
+   {
+    "item": "Black Pepper corns",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Sea salt",
+    "amount": "1 tsp"
+   }
+  ],
+  "steps": [
+   "Bring the water to a simmer and add the salt, stirring counterclockwise to banish harm (this brew is for scent only and is never drunk).",
+   "Add the Lemon, Rosemary, Bay, Clove, Pine or Juniper and Black Pepper one by one, naming each as a guardian.",
+   "Simmer on the lowest heat for 1–3 hours, topping up water as needed.",
+   "Walk through each room as the scent spreads, visualizing a shining boundary around the home."
+  ],
+  "howToUse": "Simmer after unwelcome visitors, during stressful times, after moving in, or on Samhain and the dark moon. When cooled, pour the liquid in a line across the front threshold to seal the protection. NOT FOR DRINKING.",
+  "chant": "Rosemary and bay, guard this place, clove and pine fill all the space. Salt and pepper, lemon bright, keep us safe by day and night.",
+  "intention": "My home is shielded and safe; no harm may enter here.",
+  "timing": "Saturday (Saturn) or Tuesday (Mars); waning or dark moon to banish.",
+  "bestTime": "Year-round; especially Samhain (Oct 31) and the dark half of the year (Nov–Feb)",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent",
+   "Dark Moon"
+  ],
+  "metaphysical": [
+   "protection",
+   "banishing",
+   "purification",
+   "home blessing",
+   "cleansing"
+  ],
+  "medical": [],
+  "caution": "EXTERNAL / SCENT ONLY: do not drink. Never leave unattended or let it boil dry. Black pepper and clove steam may irritate eyes and airways; ventilate. Bay laurel is toxic to cats and dogs and some pine species are harmful to pets, so keep the pot, spent herbs and the threshold line where pets cannot lick them, and avoid Yew, which looks similar to some evergreens and is deadly.",
+  "interactions": "",
+  "pets": "Bay laurel is toxic to cats and dogs; keep pets from the pot, spent herbs and poured-out liquid.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bay-laurel",
+   "https://www.rxlist.com/supplements/clove.htm",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-ancestor-coffee-offering",
+  "name": "Ancestor Coffee Offering",
+  "description": "Across many traditions, from Hoodoo and Vodou to Mexican Día de los Muertos altars, a fresh cup of coffee is one of the most common offerings to the beloved dead. Brewed with care, sometimes with a spice the ancestor loved, it says \"you are remembered and welcome here.\" This cup is for the spirits; you may brew a cup for yourself to share alongside.",
+  "ingredients": [
+   {
+    "item": "Freshly ground coffee",
+    "amount": "2 tbsp"
+   },
+   {
+    "item": "Freshly boiled water",
+    "amount": "1 cup (250 ml)"
+   },
+   {
+    "item": "Cinnamon stick or Cardamom pod (optional, if the ancestor enjoyed it)",
+    "amount": "1"
+   },
+   {
+    "item": "Sugar, milk or cream, as the ancestor took it",
+    "amount": "to taste"
+   },
+   {
+    "item": "White candle",
+    "amount": "1"
+   },
+   {
+    "item": "Photo or name of the ancestor",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Clean and refresh your ancestor altar, and light a white candle beside their photo or name.",
+   "Brew the coffee fresh, adding the spice if using, and prepare it exactly as your ancestor took it.",
+   "Pour the first cup for the ancestor, set it on the altar and speak their name aloud.",
+   "Sit with them a while, sharing news or asking for guidance, and sip your own cup if you wish."
+  ],
+  "howToUse": "Leave the offering on the altar for a few hours or overnight, then pour it outside at the base of a tree or into running water rather than drinking it. Offer weekly, on anniversaries, at Samhain and on Día de los Muertos.",
+  "chant": "Those who came before me, kin of blood and bone, I brew this cup in memory; you are not alone. Rest and drink and know you're loved, guide me on my way.",
+  "intention": "I honor and remember my ancestors and welcome their guidance.",
+  "timing": "Monday or Saturday mornings; Samhain (Oct 31) and Día de los Muertos (Nov 1–2); ancestor anniversaries.",
+  "bestTime": "Autumn, Samhain season (Oct–Nov); year-round weekly devotion",
+  "moonPhases": [
+   "Waning Crescent",
+   "Dark Moon",
+   "New Moon",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "ancestors",
+   "spirit work",
+   "blessing",
+   "grief",
+   "wisdom",
+   "protection"
+  ],
+  "medical": [],
+  "caution": "The offering cup is for the spirits, not for drinking once it has stood out. Dispose of it respectfully outdoors where pets cannot drink it. Coffee for your own cup contains caffeine (roughly 95 to 200 mg a cup): keep to about 200 mg a day in pregnancy and 400 mg for most adults, and do not give coffee to young children. Never leave the candle unattended; use a snuffer to put it out. Only honor ancestors in a way that feels safe and loving to you.",
+  "interactions": "Caffeine adds to stimulants and decongestants and can interact with some medicines (for example certain antibiotics, theophylline and some antidepressants); ask a pharmacist if unsure.",
+  "pets": "Coffee and caffeine are toxic to dogs and cats; do not pour offerings where pets can lap them up.",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.mdanderson.org/cancerwise/how-much-caffeine-is-too-much.h00-159776445.html",
+   "https://www.goodrx.com/conditions/pregnancy/caffeine-during-pregnancy",
+   "https://aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pets",
+   "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-lavender-lemonade-potion",
+  "name": "Lavender Lemonade Potion",
+  "description": "Sunny Lemon and soothing Lavender make a potion that is both bright and calm, perfect for clearing away bad moods and inviting happiness. Lavender has been a Mercury-ruled herb of peace and purification for centuries, and Lemon cuts through stagnant energy. A pretty, pale violet drink for summer rituals and gatherings.",
+  "ingredients": [
+   {
+    "item": "Lavender buds, food-grade",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Freshly boiled water (for the infusion)",
+    "amount": "1 cup (250 ml)"
+   },
+   {
+    "item": "Honey or sugar",
+    "amount": "1/3 cup (80 ml)"
+   },
+   {
+    "item": "Freshly squeezed Lemon juice",
+    "amount": "1/2 cup (125 ml, about 3 lemons)"
+   },
+   {
+    "item": "Cold water",
+    "amount": "3 cups (750 ml)"
+   },
+   {
+    "item": "Lemon slices and ice",
+    "amount": "to serve"
+   }
+  ],
+  "steps": [
+   "Steep the Lavender in the boiled water, covered, for 10 minutes, then strain and stir in the honey to make a syrup.",
+   "In a pitcher, combine the Lavender syrup, Lemon juice and cold water.",
+   "Stir clockwise and watch as the lemon turns the lavender infusion pinker; speak the chant.",
+   "Chill and serve over ice with Lemon slices."
+  ],
+  "howToUse": "Serve at summer sabbats and gatherings for harmony and joy; drink after a stressful day to clear and uplift; use a splash in a self-care ritual. Keeps 3 days in the refrigerator.",
+  "chant": "Lemon bright and lavender sweet, chase the gloom and make joy complete. Calm my mind and clear my way; happiness, come in to stay.",
+  "intention": "I am cleansed of heaviness and filled with calm happiness.",
+  "timing": "Wednesday or Sunday; waxing moon for happiness.",
+  "bestTime": "Summer, Beltane to Mabon (May–Sep)",
+  "moonPhases": [
+   "Waxing Crescent",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "happiness",
+   "peace",
+   "purification",
+   "calm",
+   "friendship",
+   "clarity"
+  ],
+  "medical": [
+   "stress",
+   "anxiety",
+   "headache"
+  ],
+  "caution": "Use only culinary (food-grade) lavender, and never lavender essential oil in drinks. Use lightly; too much lavender tastes soapy and may cause nausea, headache or diarrhea. Lavender may add to sedative medicines, and little is known about its safety in pregnancy or breastfeeding beyond food amounts. Citrus acid can erode tooth enamel; rinse with water after. No honey for infants under 12 months.",
+  "interactions": "Lavender may add to the effects of sedatives, sleep aids and alcohol.",
+  "pets": "Lavender is toxic to cats and dogs; do not share.",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.nccih.nih.gov/health/lavender?nav=govd",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://www.cdc.gov/botulism/prevention/index.html"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-lemon-balm-iced-tea",
+  "name": "Lemon Balm Iced Tea",
+  "description": "Lemon Balm, called \"the gladdening herb\" by medieval herbalists, was said to drive away melancholy and make the heart merry. This cool, refreshing iced tea of Lemon Balm, Spearmint and a little Hibiscus is a summer joy potion for lifting spirits and easing worry. Bees love the plant, and its sweetness carries their blessing.",
+  "ingredients": [
+   {
+    "item": "Lemon Balm leaves, fresh (or 2 tbsp dried)",
+    "amount": "1 large handful"
+   },
+   {
+    "item": "Spearmint leaves, fresh (or 1 tbsp dried)",
+    "amount": "a small handful"
+   },
+   {
+    "item": "Hibiscus flowers (optional, for color)",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Honey",
+    "amount": "2–3 tbsp"
+   },
+   {
+    "item": "Freshly boiled water",
+    "amount": "4 cups (1 L)"
+   },
+   {
+    "item": "Ice and Lemon slices",
+    "amount": "to serve"
+   }
+  ],
+  "steps": [
+   "Bruise the fresh Lemon Balm and Spearmint gently between your palms to release their scent, smiling as you do.",
+   "Place in a heatproof jug with the Hibiscus and pour over the just-boiled water.",
+   "Cover and steep 10 minutes, then strain and stir in the honey while warm.",
+   "Cool, then chill and serve over ice with Lemon slices."
+  ],
+  "howToUse": "Drink on hot afternoons to lift mood and soothe nerves; serve at gatherings for friendship and good cheer; pour a little at the base of a flowering plant as an offering to the bees. Keeps 2–3 days refrigerated.",
+  "chant": "Balm of gladness, cool and green, chase the sorrow, make me keen. Bees and blossoms, sun and leaf, bring me joy and ease my grief.",
+  "intention": "My heart is light, my worries soothed, and joy flows through me.",
+  "timing": "Sunday or Monday; waxing moon for joy.",
+  "bestTime": "Summer, Litha to Mabon (Jun–Sep), when Lemon Balm is lush",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "happiness",
+   "calm",
+   "emotional healing",
+   "friendship",
+   "peace",
+   "healing"
+  ],
+  "medical": [
+   "anxiety",
+   "stress",
+   "digestion",
+   "insomnia"
+  ],
+  "caution": "Lemon Balm may interact with thyroid medications and sedatives; consult a healthcare provider if you have hypothyroidism. Hibiscus may lower blood pressure and can interact with blood pressure medicines, chloroquine and some other drugs; avoid it in pregnancy and breastfeeding and omit it if unsure. No honey for infants under 12 months.",
+  "interactions": "Lemon balm may interfere with thyroid hormone medication and add to sedatives and alcohol. Hibiscus may add to blood pressure medicines and can lower chloroquine levels; it may also alter acetaminophen and diclofenac levels.",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.rxlist.com/supplements/lemon_balm.htm",
+   "https://www.drugs.com/npp/roselle.html",
+   "https://www.cdc.gov/botulism/prevention/index.html"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-elderflower-cordial",
+  "name": "Elderflower Cordial",
+  "description": "The Elder Mother was said to dwell within the elder tree, and one must always ask her permission before taking its flowers. Her frothy midsummer blossoms make a fragrant cordial tasting of muscat and summer, beloved across Britain and Europe for generations. It carries faery magic, protection and blessing.",
+  "ingredients": [
+   {
+    "item": "Elder flower heads (Sambucus nigra), freshly opened and shaken free of insects",
+    "amount": "15–20 heads"
+   },
+   {
+    "item": "Water",
+    "amount": "6 cups (1.5 L)"
+   },
+   {
+    "item": "Sugar",
+    "amount": "3 cups (600 g)"
+   },
+   {
+    "item": "Lemons, zested and sliced",
+    "amount": "2"
+   },
+   {
+    "item": "Citric acid (optional, helps it keep)",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Clean glass bottles",
+    "amount": "3–4"
+   }
+  ],
+  "steps": [
+   "Before picking, ask the Elder Mother's permission and leave a small offering such as a coin or a few drops of water; take only a few heads from each tree.",
+   "Bring the water to a boil, dissolve the sugar and let it cool slightly.",
+   "Snip the creamy flowers from the green stems (stems and leaves must not go in) and add with the Lemon zest, slices and citric acid.",
+   "Cover with a cloth and steep 24–48 hours in a cool place, stirring sunwise once or twice a day.",
+   "Strain through muslin into sterilized bottles, seal and refrigerate."
+  ],
+  "howToUse": "Dilute about 1 part cordial to 6–10 parts still or sparkling water. Serve at Litha and summer gatherings; offer a little to the faery folk at the base of an Elder tree; drink for protection, blessing and summer joy. Keeps 4–6 weeks refrigerated, or freeze in small portions.",
+  "chant": "Elder Mother, give me of thy wood, and I will give thee of mine when I grow into a tree. Flowers white beneath the sun, bless this brew and all as one.",
+  "intention": "I honor the Elder Mother and receive her blessing, protection and faery joy.",
+  "timing": "A dry sunny morning when the flowers are fully open; near Litha.",
+  "bestTime": "Early summer, late May to early July (Beltane to Litha)",
+  "moonPhases": [
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "faery",
+   "protection",
+   "blessing",
+   "happiness",
+   "healing",
+   "prosperity"
+  ],
+  "medical": [
+   "colds",
+   "fever",
+   "allergies",
+   "congestion"
+  ],
+  "caution": "Use ONLY the flowers of Black Elder (Sambucus nigra or S. canadensis); leaves, stems, bark, roots and unripe or raw berries contain toxic compounds, so remove all green stems. Be certain of identification: do not confuse with toxic look-alikes such as Water Hemlock or Poison Hemlock. Pick away from roads. Little is known about safety in pregnancy and breastfeeding beyond a diluted drink. Discard if it turns fizzy, moldy or smells off. High in sugar.",
+  "interactions": "None well documented at drink amounts.",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.nccih.nih.gov/health/elderberry",
+   "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-moon-bath-soak",
+  "name": "Moon Bath Soak (External)",
+  "description": "A moon bath is a ritual soak under or in honor of the full moon, washing away the old and drawing in lunar intuition and calm. This blend of milk, Epsom salt, Jasmine, Lavender and Rose recalls ancient milk baths of queens and goddesses. FOR THE BATH ONLY; do not drink.",
+  "ingredients": [
+   {
+    "item": "Epsom salt",
+    "amount": "1 cup (250 g)"
+   },
+   {
+    "item": "Powdered milk or oat milk",
+    "amount": "1/2 cup"
+   },
+   {
+    "item": "Lavender buds",
+    "amount": "2 tbsp"
+   },
+   {
+    "item": "Jasmine flowers, dried",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Rose petals, dried",
+    "amount": "2 tbsp"
+   },
+   {
+    "item": "Full Moon Water (optional)",
+    "amount": "1/2 cup"
+   },
+   {
+    "item": "Muslin bag or tea towel",
+    "amount": "1"
+   },
+   {
+    "item": "Moonstone or Selenite (beside the tub, not in the water)",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Mix the Epsom salt and milk powder in a bowl under moonlight or by a white candle (this is a bath soak only and is never drunk).",
+   "Tie the Lavender, Jasmine and Rose into a muslin bag so petals don't clog the drain.",
+   "Run a warm bath, add the salt mixture, swish the herb bag through the water and leave it in to steep, then pour in moon water if using.",
+   "Set the Moonstone or Selenite on the edge of the tub, dim the lights and speak the chant before entering."
+  ],
+  "howToUse": "Soak 15–30 minutes on the full moon, visualizing silver light filling you. On the waning moon, imagine troubles dissolving into the water and watch them drain away. Pat dry rather than rinsing to keep the blessing. FOR EXTERNAL USE ONLY.",
+  "chant": "Silver moon, so full and bright, bathe me in your sacred light. Wash away what I release; leave me wisdom, love and peace.",
+  "intention": "I am cleansed, renewed and filled with the calm wisdom of the moon.",
+  "timing": "Full moon night; Monday (the moon's day).",
+  "bestTime": "Year-round; especially the autumn Harvest Moon (Sep–Oct)",
+  "moonPhases": [
+   "Full Moon",
+   "Waxing Gibbous",
+   "Waning Gibbous"
+  ],
+  "metaphysical": [
+   "moon magic",
+   "purification",
+   "self-love",
+   "calm",
+   "psychic powers",
+   "beauty"
+  ],
+  "medical": [
+   "muscle pain",
+   "stress",
+   "skin",
+   "insomnia"
+  ],
+  "caution": "EXTERNAL USE ONLY: do not drink; swallowed Epsom salt is a strong laxative. Do not use if you have open wounds, very low blood pressure, diabetes-related foot problems or kidney disease without medical advice. Keep water warm, not hot, especially if pregnant. Do not put Selenite or other water-soluble stones in the bath. Tubs can be slippery with milk; step out carefully.",
+  "interactions": "",
+  "pets": "Do not let pets drink the bath water; lavender is toxic to cats and dogs.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://missouripoisoncenter.org/is-this-a-poison/epsom-salt/",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-witch-hazel-cleansing-mist",
+  "name": "Witch Hazel Cleansing Mist (External)",
+  "description": "Witch Hazel, whose forked twigs were once used to dowse for water, is a classic astringent and a protective, mending plant in folk magic. Blended with Rosemary and Lavender hydrosols or infusion, it makes an aura-clearing mist for people and spaces, a smoke-free alternative to herb bundles. FOR EXTERNAL USE ONLY.",
+  "ingredients": [
+   {
+    "item": "Witch Hazel distillate (alcohol-free if for skin)",
+    "amount": "1/2 cup (120 ml)"
+   },
+   {
+    "item": "Strong Rosemary and Lavender infusion, cooled and strained (or hydrosols)",
+    "amount": "1/4 cup (60 ml)"
+   },
+   {
+    "item": "Lavender essential oil",
+    "amount": "6 drops"
+   },
+   {
+    "item": "Lemon essential oil (optional; for space use only)",
+    "amount": "4 drops"
+   },
+   {
+    "item": "Glass spray bottle (amber or blue)",
+    "amount": "1 (6 oz / 180 ml)"
+   }
+  ],
+  "steps": [
+   "Brew a strong infusion of 1 tsp Rosemary and 1 tsp Lavender in 1/2 cup boiled water, steep 15 minutes, strain and cool completely.",
+   "Pour the Witch Hazel and 1/4 cup of the infusion into the spray bottle.",
+   "Add the essential oils, cap and shake, speaking the chant.",
+   "Label the bottle 'external use only, not for drinking' and store in the refrigerator away from food; shake well before each use."
+  ],
+  "howToUse": "Mist the air around your body from head to toe to clear your aura, spray the corners of rooms and doorways, mist your altar before ritual, or spritz over tarot cards to clear them. As a face toner, use the version without Lemon oil and close eyes. FOR EXTERNAL USE ONLY.",
+  "chant": "Witch hazel, rosemary, lavender blue, clear away the old and bring in the new. Mist of mending, mist of light, cleanse my spirit, make it bright.",
+  "intention": "This mist clears and protects my energy and my space.",
+  "timing": "Waning moon to cleanse; any day before ritual.",
+  "bestTime": "Year-round; especially autumn and winter, when Witch Hazel blooms (Oct–Feb)",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent"
+  ],
+  "metaphysical": [
+   "cleansing",
+   "purification",
+   "protection",
+   "healing",
+   "clarity"
+  ],
+  "medical": [
+   "skin",
+   "inflammation",
+   "bug bites"
+  ],
+  "caution": "EXTERNAL USE ONLY: do not drink. Avoid spraying into eyes, near open flames (witch hazel distillate often contains alcohol), or directly on or near pets, especially cats, which are very sensitive to essential oils. Essential oils do not dissolve in water, so shake well before every spray. Lemon essential oil (cold-pressed) is phototoxic on skin; use it only in the space version. Patch test before using on skin; discontinue if irritation occurs. Use within 3 to 4 weeks; discard if cloudy.",
+  "interactions": "",
+  "pets": "Do not mist around cats or birds or onto pets; essential oils can be harmful to cats.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://drugs.com/npp/witch-hazel.html",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.hmpgloballearningnetwork.com/site/wounds/case-report/lemons-arizona-sunshine-effects-furocoumarins-leading-phytophotodermatitis"
+  ]
+ },
+ {
+  "type": "brew",
+  "id": "brew-chamomile-hair-rinse",
+  "name": "Chamomile Sun-Kissed Hair Rinse (External)",
+  "description": "Chamomile, an herb of the sun, has been used for centuries to brighten fair hair and soothe the scalp. This golden rinse with Calendula and a splash of apple cider vinegar is a glamour ritual for shine, beauty and confidence, letting you carry solar blessing in your hair. FOR EXTERNAL USE ONLY.",
+  "ingredients": [
+   {
+    "item": "Chamomile flowers",
+    "amount": "3 tbsp"
+   },
+   {
+    "item": "Calendula petals (optional)",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Rosemary sprig (for darker hair or scalp health)",
+    "amount": "1 (optional)"
+   },
+   {
+    "item": "Freshly boiled water",
+    "amount": "2 cups (500 ml)"
+   },
+   {
+    "item": "Apple cider vinegar",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Lemon juice (optional, for extra brightening)",
+    "amount": "1 tsp"
+   }
+  ],
+  "steps": [
+   "Place the Chamomile and Calendula (and Rosemary if using) in a heatproof jug and pour over the boiled water.",
+   "Cover and steep 20–30 minutes, or until cooled to a comfortable temperature.",
+   "Strain well and stir in the vinegar and Lemon juice.",
+   "Speak the chant over the golden liquid before using (this rinse is for hair only and is never drunk)."
+  ],
+  "howToUse": "After shampooing, slowly pour the rinse through your hair while visualizing golden light, catching it in a bowl and pouring through again. Leave in or rinse lightly with cool water. Use 1–2 times weekly, especially on Sundays or before an occasion where you want to shine. FOR EXTERNAL USE ONLY.",
+  "chant": "Golden flower, sun so bright, crown my head with shining light. Beauty, glow and grace be mine; as the sun does, so I shine.",
+  "intention": "I shine with beauty, confidence and the radiant blessing of the sun.",
+  "timing": "Sunday (the sun's day); waxing moon for beauty.",
+  "bestTime": "Summer, Litha to Lammas (Jun–Aug); year-round as needed",
+  "moonPhases": [
+   "Waxing Crescent",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "beauty",
+   "glamour",
+   "confidence",
+   "sun magic",
+   "self-love"
+  ],
+  "medical": [
+   "skin"
+  ],
+  "caution": "EXTERNAL USE ONLY: do not drink. Keep out of eyes; the vinegar and lemon sting. People allergic to ragweed, daisies or marigolds may react to Chamomile or Calendula; patch test on the inner arm first. Lemon juice left on skin in strong sun can cause blistering burns and dark patches (phytophotodermatitis), so rinse it off your face, neck and hands before going outdoors. Lemon and chamomile can gradually lighten blonde or treated hair. Use within 2 days; refrigerate between uses.",
+  "interactions": "",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.hmpgloballearningnetwork.com/site/wounds/case-report/lemons-arizona-sunshine-effects-furocoumarins-leading-phytophotodermatitis",
+   "https://www.nccih.nih.gov/health/chamomile/ataglance.htm?nav=gsa",
+   "https://mskcc.org/cancer-care/integrative-medicine/herbs/calendula"
+  ]
+ }
+]

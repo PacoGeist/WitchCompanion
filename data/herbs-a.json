@@ -1,0 +1,2380 @@
+[
+ {
+  "id": "herb-lavender",
+  "name": "Lavender",
+  "latin": "Lavandula angustifolia",
+  "folkNames": [
+   "Elf Leaf",
+   "Nard",
+   "Nardus",
+   "Spike",
+   "True Lavender"
+  ],
+  "planet": "Mercury",
+  "element": "Air",
+  "gender": "Masculine",
+  "deities": [
+   "Hecate",
+   "Saturn",
+   "Medea"
+  ],
+  "partsUsed": "flowers, flowering tops, leaves, essential oil",
+  "description": "A silver-leaved Mediterranean shrub crowned in violet spikes whose scent seems to quiet the whole garden. Romans scented their baths with it, which gave the plant its name from the Latin lavare, 'to wash.' Medieval folk strewed it on floors and tucked it into linens, and witches have long burned it to call peace into troubled houses.",
+  "metaphysical": [
+   "peace",
+   "sleep",
+   "love",
+   "purification",
+   "happiness",
+   "calm",
+   "protection",
+   "clarity"
+  ],
+  "medical": [
+   "anxiety",
+   "insomnia",
+   "headache",
+   "burns",
+   "stress",
+   "bug bites",
+   "skin"
+  ],
+  "metaphysicalUses": "Lavender is the great soother of the herbal cupboard. Burn it or hang it to bring calm and gentle happiness to a home, scatter it through love sachets to attract kind and lasting affection, and add it to cleansing baths to wash away anxiety and petty negativity. Cunningham notes it was once worn to see ghosts and that its scent attracts men, while old lore holds that lavender sprinkled on the head with rosemary preserves chastity. It is a favored herb for sleep and dream pillows, for Midsummer fires, and for any working that asks the mind to grow still enough to listen.",
+  "medicalUses": "Traditionally a gentle nervine, lavender has been taken as a mild tea or inhaled to ease restlessness, tension headaches and sleeplessness. The diluted essential oil is a classic folk remedy for minor burns, insect bites and small scrapes, and it has long been massaged into temples for headache. Herbalists also used it as a carminative for nervous digestion and windy stomachs.",
+  "whereToFind": "Native to the western Mediterranean hills, on dry, rocky, sunny slopes. It grows easily in gardens in full sun with lean, well-drained soil; harvest flower spikes just as the lowest buds open, on a dry morning, and hang in bundles to dry. Plants are sold at nearly every garden center, and dried buds and essential oil are available from apothecaries, health food stores and herb suppliers.",
+  "uses": [
+   "Tuck dried buds under your pillow or in a dream sachet for peaceful sleep",
+   "Add a handful of flowers to a ritual bath to wash away stress before spellwork",
+   "Burn dried lavender as incense to bring calm into a house after an argument",
+   "Steep a mild tea of the buds to sip before meditation",
+   "Add to love sachets and honey jars for gentle, kind affection",
+   "Hang bundles over the doorway to welcome peace and good spirits",
+   "Dab diluted oil on the temples to soothe a tension headache"
+  ],
+  "caution": "Generally safe in culinary and mild tea amounts; oral use can cause nausea, headache or burping. Never swallow the essential oil, and always dilute it before skin use, since some people develop allergic skin reactions. A few cases of breast swelling have been reported in children using lavender skin products, so avoid regular use of lavender oil products on children. Use cautiously in pregnancy and breastfeeding, and stop medicinal use 2 weeks before surgery because it may add to sedation.",
+  "toxic": false,
+  "interactions": "May add to the effects of sedatives, sleep medicines, benzodiazepines and alcohol.",
+  "pets": "Lavender is toxic to dogs, cats and horses (nausea, vomiting, poor appetite); keep the plant and especially the essential oil away from pets, and do not diffuse it around cats.",
+  "externalOnly": false,
+  "sources": [
+   "https://www.nccih.nih.gov/health/lavender?nav=govd",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://www.ncbi.nlm.nih.gov/books/NBK548221/",
+   "https://www.petpoisonhelpline.com/uncategorized/essential-oils-cats/"
+  ]
+ },
+ {
+  "id": "herb-rosemary",
+  "name": "Rosemary",
+  "latin": "Salvia rosmarinus (syn. Rosmarinus officinalis)",
+  "folkNames": [
+   "Dew of the Sea",
+   "Elf Leaf",
+   "Compass Weed",
+   "Polar Plant",
+   "Incensier",
+   "Sea Dew"
+  ],
+  "planet": "Sun",
+  "element": "Fire",
+  "gender": "Masculine",
+  "deities": [
+   "Aphrodite",
+   "Virgin Mary"
+  ],
+  "partsUsed": "leaves, flowering tops, essential oil",
+  "description": "A resinous, needle-leaved evergreen of sea cliffs, its pale blue flowers said to have taken their color when the Virgin Mary spread her cloak over the bush. 'There's rosemary, that's for remembrance,' says Ophelia, and the herb was carried at both weddings and funerals. Old English lore says that where rosemary flourishes, the woman rules the house.",
+  "metaphysical": [
+   "protection",
+   "purification",
+   "memory",
+   "love",
+   "healing",
+   "exorcism",
+   "youth",
+   "cleansing"
+  ],
+  "medical": [
+   "memory",
+   "circulation",
+   "headache",
+   "digestion",
+   "muscle pain",
+   "antiseptic"
+  ],
+  "metaphysicalUses": "Rosemary is one of the oldest cleansing and protective herbs, a ready substitute for frankincense in incense, and was burned in sickrooms and temples alike. Hang it at the door or plant it by the gate to keep thieves and ill-wishers away, and place it under the pillow to guard against nightmares. It strengthens memory and focus in study spells, is worn for remembrance of the dead, and is woven into love and fidelity charms. A rosemary wash or bath purifies before ritual, and a sprig in a wand or broom bundle sweeps out stagnant energy.",
+  "medicalUses": "Traditionally a warming, stimulating herb taken as a tea for poor circulation, sluggish digestion and fatigue, and famed in folk belief for sharpening memory. Infused rosemary oil was rubbed into sore muscles and aching joints, and rosemary rinses were used for dandruff and to encourage hair growth. Its antiseptic qualities made it a traditional wash for small wounds and a fumigant in sickrooms.",
+  "whereToFind": "Native to the coastal Mediterranean, growing on dry, sunny cliffs and scrub near the sea. It thrives in pots or sunny, well-drained beds and can be overwintered indoors in cold climates; snip sprigs any time of year, ideally just before flowering for strongest oil. Fresh sprigs are sold in grocery stores, plants at garden centers, and dried leaf and oil at apothecaries.",
+  "uses": [
+   "Burn dried rosemary as a cleansing smoke or in place of frankincense",
+   "Hang a sprig above the front door for protection against thieves and ill will",
+   "Keep a sprig on your desk or tuck it behind the ear while studying for memory",
+   "Add rosemary to a ritual bath before spellwork for purification",
+   "Lay a sprig on a grave or ancestor altar for remembrance",
+   "Make a rosemary hair rinse to strengthen hair and spirit together",
+   "Place under the pillow to ward off nightmares"
+  ],
+  "caution": "Safe in culinary amounts. Avoid medicinal doses and the essential oil in pregnancy (it can stimulate menstrual flow) and with epilepsy or a seizure history, since the camphor-rich oil may trigger seizures. Use caution with bleeding disorders and stop medicinal use 2 weeks before surgery. Never ingest the essential oil, dilute it for skin use, and do not use the oil on or near the faces of infants and young children.",
+  "toxic": false,
+  "interactions": "Medicinal amounts may add to the effects of blood thinners (warfarin, aspirin, clopidogrel) and may interfere with ACE inhibitors, diuretics and lithium.",
+  "pets": "Keep the essential oil away from pets, especially cats; do not diffuse it where a cat cannot leave the room.",
+  "externalOnly": false,
+  "sources": [
+   "https://www.webmd.com/vitamins/ai/ingredientmono-154/rosemary",
+   "https://www.rxlist.com/supplements/rosemary.htm",
+   "https://www.drugs.com/npp/rosemary.html",
+   "https://www.petpoisonhelpline.com/uncategorized/essential-oils-cats/"
+  ]
+ },
+ {
+  "id": "herb-common-sage",
+  "name": "Sage",
+  "latin": "Salvia officinalis",
+  "folkNames": [
+   "Common Sage",
+   "Garden Sage",
+   "Red Sage",
+   "Sawge",
+   "Sage the Savior",
+   "Kitchen Sage"
+  ],
+  "planet": "Jupiter",
+  "element": "Air",
+  "gender": "Masculine",
+  "deities": [
+   "Zeus",
+   "Jupiter",
+   "Consus"
+  ],
+  "partsUsed": "leaves",
+  "description": "A soft, grey-green, velvety-leaved herb whose Latin name comes from salvere, 'to be saved' or 'to heal.' A medieval proverb asked, 'Why should a man die whilst sage grows in his garden?' It has been the wise-woman's herb of longevity, sound judgment and household cleansing for centuries.",
+  "metaphysical": [
+   "wisdom",
+   "longevity",
+   "protection",
+   "purification",
+   "wishes",
+   "healing",
+   "money",
+   "cleansing"
+  ],
+  "medical": [
+   "sore throat",
+   "digestion",
+   "memory",
+   "colds",
+   "antiseptic",
+   "inflammation"
+  ],
+  "metaphysicalUses": "Garden sage is an herb of wisdom, immortality and protection. Old lore says to eat a little in May for long life, and that sage thrives in a garden when its owner's business prospers. Write a wish on a sage leaf and sleep with it beneath your pillow for three nights; if you dream of the wish it will come true, and if not, bury the leaf. Burn it to cleanse a space, carry it to protect against the evil eye, and add it to money workings for wise and steady prosperity. It is also used to honor elders and seek counsel from the grandmothers.",
+  "medicalUses": "Sage tea is a classic traditional gargle for sore throats, mouth ulcers and inflamed gums, and was taken warm for colds and to ease heavy sweating, including hot flushes. It has long been used as a digestive bitter after rich, fatty meals and was believed to strengthen memory in old age. Its astringent, antiseptic leaves were applied to small wounds.",
+  "whereToFind": "Native to the Mediterranean and Balkans, growing on dry, sunny, rocky ground. It is an easy perennial in full sun and well-drained soil; harvest leaves before flowering for best flavor and dry them in loose bunches. Find plants at garden centers, fresh bunches at grocers, and dried leaf from apothecaries and herb shops.",
+  "uses": [
+   "Write a wish on a leaf and sleep with it under your pillow for three nights",
+   "Burn dried leaves to cleanse a room, a practice open to all traditions",
+   "Gargle a cooled sage tea for a sore throat",
+   "Add sage to money and business jars for wise, steady prosperity",
+   "Carry a leaf in a pocket for protection and good judgment",
+   "Place sage on an ancestor altar to honor elders and wise women"
+  ],
+  "caution": "Safe in culinary amounts. Avoid medicinal doses in pregnancy and breastfeeding (it is traditionally used to dry up milk). Sage contains thujone, which can cause seizures and other toxic effects in large or prolonged doses; do not take high doses long-term, never ingest the essential oil, and avoid medicinal amounts with epilepsy or seizure disorders. Medicinal amounts may lower blood sugar and may affect blood pressure. Burn only in a well-ventilated room, away from babies, pets and anyone with asthma, and never leave it smoldering unattended.",
+  "toxic": false,
+  "interactions": "Medicinal amounts may add to the effects of diabetes medicines and sedatives, and could reduce the effectiveness of anticonvulsant (seizure) medicines.",
+  "pets": "",
+  "externalOnly": false,
+  "sources": [
+   "https://www.nccih.nih.gov/health/sage",
+   "https://www.webmd.com/vitamins/ai/ingredientmono-504/sage",
+   "https://www.drugs.com/npp/sage.html",
+   "https://www.lung.org/blog/incense-burning-dangers"
+  ]
+ },
+ {
+  "id": "herb-white-sage",
+  "name": "White Sage",
+  "latin": "Salvia apiana",
+  "folkNames": [
+   "Bee Sage",
+   "Sacred Sage",
+   "California White Sage"
+  ],
+  "planet": "Jupiter",
+  "element": "Air",
+  "gender": "Masculine",
+  "deities": [],
+  "partsUsed": "leaves",
+  "description": "A pale, almost moon-white shrub of the coastal sage scrub of Southern California and Baja California, its silvery leaves heavy with a sharp, resinous fragrance. It is a sacred plant to many Indigenous peoples of the region, including the Chumash, Tongva, Kumeyaay and Cahuilla, who have used it in ceremony and healing for generations. Its popularity in the wider world has led to overharvesting and poaching from wild lands.",
+  "metaphysical": [
+   "purification",
+   "cleansing",
+   "protection",
+   "spirituality",
+   "healing",
+   "consecration"
+  ],
+  "medical": [
+   "colds",
+   "congestion",
+   "antiseptic",
+   "sore throat"
+  ],
+  "metaphysicalUses": "White sage is renowned for its strong purifying smoke, used to clear heavy or stagnant energies from spaces, tools and people. For practitioners outside the Indigenous traditions that hold it sacred, the respectful path is to work with ethically grown or Native-sourced plants, or to choose alternatives such as garden sage, rosemary, juniper, cedar, mugwort or local herbs. Many witches grow their own white sage and use a single leaf as a gentle offering or in protection sachets rather than burning large bundles.",
+  "medicalUses": "Among Indigenous Californian peoples, white sage has traditionally been used as a tea or steam for colds and congestion, as a wash, and its leaves rubbed on the body. In folk herbal use it is regarded as antiseptic and drying. These are cultural traditions and should be respected as such.",
+  "whereToFind": "Native to coastal sage scrub and chaparral of Southern California and northern Baja California, on dry, sunny slopes. Do not forage it from the wild, where it is often poached. Grow it yourself in very well-drained soil and full sun in dry climates, or buy from Native-owned businesses and ethical growers who cultivate it.",
+  "uses": [
+   "Grow a plant and use single fallen leaves as a gentle cleansing offering",
+   "Keep a cultivated leaf in a protection sachet",
+   "Choose ethical, cultivated sources or Native-owned sellers when buying",
+   "Substitute garden sage, rosemary, juniper or cedar for routine space clearing",
+   "Learn about and support the Indigenous communities who hold this plant sacred"
+  ],
+  "caution": "Do not ingest in quantity; there is little safety data, so avoid internal use during pregnancy and breastfeeding. Like all burned plant material, the smoke releases fine particles that irritate the lungs; burn only in a well-ventilated room and avoid it around asthma, lung disease, infants and pets. Never leave a smoldering bundle unattended and extinguish it fully in sand or a fireproof dish. Ethical note: wild white sage is overharvested and culturally significant; avoid wild-harvested stock.",
+  "toxic": false,
+  "interactions": "",
+  "pets": "Keep smoke away from pets, especially birds and cats, whose airways are sensitive.",
+  "externalOnly": false,
+  "sources": [
+   "https://www.lung.org/blog/incense-burning-dangers",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC2377255/"
+  ]
+ },
+ {
+  "id": "herb-mugwort",
+  "name": "Mugwort",
+  "latin": "Artemisia vulgaris",
+  "folkNames": [
+   "Cronewort",
+   "Felon Herb",
+   "Sailor's Tobacco",
+   "Artemis Herb",
+   "St. John's Plant",
+   "Old Uncle Henry",
+   "Naughty Man"
+  ],
+  "planet": "Venus",
+  "element": "Earth",
+  "gender": "Feminine",
+  "deities": [
+   "Artemis",
+   "Diana",
+   "Hecate"
+  ],
+  "partsUsed": "leaves, flowering tops, root",
+  "description": "A tall, silver-backed roadside herb sacred to Artemis, goddess of the moon and wild places. Anglo-Saxons named it the eldest of the Nine Sacred Herbs, and Roman soldiers lined their sandals with it against weariness on long marches. The undersides of its leaves shimmer like moonlight, and it has long been the witch's herb of dreams and second sight.",
+  "metaphysical": [
+   "divination",
+   "psychic powers",
+   "prophetic dreams",
+   "astral travel",
+   "protection",
+   "strength",
+   "travel",
+   "moon magic"
+  ],
+  "medical": [
+   "digestion",
+   "menstrual cramps",
+   "bloating"
+  ],
+  "metaphysicalUses": "Mugwort opens the inner eye. Burn it with sandalwood or wormwood during scrying, wash crystal balls and mirrors in its infusion, and stuff dream pillows with it to provoke vivid, prophetic dreams and lucid travel. It is carried for protection on journeys, laid in shoes against fatigue, and hung over doors on Midsummer Eve to keep away evil. Mugwort is a lunar, oracular herb and a natural ally for full-moon work, tarot readings and spirit communication.",
+  "medicalUses": "A traditional bitter digestive used in small amounts to stimulate appetite and ease bloating, and in old European herbals to bring on delayed menstruation and soothe cramps. It is the herb burned in moxibustion in East Asian medicine. Leaves were also once used in brewing before hops.",
+  "whereToFind": "Native across temperate Europe, Asia and North Africa and naturalized widely in North America, growing on roadsides, waste ground and riverbanks, often abundantly. Harvest the leafy tops just before or as they flower in late summer and hang to dry. Dried mugwort is sold by herb suppliers, apothecaries and Asian markets (as moxa or 'ssuk').",
+  "uses": [
+   "Fill a small dream pillow with dried mugwort for prophetic dreams",
+   "Wash scrying mirrors and crystal balls in a cooled mugwort infusion",
+   "Burn a pinch with sandalwood before tarot or divination",
+   "Lay a leaf in your shoe on long journeys for strength and protection",
+   "Hang a bundle over the door on Midsummer Eve against harm",
+   "Bundle mugwort into smoke wands as an alternative to white sage"
+  ],
+  "caution": "Avoid completely in pregnancy (it may stimulate the uterus and harm the fetus) and while breastfeeding. Mugwort is in the daisy family and is a major pollen allergen; it can cause allergic reactions in people sensitive to ragweed, chrysanthemum, dandelion, sunflower, or with mugwort pollen and related food allergies (such as celery, carrot and spices). Contains thujone; not for long-term or heavy internal use. Smoke from burning or moxa can irritate the lungs, so ventilate well.",
+  "toxic": false,
+  "interactions": "Interactions are not well studied; check with a healthcare provider before combining medicinal amounts with prescription medicines.",
+  "pets": "",
+  "externalOnly": false,
+  "sources": [
+   "https://www.webmd.com/vitamins-supplements/mugwort",
+   "https://www.nccih.nih.gov/health/mugwort",
+   "https://www.lung.org/blog/incense-burning-dangers"
+  ]
+ },
+ {
+  "id": "herb-yarrow",
+  "name": "Yarrow",
+  "latin": "Achillea millefolium",
+  "folkNames": [
+   "Achillea",
+   "Soldier's Woundwort",
+   "Military Herb",
+   "Devil's Nettle",
+   "Seven Year's Love",
+   "Nosebleed",
+   "Old Man's Pepper",
+   "Thousand Leaf"
+  ],
+  "planet": "Venus",
+  "element": "Water",
+  "gender": "Feminine",
+  "deities": [
+   "Achilles",
+   "Cernunnos"
+  ],
+  "partsUsed": "aerial parts, flowers, leaves",
+  "description": "A feathery-leaved meadow herb with flat white umbels, named for Achilles, who was said to stanch his soldiers' wounds with it at Troy. Its dried stalks were used in China to cast the I Ching, and in Europe young lovers slept on it to dream of their true love. It has been found in a Neanderthal burial, making it one of humanity's oldest companions.",
+  "metaphysical": [
+   "courage",
+   "love",
+   "psychic powers",
+   "divination",
+   "protection",
+   "healing",
+   "exorcism",
+   "friendship"
+  ],
+  "medical": [
+   "wounds",
+   "fever",
+   "colds",
+   "digestion",
+   "menstrual cramps",
+   "circulation"
+  ],
+  "metaphysicalUses": "Yarrow is worn for courage and protection, and carried to attract friends and distant loved ones. Called 'Seven Year's Love,' it is hung over the marriage bed and given at weddings to ensure the couple stays happy for seven years. Pick a sprig while reciting the old rhyme, then sleep on it to dream of a future spouse. Its infusion washed over the head is said to prevent headaches and over the eyes to enhance psychic sight, and the stalks are traditional for I Ching divination. Yarrow also strengthens boundaries for empaths and sensitives.",
+  "medicalUses": "Known as Soldier's Woundwort, yarrow leaves were packed into cuts to slow bleeding and help them heal. A hot tea was a classic folk remedy to bring on a sweat and break a fever at the start of a cold, often combined with elder flower and peppermint. It was also used as a bitter digestive and to ease heavy or painful menstruation.",
+  "whereToFind": "Native throughout the temperate Northern Hemisphere, growing in meadows, field edges, lawns and roadsides. Harvest the flowering tops in summer when the flowers are fully open, and dry in bunches. Seed and plants are available from garden centers and wildflower nurseries; dried herb from apothecaries.",
+  "uses": [
+   "Carry a sprig for courage before a difficult conversation",
+   "Hang dried yarrow over the bed of newlyweds for seven years of love",
+   "Sleep on a sprig to dream of your true love",
+   "Use dried stalks for I Ching or simple yes/no casting",
+   "Sip a hot yarrow, elder and peppermint tea at the first sign of a cold",
+   "Dab the closed eyelids with a clean cloth dipped in cooled, freshly made infusion before divination (skip this if you are allergic to the daisy family)",
+   "Add to protection sachets for empaths and sensitive folk"
+  ],
+  "caution": "Avoid in pregnancy and while breastfeeding; it contains small amounts of thujone and has been used to bring on menstruation. Contact dermatitis is the most common reaction, and people allergic to the daisy (Aster) family should avoid it, including near the eyes. Very large amounts (several cups a day) have caused side effects. Avoid medicinal amounts with bleeding disorders and stop 2 weeks before surgery.",
+  "toxic": false,
+  "interactions": "May add to the effects of blood thinners, diuretics (water pills), lithium and sedatives.",
+  "pets": "Yarrow is listed by the ASPCA as toxic to dogs, cats and horses (vomiting, diarrhea, drooling, poor appetite, skin irritation, depression).",
+  "externalOnly": false,
+  "sources": [
+   "https://www.drugs.com/npp/yarrow.html",
+   "https://www.rxlist.com/supplements/yarrow.htm",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/yarrow"
+  ]
+ },
+ {
+  "id": "herb-chamomile",
+  "name": "Chamomile",
+  "latin": "Matricaria chamomilla (German); Chamaemelum nobile (Roman)",
+  "folkNames": [
+   "Ground Apple",
+   "Maythen",
+   "Whig Plant",
+   "Manzanilla",
+   "Plant's Physician"
+  ],
+  "planet": "Sun",
+  "element": "Water",
+  "gender": "Masculine",
+  "deities": [
+   "Ra",
+   "Cernunnos",
+   "Balder"
+  ],
+  "partsUsed": "flowers",
+  "description": "A low, sweet, apple-scented plant whose little white-and-gold flowers look like tiny suns. The Egyptians dedicated it to the sun and prized it above other herbs, and the Anglo-Saxons counted it among their Nine Sacred Herbs. It is called the 'plant's physician,' because sickly plants were said to recover when chamomile grew beside them.",
+  "metaphysical": [
+   "sleep",
+   "peace",
+   "money",
+   "purification",
+   "calm",
+   "luck",
+   "love",
+   "gambling"
+  ],
+  "medical": [
+   "insomnia",
+   "anxiety",
+   "digestion",
+   "inflammation",
+   "skin",
+   "nausea",
+   "stress"
+  ],
+  "metaphysicalUses": "Chamomile is a gentle sun herb for peace, sleep and good fortune. Gamblers wash their hands in its tea to win, and in hoodoo it is a classic lucky herb for money drawing. Burn it or drink it to bring sleep and meditative calm, add it to bath magic to attract love, and sprinkle it around a property to remove curses and spells cast against you. Its soft, solar energy is ideal for children's blessings and for workings that ask for success without strain.",
+  "medicalUses": "One of the most beloved folk remedies, chamomile tea has been taken for generations to ease nervous tension, restlessness, sleeplessness and colicky, upset stomachs. Cooled tea and compresses were used for sore eyes, irritated skin, rashes and minor inflammations, and the flowers were added to baths for soothing achy bodies.",
+  "whereToFind": "Native to Europe and western Asia, growing in fields, sunny waste places and disturbed ground. Easy to grow from seed in sunny beds; pick the flowers when fully open on dry days and dry them on screens. Dried flowers and tea bags are available from grocers, health food stores and apothecaries.",
+  "uses": [
+   "Brew a cup of chamomile tea before bed for peaceful sleep",
+   "Wash your hands in chamomile tea before games of chance for luck",
+   "Add flowers to a money-drawing sachet or green candle spell",
+   "Sprinkle chamomile around your property to break curses",
+   "Pour a strong infusion into a bath to attract love and ease tension",
+   "Use a cooled tea bag as a compress on closed, tired, puffy eyes (skip this if you are allergic to ragweed or daisies)"
+  ],
+  "caution": "Likely safe in tea amounts, but avoid if allergic to ragweed, daisies, marigolds or chrysanthemums; rare severe allergic reactions, including anaphylaxis, have been reported. Using chamomile near the eyes can cause irritation. Little is known about safety in pregnancy and breastfeeding, so keep to moderate tea amounts. It may have mild estrogen-like effects, so avoid medicinal amounts with hormone-sensitive conditions.",
+  "toxic": false,
+  "interactions": "Interactions with warfarin (increased bleeding risk) have been reported; may add to sedatives and alcohol, may affect some liver-metabolized drugs such as cyclosporine, and may reduce the effectiveness of birth control pills.",
+  "pets": "Chamomile is listed by the ASPCA as toxic to dogs, cats and horses (skin irritation, vomiting, diarrhea, allergic reactions; bleeding tendencies with long-term use).",
+  "externalOnly": false,
+  "sources": [
+   "https://www.nccih.nih.gov/health/chamomile/ataglance.htm?nav=gsa",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/chamomile"
+  ]
+ },
+ {
+  "id": "herb-peppermint",
+  "name": "Peppermint",
+  "latin": "Mentha x piperita",
+  "folkNames": [
+   "Brandy Mint",
+   "Lamb Mint",
+   "Our Lady's Mint",
+   "Balm Mint"
+  ],
+  "planet": "Mercury",
+  "element": "Fire",
+  "gender": "Masculine",
+  "deities": [
+   "Pluto",
+   "Hecate",
+   "Minthe"
+  ],
+  "partsUsed": "leaves, essential oil",
+  "description": "A vigorous, cool-burning hybrid of water mint and spearmint, its square stems and fierce aroma unmistakable. Greek myth tells of the nymph Minthe, transformed into the plant by jealous Persephone, while Pluto softened the curse by giving her a sweet scent. Romans crowned themselves with mint at feasts and ancient Egyptians placed it in tombs.",
+  "metaphysical": [
+   "purification",
+   "healing",
+   "psychic powers",
+   "sleep",
+   "love",
+   "energy",
+   "clarity",
+   "money"
+  ],
+  "medical": [
+   "digestion",
+   "nausea",
+   "headache",
+   "colds",
+   "congestion",
+   "bloating",
+   "muscle pain"
+  ],
+  "metaphysicalUses": "Peppermint is a bright, energizing purifier. Rub fresh leaves on furniture, walls and floors to clear negativity, and add it to healing and purification incenses. Smelling it is said to promote sleep, while sleeping with a leaf under the pillow may give a glimpse of the future. Peppermint is also used in money and travel spells, and in hoodoo it is a quick-acting herb added to formulas to speed results. Its Mercurial energy sharpens the mind for study and clear communication.",
+  "medicalUses": "Peppermint tea is a time-honored remedy for indigestion, gas, nausea and colicky stomachs. Its vapor was inhaled for stuffy heads and colds, and diluted oil was rubbed on temples for tension headaches and on aching muscles for its cooling effect.",
+  "whereToFind": "A cultivated hybrid originating in Europe, now naturalized in damp places, streambanks and ditches in many temperate regions. It spreads aggressively, so grow it in a pot; harvest leaves just before flowering for the strongest oil. Fresh mint is in grocery stores, plants at garden centers, and dried leaf and oil at apothecaries.",
+  "uses": [
+   "Rub fresh leaves on doorframes and furniture to clear stagnant energy",
+   "Sip peppermint tea after a heavy meal for digestion",
+   "Add to money-drawing powders to quicken results",
+   "Inhale a peppermint steam to clear the head before study or divination",
+   "Tuck a leaf in your wallet to draw money",
+   "Add a few fresh leaves to a cleansing floor wash"
+  ],
+  "caution": "Tea is generally safe, but peppermint may worsen heartburn and acid reflux. Never apply peppermint oil to the face, chest or near the nose of infants and young children, as menthol can cause breathing problems. Do not swallow the essential oil (only enteric-coated capsules are taken internally, under guidance), and always dilute it for skin use. Use caution with gallbladder disease or gallstones.",
+  "toxic": false,
+  "interactions": "Peppermint oil may raise levels of cyclosporine and some other liver-metabolized drugs; antacids and acid reducers can make enteric-coated peppermint capsules dissolve too early and cause heartburn.",
+  "pets": "Mint is listed by the ASPCA as toxic to dogs, cats and horses (vomiting, diarrhea); peppermint essential oil is especially dangerous to cats, so do not diffuse it around them.",
+  "externalOnly": false,
+  "sources": [
+   "https://www.nccih.nih.gov/health/peppermintoil",
+   "https://www.webmd.com/vitamins/ai/ingredientmono-705/peppermint",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/mint",
+   "https://www.petpoisonhelpline.com/uncategorized/essential-oils-cats/"
+  ]
+ },
+ {
+  "id": "herb-spearmint",
+  "name": "Spearmint",
+  "latin": "Mentha spicata",
+  "folkNames": [
+   "Garden Mint",
+   "Green Mint",
+   "Lamb Mint",
+   "Our Lady's Mint",
+   "Mackerel Mint",
+   "Yerba Buena"
+  ],
+  "planet": "Venus",
+  "element": "Water",
+  "gender": "Feminine",
+  "deities": [
+   "Minthe",
+   "Venus"
+  ],
+  "partsUsed": "leaves, essential oil",
+  "description": "The gentler, sweeter cousin of peppermint, with spear-shaped leaves and a soft green fragrance. It is the mint of mint sauce, mint juleps and Moroccan tea, and was strewn on the floors of medieval churches and halls. Pliny wrote that its scent 'stirs up the mind,' and it was used in ancient Greek baths and funeral rites.",
+  "metaphysical": [
+   "healing",
+   "love",
+   "protection",
+   "money",
+   "calm",
+   "clarity",
+   "prosperity"
+  ],
+  "medical": [
+   "digestion",
+   "nausea",
+   "bloating",
+   "colds"
+  ],
+  "metaphysicalUses": "Spearmint carries a softer, more Venusian energy than peppermint and is used in healing spells, especially those for the lungs and chest. Its scent sharpens the mind and is said to protect during sleep. Place spearmint in sachets and jars for love and money, add it to gentle home blessings, and burn it in healing incense. It is a lovely herb for workings that need sweetness and clarity together.",
+  "medicalUses": "Spearmint tea has long been used as a mild remedy for indigestion, nausea, hiccups and gas, and is gentle enough to have been given to children in folk practice. It was also taken for colds and sore throats as a pleasant warming-cooling tea.",
+  "whereToFind": "Native to Europe and southern Asia and naturalized widely in moist ground, ditches and streamsides. Grow in containers to keep it from spreading; pick leaves through the growing season. Fresh bunches are sold at grocery stores and markets, and dried leaf at apothecaries and tea shops.",
+  "uses": [
+   "Brew a sweet spearmint tea for gentle digestion",
+   "Place leaves in a healing sachet for a loved one",
+   "Add to love jars for sweetness and clear-hearted affection",
+   "Keep a sprig near your bed for protection during sleep",
+   "Add to money-drawing baths for prosperity",
+   "Strew fresh leaves in a home blessing ritual"
+  ],
+  "caution": "Generally safe in food and tea amounts. Large amounts may aggravate reflux, and large amounts of spearmint tea may worsen kidney or liver disease and should be avoided in pregnancy. Do not ingest the essential oil, dilute it for skin use, and keep the oil away from the faces of infants and young children.",
+  "toxic": false,
+  "interactions": "Large amounts may add to the drowsiness of sedative medicines and increase the risk of liver harm with liver-toxic drugs (such as acetaminophen, methotrexate, some statins and antifungals).",
+  "pets": "Mint is listed by the ASPCA as toxic to dogs, cats and horses (vomiting, diarrhea); keep the essential oil away from cats.",
+  "externalOnly": false,
+  "sources": [
+   "https://www.rxlist.com/supplements/spearmint.htm",
+   "https://www.webmd.com/vitamins/ai/ingredientmono-845/spearmint",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/mint"
+  ]
+ },
+ {
+  "id": "herb-basil",
+  "name": "Basil",
+  "latin": "Ocimum basilicum",
+  "folkNames": [
+   "Witches Herb",
+   "Albahaca",
+   "St. Joseph's Wort",
+   "Sweet Basil",
+   "Our Herb",
+   "American Dittany"
+  ],
+  "planet": "Mars",
+  "element": "Fire",
+  "gender": "Masculine",
+  "deities": [
+   "Vishnu",
+   "Erzulie",
+   "Krishna",
+   "Lakshmi"
+  ],
+  "partsUsed": "leaves, flowering tops",
+  "description": "A fragrant, glossy-leaved herb whose name comes from the Greek basileus, 'king.' In Italy a pot of basil on the windowsill once signaled a woman ready to receive her suitor, and in India its sacred cousin tulsi is honored as a goddess. Basil has long been a herb of love and protection in Mediterranean and Caribbean folk magic.",
+  "metaphysical": [
+   "love",
+   "money",
+   "protection",
+   "exorcism",
+   "wealth",
+   "fidelity",
+   "prosperity",
+   "business"
+  ],
+  "medical": [
+   "digestion",
+   "bloating",
+   "nausea",
+   "bug bites"
+  ],
+  "metaphysicalUses": "Basil is a powerful herb of love, wealth and protection. Carry it in a wallet or place it in the cash register to draw money and customers, and sprinkle it on the floor or in a floor wash to bring prosperity into a business. Its scent is said to cause sympathy between two people, and it soothes quarrels between lovers. It is worn to keep a partner faithful, scattered to protect a home, and in Vodou basil is sacred to Erzulie and used in her love workings.",
+  "medicalUses": "Traditionally a warming, carminative culinary herb used to ease gas, bloating and mild stomach cramps. Fresh leaves were rubbed on insect bites and stings, and basil tea was given for nausea and nervous headaches.",
+  "whereToFind": "Native to tropical Asia and Africa. Grow from seed after the last frost in full sun and rich soil; pinch the tops to keep it bushy and harvest before it flowers. Fresh plants and bunches are sold at grocers and garden centers; dried basil at any spice shop.",
+  "uses": [
+   "Tuck a few leaves in your wallet or cash drawer to draw money",
+   "Add basil to a prosperity floor wash for your shop or office",
+   "Share a basil-scented meal with a partner to soothe a quarrel",
+   "Grow a pot by the front door for protection and luck",
+   "Scatter dried basil in love sachets for fidelity",
+   "Rub a fresh leaf on a mosquito bite to ease the itch"
+  ],
+  "caution": "Safe in culinary amounts. Basil contains estragole, which in high, long-term doses has caused liver tumors in animals, so avoid concentrated medicinal doses and the essential oil in pregnancy, breastfeeding and in children. Basil essential oil should not be ingested and must be diluted for skin use. Basil oils and extracts may slow blood clotting and lower blood pressure and blood sugar, so avoid them with bleeding disorders and stop medicinal amounts 2 weeks before surgery.",
+  "toxic": false,
+  "interactions": "Medicinal amounts or extracts may add to the effects of blood thinners and antiplatelet drugs (warfarin, aspirin, clopidogrel) and blood pressure medicines.",
+  "pets": "Keep the essential oil away from pets, especially cats; do not diffuse it where a cat cannot leave the room.",
+  "externalOnly": false,
+  "sources": [
+   "https://www.rxlist.com/supplements/basil.htm",
+   "https://www.ema.europa.eu/en/documents/other/public-statement-use-herbal-medicinal-products-containing-estragole-revision-1_en.pdf",
+   "https://www.drugs.com/npp/sweet-basil.html"
+  ]
+ },
+ {
+  "id": "herb-thyme",
+  "name": "Thyme",
+  "latin": "Thymus vulgaris",
+  "folkNames": [
+   "Common Thyme",
+   "Garden Thyme",
+   "Thym",
+   "Mother of Thyme"
+  ],
+  "planet": "Venus",
+  "element": "Water",
+  "gender": "Feminine",
+  "deities": [
+   "Ares",
+   "Mars",
+   "the Fair Folk"
+  ],
+  "partsUsed": "leaves, flowering tops",
+  "description": "A tiny, woody, sun-loving herb whose fragrant leaves hum with bees all summer. Greek warriors bathed in thyme for courage, and medieval ladies embroidered a bee upon a sprig of thyme on scarves for their knights. English folklore holds that wild thyme beds are where the fairies dance, and that wearing thyme lets one see them.",
+  "metaphysical": [
+   "courage",
+   "purification",
+   "healing",
+   "psychic powers",
+   "love",
+   "sleep",
+   "faery",
+   "strength"
+  ],
+  "medical": [
+   "cough",
+   "colds",
+   "sore throat",
+   "antiseptic",
+   "digestion",
+   "congestion"
+  ],
+  "metaphysicalUses": "Thyme is an herb of courage and purification. Burn it to cleanse a space, and take a spring bath of marjoram and thyme to wash away the sorrows of the past. Wear a sprig to strengthen courage and bravery, place it under the pillow to ward off nightmares and ensure restful sleep, and wear it in the hair to become irresistible. Thyme is also a key herb for faery work: grow a patch for the Fair Folk and wear the flowers on Midsummer to perceive them.",
+  "medicalUses": "Thyme is a traditional remedy for coughs, chest colds, bronchitis and sore throats, taken as a tea sweetened with honey or as a syrup. Its strongly antiseptic qualities made it a wash for wounds and a gargle for the mouth and throat. It was also used to ease gas and stomach cramps.",
+  "whereToFind": "Native to the western Mediterranean, growing on dry, stony, sunny hillsides. Easy to grow in pots or rock gardens with full sun and sharp drainage; harvest sprigs just before flowering. Fresh and dried thyme are sold at every grocer; plants at garden centers.",
+  "uses": [
+   "Wear or carry a sprig for courage before a challenge",
+   "Burn thyme as a purifying incense before ritual",
+   "Make a thyme and honey syrup for winter coughs (never give honey to babies under 1 year)",
+   "Plant a thyme bed as a dancing ground for the Fair Folk",
+   "Bathe in marjoram and thyme in spring to release old sorrow",
+   "Tuck a sprig under your pillow against nightmares"
+  ],
+  "caution": "Safe in culinary amounts; stick to food amounts in pregnancy and breastfeeding. People allergic to oregano or other mint-family plants may react to thyme. Medicinal amounts may slow blood clotting and act like estrogen, so avoid them with bleeding disorders or hormone-sensitive conditions (breast, uterine or ovarian cancer, endometriosis, fibroids) and stop 2 weeks before surgery. Thyme essential oil is strong and irritating; dilute it well, never ingest it, and keep it away from the faces of young children. Never give honey or honey-based syrups to babies under 1 year old (risk of infant botulism). Burn only in a well-ventilated room, away from babies, pets and anyone with asthma, and never leave it smoldering unattended.",
+  "toxic": false,
+  "interactions": "Medicinal amounts may add to blood thinners and antiplatelet drugs (warfarin, aspirin, clopidogrel, NSAIDs), may interfere with estrogen therapy, and may interact with anticholinergic and cholinergic drugs, including Alzheimer's medicines such as donepezil.",
+  "pets": "Keep the essential oil away from pets, especially cats; do not diffuse it where a cat cannot leave the room.",
+  "externalOnly": false,
+  "sources": [
+   "https://www.rxlist.com/supplements/thyme.htm",
+   "https://www.webmd.com/vitamins/ai/ingredientmono-823/thyme",
+   "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html"
+  ]
+ },
+ {
+  "id": "herb-bay-laurel",
+  "name": "Bay Laurel",
+  "latin": "Laurus nobilis",
+  "folkNames": [
+   "Bay",
+   "Sweet Bay",
+   "Laurel",
+   "Daphne",
+   "Grecian Laurel",
+   "Noble Laurel",
+   "Baie"
+  ],
+  "planet": "Sun",
+  "element": "Fire",
+  "gender": "Masculine",
+  "deities": [
+   "Apollo",
+   "Eros",
+   "Faunus",
+   "Daphne",
+   "Ceres"
+  ],
+  "partsUsed": "leaves, berries",
+  "description": "A glossy-leaved evergreen tree sacred to Apollo, whose beloved nymph Daphne was transformed into a laurel to escape him. Victors and poets were crowned with its wreaths, and the Pythia at Delphi chewed bay leaves or breathed their smoke before prophesying. Old lore says lightning never strikes a bay tree.",
+  "metaphysical": [
+   "protection",
+   "psychic powers",
+   "healing",
+   "purification",
+   "strength",
+   "wishes",
+   "success",
+   "victory"
+  ],
+  "medical": [
+   "digestion",
+   "bloating",
+   "muscle pain"
+  ],
+  "metaphysicalUses": "Bay is the herb of victory, prophecy and wish-making. Write a wish on a bay leaf and burn it, or carry it until the wish comes true. Place leaves under the pillow for prophetic dreams, burn them to induce visions, and wear them as an amulet against negativity and evil. Bay leaves in the corners of a room protect a house, and in hoodoo they are added to legal and success workings for triumph over enemies. Sweep with a branch of bay for cleansing, or crown yourself with a wreath on days you must shine.",
+  "medicalUses": "Bay leaves are a traditional culinary digestive, cooked into stews and soups to ease heaviness and gas. In folk practice an infused bay oil was rubbed into aching joints and sore muscles. Leaves are always removed before eating.",
+  "whereToFind": "Native to the Mediterranean, growing on scrubby hillsides and in damp, shady ravines. It can be grown as a shrub in mild climates or in a large pot overwintered indoors; pick leaves at any time. Dried bay leaves are found in every spice aisle; trees in larger garden centers and nurseries.",
+  "uses": [
+   "Write a wish on a bay leaf and burn it safely in a fireproof dish",
+   "Place a leaf under the pillow for prophetic dreams",
+   "Put bay leaves in the four corners of a room for protection",
+   "Carry a bay leaf in your wallet before a court date or interview for victory",
+   "Add bay to cleansing floor washes and protection jars",
+   "Weave a bay wreath to crown yourself on a day of success"
+  ],
+  "caution": "Use only true bay (Laurus nobilis); some plants called 'laurel' (cherry laurel, mountain laurel) are poisonous. Never swallow whole leaves: they do not soften and can lodge in the throat or injure the gut, so remove them before eating. Medicinal amounts may affect blood sugar and cause drowsiness; avoid them in pregnancy and breastfeeding and stop 2 weeks before surgery. Burning leaves can irritate the lungs, so ventilate well and burn wish leaves only in a fireproof dish away from anything flammable. Some people develop contact dermatitis.",
+  "toxic": false,
+  "interactions": "Medicinal amounts may add to the effects of diabetes medicines, sedatives and narcotic pain medicines.",
+  "pets": "Bay laurel is listed by the ASPCA as toxic to dogs, cats and horses (vomiting, diarrhea); keep leaves away from pets.",
+  "externalOnly": false,
+  "sources": [
+   "https://www.rxlist.com/supplements/bay_leaf.htm",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bay-laurel"
+  ]
+ },
+ {
+  "id": "herb-cinnamon",
+  "name": "Cinnamon",
+  "latin": "Cinnamomum verum (Ceylon); Cinnamomum cassia (Cassia)",
+  "folkNames": [
+   "Sweet Wood",
+   "Ceylon Cinnamon",
+   "Cassia",
+   "Canela"
+  ],
+  "planet": "Sun",
+  "element": "Fire",
+  "gender": "Masculine",
+  "deities": [
+   "Venus",
+   "Aphrodite",
+   "Ra"
+  ],
+  "partsUsed": "inner bark",
+  "description": "The curled, sweet, fiery inner bark of tropical trees, once more precious than gold. Egyptians used it in embalming and temple incense, and Herodotus repeated fantastical tales of great birds that built nests of cinnamon sticks. Its warm scent fills witches' kitchens with the energy of the sun.",
+  "metaphysical": [
+   "money",
+   "success",
+   "love",
+   "lust",
+   "protection",
+   "power",
+   "spirituality",
+   "psychic powers"
+  ],
+  "medical": [
+   "digestion",
+   "circulation",
+   "colds",
+   "nausea",
+   "bloating"
+  ],
+  "metaphysicalUses": "Cinnamon is a high-vibration fire spice that speeds and strengthens any working. Burn it in incense to raise spiritual vibrations, aid healing, draw money and stimulate psychic powers. Blow cinnamon through the front door on the first of the month to call in prosperity, an increasingly beloved modern folk ritual. It is added to love and lust sachets, used in success and business formulas, and stirred clockwise into teas and foods to draw abundance. In hoodoo, it is a common ingredient in money and luck oils.",
+  "medicalUses": "A traditional warming spice used to ease indigestion, gas, nausea and loose bowels, and taken as a hot drink to warm cold hands and feet and fend off chills and colds. Folk herbalists also used it to support healthy circulation.",
+  "whereToFind": "Native to Sri Lanka (true cinnamon) and southern China (cassia), grown in tropical plantations where the bark is peeled from coppiced shoots. It cannot be grown outdoors in temperate climates. Sticks and ground cinnamon are in every grocery store; Ceylon cinnamon from spice merchants and apothecaries.",
+  "uses": [
+   "Blow a pinch of ground cinnamon through your front door on the first of the month (blow it away from your face and never inhale the powder)",
+   "Stir cinnamon clockwise into morning coffee while visualizing success",
+   "Add a stick to money jars and green candle spells",
+   "Burn cinnamon in incense to raise energy and speed a working",
+   "Simmer cinnamon sticks with orange peel to fill the home with warmth",
+   "Sprinkle in love and lust sachets for passion"
+  ],
+  "caution": "Cassia cinnamon contains coumarin, which in large regular amounts can harm the liver, especially in people with liver disease; prefer Ceylon cinnamon for frequent use and avoid high-dose supplements. Do not inhale or try to swallow dry ground cinnamon by the spoonful, which can choke and damage the lungs. Cinnamon essential oil is a strong skin irritant and sensitizer; never use it undiluted or on sensitive skin. Avoid medicinal doses in pregnancy and stop them 2 weeks before surgery. Burn only in a well-ventilated room, away from babies, pets and anyone with asthma, and never leave it smoldering unattended.",
+  "toxic": false,
+  "interactions": "Medicinal amounts may lower blood sugar and add to diabetes medicines; cassia's coumarin may add to liver harm from liver-toxic drugs, and large amounts may increase bleeding risk with blood thinners.",
+  "pets": "Cinnamon powder in large amounts, inhaled powder, and especially cinnamon essential oil can harm pets; keep the oil away from cats and dogs.",
+  "externalOnly": false,
+  "sources": [
+   "https://www.nccih.nih.gov/health/cinnamon",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/cinnamon",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3639465/",
+   "https://www.petpoisonhelpline.com/uncategorized/nutmeg-cinnamon-toxicity/"
+  ]
+ },
+ {
+  "id": "herb-clove",
+  "name": "Clove",
+  "latin": "Syzygium aromaticum",
+  "folkNames": [
+   "Clavos",
+   "Nail Spice",
+   "Carnation of India"
+  ],
+  "planet": "Jupiter",
+  "element": "Fire",
+  "gender": "Masculine",
+  "deities": [
+   "Jupiter",
+   "Zeus"
+  ],
+  "partsUsed": "dried flower buds, essential oil",
+  "description": "The dried, nail-shaped flower buds of an evergreen tree from the Maluku 'Spice Islands,' whose name comes from the Latin clavus, 'nail.' Han dynasty courtiers held cloves in their mouths to sweeten their breath before addressing the emperor. Wars were fought over the trade, and the scent still carries something royal and fierce.",
+  "metaphysical": [
+   "protection",
+   "exorcism",
+   "love",
+   "money",
+   "friendship",
+   "banishing",
+   "power",
+   "attraction"
+  ],
+  "medical": [
+   "toothache",
+   "digestion",
+   "antiseptic",
+   "nausea",
+   "bloating"
+  ],
+  "metaphysicalUses": "Clove is burned in incense to attract riches, drive away hostile and negative forces, and purify the surroundings. Worn or carried, it attracts the opposite sex and comforts the bereaved. Cloves strung on a red thread make a protective charm, and a clove-studded orange pomander is a classic winter talisman for luck and love. Hoodoo practitioners use clove to stop gossip and to command friendship, and in Jupiterian money magic it draws abundance and influence.",
+  "medicalUses": "Clove oil is the classic folk remedy for toothache, dabbed sparingly on the sore gum for its numbing, antiseptic effect. Cloves were also used as a warming digestive to ease gas, nausea and vomiting, and chewed to freshen the breath.",
+  "whereToFind": "Native to the Maluku Islands of Indonesia, grown on tropical plantations where the buds are picked before opening and sun-dried. Whole cloves are available in any spice aisle; clove oil from pharmacies and apothecaries.",
+  "uses": [
+   "Make a clove-studded orange pomander for winter luck and love",
+   "String cloves on red thread as a protective charm",
+   "Burn cloves on charcoal to drive away negativity",
+   "Add whole cloves to money jars and prosperity sachets",
+   "Hold cloves in a sachet to stop gossip against you",
+   "Dab a tiny drop of diluted clove oil on a sore gum while waiting for the dentist"
+  ],
+  "caution": "Clove essential oil is very strong and can burn skin, gums and mucous membranes; dilute it and use only a tiny amount, briefly. Clove oil is dangerous for children: even small amounts swallowed can cause seizures, liver damage and fluid imbalances, so never use it for teething and keep the bottle out of reach. Eugenol slows blood clotting and cloves may affect blood sugar, so avoid medicinal amounts with bleeding disorders and in pregnancy, and stop 2 weeks before surgery. If burning on charcoal, do it only in a well-ventilated room on a heatproof surface, never in a closed space, because burning charcoal gives off carbon monoxide.",
+  "toxic": false,
+  "interactions": "Clove may increase bleeding with blood thinners and antiplatelet drugs, may add to diabetes medicines, and may alter the breakdown of some liver-metabolized drugs.",
+  "pets": "Clove oil is toxic to cats and harmful to dogs; never apply it to pets or diffuse it around cats.",
+  "externalOnly": false,
+  "sources": [
+   "https://www.webmd.com/vitamins/ai/ingredientmono-251/clove",
+   "https://www.medlineplus.gov/ency/article/002647.htm",
+   "https://www.drugs.com/npp/clove.html",
+   "https://www.cpsc.gov/Newsroom/News-Releases/1999/CPSC-Warns-Never-Use-Charcoal-Grills-Indoors",
+   "https://www.petpoisonhelpline.com/uncategorized/essential-oils-cats/"
+  ]
+ },
+ {
+  "id": "herb-nutmeg",
+  "name": "Nutmeg",
+  "latin": "Myristica fragrans",
+  "folkNames": [
+   "Nux Moschata",
+   "Sadhika",
+   "Lucky Nut"
+  ],
+  "planet": "Jupiter",
+  "element": "Fire",
+  "gender": "Masculine",
+  "deities": [
+   "Jupiter"
+  ],
+  "partsUsed": "seed (nutmeg), aril (mace)",
+  "description": "The hard, marbled seed of an evergreen tree from Indonesia's Banda Islands, wrapped in a crimson lace-like aril that becomes mace. Its trade drove colonial wars and made fortunes; the Dutch famously traded Manhattan for the nutmeg island of Run. In English folk magic a whole nutmeg is a lucky charm carried by gamblers and the hopeful.",
+  "metaphysical": [
+   "luck",
+   "money",
+   "health",
+   "fidelity",
+   "gambling",
+   "prosperity",
+   "psychic powers"
+  ],
+  "medical": [
+   "digestion",
+   "nausea",
+   "bloating",
+   "insomnia"
+  ],
+  "metaphysicalUses": "Nutmeg is a lucky charm. Carry a whole nutmeg as an amulet for good fortune, especially in games of chance, and string nutmegs with star anise and tonka beans for a classic luck necklace. Grated into money powders and green candles it draws prosperity, and it is used in fidelity spells and to strengthen clairvoyance. In hoodoo it is a known gambling herb, often anointed with a lucky oil and carried in a mojo bag.",
+  "medicalUses": "In tiny culinary amounts, nutmeg is a traditional warming digestive that eases gas, nausea and loose bowels. A pinch grated into warm milk is an old folk remedy for sleeplessness.",
+  "whereToFind": "Native to the Banda Islands of Indonesia, grown on tropical plantations in Grenada, India and Indonesia. Not cultivable outdoors in temperate climates. Whole nutmegs are best bought from spice shops and grocers; grate fresh as needed.",
+  "uses": [
+   "Carry a whole nutmeg in your pocket for luck when gambling",
+   "Grate a pinch into a green candle spell for prosperity",
+   "Add a whole nutmeg to a gambler's mojo bag",
+   "Grate a tiny pinch into warm milk before bed",
+   "String with star anise for a good-luck garland",
+   "Add to fidelity sachets for a steady, faithful heart"
+  ],
+  "caution": "Use only culinary pinches. Larger amounts (roughly 2 teaspoons, about 5 grams, or more) can cause serious poisoning from myristicin, with hallucinations, racing heart, nausea, agitation and anxiety lasting a day or two, and deaths have been reported; never use nutmeg recreationally. Avoid medicinal amounts in pregnancy and breastfeeding. Keep whole nutmegs away from children and pets.",
+  "toxic": false,
+  "interactions": "Large amounts may add to the effects of sedatives and other drugs acting on the nervous system.",
+  "pets": "Recipe amounts are unlikely to harm pets, but a large amount (such as a whole nutmeg) can cause hallucinations, fast heart rate and seizures in dogs and cats.",
+  "externalOnly": false,
+  "sources": [
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC4057546/",
+   "https://pubmed.ncbi.nlm.nih.gov/11343860/",
+   "https://www.petpoisonhelpline.com/uncategorized/nutmeg-cinnamon-toxicity/"
+  ]
+ },
+ {
+  "id": "herb-star-anise",
+  "name": "Star Anise",
+  "latin": "Illicium verum",
+  "folkNames": [
+   "Chinese Anise",
+   "Badiana",
+   "Badian",
+   "Eight Horns"
+  ],
+  "planet": "Jupiter",
+  "element": "Air",
+  "gender": "Masculine",
+  "deities": [],
+  "partsUsed": "seed pods, seeds",
+  "description": "A star-shaped, eight-pointed seed pod from an evergreen tree of southern China and Vietnam, with a sweet, licorice scent. Its perfect geometry makes it a natural talisman, and it has been burned in Buddhist temples and placed on graves in Japan. Each pod is a little compass of luck.",
+  "metaphysical": [
+   "psychic powers",
+   "luck",
+   "divination",
+   "protection",
+   "purification",
+   "spirituality",
+   "consecration"
+  ],
+  "medical": [
+   "digestion",
+   "bloating",
+   "cough",
+   "colds"
+  ],
+  "metaphysicalUses": "Star anise is burned as incense to increase psychic powers and is worn or carried as a pendulum or amulet. A pod placed at each of the four directions consecrates a sacred space. Strung on a thread or carried in a pocket, it draws luck, and pods are often found on the altar during divination. Grind the seeds to add to incense for spiritual awareness and to purify tools.",
+  "medicalUses": "Star anise is a traditional warming culinary spice used in East Asian cooking and folk medicine to ease gas, bloating and colic, and as an ingredient in remedies for coughs and colds. It is a natural source of shikimic acid.",
+  "whereToFind": "Native to southern China and northeast Vietnam, grown on plantations. Not hardy outdoors in cold climates. Buy whole pods from Asian grocers, spice shops and supermarkets; choose intact eight-pointed stars for charms.",
+  "uses": [
+   "Place a pod at each of the four quarters to consecrate a ritual space",
+   "Carry a whole star in your pocket for luck",
+   "Burn ground star anise with mugwort before divination",
+   "Use a pod on a string as a simple pendulum charm",
+   "Simmer pods in mulled cider for warmth and good fortune",
+   "Add to protection sachets and luck garlands"
+  ],
+  "caution": "Use only Chinese star anise (Illicium verum) from a reputable food-grade source. Japanese star anise (Illicium anisatum) looks almost identical and is poisonous, and teas have been found contaminated with it; the FDA has warned against star anise teas. Never give star anise teas to infants or young children, as seizures, severe vomiting and irritability have been reported. People allergic to anise, fennel, celery, carrot, birch or mugwort may react. Avoid medicinal amounts in pregnancy and breastfeeding. Burn only in a well-ventilated room, away from babies, pets and anyone with asthma, and never leave it smoldering unattended.",
+  "toxic": false,
+  "interactions": "",
+  "pets": "",
+  "externalOnly": false,
+  "sources": [
+   "https://www.webmd.com/vitamins/ai/ingredientmono-364/star-anise",
+   "https://pubmed.ncbi.nlm.nih.gov/12907070/",
+   "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/enforcement-story-archive/center-food-safety-and-applied-nutrition-2003"
+  ]
+ },
+ {
+  "id": "herb-ginger",
+  "name": "Ginger",
+  "latin": "Zingiber officinale",
+  "folkNames": [
+   "African Ginger",
+   "Black Ginger",
+   "Ginger Root",
+   "Gan Jiang"
+  ],
+  "planet": "Mars",
+  "element": "Fire",
+  "gender": "Masculine",
+  "deities": [],
+  "partsUsed": "rhizome (root)",
+  "description": "A knobbly, golden, fiery rhizome cultivated in tropical Asia for thousands of years. It was among the first spices carried west along the trade routes, and medieval Europeans believed it came from the Garden of Eden. In the kitchen witch's hands, ginger is the spark that lights a spell.",
+  "metaphysical": [
+   "power",
+   "success",
+   "money",
+   "love",
+   "energy",
+   "healing",
+   "courage",
+   "lust"
+  ],
+  "medical": [
+   "nausea",
+   "digestion",
+   "colds",
+   "circulation",
+   "inflammation",
+   "menstrual cramps"
+  ],
+  "metaphysicalUses": "Ginger heats up and speeds any working, which is why it is added to spells to give them power. Eat ginger before casting to fill yourself with fiery energy, and add it to money jars, success spells and love workings for quick results. In the Pacific, ginger is chewed and spat at the sea for protection from storms. Whole roots can be planted and tended as a living money spell: as the plant grows, so grows your wealth.",
+  "medicalUses": "Ginger is a famous traditional remedy for nausea, motion sickness and morning queasiness. Hot ginger tea with honey and lemon is a folk standard for colds, chills and sore throats, and ginger has long been used to warm the body, improve circulation, ease gas and soothe menstrual cramps and achy joints.",
+  "whereToFind": "Native to tropical Southeast Asia, grown in warm, humid regions in rich, moist soil. It can be grown in pots from grocery-store roots in a warm, bright spot. Fresh roots are in every supermarket, and dried ground ginger in any spice aisle.",
+  "uses": [
+   "Sip hot ginger tea before spellwork to stoke your inner fire",
+   "Add a slice of dried ginger to a money jar to speed results",
+   "Plant a ginger root in a pot as a living money spell",
+   "Chew candied ginger to settle a queasy stomach on journeys",
+   "Add powdered ginger to love and passion sachets",
+   "Grate fresh ginger into a warming bath for chills and vitality"
+  ],
+  "caution": "Safe in food amounts. Large medicinal doses may cause heartburn, gas and diarrhea, and may slow blood clotting; avoid medicinal amounts with bleeding disorders and stop 2 weeks before surgery. In pregnancy, use only moderate amounts for short periods and consult a healthcare provider. Use caution with gallstones, and do not put fresh ginger in a bath if you have sensitive or broken skin, as it can irritate.",
+  "toxic": false,
+  "interactions": "Medicinal amounts may add to the effects of blood thinners and antiplatelet drugs (warfarin, aspirin, clopidogrel) and may add to diabetes and blood pressure medicines.",
+  "pets": "",
+  "externalOnly": false,
+  "sources": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ginger",
+   "https://www.webmd.com/drugs/2/drug-17231/ginger-root-oral/details",
+   "https://www.nccih.nih.gov/health/providers/digest/herb-drug-interactions-science"
+  ]
+ },
+ {
+  "id": "herb-garlic",
+  "name": "Garlic",
+  "latin": "Allium sativum",
+  "folkNames": [
+   "Poor Man's Treacle",
+   "Stinking Rose",
+   "Ajo",
+   "Witches' Bane"
+  ],
+  "planet": "Mars",
+  "element": "Fire",
+  "gender": "Masculine",
+  "deities": [
+   "Hecate"
+  ],
+  "partsUsed": "bulb (cloves)",
+  "description": "The pungent, papery-skinned bulb that has guarded homes and bodies across nearly every culture. Garlic was left at crossroads as an offering to Hecate, fed to the builders of the pyramids for strength, and famously hung against vampires in Eastern European lore. Its ferocious scent is both medicine and shield.",
+  "metaphysical": [
+   "protection",
+   "healing",
+   "exorcism",
+   "banishing",
+   "strength",
+   "courage",
+   "hex breaking"
+  ],
+  "medical": [
+   "immune support",
+   "colds",
+   "antiseptic",
+   "circulation",
+   "cough",
+   "antifungal"
+  ],
+  "metaphysicalUses": "Garlic is a supremely protective herb. Braids of garlic hung in the kitchen or over the door guard the home against evil spirits, envy and thieves, and a clove carried on the person protects on journeys. It is rubbed on pots and pans to remove negative influences that might contaminate food, and offered at the crossroads to Hecate. Peeled cloves placed in a room absorb illness and negativity and are then disposed of away from the home. Garlic also lends courage and stamina.",
+  "medicalUses": "Garlic is one of the oldest traditional remedies, eaten raw or in honey to fight colds, coughs and infections and to support immunity. It was used as a folk antiseptic and antifungal, and is traditionally eaten to support healthy circulation and the heart.",
+  "whereToFind": "Native to Central Asia and cultivated worldwide. Plant individual cloves in autumn in sunny, well-drained soil and harvest bulbs in midsummer when the lower leaves yellow. Bulbs are available everywhere from grocers and farmers' markets.",
+  "uses": [
+   "Hang a braid of garlic in the kitchen to guard the home",
+   "Leave a garlic clove at a crossroads as an offering to Hecate on the dark moon",
+   "Carry a clove in your pocket when traveling for protection",
+   "Place peeled cloves in a sickroom to absorb illness, then bury them away from home",
+   "Make garlic honey for winter colds (never give honey to babies under 1 year)",
+   "Rub a cut clove around windowsills to block hostile energy"
+  ],
+  "caution": "Food amounts are safe, but medicinal amounts and supplements can thin the blood; avoid them with bleeding disorders and stop 2 weeks before surgery. Raw garlic can upset the stomach and can cause chemical burns if left on the skin, so do not apply it directly to skin. Garlic-in-oil must be refrigerated and used within a few days (or frozen) to prevent botulism; never store it at room temperature. Never give honey or honey-based syrups to babies under 1 year old (risk of infant botulism).",
+  "toxic": false,
+  "interactions": "Garlic may increase bleeding with warfarin and other blood thinners, and garlic supplements greatly reduce blood levels of the HIV drug saquinavir and may affect other HIV medicines.",
+  "pets": "Garlic is toxic to dogs and cats (it damages red blood cells, causing anemia), even in cooked or powdered form; never feed it to pets.",
+  "externalOnly": false,
+  "sources": [
+   "https://www.nccih.nih.gov/health/garlic",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/garlic",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/garlic",
+   "https://nchfp.uga.edu/how/freeze/vegetable/freezing-garlic-in-oil/",
+   "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html"
+  ]
+ },
+ {
+  "id": "herb-rose",
+  "name": "Rose",
+  "latin": "Rosa spp. (Rosa damascena, Rosa gallica, Rosa canina)",
+  "folkNames": [
+   "Eglantine",
+   "Dog Rose",
+   "Briar Rose",
+   "Hip Tree",
+   "Queen of Flowers"
+  ],
+  "planet": "Venus",
+  "element": "Water",
+  "gender": "Feminine",
+  "deities": [
+   "Aphrodite",
+   "Venus",
+   "Isis",
+   "Freya",
+   "Hulda",
+   "Eros",
+   "Cupid",
+   "Virgin Mary"
+  ],
+  "partsUsed": "petals, buds, hips, essential oil, rosewater",
+  "description": "The queen of flowers, sacred to the love goddesses of every age. Roman banquets were showered with petals, Persian poets wrote of the nightingale's love for the rose, and secrets spoken 'sub rosa,' beneath the rose, were sworn never to be repeated. Its thorns remind us that love also guards itself.",
+  "metaphysical": [
+   "love",
+   "self-love",
+   "beauty",
+   "psychic powers",
+   "healing",
+   "protection",
+   "divination",
+   "emotional healing"
+  ],
+  "medical": [
+   "skin",
+   "sore throat",
+   "colds",
+   "stress",
+   "anxiety",
+   "immune support"
+  ],
+  "metaphysicalUses": "Rose is the heart of love magic. Rosebuds and petals are added to love sachets, baths, incense and teas to attract romance, and a rose-petal bath restores self-love and soothes a broken heart. Drinking rosebud tea before bed is said to bring prophetic dreams, and rosewater cleanses the aura and sacred tools. The thorny stems guard boundaries in protection spells, and rose hips strung as beads draw love. Rose is also used to calm household tempers and to raise the gentle vibrations needed for healing.",
+  "medicalUses": "Rose petals and rosewater have long been used as a gentle astringent for the skin, to soothe inflamed eyes and as a fragrant uplift for low spirits and nervous tension. Rose hips, rich in vitamin C, were made into syrups for winter colds and immune support, and rose-petal infusions were used for sore throats.",
+  "whereToFind": "Wild roses grow across the temperate Northern Hemisphere in hedgerows, woodland edges and thickets; dog rose hips can be foraged after the first frost. Grow fragrant old garden roses in sun and rich soil; pick petals in the morning after the dew dries. Use only unsprayed roses (florist roses are heavily treated); buy food-grade dried petals and rosewater from apothecaries.",
+  "uses": [
+   "Take a rose-petal bath to restore self-love after heartbreak",
+   "Add dried rosebuds to love sachets and honey jars",
+   "Sip rosebud tea before bed for prophetic dreams",
+   "Mist rosewater over your aura or altar to cleanse and sweeten",
+   "Wrap a rose thorn in red thread as a guardian of the heart",
+   "Make rose-hip syrup for winter vitality",
+   "Lay petals in a circle around a pink candle for romance"
+  ],
+  "caution": "Use only organic or unsprayed roses for anything eaten, drunk or applied to skin. The fine hairs inside rose hips are irritating and must be strained out. Rose hips are rich in vitamin C, so people with kidney stones, iron overload (hemochromatosis) or on dialysis should check with a provider before regular medicinal use. Rose essential oil must be diluted. Rose thorns can carry fungi and bacteria, so wear gloves when handling and clean any puncture.",
+  "toxic": false,
+  "interactions": "Rose hip supplements may interact with some statins and chemotherapy drugs; check with a provider before combining.",
+  "pets": "",
+  "externalOnly": false,
+  "sources": [
+   "https://www.webmd.com/vitamins-supplements/rose-hip",
+   "https://www.rxlist.com/supplements/rose_hip.htm"
+  ]
+ },
+ {
+  "id": "herb-jasmine",
+  "name": "Jasmine",
+  "latin": "Jasminum officinale; Jasminum grandiflorum; Jasminum sambac",
+  "folkNames": [
+   "Jessamine",
+   "Moonlight on the Grove",
+   "Queen of the Night",
+   "Poet's Jessamine"
+  ],
+  "planet": "Moon",
+  "element": "Water",
+  "gender": "Feminine",
+  "deities": [
+   "Vishnu",
+   "Diana",
+   "Quan Yin",
+   "Kamadeva"
+  ],
+  "partsUsed": "flowers, absolute/essential oil",
+  "description": "A twining vine of starry white flowers that release their intoxicating scent most strongly after dark. In India it is woven into garlands for the gods and brides, and its perfume is called the 'Queen of the Night.' Jasmine belongs to the moon, to night-blooming dreams and to love that awakens slowly.",
+  "metaphysical": [
+   "love",
+   "money",
+   "prophetic dreams",
+   "moon magic",
+   "lust",
+   "spirituality",
+   "attraction",
+   "sleep"
+  ],
+  "medical": [
+   "anxiety",
+   "stress",
+   "skin"
+  ],
+  "metaphysicalUses": "Jasmine attracts spiritual love, as opposed to purely physical passion, and its flowers are added to love sachets and incense. Carry or burn it to draw wealth and money, and burn it in the bedroom to bring prophetic dreams. Its scent induces sleep and is a beautiful offering on the full moon. Jasmine oil is used to anoint candles for romance and for moon goddesses, and jasmine tea is sipped before divination.",
+  "medicalUses": "In folk traditions, jasmine-scented tea and the scent of the flowers have been used to lift low spirits, ease nervous tension and relax the body. Jasmine oil, highly diluted, has been used in perfumery and skincare for dry or sensitive skin.",
+  "whereToFind": "Native to the Himalayas, China and South Asia, growing as a climbing vine in warm, sheltered spots. Grow common jasmine on a sunny trellis in mild climates or indoors in pots; pick flowers at dusk when the scent is strongest. Jasmine tea is found at tea shops and Asian grocers; jasmine absolute at perfumers and apothecaries.",
+  "uses": [
+   "Burn dried jasmine in the bedroom for prophetic dreams",
+   "Anoint a white or pink candle with jasmine oil on the full moon for spiritual love",
+   "Sip jasmine green tea before tarot reading",
+   "Add dried flowers to a money-drawing sachet",
+   "Float fresh blossoms in a moon-water bowl as an offering",
+   "Grow a vine by the bedroom window to sweeten night dreams"
+  ],
+  "caution": "Use only true Jasminum species. Carolina or yellow jessamine (Gelsemium sempervirens) and night-blooming jessamine (Cestrum) are poisonous and should never be eaten, drunk or burned. Jasmine absolute is potent and can sensitize the skin; dilute well and patch test. Jasmine green tea contains caffeine. Avoid medicinal use in pregnancy. Burn only in a well-ventilated room, away from babies, pets and anyone with asthma, and never leave it smoldering unattended.",
+  "toxic": false,
+  "interactions": "",
+  "pets": "True jasmine is listed by the ASPCA as non-toxic to pets, but Carolina jessamine is highly toxic to animals; keep the absolute away from cats.",
+  "externalOnly": false,
+  "sources": [
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/jasmine",
+   "https://plants.ces.ncsu.edu/plants/gelsemium-sempervirens/",
+   "https://plants.ces.ncsu.edu/plants/cestrum/"
+  ]
+ },
+ {
+  "id": "herb-calendula",
+  "name": "Calendula",
+  "latin": "Calendula officinalis",
+  "folkNames": [
+   "Pot Marigold",
+   "Marybud",
+   "Summer's Bride",
+   "Husbandman's Dial",
+   "Holigold",
+   "Ruddes"
+  ],
+  "planet": "Sun",
+  "element": "Fire",
+  "gender": "Masculine",
+  "deities": [
+   "Virgin Mary",
+   "Apollo",
+   "Ra"
+  ],
+  "partsUsed": "flowers, petals",
+  "description": "A cheerful orange-gold flower that opens with the morning sun and closes at dusk, earning it the name 'Husbandman's Dial.' Its name comes from the Latin calendae, the first day of each month, for it was said to bloom every month of the year. Medieval folk dedicated it to Mary and hung garlands over doors to keep evil from entering.",
+  "metaphysical": [
+   "protection",
+   "prophetic dreams",
+   "legal matters",
+   "psychic powers",
+   "happiness",
+   "sun magic",
+   "healing",
+   "success"
+  ],
+  "medical": [
+   "skin",
+   "wounds",
+   "burns",
+   "inflammation",
+   "antifungal",
+   "bug bites"
+  ],
+  "metaphysicalUses": "Calendula is a sun herb of protection and happiness. Garlands of marigold strung over doorposts stop evil from entering, and flowers scattered under the bed protect while you sleep and bring prophetic dreams. Carry the petals into court for a favorable outcome, and add them to spells for success, joy and visibility. Calendula is also an herb of the ancestors and is used to honor the dead, and its golden petals brighten solar festivals like Litha and Lughnasadh.",
+  "medicalUses": "Calendula is a beloved traditional skin healer. Infused oil and salves of the petals were used for cuts, scrapes, rashes, chapped skin, mild burns, nappy rash and insect bites. Its tea was used as a mouthwash for inflamed gums and as a gentle wash for sore eyes and skin.",
+  "whereToFind": "Native to southern Europe and the Mediterranean; grows readily from seed in any sunny garden bed and self-seeds freely. Pick the flower heads when fully open, every few days, to keep them blooming, and dry on screens. Dried petals and calendula salves are sold at apothecaries and health food stores.",
+  "uses": [
+   "Hang a garland of calendula over the door to keep evil out",
+   "Scatter petals under the bed for protection and prophetic dreams",
+   "Carry petals in your pocket on a court date",
+   "Make a calendula-infused oil for chapped hands and minor scrapes",
+   "Add petals to a solar ritual bath for joy and success",
+   "Offer the flowers on an ancestor altar"
+  ],
+  "caution": "Calendula can cause allergic reactions; avoid it if you are allergic to the daisy family (ragweed, chrysanthemum, marigold, chamomile). Avoid internal use during pregnancy and breastfeeding, as safety has not been studied. Patch test infused oils and salves before wider use. Do not confuse it with French or African marigolds (Tagetes), which are not used the same way.",
+  "toxic": false,
+  "interactions": "No specific interactions are documented; in theory, large internal amounts may add to sedative medicines.",
+  "pets": "",
+  "externalOnly": false,
+  "sources": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/calendula",
+   "https://www.webmd.com/vitamins-supplements/calendula",
+   "https://www.ema.europa.eu/en/medicines/herbal/calendulae-flos"
+  ]
+ },
+ {
+  "id": "herb-st-johns-wort",
+  "name": "St. John's Wort",
+  "latin": "Hypericum perforatum",
+  "folkNames": [
+   "Herba John",
+   "Goatweed",
+   "Klamath Weed",
+   "Witches Herb",
+   "Fuga Daemonum",
+   "Amber",
+   "Tipton Weed",
+   "Sol Terrestis"
+  ],
+  "planet": "Sun",
+  "element": "Fire",
+  "gender": "Masculine",
+  "deities": [
+   "Balder",
+   "St. John the Baptist"
+  ],
+  "partsUsed": "flowering tops",
+  "description": "A sunny, star-flowered herb whose leaves, held to the light, appear pricked with tiny holes. Crush a yellow bud and it bleeds a crimson oil, which folk said was the blood of St. John the Baptist. Gathered at Midsummer and hung over doors and beds, it was called Fuga Daemonum, 'that which drives away demons.'",
+  "metaphysical": [
+   "protection",
+   "exorcism",
+   "courage",
+   "happiness",
+   "strength",
+   "health",
+   "banishing",
+   "sun magic"
+  ],
+  "medical": [
+   "wounds",
+   "burns",
+   "muscle pain",
+   "stress",
+   "anxiety",
+   "skin"
+  ],
+  "metaphysicalUses": "St. John's Wort is the Midsummer herb of light. Gather it on Midsummer's Eve or St. John's Day and hang it over doors and windows to ward off ghosts, necromancers, evil spirits and lightning. Wear it to strengthen willpower and courage in battle, and to drive away fevers and melancholy. Burn it to banish spirits, and carry it to keep the soul bright through the darkening year. It is the classic herb of Litha.",
+  "medicalUses": "Traditionally the bright red infused oil was applied to wounds, burns, bruises, nerve pain and aching muscles. The herb has long been taken to lift low spirits and the heaviness of winter; modern research supports some use for mild to moderate low mood, but it interacts with many medicines and should only be taken under professional guidance.",
+  "whereToFind": "Native to Europe and Asia and naturalized widely (often considered a weed), growing in sunny meadows, roadsides, clearings and dry fields. Harvest the flowering tops around Midsummer when the buds are just opening and bleed red when squeezed. Dried herb and infused oil are sold by apothecaries and herb suppliers.",
+  "uses": [
+   "Gather at Midsummer and hang over doorways to banish evil",
+   "Wear a sprig for courage and willpower",
+   "Make a red sun-infused oil in a clear jar for bruises and sore muscles",
+   "Burn a pinch to drive away lingering spirits",
+   "Add to Litha bonfires and solar altar decorations",
+   "Carry in a charm bag to keep melancholy away in winter"
+  ],
+  "caution": "Do not take internally without consulting a healthcare provider: it interacts with many medications, reducing their effectiveness or, with antidepressants, causing potentially dangerous serotonin syndrome. It should not replace treatment for depression. It causes photosensitivity, so avoid strong sun and tanning after use, including after applying the infused oil to the skin. Avoid in pregnancy and breastfeeding, and stop at least 2 weeks before surgery. Burn only in a well-ventilated room, away from babies, pets and anyone with asthma, and never leave it smoldering unattended.",
+  "toxic": false,
+  "interactions": "Weakens hormonal birth control, warfarin, digoxin, cyclosporine and other transplant drugs, HIV drugs, some cancer drugs and many others by speeding their breakdown; can cause serotonin syndrome with SSRIs, SNRIs, triptans and other serotonergic drugs.",
+  "pets": "St. John's wort is listed by the ASPCA as toxic to dogs, cats and horses (sun sensitivity and skin inflammation); it is especially dangerous to grazing livestock.",
+  "externalOnly": false,
+  "sources": [
+   "https://www.nccih.nih.gov/health/st-johns-wort",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/st-john-wort",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/st-johns-wort"
+  ]
+ },
+ {
+  "id": "herb-vervain",
+  "name": "Vervain",
+  "latin": "Verbena officinalis",
+  "folkNames": [
+   "Enchanter's Plant",
+   "Herb of Grace",
+   "Herb of the Cross",
+   "Juno's Tears",
+   "Pigeonwood",
+   "Simpler's Joy",
+   "Holy Herb",
+   "Van-Van"
+  ],
+  "planet": "Venus",
+  "element": "Earth",
+  "gender": "Feminine",
+  "deities": [
+   "Isis",
+   "Juno",
+   "Aradia",
+   "Cerridwen",
+   "Diana",
+   "Thor",
+   "Mars",
+   "Venus"
+  ],
+  "partsUsed": "aerial parts, flowering tops",
+  "description": "A slender, wiry herb with tiny lilac flowers, once so sacred that Roman priests swept their altars with it and Druids gathered it at the rising of the Dog Star with offerings of honey. Christian legend says it staunched Christ's wounds on the cross. It is the very archetype of the enchanter's herb.",
+  "metaphysical": [
+   "love",
+   "protection",
+   "purification",
+   "peace",
+   "money",
+   "youth",
+   "sleep",
+   "healing",
+   "consecration"
+  ],
+  "medical": [
+   "stress",
+   "anxiety",
+   "insomnia",
+   "headache",
+   "digestion"
+  ],
+  "metaphysicalUses": "Vervain is one of the most versatile magical herbs. Use it to consecrate tools and altars, add it to purification baths, and hang it over the bed to prevent nightmares. Bury it in the garden or field for abundance and prosperity, wear it as a crown during spells for protection, and add it to love charms and peace-making rites. A home sprinkled with vervain-infused water drives away evil, and in hoodoo it is a key herb in Van-Van oil for luck and road opening. Vervain is a natural ally to anyone stepping into a magical path.",
+  "medicalUses": "Traditionally a bitter, relaxing nervine used to ease nervous tension, restlessness, tension headaches and sleeplessness, and to support digestion and recovery after illness. It was also used to help nursing mothers and as a gentle tonic for exhaustion.",
+  "whereToFind": "Native to Europe and the Mediterranean and naturalized widely, growing on dry roadsides, waste ground and sunny banks. Harvest the flowering tops in midsummer and dry them. Seeds are available from herb seed companies; dried vervain from apothecaries and witch shops. Do not confuse with lemon verbena or ornamental verbenas.",
+  "uses": [
+   "Sweep your altar with a vervain bundle to consecrate it",
+   "Sprinkle vervain water around the home to drive away negativity",
+   "Hang a sprig over the bed to prevent nightmares",
+   "Bury vervain in the garden for abundance",
+   "Wear a crown of vervain during spellwork for protection",
+   "Sip a gentle vervain tea to ease tension before meditation"
+  ],
+  "caution": "Avoid during pregnancy and breastfeeding; it has traditionally been used to stimulate the uterus, and animal studies show harm to the developing fetus. Large doses can cause nausea and vomiting, and it may occasionally cause stomach upset or skin rash. Vervain tea can reduce iron absorption, so do not drink it with meals if you have low iron, and do not give it to infants.",
+  "toxic": false,
+  "interactions": "May slow the liver's breakdown of some drugs (such as cyclophosphamide and barbiturates); check with a provider if you take liver-metabolized medicines.",
+  "pets": "",
+  "externalOnly": false,
+  "sources": [
+   "https://www.rxlist.com/supplements/verbena.htm",
+   "https://www.drugs.com/npp/vervain.html"
+  ]
+ },
+ {
+  "id": "herb-wormwood",
+  "name": "Wormwood",
+  "latin": "Artemisia absinthium",
+  "folkNames": [
+   "Absinthe",
+   "Old Woman",
+   "Green Ginger",
+   "Crown for a King",
+   "Madderwort",
+   "Wormot",
+   "Green Fairy"
+  ],
+  "planet": "Mars",
+  "element": "Fire",
+  "gender": "Masculine",
+  "deities": [
+   "Artemis",
+   "Diana",
+   "Hecate",
+   "Iris"
+  ],
+  "partsUsed": "leaves, flowering tops",
+  "description": "A silvery, intensely bitter herb whose name in Revelation was given to a falling star that turned the waters bitter. It flavored the notorious green liqueur absinthe, the 'Green Fairy' of Parisian poets and painters. Legend says it sprang up along the path the serpent took when leaving Eden.",
+  "metaphysical": [
+   "psychic powers",
+   "protection",
+   "spirit work",
+   "divination",
+   "banishing",
+   "necromancy",
+   "love",
+   "shadow work"
+  ],
+  "medical": [
+   "digestion",
+   "bloating",
+   "liver support"
+  ],
+  "metaphysicalUses": "Wormwood is burned in incense to increase psychic powers and is worn to protect against bewitchment and the attack of sea serpents. Hung from a car's rear-view mirror it is said to protect against accidents on dangerous roads. Burned in graveyards or with sandalwood, it is traditionally said to call spirits, so it is a classic Samhain and necromancy herb that should be handled with respect. It is also used in love divination and to send away anger.",
+  "medicalUses": "Wormwood is one of the most bitter of all herbs and was traditionally used in very small doses as a digestive bitter to stimulate appetite and bile, and historically to expel intestinal worms (hence its name). It is strong medicine and was used only briefly and carefully by herbalists.",
+  "whereToFind": "Native to temperate Europe, Asia and North Africa and naturalized elsewhere, growing on dry, waste ground, rocky slopes and roadsides. It is an easy, drought-tolerant perennial in full sun; harvest the flowering tops in late summer. Dried wormwood is sold by apothecaries and witchcraft suppliers; plants by herb nurseries.",
+  "uses": [
+   "Burn a small amount with mugwort or sandalwood during Samhain spirit work",
+   "Hang a sprig in your car for protection on the road",
+   "Add a pinch to protection sachets against bewitchment",
+   "Plant it at the garden border to repel pests and unwanted energies",
+   "Lay dried wormwood on the altar during shadow work and ancestor rites",
+   "Tuck into stored woollens to deter moths"
+  ],
+  "caution": "Wormwood contains thujone, which is toxic to the nervous system in larger or prolonged doses and can cause seizures, kidney damage and convulsions; thujone content of supplements and oils is unpredictable. Do not use internally except briefly under qualified guidance, and never take the essential oil internally or combine it with other thujone-containing products (such as sage or thuja oil). Avoid completely in pregnancy (it may harm the fetus), breastfeeding, epilepsy and kidney or liver disease. People allergic to ragweed, chamomile or marigold may react. Burn only small amounts in a well-ventilated room, and keep it away from children and pets.",
+  "toxic": false,
+  "interactions": "Interactions are not well studied; it could, in theory, lower the effectiveness of seizure medicines because thujone can provoke seizures.",
+  "pets": "Keep wormwood and especially its oil away from dogs, cats and horses; thujone is toxic to animals too.",
+  "externalOnly": true,
+  "sources": [
+   "https://www.webmd.com/vitamins-supplements/wormwood",
+   "https://www.drugs.com/npp/wormwood.html",
+   "https://www.rxlist.com/supplements/wormwood.htm"
+  ]
+ },
+ {
+  "id": "herb-rue",
+  "name": "Rue",
+  "latin": "Ruta graveolens",
+  "folkNames": [
+   "Herb of Grace",
+   "Herbygrass",
+   "Ruda",
+   "Garden Rue",
+   "Mother of Herbs",
+   "Bashoush"
+  ],
+  "planet": "Mars",
+  "element": "Fire",
+  "gender": "Masculine",
+  "deities": [
+   "Diana",
+   "Aradia",
+   "Mars"
+  ],
+  "partsUsed": "leaves (for charms and external ritual only)",
+  "description": "A blue-grey, strong-smelling shrub with lacy leaves, called the Herb of Grace because Catholic priests once used rue branches to sprinkle holy water. It is the source of the Italian cimaruta, a silver charm shaped like a sprig of rue hung with symbols to guard against the evil eye. Few herbs are so steeped in protection lore.",
+  "metaphysical": [
+   "protection",
+   "hex breaking",
+   "exorcism",
+   "banishing",
+   "healing",
+   "uncrossing",
+   "clarity"
+  ],
+  "medical": [],
+  "metaphysicalUses": "Rue is one of the strongest protective herbs against the evil eye, envy and hexes. Hang a sprig over the front door, grow it in the garden or a pot by the entry, and carry the cimaruta or a small sachet of dried rue to break curses. Rue wands and branches are used to sprinkle protective waters, and it is added to uncrossing and exorcism incenses (burned only in a ventilated space). In Latin American folk magic, ruda is placed in the home and on the altar for spiritual cleansing. Smelling fresh rue is said to clear the mind in matters of love.",
+  "medicalUses": "Historically rue was used in European folk medicine for many ailments, but it is now recognized as too dangerous for home use. It is included here for its lore only; do not use it as a home remedy.",
+  "whereToFind": "Native to the Balkans and Mediterranean, growing on dry, rocky, sunny ground. It grows well in pots or garden beds with full sun and lean soil; wear gloves and long sleeves when handling or cutting it. Plants are sold by herb nurseries; dried rue for charms is sold at botanicas and witchcraft shops.",
+  "uses": [
+   "Hang a dried sprig over the front door against the evil eye",
+   "Grow a pot of rue by the entry as a living guardian (handle with gloves)",
+   "Wear a silver cimaruta charm for protection",
+   "Keep dried rue in a sealed sachet in a car or bag to break hexes",
+   "Use a sealed jar of rue on the altar during uncrossing work",
+   "Plant it at the garden edge to keep pests and envy away"
+  ],
+  "caution": "POISONOUS: rue is toxic when taken internally and can cause severe stomach pain, vomiting, liver and kidney damage, heart rhythm problems, and miscarriage. Contact with the plant or sap followed by sunlight causes severe blistering burns (phytophotodermatitis), even in children playing near it; always wear gloves and long sleeves when handling, and wash skin before going outside. Never ingest, never apply to skin, and avoid entirely in pregnancy and breastfeeding. Keep away from children and pets.",
+  "toxic": true,
+  "interactions": "",
+  "pets": "Keep rue away from pets; ingestion can cause vomiting and contact can cause skin burns in sunlight.",
+  "externalOnly": true,
+  "sources": [
+   "https://www.drugs.com/npp/rue.html",
+   "https://pubmed.ncbi.nlm.nih.gov/17667834/",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC10192026/"
+  ]
+ },
+ {
+  "id": "herb-valerian",
+  "name": "Valerian",
+  "latin": "Valeriana officinalis",
+  "folkNames": [
+   "All-Heal",
+   "Amantilla",
+   "Bloody Butcher",
+   "Capon's Tail",
+   "Phu",
+   "Setwall",
+   "Vandal Root",
+   "English Valerian"
+  ],
+  "planet": "Venus",
+  "element": "Water",
+  "gender": "Feminine",
+  "deities": [],
+  "partsUsed": "root, rhizome",
+  "description": "A tall herb with sweet, pale-pink flowers above a root whose earthy, musky smell is famously reminiscent of old socks. Cats adore it, and some say the Pied Piper of Hamelin carried valerian root to lure the rats. Galen called it 'Phu' for its smell, yet it has been a sleep herb since ancient Greece.",
+  "metaphysical": [
+   "sleep",
+   "love",
+   "purification",
+   "protection",
+   "peace",
+   "calm",
+   "reconciliation"
+  ],
+  "medical": [
+   "insomnia",
+   "anxiety",
+   "stress",
+   "muscle pain",
+   "menstrual cramps"
+  ],
+  "metaphysicalUses": "Valerian root is used in protection sachets and hung in the home to guard against lightning and keep out evil. Its powdered root is added to purification incense, and in some old formularies it served as a stand-in for graveyard dirt. It is said to bring couples back together and calm quarrels, and to promote love when carried by a woman. Placed in a pillow it encourages deep sleep.",
+  "medicalUses": "Valerian root is a classic traditional sedative, taken as a tea or tincture to ease sleeplessness, nervous tension, restlessness and anxiety. It was also used for muscle tension, menstrual cramps and tension headaches.",
+  "whereToFind": "Native to Europe and Asia, naturalized in North America, growing in damp meadows, riverbanks and woodland edges. It grows easily in moist garden soil; dig the roots of two-year-old plants in autumn, wash and dry them. Dried root, capsules and tinctures are sold at health food stores and apothecaries.",
+  "uses": [
+   "Place a small piece of dried root inside a sleep pillow",
+   "Hang valerian root over the door for protection",
+   "Add powdered root to a reconciliation spell for a quarreling couple",
+   "Drink a valerian and chamomile bedtime tea on restless nights",
+   "Add to purification incense (expect a pungent smell)",
+   "Offer a sprig to cat familiars, who often love it"
+  ],
+  "caution": "Can cause drowsiness, dizziness and reduced alertness; do not drive or operate machinery after use and do not combine with alcohol, sedatives or sleeping pills. Some people experience vivid dreams, headache, stomach upset or paradoxical stimulation, and stopping abruptly after long-term use can cause withdrawal-like symptoms. Rare cases of liver injury have been reported, so avoid with liver disease. Avoid in pregnancy, breastfeeding and in young children. Stop at least 2 weeks before surgery.",
+  "toxic": false,
+  "interactions": "Adds to the effects of benzodiazepines, barbiturates, sleep medicines, opioids, alcohol and other sedatives; may affect drugs broken down by CYP3A4.",
+  "pets": "",
+  "externalOnly": false,
+  "sources": [
+   "https://www.nccih.nih.gov/health/valerian",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/valerian"
+  ]
+ },
+ {
+  "id": "herb-lemon-balm",
+  "name": "Lemon Balm",
+  "latin": "Melissa officinalis",
+  "folkNames": [
+   "Melissa",
+   "Balm",
+   "Bee Balm",
+   "Sweet Balm",
+   "Heart's Delight",
+   "Sweet Melissa",
+   "Elixir of Life"
+  ],
+  "planet": "Moon",
+  "element": "Water",
+  "gender": "Feminine",
+  "deities": [
+   "Diana",
+   "Artemis"
+  ],
+  "partsUsed": "leaves, aerial parts",
+  "description": "A soft, lemon-scented mint whose Greek name Melissa means 'honeybee,' for beekeepers rubbed it on hives to keep their swarms content. Paracelsus called it the elixir of life, and the Carmelite nuns distilled it into their famed Carmelite water. It gladdens the heart and chases away melancholy.",
+  "metaphysical": [
+   "love",
+   "healing",
+   "success",
+   "happiness",
+   "calm",
+   "peace",
+   "emotional healing",
+   "friendship"
+  ],
+  "medical": [
+   "anxiety",
+   "stress",
+   "insomnia",
+   "digestion",
+   "cold sores",
+   "nausea"
+  ],
+  "metaphysicalUses": "Lemon balm is used in love spells and charms, and to attract friends and lovers. Steep it in wine and share it with someone special, or carry it to find love. Its cheerful, lunar energy dispels melancholy and is used in healing and success workings. Rub it on new beehives or offer it to bees to win their goodwill, and add it to baths for emotional healing and gentle self-love.",
+  "medicalUses": "Lemon balm tea is a traditional gentle nervine for anxiety, restlessness, low mood and sleeplessness, and a soothing digestive for nervous stomachs and nausea. Topically, balm was dabbed on cold sores and insect bites.",
+  "whereToFind": "Native to southern Europe, the Mediterranean and western Asia; naturalized in gardens, waste places and woodland edges. It self-seeds freely and grows easily in sun or part shade; harvest leaves before flowering and dry quickly to keep their scent. Plants are sold at garden centers and dried leaf at apothecaries and tea shops.",
+  "uses": [
+   "Brew a lemon balm tea to lift the spirits on a grey day",
+   "Steep fresh leaves in white wine to share with a beloved",
+   "Add to a ritual bath for emotional healing",
+   "Plant near beehives or offer to the bees",
+   "Carry a sachet of balm to attract new friendships",
+   "Dab cooled strong tea on a cold sore"
+  ],
+  "caution": "Generally safe in tea amounts. It can cause drowsiness, so avoid driving until you know how it affects you and avoid combining it with alcohol. Laboratory studies suggest it may interfere with thyroid hormone signaling, so use caution with thyroid disease or thyroid medication. Little is known about safety in pregnancy and breastfeeding, so keep to moderate tea amounts.",
+  "toxic": false,
+  "interactions": "May increase drowsiness with benzodiazepines, sleep medicines, opioids and other sedatives; may interfere with thyroid medication.",
+  "pets": "",
+  "externalOnly": false,
+  "sources": [
+   "https://www.webmd.com/vitamins/ai/ingredientmono-437/lemon-balm",
+   "https://www.rxlist.com/supplements/lemon_balm.htm",
+   "https://pubmed.ncbi.nlm.nih.gov/14759065/"
+  ]
+ },
+ {
+  "id": "herb-hyssop",
+  "name": "Hyssop",
+  "latin": "Hyssopus officinalis",
+  "folkNames": [
+   "Ysopo",
+   "Isopo",
+   "Holy Herb",
+   "Hyssop Herb"
+  ],
+  "planet": "Jupiter",
+  "element": "Water",
+  "gender": "Masculine",
+  "deities": [
+   "Jehovah"
+  ],
+  "partsUsed": "leaves, flowering tops",
+  "description": "A bushy, aromatic Mediterranean herb with spires of deep blue flowers, beloved of bees. 'Purge me with hyssop, and I shall be clean,' sings Psalm 51, and hyssop has been a herb of spiritual washing ever since. In hoodoo it is the classic herb for cleansing away sin, guilt and spiritual filth.",
+  "metaphysical": [
+   "purification",
+   "cleansing",
+   "protection",
+   "uncrossing",
+   "spirituality",
+   "release",
+   "consecration"
+  ],
+  "medical": [
+   "cough",
+   "colds",
+   "congestion",
+   "sore throat",
+   "digestion"
+  ],
+  "metaphysicalUses": "Hyssop is the most widely used purification herb of the Middle Ages and of hoodoo rootwork. It is added to baths to cleanse the spirit of sin, guilt and negativity, and the infusion is sprinkled on objects or people to purify them. Bundles of hyssop are hung in the house to drive out negativity and evil, and Psalm 51 is read while bathing in it. Hyssop is a gentle but powerful choice for spiritual cleansing after a crossing, a breakup or any heavy experience.",
+  "medicalUses": "Traditionally a warming expectorant taken as a tea or syrup for coughs, chest colds, bronchial congestion and sore throats, and as a digestive for gas. It was also used as a gargle and a wash for bruises.",
+  "whereToFind": "Native to southern Europe, the Middle East and the Caspian region, growing on dry, sunny, rocky slopes. Easy to grow in well-drained garden soil and full sun; harvest the flowering tops in summer. Dried hyssop is sold at apothecaries, botanicas and hoodoo suppliers.",
+  "uses": [
+   "Take a hyssop bath while reciting Psalm 51 for spiritual cleansing",
+   "Sprinkle hyssop water on tools and objects to purify them",
+   "Hang a bundle in the house to drive out negativity",
+   "Add to uncrossing floor washes",
+   "Sip a hyssop and honey tea for a lingering cough",
+   "Plant near cabbages and beans to draw pollinators and repel pests"
+  ],
+  "caution": "Avoid in pregnancy (it has been used to bring on menstruation and miscarriage), breastfeeding, epilepsy and in young children. Hyssop essential oil contains pinocamphone and isopinocamphone, which have caused seizures in adults and children; never ingest the oil. Use the herb only in moderate tea amounts and for short periods.",
+  "toxic": false,
+  "interactions": "May reduce the effectiveness of seizure medicines because the oil can provoke seizures.",
+  "pets": "Keep the essential oil away from pets, especially cats; do not diffuse it where a cat cannot leave the room.",
+  "externalOnly": false,
+  "sources": [
+   "https://www.drugs.com/npp/hyssop.html",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC8776447/",
+   "https://www.rxlist.com/supplements/hyssop.htm"
+  ]
+ },
+ {
+  "id": "herb-patchouli",
+  "name": "Patchouli",
+  "latin": "Pogostemon cablin",
+  "folkNames": [
+   "Pucha-Pat",
+   "Kablin",
+   "Puchaput",
+   "Patchouly"
+  ],
+  "planet": "Saturn",
+  "element": "Earth",
+  "gender": "Feminine",
+  "deities": [],
+  "partsUsed": "leaves, essential oil",
+  "description": "A bushy, soft-leaved mint of tropical Asia whose dried, fermented leaves give an earthy, musky, sweet scent that deepens with age. Victorian merchants packed Indian shawls in patchouli to deter moths, so the scent became the mark of a genuine import. Its smell is like rich soil after rain, and it smells of the earth's own fertility.",
+  "metaphysical": [
+   "money",
+   "fertility",
+   "lust",
+   "prosperity",
+   "grounding",
+   "attraction",
+   "abundance"
+  ],
+  "medical": [
+   "skin",
+   "antifungal",
+   "stress",
+   "bug bites"
+  ],
+  "metaphysicalUses": "Patchouli is an earthy herb of money, fertility and lust. Add it to money sachets and purses, sprinkle it on money, and anoint green candles with its oil to draw abundance. It is used in love sachets and baths for sensual attraction, and as a grounding scent in meditation. Patchouli's Saturnian earth energy makes it useful in binding work and is sometimes used as a substitute for graveyard dirt. Many modern witches anoint wallets and business cards with patchouli oil.",
+  "medicalUses": "In traditional Asian folk medicine, patchouli was used for skin conditions, fungal infections and insect bites, and as an insect and moth repellent. The diluted oil is valued in aromatherapy for its grounding, calming effect.",
+  "whereToFind": "Native to tropical Southeast Asia, grown commercially in Indonesia, India and the Philippines. It can be grown as a houseplant in warm, humid, bright conditions. Dried leaves are sold by herb suppliers and witch shops; essential oil at health food stores and apothecaries.",
+  "uses": [
+   "Anoint a green candle with diluted patchouli oil for money drawing",
+   "Add dried leaves to a prosperity sachet in your wallet",
+   "Use patchouli in a sensual bath blend for attraction",
+   "Dab diluted oil on your wrists for grounding before meditation",
+   "Sprinkle on soil in a fertility or garden-blessing ritual",
+   "Tuck sachets in drawers to deter moths"
+  ],
+  "caution": "Undiluted patchouli oil can irritate the skin and cause allergic contact dermatitis; dilute it (a few drops in a carrier oil or lotion), patch test, and keep it out of the eyes. Do not ingest the essential oil. Little is known about safety in pregnancy and breastfeeding, so use cautiously.",
+  "toxic": false,
+  "interactions": "Drug interactions are not well studied; ask a provider before combining with medicines.",
+  "pets": "Keep the essential oil away from pets, especially cats; do not diffuse it where a cat cannot leave the room.",
+  "externalOnly": true,
+  "sources": [
+   "https://www.webmd.com/vitamins-supplements/patchouli-oil",
+   "https://www.rxlist.com/supplements/patchouly_oil.htm",
+   "https://www.petpoisonhelpline.com/uncategorized/essential-oils-cats/"
+  ]
+ },
+ {
+  "id": "herb-sandalwood",
+  "name": "Sandalwood",
+  "latin": "Santalum album",
+  "folkNames": [
+   "White Sandalwood",
+   "Chandana",
+   "White Saunders",
+   "Yellow Sandalwood"
+  ],
+  "planet": "Moon",
+  "element": "Water",
+  "gender": "Feminine",
+  "deities": [
+   "Venus",
+   "Shiva",
+   "Lakshmi"
+  ],
+  "partsUsed": "heartwood, wood powder, essential oil",
+  "description": "The fragrant heartwood of a slow-growing, semi-parasitic tree of India, prized for millennia in temples, perfumes and carved sacred objects. In Hindu worship its paste marks the brow, and its scent clings to prayer beads for years. Its creamy, soft fragrance is said to carry prayers to the gods.",
+  "metaphysical": [
+   "spirituality",
+   "meditation",
+   "protection",
+   "healing",
+   "wishes",
+   "exorcism",
+   "purification",
+   "psychic powers"
+  ],
+  "medical": [
+   "skin",
+   "stress",
+   "anxiety",
+   "inflammation"
+  ],
+  "metaphysicalUses": "Sandalwood has high spiritual vibrations and is burned at full-moon rituals, in meditation and to heighten spiritual awareness. Write a wish on a chip of sandalwood and burn it in a censer as you visualize it. Its powder is sprinkled for purification, sandalwood beads are used as protective prayer beads, and it is mixed with lavender to conjure spirits. Sandalwood is a superb base for incense blends of any purpose.",
+  "medicalUses": "In Ayurvedic and folk traditions, cooling sandalwood paste was applied to the skin for rashes, heat and inflammation, and its scent used to calm the mind and ease anxiety. The diluted oil remains popular in skincare.",
+  "whereToFind": "Native to southern India and parts of Southeast Asia and Australia, where it grows in dry deciduous forests. Indian sandalwood is endangered and heavily protected, so seek sustainably farmed Indian or Australian sandalwood (Santalum spicatum). Chips, powder and oil are sold at incense shops, Indian grocers and apothecaries.",
+  "uses": [
+   "Write a wish on a sandalwood chip and burn it on charcoal",
+   "Burn sandalwood incense at the full moon for spiritual awareness",
+   "Use sandalwood mala beads in meditation",
+   "Sprinkle sandalwood powder on the altar to purify it",
+   "Add to any incense blend as a gentle, harmonizing base",
+   "Dab diluted oil on your third eye before meditation"
+  ],
+  "caution": "Generally safe diluted on the skin, but it can cause allergic skin reactions; patch test first. Do not ingest the essential oil; taken by mouth as medicine for more than about 6 weeks it may damage the kidneys, so avoid internal use with kidney disease, in pregnancy (it may increase miscarriage risk) and while breastfeeding. Choose sustainably and legally sourced sandalwood, as wild Indian sandalwood is overharvested and much on the market is adulterated. If burning on charcoal, do it only in a well-ventilated room on a heatproof surface, never in a closed space, because burning charcoal gives off carbon monoxide.",
+  "toxic": false,
+  "interactions": "May raise lithium levels by acting as a diuretic.",
+  "pets": "Keep the essential oil away from pets, especially cats; do not diffuse it where a cat cannot leave the room.",
+  "externalOnly": true,
+  "sources": [
+   "https://www.webmd.com/vitamins/ai/ingredientmono-116/white-sandalwood",
+   "https://www.drugs.com/npp/sandalwood-oil.html",
+   "https://www.cpsc.gov/Newsroom/News-Releases/1999/CPSC-Warns-Never-Use-Charcoal-Grills-Indoors"
+  ]
+ },
+ {
+  "id": "herb-frankincense",
+  "name": "Frankincense",
+  "latin": "Boswellia sacra; Boswellia carterii",
+  "folkNames": [
+   "Olibanum",
+   "Incense",
+   "Olibans",
+   "Luban",
+   "Tears of the Gods"
+  ],
+  "planet": "Sun",
+  "element": "Fire",
+  "gender": "Masculine",
+  "deities": [
+   "Ra",
+   "Baal",
+   "Apollo",
+   "Helios",
+   "Jesus"
+  ],
+  "partsUsed": "gum resin, essential oil",
+  "description": "Pale golden 'tears' of resin bled from the bark of hardy desert trees in Arabia and the Horn of Africa. It was among the most precious goods of the ancient world, burned in the temples of Egypt, Babylon, Greece and Jerusalem and carried by the Magi to the infant Christ. Its smoke rises straight to heaven.",
+  "metaphysical": [
+   "protection",
+   "exorcism",
+   "spirituality",
+   "purification",
+   "consecration",
+   "meditation",
+   "power",
+   "sun magic"
+  ],
+  "medical": [
+   "inflammation",
+   "stress",
+   "skin",
+   "congestion"
+  ],
+  "metaphysicalUses": "Frankincense releases powerful vibrations when burned, raising the spiritual awareness of the practitioner and driving away evil and negativity. It is the classic resin for consecration and exorcism, burned to bless altars, tools and homes, and to prepare a space for meditation and prayer. Its sun energy brings success and confidence. It pairs with myrrh for a balanced blend of solar and lunar, masculine and feminine.",
+  "medicalUses": "Frankincense resin has been chewed in Arabia for oral health and digestion, and burned as a fumigant. In folk and Ayurvedic tradition, Boswellia has been used for inflammation and achy joints. The diluted oil is used in aromatherapy to slow and deepen the breath and calm the mind.",
+  "whereToFind": "Native to Oman, Yemen, Somalia and Ethiopia, growing on dry, rocky slopes. Many Boswellia populations are declining from overtapping, so buy from sustainable, fair-trade sources. Resin tears are sold at church supply stores, incense shops, apothecaries and witchcraft suppliers.",
+  "uses": [
+   "Burn resin tears on charcoal to consecrate a new altar",
+   "Burn frankincense and myrrh together for spiritual balance",
+   "Smoke-bless new tools, jewelry and crystals",
+   "Burn before meditation or prayer to deepen focus",
+   "Add a tear to protection and success sachets",
+   "Anoint candles with diluted frankincense oil for sun magic"
+  ],
+  "caution": "Burn in a well-ventilated room; resin smoke releases fine particles that can irritate the lungs and pets' airways, and should be avoided around asthma, lung disease and infants. If burning on charcoal, do it only in a well-ventilated room on a heatproof surface, never in a closed space, because burning charcoal gives off carbon monoxide. Dilute the essential oil for skin use and patch test, since it can cause irritation, rashes and, rarely, blistering or allergic reactions. Avoid medicinal internal use in pregnancy and breastfeeding, as safety is unknown.",
+  "toxic": false,
+  "interactions": "No well-documented interactions for frankincense resin; Boswellia supplements may interact with some medicines, so check with a provider.",
+  "pets": "Keep smoke and the essential oil away from cats and birds; do not diffuse around cats.",
+  "externalOnly": false,
+  "sources": [
+   "https://www.webmd.com/vitamins-supplements/frankincense",
+   "https://www.nccih.nih.gov/health/boswellia",
+   "https://www.lung.org/blog/incense-burning-dangers",
+   "https://www.cpsc.gov/Newsroom/News-Releases/1999/CPSC-Warns-Never-Use-Charcoal-Grills-Indoors"
+  ]
+ },
+ {
+  "id": "herb-myrrh",
+  "name": "Myrrh",
+  "latin": "Commiphora myrrha",
+  "folkNames": [
+   "Gum Myrrh",
+   "Karam",
+   "Bola",
+   "Mirra",
+   "Stacte"
+  ],
+  "planet": "Moon",
+  "element": "Water",
+  "gender": "Feminine",
+  "deities": [
+   "Isis",
+   "Adonis",
+   "Ra",
+   "Marian",
+   "Hathor"
+  ],
+  "partsUsed": "gum resin, essential oil",
+  "description": "A bitter, reddish-brown resin from thorny desert shrubs, prized since ancient Egypt for embalming, perfume and temple offerings. Greek myth tells of Myrrha, transformed into a tree whose tears became the resin and from whom Adonis was born. Myrrh was carried by the Magi as a gift foretelling death and resurrection.",
+  "metaphysical": [
+   "protection",
+   "exorcism",
+   "healing",
+   "spirituality",
+   "consecration",
+   "purification",
+   "grief",
+   "ancestors"
+  ],
+  "medical": [
+   "sore throat",
+   "antiseptic",
+   "wounds",
+   "antifungal",
+   "inflammation"
+  ],
+  "metaphysicalUses": "Myrrh is burned as incense to purify an area, raise vibrations and bring peace, and is added to healing incenses and sachets. It is almost always burned with frankincense to lend power and balance to any working. Myrrh is a lunar, ancestral resin associated with Isis, used in rites for the dead, grief work, initiation and consecration of tools.",
+  "medicalUses": "Myrrh is a traditional antiseptic and astringent. Its tincture was used as a mouthwash and gargle for sore throats, mouth ulcers and inflamed gums, and applied to minor wounds and fungal skin infections.",
+  "whereToFind": "Native to the Arabian Peninsula and the Horn of Africa, growing in dry, thorny scrubland. Resin is harvested by cutting the bark. Buy from sustainable sources at incense shops, apothecaries and church suppliers.",
+  "uses": [
+   "Burn myrrh with frankincense to empower any ritual",
+   "Use myrrh smoke in rites for the dead and grieving",
+   "Add a resin piece to a healing sachet",
+   "Consecrate ritual tools in myrrh smoke",
+   "Anoint ancestor candles with diluted myrrh oil",
+   "Gargle with a few drops of myrrh tincture in water for a sore throat, then spit it out"
+  ],
+  "caution": "Avoid internal use in pregnancy (it may stimulate the uterus) and while breastfeeding. Do not take myrrh internally if you use warfarin, as it can weaken its effect. High doses may affect heart rate, and topical use can cause contact dermatitis, so avoid it on sensitive skin. For mouth use, gargle diluted tincture and spit it out. Burn in a well-ventilated room, and dilute the essential oil for skin use. If burning on charcoal, do it only in a well-ventilated room on a heatproof surface, never in a closed space, because burning charcoal gives off carbon monoxide.",
+  "toxic": false,
+  "interactions": "May reduce the effect of warfarin (do not combine); may add to diabetes medicines by lowering blood sugar.",
+  "pets": "Keep the essential oil away from pets, especially cats; do not diffuse it where a cat cannot leave the room.",
+  "externalOnly": false,
+  "sources": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/myrrh",
+   "https://www.drugs.com/npp/myrrh.html",
+   "https://www.rxlist.com/supplements/myrrh.htm",
+   "https://www.cpsc.gov/Newsroom/News-Releases/1999/CPSC-Warns-Never-Use-Charcoal-Grills-Indoors"
+  ]
+ },
+ {
+  "id": "herb-dragons-blood",
+  "name": "Dragon's Blood",
+  "latin": "Daemonorops draco; Dracaena cinnabari; Croton lechleri",
+  "folkNames": [
+   "Dragon's Blood Palm",
+   "Blood Resin",
+   "Sangre de Drago",
+   "Calamus Draco"
+  ],
+  "planet": "Mars",
+  "element": "Fire",
+  "gender": "Masculine",
+  "deities": [],
+  "partsUsed": "resin",
+  "description": "A deep crimson resin from several unrelated trees: the rattan palms of Southeast Asia, the umbrella-shaped dragon trees of Socotra, and the South American Croton. Ancient sailors believed it truly was the blood of dragons slain by elephants. It has been used as a dye, varnish for Stradivarius violins, and a fiery potentiator in magic.",
+  "metaphysical": [
+   "protection",
+   "power",
+   "love",
+   "exorcism",
+   "banishing",
+   "courage",
+   "energy",
+   "domination"
+  ],
+  "medical": [
+   "wounds",
+   "skin",
+   "antiseptic"
+  ],
+  "metaphysicalUses": "Dragon's blood is the great amplifier: add a pinch to any incense to increase its potency. It is burned to drive out negative spirits and entities, carried for protection and good luck, and used to empower love spells. Women in Victorian folk practice burned it at an open window at night to bring back an absent lover. A stick placed under the bed is said to cure impotence, and its ink is used to write sigils, petitions and seals of power. In hoodoo it is a staple for both protection and commanding power.",
+  "medicalUses": "The resins have been used traditionally as wound dressings and astringents. South American sangre de drago (Croton lechleri) sap is applied in Amazonian folk medicine to cuts, insect bites and skin conditions, forming a protective film. Other dragon's blood resins are now used mainly for incense.",
+  "whereToFind": "Rattan dragon's blood is harvested from Daemonorops palms in Indonesia and Malaysia; Dracaena cinnabari grows only on the Yemeni island of Socotra and is vulnerable; Croton lechleri grows in the Amazon. Buy genuine resin chunks or powder (not dyed imitations) from incense shops, apothecaries and witch suppliers.",
+  "uses": [
+   "Add a pinch of powdered resin to any incense to amplify it",
+   "Make dragon's blood ink to write sigils and petitions",
+   "Burn the resin to banish harmful spirits from a house",
+   "Carry a chunk in a red bag for protection and courage",
+   "Burn at an open window at night to call back an absent lover",
+   "Dress red candles with resin powder for power and passion"
+  ],
+  "caution": "Resin smoke can irritate the lungs; burn in a well-ventilated room away from children, pets and people with asthma. If burning on charcoal, do it only in a well-ventilated room on a heatproof surface, never in a closed space, because burning charcoal gives off carbon monoxide. Not for internal use. Many products sold as dragon's blood are synthetic or dyed, and safety data exist mainly for the Croton lechleri sap, so do not apply unknown resins or inks to broken skin. Stains skin, fabric and surfaces.",
+  "toxic": false,
+  "interactions": "",
+  "pets": "",
+  "externalOnly": true,
+  "sources": [
+   "https://www.drugs.com/npp/dragon-s-blood.html",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/croton-lechleri",
+   "https://www.lung.org/blog/incense-burning-dangers",
+   "https://www.cpsc.gov/Newsroom/News-Releases/1999/CPSC-Warns-Never-Use-Charcoal-Grills-Indoors"
+  ]
+ },
+ {
+  "id": "herb-copal",
+  "name": "Copal",
+  "latin": "Bursera spp.; Protium copal; Hymenaea courbaril",
+  "folkNames": [
+   "Copal Blanco",
+   "Copal Oro",
+   "Copal Negro",
+   "Pom",
+   "Copalli"
+  ],
+  "planet": "Sun",
+  "element": "Fire",
+  "gender": "Masculine",
+  "deities": [
+   "Quetzalcoatl",
+   "Tlaloc",
+   "Chaac"
+  ],
+  "partsUsed": "resin",
+  "description": "A fragrant, pale gold to amber resin burned in Mesoamerica for thousands of years. The Maya called it pom and the Aztecs copalli, 'incense,' offering it to the gods atop temple pyramids. It is still burned today on Día de los Muertos altars to guide the spirits of the dead home.",
+  "metaphysical": [
+   "purification",
+   "love",
+   "protection",
+   "spirituality",
+   "ancestors",
+   "cleansing",
+   "consecration"
+  ],
+  "medical": [],
+  "metaphysicalUses": "Copal is a resin of purification and offering. Burn it to cleanse spaces, people and ritual tools, and as a sacred offering to ancestors, deities and spirits. It is the heart of many Day of the Dead and Mesoamerican ceremonies and is used in limpias (spiritual cleansings) by curanderas. Cunningham lists it for love and purification; a piece of copal can also stand in as a poppet heart. Its clean, bright smoke lifts the vibration of a room before any working.",
+  "medicalUses": "In traditional Mesoamerican medicine, copal smoke was used in healing ceremonies and some copal resins were applied to the skin or used for respiratory complaints. It is used today chiefly as incense.",
+  "whereToFind": "Native to Mexico, Central America and parts of South America, harvested by tapping the bark of copal trees. Buy from Mexican markets, botanicas, incense shops and fair-trade suppliers who source responsibly.",
+  "uses": [
+   "Burn copal on Día de los Muertos altars to guide ancestors home",
+   "Cleanse the house with copal smoke on the new moon",
+   "Offer a small piece to your ancestors or deities",
+   "Smoke-cleanse crystals and ritual tools",
+   "Use a copal piece as the heart of a love poppet",
+   "Burn before divination to purify the space"
+  ],
+  "caution": "Burn in a well-ventilated room; incense smoke releases fine particles and irritants that can worsen asthma and other lung conditions, so keep it away from infants, pets and people with breathing problems. If burning on charcoal, do it only in a well-ventilated room on a heatproof surface, never in a closed space, because burning charcoal gives off carbon monoxide. Never leave burning resin unattended. Not for internal use.",
+  "toxic": false,
+  "interactions": "",
+  "pets": "Keep smoke away from cats and birds, which have sensitive airways.",
+  "externalOnly": true,
+  "sources": [
+   "https://www.lung.org/blog/incense-burning-dangers",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC2377255/",
+   "https://www.cpsc.gov/Newsroom/News-Releases/1999/CPSC-Warns-Never-Use-Charcoal-Grills-Indoors",
+   "https://www.cdc.gov/carbon-monoxide/about/index.html"
+  ]
+ },
+ {
+  "id": "herb-benzoin",
+  "name": "Benzoin",
+  "latin": "Styrax benzoin; Styrax tonkinensis",
+  "folkNames": [
+   "Gum Benzoin",
+   "Siam Benzoin",
+   "Sumatra Benzoin",
+   "Benjamen",
+   "Friar's Balsam"
+  ],
+  "planet": "Sun",
+  "element": "Air",
+  "gender": "Masculine",
+  "deities": [],
+  "partsUsed": "resin",
+  "description": "A vanilla-sweet, balsamic resin from Styrax trees of Southeast Asia, prized since medieval times as incense and as the base of Friar's Balsam. Its warm scent was used to fumigate homes against evil spirits in Malaysia and Indonesia. In incense crafting it is also a famous fixative that holds other scents together.",
+  "metaphysical": [
+   "purification",
+   "prosperity",
+   "clarity",
+   "focus",
+   "energy",
+   "success",
+   "cleansing"
+  ],
+  "medical": [
+   "skin",
+   "congestion",
+   "cough",
+   "wounds"
+  ],
+  "metaphysicalUses": "Benzoin is burned as a purifier and is a frequent base of purification incense. Its smoke clears the mind and increases mental acuity, and in Mercurial and solar blends it aids focus and success. Benzoin, cinnamon and basil burned together attract customers to a business. It is also used to fix and preserve the scent of incenses and powders.",
+  "medicalUses": "Benzoin tincture (as Friar's Balsam or compound benzoin tincture) was traditionally applied to small cuts and cracked skin as a protective antiseptic, and inhaled in steam for chest colds, coughs and congestion.",
+  "whereToFind": "Native to Sumatra, Java, Thailand, Laos and Vietnam, harvested by tapping Styrax trees. Buy resin from incense shops, apothecaries and herb suppliers; benzoin tincture is available from pharmacies.",
+  "uses": [
+   "Burn benzoin, cinnamon and basil to draw customers to a business",
+   "Burn before study for mental clarity",
+   "Add to homemade incense as a fixative",
+   "Use as a base for purification incense",
+   "Add a few drops of benzoin tincture to steam for a chest cold (adults only; take care to avoid scalds)",
+   "Smoke-cleanse your workspace on a Wednesday for focus"
+  ],
+  "caution": "Benzoin is a fairly common cause of allergic contact dermatitis; patch test before applying the resin or tincture to skin, and stop if redness or itching develops. Benzoin tincture is alcohol-based and flammable, so keep it away from flames. Use steam inhalations only for adults and older children, with care to avoid scalds. Incense smoke can irritate the lungs; burn in a well-ventilated room. If burning on charcoal, do it only in a well-ventilated room on a heatproof surface, never in a closed space, because burning charcoal gives off carbon monoxide. Not for internal use.",
+  "toxic": false,
+  "interactions": "",
+  "pets": "Keep smoke away from cats and birds, which have sensitive airways.",
+  "externalOnly": true,
+  "sources": [
+   "https://pubmed.ncbi.nlm.nih.gov/12869042/",
+   "https://pubmed.ncbi.nlm.nih.gov/19444575/",
+   "https://www.lung.org/blog/incense-burning-dangers",
+   "https://www.cpsc.gov/Newsroom/News-Releases/1999/CPSC-Warns-Never-Use-Charcoal-Grills-Indoors"
+  ]
+ },
+ {
+  "id": "herb-cedar",
+  "name": "Cedar",
+  "latin": "Cedrus spp.; Thuja plicata; Juniperus virginiana",
+  "folkNames": [
+   "Cedarwood",
+   "Tree of Life",
+   "Arbor Vitae",
+   "Red Cedar",
+   "Atlas Cedar"
+  ],
+  "planet": "Sun",
+  "element": "Fire",
+  "gender": "Masculine",
+  "deities": [
+   "Wotan",
+   "Osiris",
+   "Baal",
+   "Ea"
+  ],
+  "partsUsed": "wood, needles/leaves, essential oil",
+  "description": "The name 'cedar' covers the great true cedars of Lebanon and the Atlas, as well as aromatic North American 'cedars' such as western red cedar and eastern red cedar. Solomon's temple was built of Lebanon cedar, Egyptians used its oil in mummification, and the Epic of Gilgamesh tells of a sacred cedar forest. Cedar smoke is also used in ceremonies by many Indigenous nations of North America.",
+  "metaphysical": [
+   "protection",
+   "purification",
+   "healing",
+   "money",
+   "spirituality",
+   "home blessing",
+   "grounding",
+   "longevity"
+  ],
+  "medical": [
+   "skin",
+   "congestion",
+   "antifungal",
+   "bug bites"
+  ],
+  "metaphysicalUses": "Cedar smoke purifies and is used to prevent bad dreams. A cedar stick hung in the home protects against lightning, and three small cedar pieces with points buried near the doorstep keep away evil. Cedar is placed in wallets and money jars to draw money, and kept in boxes to protect cherished items and magical tools. Its strong, long-lived wood lends steadiness and longevity to home blessings and ancestor work.",
+  "medicalUses": "In folk practice, cedar oils were diluted and rubbed on the chest for congestion and used on the scalp and skin for dandruff and fungal problems. Cedar wood and chips have long been used to repel moths and insects.",
+  "whereToFind": "True cedars grow in the mountains of the Mediterranean and Himalayas; western red cedar in the Pacific Northwest; eastern red cedar across eastern North America in fields and fencerows. Gather fallen twigs and needles respectfully. Cedar chips, wood and oil are sold at garden centers, pet stores, apothecaries and incense shops.",
+  "uses": [
+   "Burn cedar tips to purify a home and prevent bad dreams",
+   "Keep magical tools and tarot cards in a cedar box",
+   "Place a cedar chip in your wallet to draw money",
+   "Hang a cedar stick in the home for protection",
+   "Add cedar to house-blessing incense",
+   "Tuck cedar blocks among woollens to keep moths away"
+  ],
+  "caution": "Thuja (arborvitae, sold as 'cedar leaf') contains thujone, which can cause seizures, vomiting and death in overdose, and is likely unsafe in pregnancy and breastfeeding; never take cedar or thuja oil internally. Dilute cedar oils for skin use and avoid them in pregnancy and with seizure disorders. Cedar smoke and sawdust can irritate the lungs and trigger asthma, so burn in a well-ventilated room.",
+  "toxic": false,
+  "interactions": "Thuja may reduce the effectiveness of seizure medicines and immunosuppressants and may raise seizure risk with drugs such as bupropion or tramadol.",
+  "pets": "Keep the essential oil away from pets, especially cats; do not diffuse it where a cat cannot leave the room.",
+  "externalOnly": true,
+  "sources": [
+   "https://www.rxlist.com/supplements/thuja.htm",
+   "https://www.webmd.com/vitamins/ai/ingredientmono-1117/thuja",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC3290980/",
+   "https://www.lung.org/blog/incense-burning-dangers"
+  ]
+ },
+ {
+  "id": "herb-juniper",
+  "name": "Juniper",
+  "latin": "Juniperus communis",
+  "folkNames": [
+   "Gin Berry",
+   "Ginepro",
+   "Enebro",
+   "Gemeiner Wachholder",
+   "Saffern"
+  ],
+  "planet": "Sun",
+  "element": "Fire",
+  "gender": "Masculine",
+  "deities": [
+   "Holda",
+   "Frau Holle"
+  ],
+  "partsUsed": "berries (cones), needles, wood",
+  "description": "A prickly, blue-berried evergreen of heaths and mountainsides whose berries flavor gin. In Scotland, juniper was burned at Hogmanay in the 'saining' ritual to purify homes and livestock for the new year. European folklore says juniper sheltered the Holy Family, and in German lore it is the home of the gentle Frau Holle.",
+  "metaphysical": [
+   "protection",
+   "purification",
+   "exorcism",
+   "healing",
+   "love",
+   "banishing",
+   "cleansing",
+   "new beginnings"
+  ],
+  "medical": [
+   "digestion",
+   "bloating",
+   "muscle pain",
+   "diuretic"
+  ],
+  "metaphysicalUses": "Juniper is an ancient protective and purifying herb. Burn the branches and berries to cleanse a home in the Scottish saining tradition, especially at New Year, and hang a sprig by the door to guard against evil forces and thieves. Juniper berries carried attract lovers and increase male potency, and are used in healing and exorcism incense. A juniper smudge bundle is a beautiful local alternative to white sage across much of the Northern Hemisphere.",
+  "medicalUses": "Juniper berries were traditionally used in small amounts as a digestive for gas and bloating and as a diuretic for water retention. Infused juniper oil was rubbed into aching joints and sore muscles.",
+  "whereToFind": "Native across the Northern Hemisphere, growing on heaths, moors, rocky hillsides and open woodland. Pick ripe, blue-black berries (they take two to three years to ripen) in autumn, leaving plenty for wildlife. Dried berries are sold in spice shops; juniper shrubs at garden centers.",
+  "uses": [
+   "Burn juniper branches at New Year to sain and bless the home",
+   "Hang a sprig over the door for protection against thieves",
+   "Carry juniper berries in a love sachet",
+   "Bundle juniper into smoke wands as a local sage alternative",
+   "Add crushed berries to protective incense",
+   "Cook with a few berries to aid digestion of rich game dishes"
+  ],
+  "caution": "Avoid in pregnancy (it may cause miscarriage) and while breastfeeding, and with kidney disease or inflammation, since large or prolonged doses can irritate the kidneys. Do not use medicinally for more than a few weeks, and never take the essential oil internally. It may affect blood sugar, so people with diabetes should monitor closely. Some juniper species (such as Juniperus sabina, savin) are toxic; use only Juniperus communis berries for culinary purposes. Burn branches only in a well-ventilated room.",
+  "toxic": false,
+  "interactions": "May affect blood sugar control with diabetes medicines and, as a diuretic, may affect lithium levels and add to water pills.",
+  "pets": "",
+  "externalOnly": false,
+  "sources": [
+   "https://www.drugs.com/npp/juniper.html",
+   "https://www.rxlist.com/supplements/juniper.htm",
+   "https://www.ema.europa.eu/en/documents/herbal-report/final-assessment-report-juniperus-communis-l-pseudo-fructus-galbulus-revision-1_en.pdf"
+  ]
+ },
+ {
+  "id": "herb-pine",
+  "name": "Pine",
+  "latin": "Pinus spp. (Pinus sylvestris, Pinus strobus)",
+  "folkNames": [
+   "Scotch Pine",
+   "White Pine",
+   "Pin",
+   "Tree of Peace",
+   "Pineapple (cones)"
+  ],
+  "planet": "Mars",
+  "element": "Air",
+  "gender": "Masculine",
+  "deities": [
+   "Attis",
+   "Cybele",
+   "Dionysus",
+   "Pan",
+   "Poseidon",
+   "Sylvanus",
+   "Venus"
+  ],
+  "partsUsed": "needles, resin, cones, bark",
+  "description": "The evergreen sentinel of northern forests, whose green needles promise life through the darkest winter. Pine was sacred to Attis and Dionysus, whose thyrsus wand was crowned with a pinecone, and the Haudenosaunee call the white pine the Tree of Peace. Bringing pine boughs indoors at Yule is a custom far older than Christmas.",
+  "metaphysical": [
+   "healing",
+   "fertility",
+   "purification",
+   "protection",
+   "money",
+   "exorcism",
+   "new beginnings",
+   "strength"
+  ],
+  "medical": [
+   "colds",
+   "cough",
+   "congestion",
+   "immune support",
+   "muscle pain"
+  ],
+  "metaphysicalUses": "Pine is burned to purify and cleanse a home, especially in winter. Its boughs and needles are scattered on the floor to drive away evil and spread under the bed to keep illness away. Pinecones are carried to increase fertility and vigor in old age. Pine-needle baths cleanse and invigorate, and a cross of pine placed before the fireplace keeps evil from entering. Pine is also used in money spells, and its resin is burned at Yule for renewal and new beginnings.",
+  "medicalUses": "Pine-needle tea, rich in vitamin C, was a traditional remedy against scurvy and winter colds, and pine steam and syrups were used for coughs and congestion. Pine resin salves were applied to splinters, sore muscles and small wounds.",
+  "whereToFind": "Native throughout the Northern Hemisphere in forests, mountains and sandy soils. Gather fallen cones, needles and seeping resin from healthy trees without wounding them. Pine resin and oil are sold by incense and soap suppliers; needles can be foraged year-round.",
+  "uses": [
+   "Burn pine needles or resin at Yule for renewal",
+   "Scatter needles across the threshold to drive away evil",
+   "Carry a small pinecone for fertility and vigor",
+   "Take a pine-needle bath to cleanse and invigorate",
+   "Brew a vitamin-rich pine-needle tea in winter (correctly identified species only, and never during pregnancy)",
+   "Add pine to money-drawing incense"
+  ],
+  "caution": "Never confuse pine with yew (Taxus), which is deadly, or with other lookalikes; only drink tea from a positively identified edible species such as eastern white pine. Ponderosa pine needles cause abortion in cattle and harmed pregnancies in animal studies, so avoid pine-needle teas entirely during pregnancy. Pine essential oil must be diluted and never swallowed; some people are allergic to pine resin (colophony). Burn needles or resin only in a well-ventilated room.",
+  "toxic": false,
+  "interactions": "",
+  "pets": "Pine oil is toxic to cats; never diffuse it around them. Keep pets from chewing needles, which can upset the stomach.",
+  "externalOnly": false,
+  "sources": [
+   "https://www.webmd.com/diet/what-to-know-pine-needle-tea",
+   "https://pubmed.ncbi.nlm.nih.gov/1526928/",
+   "https://pubmed.ncbi.nlm.nih.gov/870285/",
+   "https://www.webmd.com/vitamins/ai/ingredientmono-802/yew",
+   "https://www.petpoisonhelpline.com/uncategorized/essential-oils-cats/"
+  ]
+ },
+ {
+  "id": "herb-eucalyptus",
+  "name": "Eucalyptus",
+  "latin": "Eucalyptus globulus",
+  "folkNames": [
+   "Blue Gum",
+   "Stringy Bark Tree",
+   "Fever Tree",
+   "Gum Tree"
+  ],
+  "planet": "Moon",
+  "element": "Water",
+  "gender": "Feminine",
+  "deities": [],
+  "partsUsed": "leaves, essential oil",
+  "description": "A towering, silver-blue Australian tree whose leaves are rich in a cool, clearing oil. Aboriginal Australians used its leaves for healing for thousands of years, and koalas feed on little else. Its sharp, camphorous scent sweeps through the head like a cold wind.",
+  "metaphysical": [
+   "healing",
+   "protection",
+   "purification",
+   "cleansing",
+   "health",
+   "clarity"
+  ],
+  "medical": [
+   "congestion",
+   "colds",
+   "cough",
+   "muscle pain",
+   "antiseptic",
+   "bug bites"
+  ],
+  "metaphysicalUses": "Eucalyptus is a healing herb. Its leaves are stuffed into healing poppets and sachets, and green candles ringed with eucalyptus leaves are burned for health. Hang a bundle in the shower to purify while bathing, and carry the leaves for protection. Eucalyptus is used to cleanse sickrooms of lingering illness and to clear the mind for fresh perspective.",
+  "medicalUses": "Eucalyptus steam inhalations and chest rubs are classic folk remedies for colds, coughs, sinus congestion and bronchitis. The diluted oil was also used on aching muscles and as an antiseptic and insect repellent.",
+  "whereToFind": "Native to Australia and Tasmania, now planted widely in warm regions such as California and the Mediterranean, where it can be invasive. Grows in pots in cooler climates. Fresh eucalyptus bunches are sold by florists and grocers; oil and dried leaves at pharmacies and apothecaries.",
+  "uses": [
+   "Hang a bunch of eucalyptus in the shower to purify while bathing",
+   "Ring a green healing candle with eucalyptus leaves",
+   "Stuff leaves into a healing poppet for a loved one",
+   "Add 1 to 2 drops of oil to a steam bowl for a stuffy head (adults only; keep the oil and hot water away from children)",
+   "Cleanse a sickroom with eucalyptus after illness",
+   "Carry a leaf for protection when you feel run down"
+  ],
+  "caution": "Eucalyptus oil is poisonous if swallowed: a teaspoon or less can be fatal, and small amounts can cause seizures in children. Never swallow it, keep it out of children's reach, and do not use it on or near the faces of children under 2 or let children near vaporizer liquid. Dilute for skin and keep it out of the eyes. Avoid medicinal use in pregnancy and breastfeeding.",
+  "toxic": true,
+  "interactions": "Medicinal amounts may lower blood sugar and add to diabetes medicines; the oil may change how the liver processes some drugs.",
+  "pets": "Eucalyptus is toxic to cats, dogs and horses (drooling, vomiting, diarrhea, weakness); do not diffuse the oil around pets.",
+  "externalOnly": true,
+  "sources": [
+   "https://www.poison.org/articles/eucalyptus-oil",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/eucalyptus",
+   "https://www.webmd.com/vitamins-supplements/eucalyptus",
+   "https://www.petpoisonhelpline.com/poison/eucalyptus/"
+  ]
+ },
+ {
+  "id": "herb-elder",
+  "name": "Elder",
+  "latin": "Sambucus nigra",
+  "folkNames": [
+   "Elder Mother",
+   "Lady Ellhorn",
+   "Pipe Tree",
+   "Bour Tree",
+   "Hylder",
+   "Old Lady",
+   "Witch's Tree",
+   "Hollunder"
+  ],
+  "planet": "Venus",
+  "element": "Water",
+  "gender": "Feminine",
+  "deities": [
+   "Holda",
+   "Hulda",
+   "Venus",
+   "the Elder Mother"
+  ],
+  "partsUsed": "flowers, ripe berries (cooked), wood (for wands)",
+  "description": "A shrubby tree of hedgerows and woodland edges, frothing with creamy blossom in early summer and heavy with purple-black berries in autumn. Folk across Europe believed the Elder Mother dwelt within it, and that one must ask her permission before cutting a single twig. To burn elder wood was thought to invite the devil, and to stand beneath it on Midsummer Eve was to see the faery king pass by.",
+  "metaphysical": [
+   "protection",
+   "exorcism",
+   "faery",
+   "healing",
+   "prosperity",
+   "sleep",
+   "blessing",
+   "spirit work"
+  ],
+  "medical": [
+   "colds",
+   "fever",
+   "immune support",
+   "cough",
+   "skin"
+  ],
+  "metaphysicalUses": "Elder is the witch's tree. Hang elder over doors and windows to keep evil out, and plant it near the home for protection. Wands made from elder wood are powerful for exorcising spirits and for faery magic, but always ask the Elder Mother's leave before cutting, and leave an offering. Elderflowers are scattered at weddings for blessing, and the leaves are traditionally carried against harm. Sit beneath an elder on Midsummer Eve to see the Fair Folk, and place its leaves under the pillow for peaceful sleep.",
+  "medicalUses": "Elderflower tea, often with yarrow and peppermint, is a traditional remedy for colds, flu and fevers, bringing on a cleansing sweat. Properly cooked elderberry syrup is a folk favorite for coughs and winter immune support. Cooled elderflower water was used as a gentle skin wash.",
+  "whereToFind": "Native to Europe, western Asia and North Africa (with American elder, Sambucus canadensis, in North America), growing in hedgerows, woodland edges, riverbanks and disturbed ground. Pick flowers on dry sunny mornings in early summer and ripe, fully dark berries in late summer, always leaving some for birds. Dried flowers and berries are sold at apothecaries and health food stores.",
+  "uses": [
+   "Ask the Elder Mother's permission, leave an offering, then cut a twig for a wand",
+   "Hang elder sprigs over doors and windows for protection",
+   "Make cooked elderberry syrup with honey for winter colds (never give honey to babies under 1 year)",
+   "Brew elderflower, yarrow and peppermint tea at the first sign of fever",
+   "Scatter elderflowers at a handfasting for blessing",
+   "Sit beneath an elder on Midsummer Eve to commune with the Fair Folk"
+  ],
+  "caution": "Raw or unripe elderberries, leaves, stems, bark and roots contain cyanide-producing compounds and can cause nausea, vomiting and severe diarrhea; always cook berries thoroughly and remove all stems. Use only black or blue elder; red elder (Sambucus racemosa) berries are more toxic. Little is known about safety in pregnancy and breastfeeding. Because elder may stimulate the immune system, consult a healthcare provider before use with autoimmune conditions or immunosuppressants. Never give honey or honey-based syrups to babies under 1 year old (risk of infant botulism).",
+  "toxic": false,
+  "interactions": "May, in theory, counteract immunosuppressant drugs and add to the effects of diuretics and diabetes medicines.",
+  "pets": "",
+  "externalOnly": false,
+  "sources": [
+   "https://www.nccih.nih.gov/health/elderberry",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/elderberry-01",
+   "https://www.cdc.gov/mmwr/preview/mmwrhtml/00000311.htm",
+   "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html"
+  ]
+ }
+]

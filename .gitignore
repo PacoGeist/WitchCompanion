@@ -1,7 +1,14 @@
-# never publish the signing key or local builds
+# never publish the signing key, private backups or local builds
 *.keystore
 *.jks
 key.properties
+*.zip
 *.apk
 *.idsig
 android/build/
+dist/
+preview/
+shots/
+notes.md
+__pycache__/
+node_modules/

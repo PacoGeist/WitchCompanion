@@ -1,0 +1,387 @@
+[
+ {
+  "id": "sigil-algiz",
+  "name": "Algiz",
+  "origin": "Elder Futhark rune",
+  "description": "Algiz, the elk-sedge or elk rune, is shaped like an elk's antlers or a figure raising its arms to the gods. It is the foremost rune of protection and divine connection in modern rune magic. Its upward-reaching branches suggest a shield held aloft and a channel opened to higher powers.",
+  "metaphysical": [
+   "protection",
+   "spirituality",
+   "courage",
+   "spirit work",
+   "blessing"
+  ],
+  "directions": "Carve or paint Algiz on doorframes, candles, amulets or the inside of a coat. Charge it by tracing it in the air with your dominant hand, breathing onto it, and visualizing a shimmering shield. Best charged on a Sunday or during the waxing moon, and renewed whenever you feel exposed.",
+  "intention": "Algiz, antlers raised, shield me on every road; what means me harm cannot pass.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><line x1='50' y1='14' x2='50' y2='86'/><line x1='50' y1='46' x2='26' y2='20'/><line x1='50' y1='46' x2='74' y2='20'/></svg>"
+ },
+ {
+  "id": "sigil-fehu",
+  "name": "Fehu",
+  "origin": "Elder Futhark rune",
+  "description": "Fehu means cattle, the movable wealth of the ancient Norse world. It is the first rune of the Futhark and governs earned prosperity, fresh starts and wealth that circulates. Fehu reminds that riches are meant to flow and be shared, not hoarded.",
+  "metaphysical": [
+   "money",
+   "prosperity",
+   "abundance",
+   "new beginnings",
+   "success"
+  ],
+  "directions": "Draw Fehu in green ink on a slip of paper and keep it in your wallet, cash box or business ledger. Charge it on a Thursday or Friday during the waxing moon by holding it over a green candle and naming your financial goal. Re-draw it when the old one is worn.",
+  "intention": "Fehu, first of runes, bring wealth that flows and grows, and let me share it well.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><line x1='38' y1='14' x2='38' y2='86'/><line x1='38' y1='38' x2='66' y2='18'/><line x1='38' y1='58' x2='66' y2='38'/></svg>"
+ },
+ {
+  "id": "sigil-uruz",
+  "name": "Uruz",
+  "origin": "Elder Futhark rune",
+  "description": "Uruz is the rune of the aurochs, the great wild ox of old Europe. It embodies raw vitality, endurance and untamed physical strength. Rune workers call upon it for healing, stamina and the will to push through hardship.",
+  "metaphysical": [
+   "strength",
+   "health",
+   "vitality",
+   "courage",
+   "healing"
+  ],
+  "directions": "Trace Uruz on your skin with oil before exercise or a demanding day, or carve it into a red or orange candle for healing work. Charge it while standing firmly, feet planted, breathing deeply into the belly. Work it on a Tuesday or at the full moon.",
+  "intention": "Uruz, wild and unbroken, fill my body with strength and my spirit with endurance.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><polyline points='32,86 32,14 68,40 68,86'/></svg>"
+ },
+ {
+  "id": "sigil-sowilo",
+  "name": "Sowilo",
+  "origin": "Elder Futhark rune",
+  "description": "Sowilo is the sun rune, a bolt of light breaking through cloud. It brings victory, wholeness, health and guidance, the sun as a beacon on the sea. Its lightning shape also lends sudden clarity and success.",
+  "metaphysical": [
+   "success",
+   "victory",
+   "sun magic",
+   "health",
+   "clarity",
+   "confidence"
+  ],
+  "directions": "Draw Sowilo in gold or yellow and place it in a sunny window, on a vision board, or beneath a gold candle. Charge it at noon on a Sunday by holding it up to the sunlight. Carry it to interviews, exams or competitions.",
+  "intention": "Sowilo, sun-bright, light my way and crown my efforts with victory.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><polyline points='62,14 36,44 64,56 38,86'/></svg>"
+ },
+ {
+  "id": "sigil-tiwaz",
+  "name": "Tiwaz",
+  "origin": "Elder Futhark rune",
+  "description": "Tiwaz is the spear-point rune of Tyr, the one-handed god of law and honorable sacrifice. It stands for justice, courage, right action and victory in a fair fight. Warriors are said to have carved it on their weapons.",
+  "metaphysical": [
+   "justice",
+   "courage",
+   "victory",
+   "legal matters",
+   "strength"
+  ],
+  "directions": "Mark Tiwaz on legal papers (in pencil or invisible oil), on a red candle, or on a charm carried to court or a confrontation. Charge it on a Tuesday by pointing upward and declaring your cause. Use only for fair and honest causes.",
+  "intention": "Tyr's spear, true and straight, let justice be done and my courage hold.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><line x1='50' y1='14' x2='50' y2='86'/><polyline points='28,38 50,14 72,38'/></svg>"
+ },
+ {
+  "id": "sigil-berkano",
+  "name": "Berkano",
+  "origin": "Elder Futhark rune",
+  "description": "Berkano is the birch rune, the rune of the birch goddess and the mother. It governs fertility, birth, nurturing, healing and new growth. Its shape echoes the breasts or the pregnant belly, a symbol of shelter and renewal.",
+  "metaphysical": [
+   "fertility",
+   "new beginnings",
+   "healing",
+   "home blessing",
+   "emotional healing"
+  ],
+  "directions": "Draw Berkano on a birch twig, seed packet or cradle charm, or carve it into a green candle. Charge it during the waxing moon or in spring, holding it to your heart. Place it in a garden, nursery or by the bed.",
+  "intention": "Birch mother, Berkano, let what is planted grow, and hold what is tender safe.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><line x1='36' y1='14' x2='36' y2='86'/><polyline points='36,14 64,32 36,50 64,68 36,86'/></svg>"
+ },
+ {
+  "id": "sigil-othala",
+  "name": "Othala",
+  "origin": "Elder Futhark rune",
+  "description": "Othala is the rune of ancestral land and inheritance, the enclosed homestead passed down the generations. It speaks of belonging, heritage, family wealth and the protection of the home. It also connects the worker with the wisdom of the ancestors.",
+  "metaphysical": [
+   "ancestors",
+   "home blessing",
+   "prosperity",
+   "protection",
+   "grounding"
+  ],
+  "directions": "Draw Othala above the hearth or front door, on an ancestor altar, or on a stone buried at the corner of your property. Charge it on a Saturday by touching it to earth or soil from your land and calling on your beloved dead.",
+  "intention": "Othala, home of my fathers and mothers, keep this house whole and my roots deep.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><path d='M30 86 L72 42 L50 14 L28 42 L70 86'/></svg>"
+ },
+ {
+  "id": "sigil-ansuz",
+  "name": "Ansuz",
+  "origin": "Elder Futhark rune",
+  "description": "Ansuz is the rune of the Aesir and of Odin, the god of words, breath and inspiration. It governs communication, wisdom, poetry, magical speech and messages from the divine. Galdr, the chanting of runes, belongs to Ansuz.",
+  "metaphysical": [
+   "communication",
+   "wisdom",
+   "divination",
+   "knowledge",
+   "clarity"
+  ],
+  "directions": "Draw Ansuz before writing, speaking in public, studying or reading runes. Trace it on your throat with oil or place it under a blue candle. Charge it on a Wednesday by chanting its name, \"ahn-sooz\", nine times.",
+  "intention": "Ansuz, breath of Odin, give my words wisdom and open my ears to the gods.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><line x1='38' y1='14' x2='38' y2='86'/><line x1='38' y1='14' x2='66' y2='34'/><line x1='38' y1='34' x2='66' y2='54'/></svg>"
+ },
+ {
+  "id": "sigil-bindrune-protection",
+  "name": "Protection Bindrune",
+  "origin": "Norse bindrune (Algiz + Thurisaz)",
+  "description": "This bindrune joins Algiz, the warding antlers, with Thurisaz, the thorn of Thor, mirrored on both sides of a single stave. Algiz raises the shield while the twin thorns strike back at anything that breaches it. It is a fierce, active ward for people and homes.",
+  "metaphysical": [
+   "protection",
+   "banishing",
+   "strength",
+   "courage",
+   "hex breaking"
+  ],
+  "directions": "Carve or paint it on a wooden disc, above doors and windows, or on a black or red candle. Charge it by tracing each rune separately while naming it, then trace the whole bindrune once more as one sign. Renew it monthly at the dark or full moon.",
+  "intention": "Antler and thorn, shield and strike: none who wish me harm shall pass.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><line x1='50' y1='12' x2='50' y2='88'/><line x1='50' y1='42' x2='26' y2='16'/><line x1='50' y1='42' x2='74' y2='16'/><polyline points='50,52 70,66 50,80'/><polyline points='50,52 30,66 50,80'/></svg>"
+ },
+ {
+  "id": "sigil-bindrune-prosperity",
+  "name": "Prosperity Bindrune",
+  "origin": "Norse bindrune (Fehu + Jera + Othala)",
+  "description": "Fehu brings wealth, Jera, the rune of harvest, brings reward in its proper season, and Othala anchors abundance in the home for the long term. Bound to one stave, they form a sign for steady, lasting prosperity. It favors patient growth over sudden windfalls.",
+  "metaphysical": [
+   "prosperity",
+   "money",
+   "abundance",
+   "success",
+   "home blessing"
+  ],
+  "directions": "Draw it in green or gold on paper and keep it in a money jar, cash register or business notebook. Charge it at the new moon and feed it each waxing moon with a coin or a pinch of cinnamon. Let it work slowly, like a harvest.",
+  "intention": "Wealth to come, harvest to gather, home to hold it: so may my fortune grow.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><line x1='50' y1='10' x2='50' y2='90'/><line x1='50' y1='26' x2='70' y2='12'/><line x1='50' y1='40' x2='70' y2='26'/><path d='M58 90 L32 64 L50 46 L68 64 L42 90'/><polyline points='40,14 28,27 40,40'/><polyline points='74,36 86,48 74,60'/></svg>"
+ },
+ {
+  "id": "sigil-pentacle",
+  "name": "Pentacle",
+  "origin": "Traditional Western occult symbol",
+  "description": "The pentacle is the five-pointed star enclosed in a circle, the emblem of modern witchcraft. Its points stand for earth, air, fire, water and spirit, with spirit at the summit, bound together and protected by the circle. It is used for protection, consecration and as an altar tool.",
+  "metaphysical": [
+   "protection",
+   "balance",
+   "consecration",
+   "blessing",
+   "power"
+  ],
+  "directions": "Draw or engrave it on an altar tile, wear it as a pendant, or trace it in the air at the four quarters when casting a circle. To consecrate, pass it through incense smoke, a candle flame, a sprinkle of water and a pinch of salt. Keep the single point upward.",
+  "intention": "Earth, air, fire, water and spirit, bound in the circle: guard me and bless my work.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><circle cx='50' cy='50' r='40'/><polygon points='50,10 73.51,82.36 11.96,37.64 88.04,37.64 26.49,82.36'/></svg>"
+ },
+ {
+  "id": "sigil-triple-moon",
+  "name": "Triple Moon",
+  "origin": "Modern pagan goddess symbol",
+  "description": "The waxing crescent, full moon and waning crescent stand side by side as Maiden, Mother and Crone. The Triple Moon honors the cycles of the moon and of life itself. It is used in moon magic, feminine mysteries and goddess devotion.",
+  "metaphysical": [
+   "moon magic",
+   "spirituality",
+   "psychic powers",
+   "transformation",
+   "fertility"
+  ],
+  "directions": "Draw it in silver on a moon-water jar, an altar cloth or a journal. Charge it outdoors under the full moon, holding it up to the light. Use the waxing side for growth, the full disc for power, and the waning side for release.",
+  "intention": "Maiden, Mother, Crone, light upon light: guide me through every turning of the moon.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><path d='M36.75 33.31 A18 18 0 1 0 36.75 66.69 A17 17 0 0 1 36.75 33.31Z'/><circle cx='50' cy='50' r='14'/><path d='M63.25 33.31 A18 18 0 1 1 63.25 66.69 A17 17 0 0 0 63.25 33.31Z'/></svg>"
+ },
+ {
+  "id": "sigil-hecates-wheel",
+  "name": "Hecate's Wheel",
+  "origin": "Greek strophalos, modern Hellenic and witchcraft symbol",
+  "description": "Hecate's Wheel, or Strophalos, is a labyrinth-spiral within a circle, linked in the Chaldean Oracles to the goddess Hecate. It represents the winding path of knowledge, the crossroads and the power of the triple goddess. Here it is drawn as a simplified spiral labyrinth.",
+  "metaphysical": [
+   "wisdom",
+   "spirit work",
+   "divination",
+   "transformation",
+   "protection"
+  ],
+  "directions": "Draw it on a crossroads offering plate, on a black candle, or on the cover of a book of shadows. Trace the spiral inward to seek wisdom and outward to carry it into the world. Work it at the dark moon, especially on November 16 (Hecate's Night) or the 30th of each month.",
+  "intention": "Hecate, keeper of keys and crossroads, light my way through the labyrinth.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><circle cx='50' cy='50' r='40'/><path d='M50 50 A4 4 0 0 1 42 50 A8 8 0 0 1 58 50 A12 12 0 0 1 34 50 A16 16 0 0 1 66 50 A20 20 0 0 1 26 50 A24 24 0 0 1 74 50 A28 28 0 0 1 18 50 A32 32 0 0 1 82 50'/><circle cx='50' cy='50' r='2.5' fill='currentColor'/></svg>"
+ },
+ {
+  "id": "sigil-triquetra",
+  "name": "Triquetra",
+  "origin": "Celtic and Norse knotwork",
+  "description": "The triquetra, or trinity knot, is formed from three interlocking vesicas, often woven with a circle. It appears on Insular manuscripts and Norse stones, and in modern craft stands for the triple goddess, land-sea-sky, or mind-body-spirit. Its endless line speaks of unity and eternity.",
+  "metaphysical": [
+   "protection",
+   "balance",
+   "spirituality",
+   "fidelity",
+   "blessing"
+  ],
+  "directions": "Draw it in one continuous meditative motion where possible, then add the circle. Use it on talismans, handfasting cords or a book of shadows. Charge it with three breaths, one for each point.",
+  "intention": "Three in one and one in three, bound and blessed eternally.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><path d='M17.09 76 A32.91 32.91 0 0 1 66.45 47.5 A32.91 32.91 0 0 1 17.09 76'/><path d='M50 19 A32.91 32.91 0 0 1 50 76 A32.91 32.91 0 0 1 50 19'/><path d='M82.91 76 A32.91 32.91 0 0 1 33.55 47.5 A32.91 32.91 0 0 1 82.91 76'/><circle cx='50' cy='57' r='23'/></svg>"
+ },
+ {
+  "id": "sigil-protective-eye",
+  "name": "Protective Eye",
+  "origin": "Inspired by the Egyptian Eye of Horus (wedjat), simplified geometric form",
+  "description": "The wedjat eye of Horus was among the most common amulets of ancient Egypt, symbolizing healing, wholeness and royal protection. This simplified geometric eye keeps the brow, the teardrop line and the curling marking beneath. It watches over the bearer and turns back the evil eye.",
+  "metaphysical": [
+   "protection",
+   "healing",
+   "psychic powers",
+   "hex breaking",
+   "clarity"
+  ],
+  "directions": "Draw it above an entrance, on a mirror, or on a blue or gold candle. Charge it by gazing into its pupil and declaring what it should watch over. Wear it, or place it facing outward toward the source of envy or ill will.",
+  "intention": "Eye that never sleeps, see all that comes, and turn every ill gaze away.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><path d='M14 50 Q50 20 86 50 Q50 80 14 50Z'/><circle cx='50' cy='50' r='11'/><circle cx='50' cy='50' r='4' fill='currentColor'/><path d='M18 32 Q50 12 82 32'/><path d='M46 64 L42 86'/><path d='M58 63 Q70 84 80 76 Q86 70 78 66'/></svg>"
+ },
+ {
+  "id": "sigil-witchs-knot",
+  "name": "Witch's Knot",
+  "origin": "Traditional folk mark (European)",
+  "description": "The witch's knot is four interlaced loops woven around a circle, scratched on doors and cradles in folk practice to ward off malevolent witchcraft. It is also a binding knot, symbolizing a spell tied fast. Its interlacing represents the four directions and the elements caught in one weave.",
+  "metaphysical": [
+   "protection",
+   "binding",
+   "hex breaking",
+   "home blessing",
+   "power"
+  ],
+  "directions": "Scratch or chalk it on a doorstep, window frame or under furniture, or tie it in cord for knot magic. Charge it by tracing the loops slowly while naming what you bind or ward against. Renew it after any conflict or unwanted visitor.",
+  "intention": "Knot of four, bound fast and sure, no harm shall cross this door.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><path d='M50 12 A58.57 58.57 0 0 1 50 88 A58.57 58.57 0 0 1 50 12'/><path d='M12 50 A58.57 58.57 0 0 1 88 50 A58.57 58.57 0 0 1 12 50'/><circle cx='50' cy='50' r='21'/></svg>"
+ },
+ {
+  "id": "sigil-hexafoil",
+  "name": "Hexafoil (Daisy Wheel)",
+  "origin": "Traditional apotropaic mark (ritual protection mark)",
+  "description": "The hexafoil, or daisy wheel, is a six-petalled rosette drawn with a compass inside a circle. It is the most common ritual protection mark found carved in medieval and early modern churches, barns and houses, thought to trap evil spirits in its endless lines. Its construction uses only circle arcs of one radius.",
+  "metaphysical": [
+   "protection",
+   "home blessing",
+   "banishing",
+   "blessing",
+   "luck"
+  ],
+  "directions": "Draw it with a compass, a string and pencil, or freehand, on a beam, door, hearth or windowsill, or on a card placed near the entrance. Its traditional power lies in the unbroken lines, so draw it carefully and completely. Charge it with your breath and a word of warding.",
+  "intention": "Endless petals, endless line, catch the evil, keep what is mine.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><circle cx='50' cy='50' r='38'/><path d='M50 50 A38 38 0 0 1 50 12 A38 38 0 0 1 50 50'/><path d='M50 50 A38 38 0 0 1 82.91 31 A38 38 0 0 1 50 50'/><path d='M50 50 A38 38 0 0 1 82.91 69 A38 38 0 0 1 50 50'/><path d='M50 50 A38 38 0 0 1 50 88 A38 38 0 0 1 50 50'/><path d='M50 50 A38 38 0 0 1 17.09 69 A38 38 0 0 1 50 50'/><path d='M50 50 A38 38 0 0 1 17.09 31 A38 38 0 0 1 50 50'/></svg>"
+ },
+ {
+  "id": "sigil-seal-of-solomon",
+  "name": "Seal of Solomon",
+  "origin": "Solomonic and Hermetic tradition",
+  "description": "The Seal of Solomon is the interlaced hexagram of an upward and a downward triangle, said in legend to be engraved on King Solomon's ring, giving him command over spirits. It joins fire and water, heaven and earth, as above so below. It is used for protection, spirit command and balance.",
+  "metaphysical": [
+   "protection",
+   "spirit work",
+   "balance",
+   "power",
+   "wisdom"
+  ],
+  "directions": "Draw it on parchment or engrave it on a ring or disc, and place it in spirit work or under the altar. Charge it on a Saturday, passing it through frankincense smoke. Contemplate the meeting of the two triangles to restore balance.",
+  "intention": "As above, so below; seal of the wise, guard me and grant me command of my path.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><circle cx='50' cy='50' r='40'/><polygon points='50,10 84.64,70 15.36,70'/><polygon points='50,90 15.36,30 84.64,30'/></svg>"
+ },
+ {
+  "id": "sigil-alchemical-elements",
+  "name": "Alchemical Elements",
+  "origin": "Alchemical symbols",
+  "description": "The four classical elements in alchemical notation: Fire as an upward triangle, Water as a downward triangle, Air as an upward triangle crossed by a line, and Earth as a downward triangle crossed by a line. Together they form a key to balance and transformation. Each may be drawn alone to call upon that element.",
+  "metaphysical": [
+   "balance",
+   "transformation",
+   "energy",
+   "grounding",
+   "power"
+  ],
+  "directions": "Use the whole set on an altar to call the quarters, or draw a single symbol to strengthen one element: fire for passion and courage, water for emotion and intuition, air for thought and communication, earth for stability and money. Charge each with its element: a flame, a drop of water, a breath, a pinch of soil.",
+  "intention": "Fire and water, air and earth, in balance within me, transform and give birth.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><polygon points='29,12.52 45,40.24 13,40.24'/><polygon points='71,47.48 87,19.76 55,19.76'/><polygon points='29,54.52 45,82.24 13,82.24'/><line x1='16' y1='68.38' x2='42' y2='68.38'/><polygon points='71,89.48 87,61.76 55,61.76'/><line x1='58' y1='75.62' x2='84' y2='75.62'/></svg>"
+ },
+ {
+  "id": "sigil-sun-cross",
+  "name": "Sun Cross",
+  "origin": "Prehistoric solar symbol (wheel cross)",
+  "description": "The sun cross, an equal-armed cross within a circle, is one of humanity's oldest symbols, found on Bronze Age carvings across Europe. It represents the sun, the wheel of the year with its solstices and equinoxes, and the four directions. It brings balance, order and solar blessing.",
+  "metaphysical": [
+   "sun magic",
+   "balance",
+   "protection",
+   "blessing",
+   "success"
+  ],
+  "directions": "Draw it in chalk on the hearth or threshold at the solstices and equinoxes, or on a yellow candle. Charge it at sunrise facing east. Use it to mark sacred space and to invoke the turning year.",
+  "intention": "Wheel of the sun, turn in my favor; bless the four corners of my life.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><circle cx='50' cy='50' r='38'/><line x1='50' y1='12' x2='50' y2='88'/><line x1='12' y1='50' x2='88' y2='50'/></svg>"
+ },
+ {
+  "id": "sigil-ankh",
+  "name": "Ankh",
+  "origin": "Ancient Egyptian hieroglyph",
+  "description": "The ankh is the Egyptian hieroglyph for life, carried by deities who hold it to the lips of pharaohs as the breath of life. It symbolizes vitality, immortality and the union of opposites. Modern practitioners use it for healing, longevity and blessing.",
+  "metaphysical": [
+   "health",
+   "longevity",
+   "vitality",
+   "healing",
+   "spirituality"
+  ],
+  "directions": "Draw it on a healing jar, a water bottle or a gold candle, or wear it as a pendant. Charge it at sunrise, breathing in the light and breathing onto the symbol. Hold it during healing meditations.",
+  "intention": "Breath of life, key of life, fill me with vitality and long days.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><ellipse cx='50' cy='28' rx='13' ry='17'/><line x1='24' y1='48' x2='76' y2='48'/><line x1='50' y1='45' x2='50' y2='90'/></svg>"
+ },
+ {
+  "id": "sigil-spiral-of-growth",
+  "name": "Spiral of Growth",
+  "origin": "Prehistoric spiral motif (Neolithic carvings)",
+  "description": "Spirals are carved on Neolithic monuments such as Newgrange, and appear wherever life grows: shells, ferns, galaxies. The outward spiral represents expansion, growth and the unfolding of potential. Traced inward it becomes a path of meditation and return.",
+  "metaphysical": [
+   "transformation",
+   "new beginnings",
+   "manifestation",
+   "meditation",
+   "spirituality"
+  ],
+  "directions": "Trace the spiral from center outward while visualizing a goal expanding into reality, or inward to center yourself before ritual. Draw it in a planner, on a plant pot or on a seed packet. Best charged during the waxing moon.",
+  "intention": "From the seed, the spiral; from the spiral, the world: let what I tend grow ever outward.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><polyline points='50,48 50.28,47.79 50.62,47.63 51,47.52 51.42,47.47 51.86,47.49 52.32,47.59 52.79,47.76 53.24,48.01 53.67,48.35 54.07,48.77 54.41,49.26 54.7,49.82 54.91,50.43 55.03,51.1 55.06,51.81 54.99,52.54 54.81,53.28 54.52,54.02 54.12,54.73 53.61,55.4 52.99,56.02 52.28,56.57 51.47,57.02 50.58,57.38 49.63,57.62 48.62,57.73 47.58,57.7 46.53,57.54 45.47,57.22 44.45,56.76 43.47,56.16 42.56,55.41 41.73,54.52 41.01,53.52 40.42,52.4 39.97,51.19 39.68,49.9 39.55,48.55 39.6,47.18 39.84,45.79 40.26,44.42 40.87,43.09 41.66,41.83 42.63,40.65 43.77,39.6 45.05,38.69 46.47,37.93 48,37.36 49.62,36.98 51.3,36.81 53.02,36.87 54.74,37.15 56.44,37.66 58.09,38.39 59.65,39.35 61.1,40.52 62.41,41.89 63.54,43.43 64.48,45.14 65.2,46.98 65.69,48.92 65.92,50.94 65.89,53 65.6,55.07 65.03,57.11 64.19,59.08 63.09,60.96 61.74,62.7 60.16,64.28 58.37,65.65 56.39,66.8 54.25,67.7 51.99,68.32 49.63,68.65 47.23,68.67 44.82,68.38 42.43,67.78 40.11,66.87 37.91,65.65 35.86,64.14 33.99,62.36 32.36,60.34 30.98,58.1 29.88,55.67 29.1,53.1 28.65,50.42 28.55,47.67 28.8,44.91 29.41,42.17 30.38,39.51 31.69,36.97 33.33,34.59 35.28,32.42 37.52,30.5 40.01,28.87 42.71,27.56 45.58,26.59 48.58,25.99 51.67,25.78 54.78,25.97 57.87,26.56 60.89,27.55 63.78,28.93 66.5,30.69 68.99,32.79 71.21,35.22 73.12,37.93 74.67,40.9 75.85,44.06 76.62,47.38 76.96,50.79 76.87,54.26 76.32,57.7 75.33,61.08 73.91,64.33 72.07,67.4 69.83,70.22 67.23,72.76 64.31,74.97 61.1,76.79 57.66,78.2 54.04,79.17 50.29,79.67 46.49,79.69 42.68,79.22 38.94,78.26 35.32,76.82 31.9,74.92 28.72,72.57 25.84,69.82 23.33,66.71 21.21,63.27 19.54,59.57 18.35,55.65 17.66,51.59 17.5,47.44 17.87,43.28 18.77,39.17 20.2,35.19 22.15,31.39 24.57,27.85 27.45,24.62 30.74,21.77 34.38,19.35 38.34,17.4 42.53,15.96 46.9,15.06 51.39,14.73 55.9,14.97 60.38,15.79 64.74,17.18 68.91,19.13 72.83,21.62 76.42,24.6 79.62,28.03 82.37,31.87 84.62,36.06 86.33,40.52 87.47,45.19 88,50'/></svg>"
+ },
+ {
+  "id": "sigil-chaos-star",
+  "name": "Chaos Star",
+  "origin": "Chaos magic (from Michael Moorcock's fiction)",
+  "description": "The chaos star, eight arrows radiating from a central circle, was adopted by chaos magicians in the 1970s from Michael Moorcock's fantasy novels. It represents infinite possibility, all directions open at once. It is the emblem of results-based, belief-flexible magic.",
+  "metaphysical": [
+   "power",
+   "manifestation",
+   "transformation",
+   "road opening",
+   "energy"
+  ],
+  "directions": "Draw it at the start of chaos magic workings, or put it at the center of a sigil grid to amplify. Charge it through gnosis: breathwork, fast movement, or deep stillness until the mind empties, then release attention from it. Use it to break stagnation and open new paths.",
+  "intention": "Every way open, every road mine: all directions, all possibilities.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><circle cx='50' cy='50' r='9'/><line x1='59' y1='50' x2='90' y2='50'/><polyline points='80,56 90,50 80,44'/><line x1='56.36' y1='56.36' x2='78.28' y2='78.28'/><polyline points='66.97,75.46 78.28,78.28 75.46,66.97'/><line x1='50' y1='59' x2='50' y2='90'/><polyline points='44,80 50,90 56,80'/><line x1='43.64' y1='56.36' x2='21.72' y2='78.28'/><polyline points='24.54,66.97 21.72,78.28 33.03,75.46'/><line x1='41' y1='50' x2='10' y2='50'/><polyline points='20,44 10,50 20,56'/><line x1='43.64' y1='43.64' x2='21.72' y2='21.72'/><polyline points='33.03,24.54 21.72,21.72 24.54,33.03'/><line x1='50' y1='41' x2='50' y2='10'/><polyline points='56,20 50,10 44,20'/><line x1='56.36' y1='43.64' x2='78.28' y2='21.72'/><polyline points='75.46,33.03 78.28,21.72 66.97,24.54'/></svg>"
+ },
+ {
+  "id": "sigil-money-flows-to-me",
+  "name": "\"Money Flows to Me\" Sigil",
+  "origin": "Chaos-magic style intention sigil",
+  "description": "Created with the classic letter method: the statement MONEY FLOWS TO ME is reduced by removing vowels and repeated letters to M N Y F L W S T, and those letter forms are fused into one glyph. The crown of the M, the crossbar of the T and F, and the wave of the S and W flowing toward the circle of the self make the design. Forgetting the meaning after charging lets it work in the subconscious.",
+  "metaphysical": [
+   "money",
+   "prosperity",
+   "abundance",
+   "manifestation",
+   "wishes"
+  ],
+  "directions": "Copy the sigil by hand in green or gold ink. Charge it in a moment of gnosis (focused breathing, laughter, dancing, or deep meditation), staring at it until the mind goes quiet, then burn it or tuck it away and deliberately stop thinking about it. Alternatively hide it in your wallet and let it become part of the background.",
+  "intention": "Money flows to me easily and often, from expected and unexpected sources.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><polyline points='28,32 28,14 50,34 72,14 72,32'/><line x1='50' y1='34' x2='50' y2='78'/><line x1='34' y1='46' x2='66' y2='46'/><line x1='50' y1='58' x2='64' y2='52'/><path d='M26 68 Q38 58 50 68 T74 68'/><circle cx='50' cy='84' r='5'/></svg>"
+ }
+]

@@ -1,0 +1,1392 @@
+[
+ {
+  "id": "dressing-money-drawing",
+  "name": "Money Drawing Candle Dressing",
+  "purpose": "Draws steady income, new money and prosperity toward you.",
+  "description": "In hoodoo and Southern conjure, a candle is often 'dressed' with a condition oil such as Money Drawing Oil and a little powdered herb before it is lit, so the burning carries the prayer. Green is the color of paper money in the United States and gold suggests coin, which is why both are favored for money work. Basil and allspice are long-standing money herbs in American folk magic.",
+  "candleColors": [
+   "Green",
+   "Gold"
+  ],
+  "oils": [
+   {
+    "item": "Money Drawing Oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Basil Essential Oil",
+    "amount": "or 2 drops in 1 tsp carrier oil"
+   },
+   {
+    "item": "Sweet Almond Oil",
+    "amount": "1 tsp, as the carrier"
+   }
+  ],
+  "herbs": [
+   {
+    "item": "Basil, finely ground",
+    "amount": "a light pinch"
+   },
+   {
+    "item": "Cinnamon, ground",
+    "amount": "a pinch, in a ring on the plate only"
+   },
+   {
+    "item": "Allspice, ground",
+    "amount": "a pinch, in the ring on the plate"
+   }
+  ],
+  "extras": [
+   {
+    "item": "Pyrite chip",
+    "amount": "1, set beside the holder"
+   },
+   {
+    "item": "Petition paper with the amount you need",
+    "amount": "1, folded toward you and placed under the plate"
+   }
+  ],
+  "direction": "To draw, stroke the oil from just below the top half inch down toward the base, moving toward you, and from the base up toward the middle, so both ends pull toward your body.",
+  "carving": "A dollar sign near the top and your name down the side.",
+  "steps": [
+   "Wipe the candle with a dry cloth and state the specific money you need, such as a bill paid or a new client.",
+   "Carve your name down the side and a dollar sign near the top, keeping the blade moving away from your hand.",
+   "Warm 3 drops of Money Drawing Oil, or the diluted basil blend, between your palms and stroke it on toward you, avoiding the wick and the top half inch.",
+   "Wipe off the excess, then pat a light film of ground basil on the lower third only.",
+   "Write your petition, fold it toward you and set it under the heatproof plate, then place the pyrite beside the holder.",
+   "Sprinkle the cinnamon and allspice in a ring on the plate at least an inch from the candle and light it while you speak the words.",
+   "Burn for 15 to 30 minutes while you sit with the flame and think of practical steps, then snuff it and relight it on following Thursdays or daily until it is done."
+  ],
+  "words": "Green to grow and gold to shine,\nfair money come and settle mine.\nBy honest work and open door,\nthis flame calls plenty, more and more.",
+  "bestTime": "Waxing moon, on a Thursday or Sunday",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous"
+  ],
+  "metaphysical": [
+   "money",
+   "prosperity",
+   "abundance",
+   "attraction",
+   "manifestation"
+  ],
+  "caution": "Never leave the candle burning unattended or while you sleep; if you want it to burn down over several sessions, snuff it (do not blow it out) and relight it next time. Set it in a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, because too much oil can make the flame flare. Wash your hands after dressing, and never put essential oils neat on skin or on broken skin. Never roll the candle in loose herbs: dust only a light film of finely ground herb on the lower part of the candle, or keep the herbs in a ring on the plate, and watch the flame the whole time with a snuffer or lid and water nearby. Carve away from your hand with a toothpick, pin or blunt tool. Ventilate the room, keep glitter, paper and plastic off the candle itself, and snuff or smother a flare rather than throwing water on hot wax or a wax fire. Let the wax cool completely before disposal and never pour hot wax down a drain. Formula oils such as Money Drawing Oil often contain cinnamon or other warming oils, so patch test and keep them off your face. Basil essential oil contains estragole and is best avoided in pregnancy, while breastfeeding and on children; use the formula oil or a carrier alone instead. Ground cinnamon and allspice can irritate skin and eyes, which is why they stay on the plate. Sweet almond carrier oil is a nut oil, so choose jojoba if you have a nut allergy.",
+  "pets": "Basil is listed by the ASPCA as non-toxic to cats and dogs, but essential oils, cinnamon and allspice can irritate pets. Keep the lit candle, the dressing oil and the herb plate away from pets, and do not diffuse or leave essential oils where a cat can touch or lick them, since cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.rxlist.com/supplements/basil.htm",
+   "https://www.ema.europa.eu/en/documents/other/public-statement-use-herbal-medicinal-products-containing-estragole-revision-1_en.pdf",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know"
+  ]
+ },
+ {
+  "id": "dressing-love-attraction",
+  "name": "Love Attraction Candle Dressing",
+  "purpose": "Opens your life to new, mutual love without naming or binding any one person.",
+  "description": "Pink and red candles dressed with rose and an attraction oil are common in both hoodoo and modern witchcraft for drawing romance. Rose has been linked with love goddesses such as Aphrodite and Venus since antiquity, and lavender is a gentle, friendly love herb in European folk lore. This dressing asks for a partner who is free and willing, rather than aiming at a particular person.",
+  "candleColors": [
+   "Pink",
+   "Red"
+  ],
+  "oils": [
+   {
+    "item": "Come to Me Oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Rose Geranium Essential Oil",
+    "amount": "or 2 drops in 1 tsp carrier oil"
+   },
+   {
+    "item": "Jojoba Oil",
+    "amount": "1 tsp, as the carrier"
+   }
+  ],
+  "herbs": [
+   {
+    "item": "Rose, finely ground petals",
+    "amount": "a light pinch"
+   },
+   {
+    "item": "Lavender, finely ground",
+    "amount": "a pinch, in a ring on the plate"
+   }
+  ],
+  "extras": [
+   {
+    "item": "Rose Quartz",
+    "amount": "1 tumbled stone, beside the holder"
+   },
+   {
+    "item": "Petition listing the qualities you want in a partner",
+    "amount": "1, under the plate"
+   }
+  ],
+  "direction": "Draw the oil from the top area down toward the base, moving toward your heart, so the candle pulls love inward.",
+  "carving": "A heart on one side and a word such as 'kindness' or 'joy' on the other.",
+  "steps": [
+   "Write the qualities you want in a partner, such as honesty and humor, without naming anyone, and fold the paper toward you.",
+   "Carve a heart and one quality word into the candle.",
+   "Dress the candle with 3 drops of Come to Me Oil or the diluted rose geranium blend, stroking toward you and keeping clear of the wick and top half inch.",
+   "Wipe away the excess and press a light dusting of ground rose petals onto the lower third.",
+   "Set the petition under the plate, ring the base with ground lavender at least an inch away, and place the rose quartz nearby.",
+   "Light the candle, speak the words, and spend a few minutes imagining how it feels to be loved well.",
+   "Snuff it after 15 to 30 minutes and relight on the next Friday or each evening until the candle is finished."
+  ],
+  "words": "Rose of the heart and flame of the sun,\ncall to me love that is free and is won.\nGiven with gladness and offered by choice,\nlet my true match hear my voice.",
+  "bestTime": "Waxing to full moon, on a Friday",
+  "moonPhases": [
+   "Waxing Crescent",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "love",
+   "attraction",
+   "happiness",
+   "beauty"
+  ],
+  "caution": "Never leave the candle burning unattended or while you sleep; if you want it to burn down over several sessions, snuff it (do not blow it out) and relight it next time. Set it in a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, because too much oil can make the flame flare. Wash your hands after dressing, and never put essential oils neat on skin or on broken skin. Never roll the candle in loose herbs: dust only a light film of finely ground herb on the lower part of the candle, or keep the herbs in a ring on the plate, and watch the flame the whole time with a snuffer or lid and water nearby. Carve away from your hand with a toothpick, pin or blunt tool. Ventilate the room, keep glitter, paper and plastic off the candle itself, and snuff or smother a flare rather than throwing water on hot wax or a wax fire. Let the wax cool completely before disposal and never pour hot wax down a drain. Come to Me Oil and other attraction formulas vary by maker, so patch test on the inside of your arm first. Rose geranium oil can irritate sensitive skin and is commonly advised against in early pregnancy without professional advice. Lavender can cause skin allergy in a few people. Respect consent: this dressing invites love, it does not target someone's will.",
+  "pets": "The ASPCA lists lavender as toxic to cats, dogs and horses, so keep the herb ring and candle where pets cannot nibble or knock it. Keep the lit candle, the dressing oil and the herb plate away from pets, and do not diffuse or leave essential oils where a cat can touch or lick them, since cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ]
+ },
+ {
+  "id": "dressing-self-love",
+  "name": "Self-Love Candle Dressing",
+  "purpose": "Builds self-worth, kindness toward yourself and a softer inner voice.",
+  "description": "Self-love candles are a modern witchcraft practice that borrows the rose and pink color symbolism of love magic and turns it toward the self. Chamomile is a traditional soothing herb in European herbalism, and rose quartz is widely used today as a stone of gentle love. Carving your own name makes you the one the candle draws love toward.",
+  "candleColors": [
+   "Pink",
+   "White"
+  ],
+  "oils": [
+   {
+    "item": "Love Me Now Self-Love Oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Palmarosa Essential Oil",
+    "amount": "or 1 drop in 1 tsp carrier oil"
+   },
+   {
+    "item": "Lavender Essential Oil",
+    "amount": "plus 1 drop in the same tsp of carrier oil"
+   },
+   {
+    "item": "Sweet Almond Oil",
+    "amount": "1 tsp, as the carrier"
+   }
+  ],
+  "herbs": [
+   {
+    "item": "Rose, finely ground petals",
+    "amount": "a light pinch"
+   },
+   {
+    "item": "Chamomile, finely ground",
+    "amount": "a pinch, in a ring on the plate"
+   }
+  ],
+  "extras": [
+   {
+    "item": "Rose Quartz",
+    "amount": "1"
+   },
+   {
+    "item": "Small hand mirror",
+    "amount": "1, propped safely to the side"
+   }
+  ],
+  "direction": "Stroke the oil toward you from top to bottom while saying something kind about yourself with each stroke.",
+  "carving": "Your own name with a small heart around it.",
+  "steps": [
+   "Sit somewhere quiet and write down three things you appreciate about yourself.",
+   "Carve your name and a heart around it into the candle.",
+   "Dress the candle with 3 drops of Love Me Now Self-Love Oil or the diluted palmarosa and lavender blend, stroking toward you and staying below the top half inch.",
+   "Wipe off the extra oil and dust the lower third lightly with ground rose petals.",
+   "Ring the base with chamomile on the plate, set the rose quartz beside it and prop the mirror well away from the flame.",
+   "Light the candle, look at yourself in the mirror and say the words aloud.",
+   "Burn for up to 30 minutes, read your three appreciations, then snuff the candle and repeat each morning or evening for a week."
+  ],
+  "words": "Flame of rose, warm and true,\nteach me the love I owe to you.\nGentle in word and kind in eye,\nI am worth loving, you and I.",
+  "bestTime": "Waxing moon, on a Friday or Monday",
+  "moonPhases": [
+   "New Moon",
+   "Waxing Crescent",
+   "Waxing Gibbous"
+  ],
+  "metaphysical": [
+   "self-love",
+   "emotional healing",
+   "confidence",
+   "beauty"
+  ],
+  "caution": "Never leave the candle burning unattended or while you sleep; if you want it to burn down over several sessions, snuff it (do not blow it out) and relight it next time. Set it in a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, because too much oil can make the flame flare. Wash your hands after dressing, and never put essential oils neat on skin or on broken skin. Never roll the candle in loose herbs: dust only a light film of finely ground herb on the lower part of the candle, or keep the herbs in a ring on the plate, and watch the flame the whole time with a snuffer or lid and water nearby. Carve away from your hand with a toothpick, pin or blunt tool. Ventilate the room, keep glitter, paper and plastic off the candle itself, and snuff or smother a flare rather than throwing water on hot wax or a wax fire. Let the wax cool completely before disposal and never pour hot wax down a drain. Chamomile can trigger allergy in people sensitive to ragweed, daisies or marigolds. Lavender and palmarosa are generally mild at this dilution but can still irritate sensitive skin, so patch test; ask a qualified practitioner before using essential oils in pregnancy. Sweet almond is a nut oil, so use jojoba if you have a nut allergy. Keep the mirror out of direct sunlight near the candle.",
+  "pets": "The ASPCA lists both chamomile and lavender as toxic to cats, dogs and horses, so keep the plate and candle out of reach. Keep the lit candle, the dressing oil and the herb plate away from pets, and do not diffuse or leave essential oils where a cat can touch or lick them, since cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nccih.nih.gov/health/chamomile",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/chamomile",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ]
+ },
+ {
+  "id": "dressing-protection",
+  "name": "Protection Candle Dressing",
+  "purpose": "Raises a protective boundary around you, your home or your work.",
+  "description": "Fiery Wall of Protection is a well-known hoodoo formula used to dress candles that guard a person or household. Rosemary and bay laurel have protective reputations across European and Mediterranean folk tradition, and black tourmaline is a popular modern protection stone. Black absorbs and blocks, while white adds blessing.",
+  "candleColors": [
+   "Black",
+   "White"
+  ],
+  "oils": [
+   {
+    "item": "Fiery Wall of Protection Oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Frankincense Essential Oil",
+    "amount": "or 2 drops in 1 tsp carrier oil"
+   },
+   {
+    "item": "Fractionated Coconut Oil",
+    "amount": "1 tsp, as the carrier"
+   }
+  ],
+  "herbs": [
+   {
+    "item": "Rosemary, finely ground",
+    "amount": "a light pinch"
+   },
+   {
+    "item": "Bay Laurel, finely ground leaf",
+    "amount": "a pinch, in a ring on the plate"
+   }
+  ],
+  "extras": [
+   {
+    "item": "Black Tourmaline",
+    "amount": "1, at the front of the plate"
+   },
+   {
+    "item": "Salt",
+    "amount": "a thin circle around the plate"
+   }
+  ],
+  "direction": "Start at the middle of the candle and stroke outward to both ends, as if pushing a wall out around you, stopping below the top half inch.",
+  "carving": "A pentacle or a simple shield shape, with your name or address below it.",
+  "steps": [
+   "Decide exactly what the candle is guarding: you, your family, your home or your car.",
+   "Carve the pentacle or shield and the name or address underneath.",
+   "Dress from the center outward with 3 drops of Fiery Wall of Protection Oil or the diluted frankincense blend, keeping off the wick and top half inch.",
+   "Wipe off any excess and dust the lower third lightly with ground rosemary.",
+   "Ring the plate with bay laurel, then lay a thin circle of salt around the outside of the plate and set the black tourmaline in front.",
+   "Light the candle and say the words three times, picturing a ring of firelight around what you protect.",
+   "Snuff after 20 to 30 minutes and relight nightly through the waning moon, or whenever you feel the need."
+  ],
+  "words": "Ring of fire, wall of light,\nguard my door by day and night.\nWhat comes in harm, turn round and go;\nonly good may cross this glow.",
+  "bestTime": "Waning moon or full moon, on a Saturday or Tuesday",
+  "moonPhases": [
+   "Full Moon",
+   "Waning Gibbous",
+   "Last Quarter"
+  ],
+  "metaphysical": [
+   "protection",
+   "home blessing",
+   "strength",
+   "banishing"
+  ],
+  "caution": "Never leave the candle burning unattended or while you sleep; if you want it to burn down over several sessions, snuff it (do not blow it out) and relight it next time. Set it in a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, because too much oil can make the flame flare. Wash your hands after dressing, and never put essential oils neat on skin or on broken skin. Never roll the candle in loose herbs: dust only a light film of finely ground herb on the lower part of the candle, or keep the herbs in a ring on the plate, and watch the flame the whole time with a snuffer or lid and water nearby. Carve away from your hand with a toothpick, pin or blunt tool. Ventilate the room, keep glitter, paper and plastic off the candle itself, and snuff or smother a flare rather than throwing water on hot wax or a wax fire. Let the wax cool completely before disposal and never pour hot wax down a drain. Fiery Wall of Protection formulas are traditionally 'hot' and may contain cinnamon, pepper or similar irritating oils, so use gloves or a cotton swab, patch test and keep it away from eyes and children. Bay laurel and frankincense can cause skin sensitivity in some people. Rosemary is safe as a dried herb, but rosemary essential oil is not used here and is best avoided in pregnancy and epilepsy. Keep the salt dry and swept away afterward.",
+  "pets": "The ASPCA lists bay laurel as toxic to cats, dogs and horses, and salt is harmful if pets lick large amounts, so sweep up afterward. Keep the lit candle, the dressing oil and the herb plate away from pets, and do not diffuse or leave essential oils where a cat can touch or lick them, since cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bay-laurel",
+   "https://www.petpoisonhelpline.com/poison/salt/"
+  ]
+ },
+ {
+  "id": "dressing-uncrossing",
+  "name": "Uncrossing and Curse Breaking Candle Dressing",
+  "purpose": "Lifts a run of bad luck, a jinx or a feeling of being crossed.",
+  "description": "In hoodoo, a person who feels jinxed or 'crossed' may burn a white or purple candle dressed with Uncrossing Oil while reading Psalm 51, which asks to be purged with hyssop and washed clean. Hyssop and agrimony are both old cleansing and hex-returning herbs in European and American folk practice. The oil is stroked away from the body to pull the trouble off.",
+  "candleColors": [
+   "White",
+   "Purple"
+  ],
+  "oils": [
+   {
+    "item": "Uncrossing Oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Jinx Removing Oil",
+    "amount": "or 3 drops instead"
+   }
+  ],
+  "herbs": [
+   {
+    "item": "Hyssop, finely ground",
+    "amount": "a light pinch"
+   },
+   {
+    "item": "Agrimony, finely ground",
+    "amount": "a pinch, in a ring on the plate"
+   }
+  ],
+  "extras": [
+   {
+    "item": "Salt",
+    "amount": "a thin circle around the plate"
+   },
+   {
+    "item": "Glass of plain water",
+    "amount": "1, set beside the plate"
+   }
+  ],
+  "direction": "Stroke from just below the top half inch down to the base, moving away from your body, as if wiping the crossed condition off and away.",
+  "carving": "Your name, with an equal-armed cross above it.",
+  "steps": [
+   "Take a shower or wash your hands and face first, as a fresh start.",
+   "Carve your name and an equal-armed cross above it.",
+   "Dress with 3 drops of Uncrossing Oil or Jinx Removing Oil, stroking downward and away from you and staying below the top half inch.",
+   "Wipe off the excess and dust the lower third lightly with ground hyssop.",
+   "Ring the plate with agrimony, circle it with salt and set the glass of water beside it to collect what is lifted.",
+   "Light the candle and read Psalm 51 or speak the words, picturing the heaviness draining into the water.",
+   "Snuff the candle after 20 to 30 minutes and pour the water down an outdoor drain or onto the ground away from your door; repeat for seven days on a fresh glass of water."
+  ],
+  "words": "What was crossed is now made straight,\nwhat was bound is free of weight.\nHyssop clean and flame of white,\nlift this jinx and set me right.",
+  "bestTime": "Waning moon, on a Saturday",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent"
+  ],
+  "metaphysical": [
+   "uncrossing",
+   "hex breaking",
+   "cleansing",
+   "purification",
+   "release"
+  ],
+  "caution": "Never leave the candle burning unattended or while you sleep; if you want it to burn down over several sessions, snuff it (do not blow it out) and relight it next time. Set it in a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, because too much oil can make the flame flare. Wash your hands after dressing, and never put essential oils neat on skin or on broken skin. Never roll the candle in loose herbs: dust only a light film of finely ground herb on the lower part of the candle, or keep the herbs in a ring on the plate, and watch the flame the whole time with a snuffer or lid and water nearby. Carve away from your hand with a toothpick, pin or blunt tool. Ventilate the room, keep glitter, paper and plastic off the candle itself, and snuff or smother a flare rather than throwing water on hot wax or a wax fire. Let the wax cool completely before disposal and never pour hot wax down a drain. Uncrossing and jinx-removing formulas vary and may include hyssop or citrus oils; patch test, and avoid sunlight on oiled skin if the label lists citrus. Hyssop is not taken internally here and is best avoided in pregnancy and by people with epilepsy, so pregnant people can leave the herb on the plate rather than on the candle. Do not drink the water. If you feel unwell or persistently unlucky, also speak with someone you trust or a professional.",
+  "pets": "Keep the glass of water out of pets' reach so they do not drink it, and sweep up the salt afterward. Keep the lit candle, the dressing oil and the herb plate away from pets, and do not diffuse or leave essential oils where a cat can touch or lick them, since cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.rxlist.com/supplements/hyssop.htm",
+   "https://www.drugs.com/npp/hyssop.html",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://www.petpoisonhelpline.com/poison/salt/"
+  ]
+ },
+ {
+  "id": "dressing-banishing",
+  "name": "Banishing Candle Dressing",
+  "purpose": "Sends away an unwanted habit, influence or situation.",
+  "description": "Banishing candles are traditionally black and burned on a waning moon, when lore says things shrink and depart. Black pepper and cedar have both been used in folk magic to drive off and clear. This dressing banishes a situation or influence, never a person's wellbeing.",
+  "candleColors": [
+   "Black"
+  ],
+  "oils": [
+   {
+    "item": "Banishing Oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Black Pepper Essential Oil",
+    "amount": "or 1 drop in 1 tsp carrier oil"
+   },
+   {
+    "item": "Cypress Essential Oil",
+    "amount": "plus 1 drop in the same tsp of carrier oil"
+   },
+   {
+    "item": "Grapeseed Oil",
+    "amount": "1 tsp, as the carrier"
+   }
+  ],
+  "herbs": [
+   {
+    "item": "Cedar, finely ground",
+    "amount": "a light pinch"
+   },
+   {
+    "item": "Black Pepper, ground",
+    "amount": "a pinch, in a ring on the plate only"
+   }
+  ],
+  "extras": [
+   {
+    "item": "Obsidian",
+    "amount": "1, beside the holder"
+   },
+   {
+    "item": "Paper naming the habit or situation",
+    "amount": "1, folded away from you and kept under the plate"
+   }
+  ],
+  "direction": "Stroke from the base up toward the top half inch, moving away from your body, so the candle pushes the unwanted thing out and away.",
+  "carving": "The habit or situation in a word, with a line through it.",
+  "steps": [
+   "Name the habit, influence or situation you are ending, in a word or short phrase.",
+   "Carve the word into the candle and draw a line through it.",
+   "Dress with 3 drops of Banishing Oil or the diluted pepper and cypress blend, stroking away from you and keeping clear of the wick and top half inch.",
+   "Wipe off the excess and dust the lower third lightly with ground cedar.",
+   "Fold the paper away from you, set it under the plate and ring the base with ground black pepper at least an inch from the candle.",
+   "Light the candle, speak the words and picture the thing growing smaller as the candle burns down.",
+   "Snuff it after 20 to 30 minutes and relight nightly until the moon is dark; take the cooled wax remains and the paper out of the house to the trash."
+  ],
+  "words": "Waning moon and candle black,\ntake this thing and don't send it back.\nSmaller, fainter, gone from me,\nas I will, so mote it be.",
+  "bestTime": "Waning moon, on a Saturday",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent"
+  ],
+  "metaphysical": [
+   "banishing",
+   "release",
+   "endings",
+   "protection"
+  ],
+  "caution": "Never leave the candle burning unattended or while you sleep; if you want it to burn down over several sessions, snuff it (do not blow it out) and relight it next time. Set it in a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, because too much oil can make the flame flare. Wash your hands after dressing, and never put essential oils neat on skin or on broken skin. Never roll the candle in loose herbs: dust only a light film of finely ground herb on the lower part of the candle, or keep the herbs in a ring on the plate, and watch the flame the whole time with a snuffer or lid and water nearby. Carve away from your hand with a toothpick, pin or blunt tool. Ventilate the room, keep glitter, paper and plastic off the candle itself, and snuff or smother a flare rather than throwing water on hot wax or a wax fire. Let the wax cool completely before disposal and never pour hot wax down a drain. Black pepper oil and ground pepper sting eyes and can irritate skin, so wash your hands well before touching your face; the ground pepper stays on the plate. Cypress oil is generally mild, but ask a qualified practitioner before using essential oils in pregnancy. Banishing work should target habits and situations, not harm another person.",
+  "pets": "Ground pepper can irritate pets' noses and mouths if sniffed or licked. Keep the lit candle, the dressing oil and the herb plate away from pets, and do not diffuse or leave essential oils where a cat can touch or lick them, since cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ]
+ },
+ {
+  "id": "dressing-road-opening",
+  "name": "Road Opening Candle Dressing",
+  "purpose": "Clears blocks and opens new paths in work, travel or life.",
+  "description": "Road Opener Oil is a hoodoo formula for removing obstacles, and in Latin American folk practice the name abre camino ('opens the way') is given to plants and products for the same purpose. Orange and yellow candles are often chosen for opportunity and movement. Lemongrass and orange peel are bright, clearing scents that fit the work.",
+  "candleColors": [
+   "Orange",
+   "Yellow"
+  ],
+  "oils": [
+   {
+    "item": "Road Opener Oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Sweet Orange Essential Oil",
+    "amount": "or 2 drops in 1 tsp carrier oil"
+   },
+   {
+    "item": "Jojoba Oil",
+    "amount": "1 tsp, as the carrier"
+   }
+  ],
+  "herbs": [
+   {
+    "item": "Lemongrass, finely ground",
+    "amount": "a light pinch"
+   },
+   {
+    "item": "Orange Peel, dried and ground",
+    "amount": "a pinch, in a ring on the plate"
+   }
+  ],
+  "extras": [
+   {
+    "item": "Old key",
+    "amount": "1, laid in front of the plate pointing away from you"
+   }
+  ],
+  "direction": "Stroke from the base upward toward the top half inch, as if clearing the road ahead, then once more toward you to bring the opening home.",
+  "carving": "An arrow pointing up, or a small key shape.",
+  "steps": [
+   "Name the road you want opened, such as a job search, a move or a creative project.",
+   "Carve an upward arrow or key shape into the candle.",
+   "Dress with 3 drops of Road Opener Oil or the diluted sweet orange blend, stroking from the base upward and keeping off the wick and top half inch.",
+   "Wipe off the excess and dust the lower third lightly with ground lemongrass.",
+   "Ring the plate with orange peel and lay the key in front, pointing away from you.",
+   "Light the candle and speak the words, then write down one action you will take this week.",
+   "Snuff it after 20 to 30 minutes and relight each morning for a week, taking the action between sessions."
+  ],
+  "words": "Gate swing wide and path run clear,\nwhat blocked my way is gone from here.\nKey in hand and flame to guide,\nopen roads on every side.",
+  "bestTime": "New to waxing moon, on a Sunday or Wednesday",
+  "moonPhases": [
+   "New Moon",
+   "Waxing Crescent",
+   "First Quarter"
+  ],
+  "metaphysical": [
+   "road opening",
+   "new beginnings",
+   "success",
+   "travel"
+  ],
+  "caution": "Never leave the candle burning unattended or while you sleep; if you want it to burn down over several sessions, snuff it (do not blow it out) and relight it next time. Set it in a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, because too much oil can make the flame flare. Wash your hands after dressing, and never put essential oils neat on skin or on broken skin. Never roll the candle in loose herbs: dust only a light film of finely ground herb on the lower part of the candle, or keep the herbs in a ring on the plate, and watch the flame the whole time with a snuffer or lid and water nearby. Carve away from your hand with a toothpick, pin or blunt tool. Ventilate the room, keep glitter, paper and plastic off the candle itself, and snuff or smother a flare rather than throwing water on hot wax or a wax fire. Let the wax cool completely before disposal and never pour hot wax down a drain. Road Opener formulas often include lemongrass or citrus oils, which can sensitize skin, so patch test and keep the dilution low. Sweet orange oil is not significantly phototoxic, but avoid strong sun on freshly oiled skin with any citrus formula. Ask a qualified practitioner before using essential oils in pregnancy.",
+  "pets": "The ASPCA lists lemongrass as toxic to cats, dogs and horses and lists orange as toxic to them too, so keep the herb ring and peel out of reach. Keep the lit candle, the dressing oil and the herb plate away from pets, and do not diffuse or leave essential oils where a cat can touch or lick them, since cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lemon-grass",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/orange",
+   "https://tisserandinstitute.org/learn-more/citruses-a-comparison-of-different-oils/",
+   "https://tisserandinstitute.org/dilution-essential-oils/"
+  ]
+ },
+ {
+  "id": "dressing-healing-support",
+  "name": "Healing Support Candle Dressing",
+  "purpose": "Sends comfort and strength to someone recovering, alongside their medical care.",
+  "description": "Blue and white candles are used in many modern and folk traditions to send peace and wellbeing to the sick. Calendula and lemon balm are gentle, sunny herbs with long histories in European herbal lore. This candle supports healing in spirit and never replaces a doctor or treatment.",
+  "candleColors": [
+   "Blue",
+   "White"
+  ],
+  "oils": [
+   {
+    "item": "Healing Oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Lavender Essential Oil",
+    "amount": "or 2 drops in 1 tsp carrier oil"
+   },
+   {
+    "item": "Sweet Almond Oil",
+    "amount": "1 tsp, as the carrier"
+   }
+  ],
+  "herbs": [
+   {
+    "item": "Calendula, finely ground petals",
+    "amount": "a light pinch"
+   },
+   {
+    "item": "Lemon Balm, finely ground",
+    "amount": "a pinch, in a ring on the plate"
+   }
+  ],
+  "extras": [
+   {
+    "item": "Clear Quartz",
+    "amount": "1, beside the holder"
+   },
+   {
+    "item": "Paper with the person's name, written with their permission",
+    "amount": "1, under the plate"
+   }
+  ],
+  "direction": "Stroke from the top area down toward the base and toward you, drawing in health, comfort and strength.",
+  "carving": "The person's name and a small sun or equal-armed cross.",
+  "steps": [
+   "Ask the person if they would like you to light a candle for them, and respect their answer.",
+   "Carve their name (or yours) and a small sun into the candle.",
+   "Dress with 3 drops of Healing Oil or the diluted lavender blend, stroking toward you and keeping off the wick and top half inch.",
+   "Wipe off the excess and pat a light dusting of ground calendula on the lower third.",
+   "Set the name paper under the plate, ring the base with lemon balm and place the clear quartz beside it.",
+   "Light the candle, speak the words and picture the person resting comfortably and well cared for.",
+   "Snuff it after 15 to 30 minutes and relight daily for as long as they are recovering."
+  ],
+  "words": "Gentle flame of blue and white,\nease the body, bring the light.\nRest and mend and heal and grow,\ncomfort be where this flame glows.",
+  "bestTime": "Waxing moon for building strength, waning moon for easing illness; any day, especially Sunday",
+  "moonPhases": [
+   "Waxing Crescent",
+   "Waxing Gibbous",
+   "Waning Gibbous"
+  ],
+  "metaphysical": [
+   "healing",
+   "health",
+   "vitality",
+   "calm"
+  ],
+  "caution": "Never leave the candle burning unattended or while you sleep; if you want it to burn down over several sessions, snuff it (do not blow it out) and relight it next time. Set it in a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, because too much oil can make the flame flare. Wash your hands after dressing, and never put essential oils neat on skin or on broken skin. Never roll the candle in loose herbs: dust only a light film of finely ground herb on the lower part of the candle, or keep the herbs in a ring on the plate, and watch the flame the whole time with a snuffer or lid and water nearby. Carve away from your hand with a toothpick, pin or blunt tool. Ventilate the room, keep glitter, paper and plastic off the candle itself, and snuff or smother a flare rather than throwing water on hot wax or a wax fire. Let the wax cool completely before disposal and never pour hot wax down a drain. This candle supports and never replaces medical care, so follow the advice of the person's doctor. Calendula can cause allergy in people sensitive to the daisy family. Lavender oil can irritate a few people's skin, and essential oils should be checked with a qualified practitioner in pregnancy. Do not burn candles near anyone using home oxygen, and keep the room well ventilated for anyone with asthma. Sweet almond is a nut oil; use jojoba if you have a nut allergy.",
+  "pets": "The ASPCA lists lavender as toxic to cats, dogs and horses, so keep the candle and herbs out of reach. Keep the lit candle, the dressing oil and the herb plate away from pets, and do not diffuse or leave essential oils where a cat can touch or lick them, since cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/calendula",
+   "https://www.nccih.nih.gov/health/lavender",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender"
+  ]
+ },
+ {
+  "id": "dressing-peace-in-the-home",
+  "name": "Peace in the Home Candle Dressing",
+  "purpose": "Calms tension and arguments and brings a gentle mood to the household.",
+  "description": "Peaceful Home and Peace Water style formulas are used in hoodoo to cool a quarrelsome house, often with soft blue or white candles. Lavender and lemon balm are calming herbs in European folk herbalism, and blue lace agate is a modern favorite for calm speech. Spreading the oil from the center outward lets the peace move through every room.",
+  "candleColors": [
+   "Light Blue",
+   "White"
+  ],
+  "oils": [
+   {
+    "item": "Peaceful Home Oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Lavender Essential Oil",
+    "amount": "or 1 drop in 1 tsp carrier oil"
+   },
+   {
+    "item": "Roman Chamomile Essential Oil",
+    "amount": "plus 1 drop in the same tsp of carrier oil"
+   },
+   {
+    "item": "Jojoba Oil",
+    "amount": "1 tsp, as the carrier"
+   }
+  ],
+  "herbs": [
+   {
+    "item": "Lavender, finely ground",
+    "amount": "a light pinch"
+   },
+   {
+    "item": "Lemon Balm, finely ground",
+    "amount": "a pinch, in a ring on the plate"
+   }
+  ],
+  "extras": [
+   {
+    "item": "Blue Lace Agate",
+    "amount": "1"
+   },
+   {
+    "item": "Paper with your household's first names",
+    "amount": "1, under the plate"
+   }
+  ],
+  "direction": "Begin at the middle of the candle and stroke gently outward to each end, letting calm spread out to every corner of the home.",
+  "carving": "The word 'peace', or a dove, with a circle around it.",
+  "steps": [
+   "Tidy the room you will use, open a window a little and take three slow breaths.",
+   "Carve the word 'peace' or a dove inside a circle.",
+   "Dress from the center outward with 3 drops of Peaceful Home Oil or the diluted lavender and chamomile blend, avoiding the wick and top half inch.",
+   "Wipe off the excess and dust the lower third lightly with ground lavender.",
+   "Set the names paper under the plate, ring the base with lemon balm and place the blue lace agate beside it.",
+   "Light the candle in a central room where people gather, and speak the words softly.",
+   "Snuff it after 20 to 30 minutes and relight in the evenings, especially after a hard day."
+  ],
+  "words": "Soft as water, still as stone,\npeace come settle in this home.\nHarsh words fade and tempers mend,\neach to each a gentle friend.",
+  "bestTime": "Waxing or full moon, on a Monday or Friday",
+  "moonPhases": [
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "peace",
+   "home blessing",
+   "calm",
+   "communication"
+  ],
+  "caution": "Never leave the candle burning unattended or while you sleep; if you want it to burn down over several sessions, snuff it (do not blow it out) and relight it next time. Set it in a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, because too much oil can make the flame flare. Wash your hands after dressing, and never put essential oils neat on skin or on broken skin. Never roll the candle in loose herbs: dust only a light film of finely ground herb on the lower part of the candle, or keep the herbs in a ring on the plate, and watch the flame the whole time with a snuffer or lid and water nearby. Carve away from your hand with a toothpick, pin or blunt tool. Ventilate the room, keep glitter, paper and plastic off the candle itself, and snuff or smother a flare rather than throwing water on hot wax or a wax fire. Let the wax cool completely before disposal and never pour hot wax down a drain. Roman chamomile and lemon balm can trigger allergy in people sensitive to the daisy or mint families, and lavender irritates a few people's skin, so patch test. Ask a qualified practitioner before using essential oils in pregnancy. Place the candle where it will not be bumped during busy family time. A candle supports calm; if anyone is unsafe at home, reach out for help.",
+  "pets": "The ASPCA lists lavender and chamomile as toxic to cats, dogs and horses, and shared rooms often have pets, so keep the candle high and the plate out of reach. Keep the lit candle, the dressing oil and the herb plate away from pets, and do not diffuse or leave essential oils where a cat can touch or lick them, since cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://www.rxlist.com/supplements/lemon_balm.htm",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ]
+ },
+ {
+  "id": "dressing-psychic-vision",
+  "name": "Psychic Vision and Dreams Candle Dressing",
+  "purpose": "Opens intuition and invites clear, memorable dreams before sleep.",
+  "description": "Mugwort is one of the best-known dream and seeing herbs in European folklore, and purple or silver candles are used in modern witchcraft for intuition and the moon. Psychic Vision formulas are dressed on candles before divination or dreamwork. This candle is lit before bed and snuffed before you lie down, never left burning while you sleep.",
+  "candleColors": [
+   "Purple",
+   "Silver"
+  ],
+  "oils": [
+   {
+    "item": "Psychic Vision Oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Sleep and Dreams Oil",
+    "amount": "or 3 drops instead"
+   }
+  ],
+  "herbs": [
+   {
+    "item": "Mugwort, finely ground",
+    "amount": "a pinch, in a ring on the plate"
+   },
+   {
+    "item": "Star Anise, ground",
+    "amount": "a small pinch, in the ring on the plate"
+   }
+  ],
+  "extras": [
+   {
+    "item": "Amethyst or Moonstone",
+    "amount": "1"
+   },
+   {
+    "item": "Dream journal and pen",
+    "amount": "1, by the bed"
+   }
+  ],
+  "direction": "Stroke from the base upward toward the top half inch, raising your sight, then wipe off the excess.",
+  "carving": "An open eye with a crescent moon above it.",
+  "steps": [
+   "About an hour before bed, dim the lights and set your dream journal by the bed.",
+   "Carve an open eye with a crescent above it.",
+   "Dress with 3 drops of Psychic Vision Oil or Sleep and Dreams Oil, stroking upward and keeping off the wick and top half inch.",
+   "Wipe off the excess, and ring the base with ground mugwort and star anise on the plate, at least an inch from the candle.",
+   "Hold the amethyst or moonstone, light the candle and speak the words while gazing softly at the flame.",
+   "After 15 to 20 minutes, snuff the candle fully and check that it is out before you go to bed; tuck the stone under your pillow.",
+   "On waking, write down any dreams before you get up, and repeat on following nights."
+  ],
+  "words": "Silver moon and violet flame,\nshow me true and speak my name.\nWhat I dream, let me recall,\nopen sight and clear for all.",
+  "bestTime": "Full moon, on a Monday night",
+  "moonPhases": [
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "divination",
+   "dreams",
+   "prophetic dreams",
+   "psychic powers",
+   "moon magic"
+  ],
+  "caution": "Never leave the candle burning unattended or while you sleep; if you want it to burn down over several sessions, snuff it (do not blow it out) and relight it next time. Set it in a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, because too much oil can make the flame flare. Wash your hands after dressing, and never put essential oils neat on skin or on broken skin. Never roll the candle in loose herbs: dust only a light film of finely ground herb on the lower part of the candle, or keep the herbs in a ring on the plate, and watch the flame the whole time with a snuffer or lid and water nearby. Carve away from your hand with a toothpick, pin or blunt tool. Ventilate the room, keep glitter, paper and plastic off the candle itself, and snuff or smother a flare rather than throwing water on hot wax or a wax fire. Let the wax cool completely before disposal and never pour hot wax down a drain. Always snuff this candle before sleep and never take it into the bedroom to burn overnight. Mugwort should be avoided in pregnancy and can cause allergy in people sensitive to ragweed, daisies or celery; pregnant people should leave it out. Real star anise is fine on the plate, but never eat it, since Japanese star anise looks similar and is toxic. Psychic and dream formulas may contain oils such as clary sage that are best avoided in pregnancy, so check the label and patch test.",
+  "pets": "Keep the herb ring and stones away from pets, since mugwort and star anise can upset a pet's stomach if eaten. Keep the lit candle, the dressing oil and the herb plate away from pets, and do not diffuse or leave essential oils where a cat can touch or lick them, since cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://www.nccih.nih.gov/health/mugwort",
+   "https://www.webmd.com/vitamins/ai/ingredientmono-364/star-anise",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ]
+ },
+ {
+  "id": "dressing-success-victory",
+  "name": "Success and Victory Candle Dressing",
+  "purpose": "Boosts confidence and favor for a goal, contest, interview or launch.",
+  "description": "Crown of Success is a hoodoo formula for mastery and recognition, and High John the Conqueror root is a famous American conjure charm for victory and personal power. Bay laurel recalls the laurel wreaths awarded to victors in ancient Greece and Rome. Gold and purple candles suggest achievement and honor.",
+  "candleColors": [
+   "Gold",
+   "Purple"
+  ],
+  "oils": [
+   {
+    "item": "Crown of Success Oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Success Oil",
+    "amount": "or 3 drops instead"
+   }
+  ],
+  "herbs": [
+   {
+    "item": "Bay Laurel, finely ground leaf",
+    "amount": "a light pinch"
+   },
+   {
+    "item": "Sunflower, dried and ground petals",
+    "amount": "a pinch, in a ring on the plate"
+   }
+  ],
+  "extras": [
+   {
+    "item": "High John the Conqueror root",
+    "amount": "1 whole root, beside the holder"
+   },
+   {
+    "item": "Petition naming your goal",
+    "amount": "1, under the plate"
+   }
+  ],
+  "direction": "Stroke from the top area down toward the base and toward you, drawing victory and recognition into your hands.",
+  "carving": "A crown or laurel wreath, with your goal in one word.",
+  "steps": [
+   "Write your goal clearly, such as 'I win the audition', and fold it toward you.",
+   "Carve a crown or wreath and one word for the goal.",
+   "Dress with 3 drops of Crown of Success Oil or Success Oil, stroking toward you and keeping off the wick and top half inch.",
+   "Wipe off the excess and dust the lower third lightly with ground bay laurel.",
+   "Place the petition under the plate, ring the base with sunflower petals and set the High John root beside the holder.",
+   "Light the candle, hold the root, and speak the words while picturing the moment you succeed.",
+   "Snuff it after 20 to 30 minutes and relight daily until the event; carry the root in a pocket on the day."
+  ],
+  "words": "Laurel bright and golden crown,\nlift me up and don't let down.\nSkill and nerve and favor true,\nvictory come in all I do.",
+  "bestTime": "Waxing to full moon, on a Sunday or Thursday",
+  "moonPhases": [
+   "First Quarter",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "success",
+   "victory",
+   "confidence",
+   "power"
+  ],
+  "caution": "Never leave the candle burning unattended or while you sleep; if you want it to burn down over several sessions, snuff it (do not blow it out) and relight it next time. Set it in a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, because too much oil can make the flame flare. Wash your hands after dressing, and never put essential oils neat on skin or on broken skin. Never roll the candle in loose herbs: dust only a light film of finely ground herb on the lower part of the candle, or keep the herbs in a ring on the plate, and watch the flame the whole time with a snuffer or lid and water nearby. Carve away from your hand with a toothpick, pin or blunt tool. Ventilate the room, keep glitter, paper and plastic off the candle itself, and snuff or smother a flare rather than throwing water on hot wax or a wax fire. Let the wax cool completely before disposal and never pour hot wax down a drain. High John the Conqueror root (Ipomoea jalapa) is a strong purgative if swallowed, so keep it away from children and pets and wash your hands after handling. Success formulas may contain bay, cinnamon or citrus oils that can irritate skin, so patch test and ask a qualified practitioner about essential oils in pregnancy. Bay laurel can cause skin sensitivity in a few people.",
+  "pets": "The ASPCA lists bay laurel as toxic to cats, dogs and horses, and the High John root can cause vomiting and diarrhea if chewed. Keep the lit candle, the dressing oil and the herb plate away from pets, and do not diffuse or leave essential oils where a cat can touch or lick them, since cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.webmd.com/vitamins/ai/ingredientmono-288/jalap",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bay-laurel",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/"
+  ]
+ },
+ {
+  "id": "dressing-luck",
+  "name": "Lucky Break Candle Dressing",
+  "purpose": "Invites good luck, lucky timing and fortunate chances.",
+  "description": "Fast Luck and Lucky Hand are classic hoodoo formulas, and chamomile is traditionally used by gamblers in American folk magic to wash the hands before play. Green aventurine is a modern 'lucky' stone. Green and orange candles speak to fortune and good timing.",
+  "candleColors": [
+   "Green",
+   "Orange"
+  ],
+  "oils": [
+   {
+    "item": "Fast Luck Oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Lucky Hand Oil",
+    "amount": "or 3 drops instead"
+   }
+  ],
+  "herbs": [
+   {
+    "item": "Chamomile, finely ground",
+    "amount": "a light pinch"
+   },
+   {
+    "item": "Allspice, ground",
+    "amount": "a pinch, in a ring on the plate only"
+   }
+  ],
+  "extras": [
+   {
+    "item": "Green Aventurine",
+    "amount": "1"
+   },
+   {
+    "item": "Lucky coin",
+    "amount": "1, set in front of the candle"
+   }
+  ],
+  "direction": "Stroke from just below the top half inch down toward you, then from the base up to the middle, pulling luck in from both ends.",
+  "carving": "A four-leaf clover or the number 7.",
+  "steps": [
+   "Hold the coin and say what you need luck with, such as a job interview or a contest.",
+   "Carve a four-leaf clover or the number 7.",
+   "Dress with 3 drops of Fast Luck Oil or Lucky Hand Oil, stroking toward you from both ends and avoiding the wick and top half inch.",
+   "Wipe off the excess and dust the lower third lightly with ground chamomile.",
+   "Ring the plate with ground allspice, set the green aventurine beside it and the coin in front.",
+   "Light the candle and speak the words seven times.",
+   "Snuff it after 15 to 30 minutes and relight on lucky days; carry the coin with you when you need the luck."
+  ],
+  "words": "Lucky flame and clover green,\nbring me chances yet unseen.\nRight on time and right in place,\nfortune smile upon my face.",
+  "bestTime": "Waxing moon, on a Thursday or Sunday",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous"
+  ],
+  "metaphysical": [
+   "luck",
+   "gambling",
+   "wishes",
+   "prosperity"
+  ],
+  "caution": "Never leave the candle burning unattended or while you sleep; if you want it to burn down over several sessions, snuff it (do not blow it out) and relight it next time. Set it in a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, because too much oil can make the flame flare. Wash your hands after dressing, and never put essential oils neat on skin or on broken skin. Never roll the candle in loose herbs: dust only a light film of finely ground herb on the lower part of the candle, or keep the herbs in a ring on the plate, and watch the flame the whole time with a snuffer or lid and water nearby. Carve away from your hand with a toothpick, pin or blunt tool. Ventilate the room, keep glitter, paper and plastic off the candle itself, and snuff or smother a flare rather than throwing water on hot wax or a wax fire. Let the wax cool completely before disposal and never pour hot wax down a drain. Fast Luck formulas traditionally contain cinnamon and sometimes wintergreen, which irritate skin and are poisonous if swallowed, so keep the bottle away from children, patch test, and do not use on skin in pregnancy without professional advice. Chamomile can trigger allergy in people sensitive to ragweed. Ground allspice irritates skin and eyes, so it stays on the plate.",
+  "pets": "The ASPCA lists chamomile as toxic to cats, dogs and horses, and wintergreen and cinnamon oils are especially dangerous for pets. Keep the lit candle, the dressing oil and the herb plate away from pets, and do not diffuse or leave essential oils where a cat can touch or lick them, since cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/chamomile",
+   "https://www.drugs.com/npp/allspice.html",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/"
+  ]
+ },
+ {
+  "id": "dressing-courage",
+  "name": "Courage Candle Dressing",
+  "purpose": "Kindles bravery and steady nerve before a hard conversation or challenge.",
+  "description": "Thyme was linked with courage in medieval Europe, where tradition says ladies embroidered sprigs on the scarves of knights. Ginger is a warming herb used in many folk traditions to add fire and speed to a working. Red and orange candles carry the heat of bravery, and carnelian is a modern stone for confidence.",
+  "candleColors": [
+   "Red",
+   "Orange"
+  ],
+  "oils": [
+   {
+    "item": "Courage Oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Ginger Essential Oil",
+    "amount": "or 1 drop in 1 tsp carrier oil"
+   },
+   {
+    "item": "Black Pepper Essential Oil",
+    "amount": "plus 1 drop in the same tsp of carrier oil"
+   },
+   {
+    "item": "Grapeseed Oil",
+    "amount": "1 tsp, as the carrier"
+   }
+  ],
+  "herbs": [
+   {
+    "item": "Thyme, finely ground",
+    "amount": "a light pinch"
+   },
+   {
+    "item": "Ginger, ground",
+    "amount": "a pinch, in a ring on the plate"
+   }
+  ],
+  "extras": [
+   {
+    "item": "Carnelian or Tiger's Eye",
+    "amount": "1"
+   }
+  ],
+  "direction": "Stroke from the base upward toward the top half inch and toward you, raising courage from your feet to your heart.",
+  "carving": "The Tiwaz rune (an upward arrow), associated with the god Tyr and with courage.",
+  "steps": [
+   "Name the situation that needs your courage and the first brave thing you will do.",
+   "Carve the Tiwaz rune, an upward-pointing arrow.",
+   "Dress with 3 drops of Courage Oil or the diluted ginger and black pepper blend, stroking upward and keeping off the wick and top half inch.",
+   "Wipe off the excess and dust the lower third lightly with ground thyme.",
+   "Ring the plate with ground ginger and hold the carnelian or tiger's eye as you light the candle.",
+   "Speak the words, stand up tall and picture yourself doing the brave thing calmly.",
+   "Snuff it after 15 to 20 minutes and carry the stone with you; relight before each challenge."
+  ],
+  "words": "Fire in belly, iron in spine,\nbrave of heart and bold in line.\nFear may come but will not stay;\nI rise up and walk my way.",
+  "bestTime": "Waxing moon, on a Tuesday",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous"
+  ],
+  "metaphysical": [
+   "courage",
+   "strength",
+   "confidence",
+   "power"
+  ],
+  "caution": "Never leave the candle burning unattended or while you sleep; if you want it to burn down over several sessions, snuff it (do not blow it out) and relight it next time. Set it in a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, because too much oil can make the flame flare. Wash your hands after dressing, and never put essential oils neat on skin or on broken skin. Never roll the candle in loose herbs: dust only a light film of finely ground herb on the lower part of the candle, or keep the herbs in a ring on the plate, and watch the flame the whole time with a snuffer or lid and water nearby. Carve away from your hand with a toothpick, pin or blunt tool. Ventilate the room, keep glitter, paper and plastic off the candle itself, and snuff or smother a flare rather than throwing water on hot wax or a wax fire. Let the wax cool completely before disposal and never pour hot wax down a drain. Courage formulas and the ginger and pepper blend are warming and can sting skin or eyes, so keep the dilution low, patch test, and wash your hands before touching your face. Ask a qualified practitioner before using essential oils in pregnancy. Thyme is safe as a dried herb, but thyme essential oil is a strong irritant and is not used here.",
+  "pets": "Ground ginger and pepper can irritate pets if sniffed or licked. Keep the lit candle, the dressing oil and the herb plate away from pets, and do not diffuse or leave essential oils where a cat can touch or lick them, since cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.rxlist.com/supplements/thyme.htm",
+   "https://www.drugs.com/npp/ginger.html",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/"
+  ]
+ },
+ {
+  "id": "dressing-cleansing-purification",
+  "name": "Cleansing and Purification Candle Dressing",
+  "purpose": "Clears stale or heavy energy from yourself or a space.",
+  "description": "Van Van Oil is a New Orleans hoodoo formula, traditionally lemongrass-based, used to clear away bad conditions and refresh a space. Rosemary and garden sage are cleansing herbs in European folk practice, and they make a widely available alternative to white sage, which is sacred to many Native peoples and often overharvested. A white candle stands for a clean slate.",
+  "candleColors": [
+   "White"
+  ],
+  "oils": [
+   {
+    "item": "Van Van Oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Blessing Oil",
+    "amount": "or 3 drops instead"
+   }
+  ],
+  "herbs": [
+   {
+    "item": "Rosemary, finely ground",
+    "amount": "a light pinch"
+   },
+   {
+    "item": "Sage, finely ground",
+    "amount": "a pinch, in a ring on the plate"
+   }
+  ],
+  "extras": [
+   {
+    "item": "Salt",
+    "amount": "a thin circle around the plate"
+   },
+   {
+    "item": "Small bowl of water",
+    "amount": "1, beside the plate"
+   }
+  ],
+  "direction": "Stroke from just below the top half inch down to the base, moving away from you, wiping the old energy off and out.",
+  "carving": "A spiral that opens outward, for release.",
+  "steps": [
+   "Open a window and tidy the space, since physical clearing helps the spiritual kind.",
+   "Carve an outward spiral into the candle.",
+   "Dress with 3 drops of Van Van Oil or Blessing Oil, stroking downward and away from you and avoiding the wick and top half inch.",
+   "Wipe off the excess and dust the lower third lightly with ground rosemary.",
+   "Ring the plate with ground sage, circle it with salt and set the bowl of water beside it.",
+   "Light the candle, speak the words and picture any heaviness lifting out through the window.",
+   "Snuff it after 20 to 30 minutes, pour the water outside, and relight for three evenings in a row."
+  ],
+  "words": "Salt and sage and rosemary,\nwash this place and set it free.\nWhat is stale, now blow away;\nclean and bright, begin today.",
+  "bestTime": "Waning moon, on a Saturday or Monday",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent"
+  ],
+  "metaphysical": [
+   "cleansing",
+   "purification",
+   "release",
+   "home blessing"
+  ],
+  "caution": "Never leave the candle burning unattended or while you sleep; if you want it to burn down over several sessions, snuff it (do not blow it out) and relight it next time. Set it in a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, because too much oil can make the flame flare. Wash your hands after dressing, and never put essential oils neat on skin or on broken skin. Never roll the candle in loose herbs: dust only a light film of finely ground herb on the lower part of the candle, or keep the herbs in a ring on the plate, and watch the flame the whole time with a snuffer or lid and water nearby. Carve away from your hand with a toothpick, pin or blunt tool. Ventilate the room, keep glitter, paper and plastic off the candle itself, and snuff or smother a flare rather than throwing water on hot wax or a wax fire. Let the wax cool completely before disposal and never pour hot wax down a drain. Van Van Oil is usually made with lemongrass oil, which can sensitize skin, so patch test and keep it well diluted. Sage and rosemary are safe as dried herbs here, but their essential oils are best avoided in pregnancy and epilepsy and are not used. Do not drink the water, and sweep up the salt afterward.",
+  "pets": "Sweep up the salt so pets cannot lick it, and keep lemongrass-based oils away from them. Keep the lit candle, the dressing oil and the herb plate away from pets, and do not diffuse or leave essential oils where a cat can touch or lick them, since cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.drugs.com/npp/sage.html",
+   "https://www.rxlist.com/supplements/rosemary.htm",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lemon-grass",
+   "https://www.petpoisonhelpline.com/poison/salt/"
+  ]
+ },
+ {
+  "id": "dressing-ancestor-honoring",
+  "name": "Ancestor Honoring Candle Dressing",
+  "purpose": "Honors and remembers your beloved dead and invites their blessing.",
+  "description": "In many traditions, including Espiritismo, hoodoo and Catholic folk practice, a white candle and a glass of fresh water are offered to the dead. Rosemary has stood for remembrance in English lore since at least Shakespeare's time, and myrrh resin has long been burned at funerals and memorials. This dressing can be used any time you want to say thank you to those who came before.",
+  "candleColors": [
+   "White"
+  ],
+  "oils": [
+   {
+    "item": "Ancestor Oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Frankincense Essential Oil",
+    "amount": "or 1 drop in 1 tsp carrier oil"
+   },
+   {
+    "item": "Myrrh Essential Oil",
+    "amount": "plus 1 drop in the same tsp of carrier oil"
+   },
+   {
+    "item": "Olive Oil",
+    "amount": "1 tsp, as the carrier"
+   }
+  ],
+  "herbs": [
+   {
+    "item": "Rosemary, finely ground",
+    "amount": "a light pinch"
+   },
+   {
+    "item": "Myrrh, ground resin",
+    "amount": "a small pinch, in a ring on the plate only"
+   }
+  ],
+  "extras": [
+   {
+    "item": "Glass of fresh water",
+    "amount": "1"
+   },
+   {
+    "item": "Photo of an ancestor or a written name",
+    "amount": "1, set well back from the flame"
+   }
+  ],
+  "direction": "Stroke gently from the top area down toward the base and toward you, welcoming their presence.",
+  "carving": "Your family surname, or the initials of the ancestors you are honoring.",
+  "steps": [
+   "Set a clean cloth on a table and place the photo or name well back from where the candle will go.",
+   "Carve the family surname or your ancestors' initials into the candle.",
+   "Dress with 3 drops of Ancestor Oil or the diluted frankincense and myrrh blend, stroking toward you and avoiding the wick and top half inch.",
+   "Wipe off the excess and dust the lower third lightly with ground rosemary.",
+   "Ring the plate with a little ground myrrh, at least an inch from the candle, and set the glass of water beside it.",
+   "Light the candle, say their names aloud and speak the words, then share a memory or tell them your news.",
+   "Snuff the candle after 20 to 30 minutes, thank them, and change the water weekly when you relight."
+  ],
+  "words": "Those who walked the road before,\nwelcome to my light and door.\nRemembered, honored, held in love,\nbless me still from realms above.",
+  "bestTime": "Any moon phase, especially the waning or dark moon; Mondays, anniversaries and Samhain",
+  "moonPhases": [
+   "Waning Crescent",
+   "Dark Moon",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "ancestors",
+   "spirit work",
+   "blessing",
+   "grief"
+  ],
+  "caution": "Never leave the candle burning unattended or while you sleep; if you want it to burn down over several sessions, snuff it (do not blow it out) and relight it next time. Set it in a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, because too much oil can make the flame flare. Wash your hands after dressing, and never put essential oils neat on skin or on broken skin. Never roll the candle in loose herbs: dust only a light film of finely ground herb on the lower part of the candle, or keep the herbs in a ring on the plate, and watch the flame the whole time with a snuffer or lid and water nearby. Carve away from your hand with a toothpick, pin or blunt tool. Ventilate the room, keep glitter, paper and plastic off the candle itself, and snuff or smother a flare rather than throwing water on hot wax or a wax fire. Let the wax cool completely before disposal and never pour hot wax down a drain. Myrrh essential oil is best avoided in pregnancy, so pregnant people can use Ancestor Oil or plain olive oil instead. Frankincense and myrrh can irritate sensitive skin, so patch test. Ground resin is flammable, so it stays on the plate well away from the flame, and photos and paper must sit well back from the candle. Do not drink the offering water.",
+  "pets": "Keep the water glass and resin ring out of pets' reach. Keep the lit candle, the dressing oil and the herb plate away from pets, and do not diffuse or leave essential oils where a cat can touch or lick them, since cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://www.drugs.com/npp/myrrh.html",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/myrrh",
+   "https://tisserandinstitute.org/dilution-essential-oils/"
+  ]
+ },
+ {
+  "id": "dressing-new-moon-beginnings",
+  "name": "New Moon Beginnings Candle Dressing",
+  "purpose": "Plants an intention at the start of a new lunar cycle.",
+  "description": "In modern witchcraft, the new moon is a time to set intentions that will grow as the moon waxes. White or silver candles suit this fresh start, and mint and orange peel are bright, refreshing herbs associated with new energy in modern practice. The oil is stroked upward, like a seed sprouting.",
+  "candleColors": [
+   "White",
+   "Silver"
+  ],
+  "oils": [
+   {
+    "item": "New Moon Oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Sweet Orange Essential Oil",
+    "amount": "or 1 drop in 1 tsp carrier oil"
+   },
+   {
+    "item": "Frankincense Essential Oil",
+    "amount": "plus 1 drop in the same tsp of carrier oil"
+   },
+   {
+    "item": "Jojoba Oil",
+    "amount": "1 tsp, as the carrier"
+   }
+  ],
+  "herbs": [
+   {
+    "item": "Spearmint, finely ground",
+    "amount": "a light pinch"
+   },
+   {
+    "item": "Orange Peel, dried and ground",
+    "amount": "a pinch, in a ring on the plate"
+   }
+  ],
+  "extras": [
+   {
+    "item": "Moonstone",
+    "amount": "1"
+   },
+   {
+    "item": "Paper with one intention for this cycle",
+    "amount": "1, under the plate"
+   }
+  ],
+  "direction": "Stroke from the base upward toward the top half inch, as a seed grows toward light.",
+  "carving": "A waxing crescent with a single word for your intention.",
+  "steps": [
+   "Choose one clear intention for the coming month and write it on the paper.",
+   "Carve a waxing crescent and one word for the intention.",
+   "Dress with 3 drops of New Moon Oil or the diluted orange and frankincense blend, stroking upward and keeping off the wick and top half inch.",
+   "Wipe off the excess and dust the lower third lightly with ground spearmint.",
+   "Set the paper under the plate, ring the base with orange peel and hold the moonstone.",
+   "Light the candle and speak the words, then name one small step you will take this week.",
+   "Snuff it after 15 to 30 minutes and relight briefly each evening until the first quarter moon, keeping the paper to review at the full moon."
+  ],
+  "words": "Dark moon turning, new moon thin,\nhere my growing will begin.\nSeed of wish and flame of light,\nswell with every waxing night.",
+  "bestTime": "New moon or the first days of the waxing crescent; any day",
+  "moonPhases": [
+   "New Moon",
+   "Waxing Crescent"
+  ],
+  "metaphysical": [
+   "new beginnings",
+   "manifestation",
+   "moon magic",
+   "growth"
+  ],
+  "caution": "Never leave the candle burning unattended or while you sleep; if you want it to burn down over several sessions, snuff it (do not blow it out) and relight it next time. Set it in a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, because too much oil can make the flame flare. Wash your hands after dressing, and never put essential oils neat on skin or on broken skin. Never roll the candle in loose herbs: dust only a light film of finely ground herb on the lower part of the candle, or keep the herbs in a ring on the plate, and watch the flame the whole time with a snuffer or lid and water nearby. Carve away from your hand with a toothpick, pin or blunt tool. Ventilate the room, keep glitter, paper and plastic off the candle itself, and snuff or smother a flare rather than throwing water on hot wax or a wax fire. Let the wax cool completely before disposal and never pour hot wax down a drain. Sweet orange oil is not significantly phototoxic, but oxidized citrus oil can sensitize skin, so use fresh oil and patch test. Spearmint can irritate sensitive skin. Ask a qualified practitioner before using essential oils in pregnancy, and use New Moon Oil or plain carrier oil if unsure.",
+  "pets": "The ASPCA lists orange and mint as toxic to cats, dogs and horses, so keep the peel and herb ring out of reach. Keep the lit candle, the dressing oil and the herb plate away from pets, and do not diffuse or leave essential oils where a cat can touch or lick them, since cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/orange",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/mint",
+   "https://tisserandinstitute.org/learn-more/citruses-a-comparison-of-different-oils/"
+  ]
+ },
+ {
+  "id": "dressing-full-moon-power",
+  "name": "Full Moon Power Candle Dressing",
+  "purpose": "Charges a working, tools or yourself with the full moon's energy.",
+  "description": "Many modern witches hold their main rites at the full moon, when Wiccan practice describes lunar power as strongest. Jasmine and white rose are traditional moon flowers in Western occult correspondences, and selenite is named for Selene, the Greek moon goddess. Silver and white candles mirror the moon itself.",
+  "candleColors": [
+   "Silver",
+   "White"
+  ],
+  "oils": [
+   {
+    "item": "Full Moon Oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Jasmine Essential Oil",
+    "amount": "or 1 drop in 1 tsp carrier oil"
+   },
+   {
+    "item": "Sandalwood Essential Oil",
+    "amount": "plus 1 drop in the same tsp of carrier oil"
+   },
+   {
+    "item": "Fractionated Coconut Oil",
+    "amount": "1 tsp, as the carrier"
+   }
+  ],
+  "herbs": [
+   {
+    "item": "Jasmine, finely ground flowers",
+    "amount": "a light pinch"
+   },
+   {
+    "item": "Rose, dried white petals",
+    "amount": "a pinch, in a ring on the plate"
+   }
+  ],
+  "extras": [
+   {
+    "item": "Selenite or Clear Quartz",
+    "amount": "1"
+   },
+   {
+    "item": "Bowl of water to reflect the moon",
+    "amount": "1, beside the plate"
+   }
+  ],
+  "direction": "Start at the middle and stroke outward to both ends, filling the candle like the moon reaching its full round.",
+  "carving": "The triple moon symbol: a full circle between a waxing and a waning crescent.",
+  "steps": [
+   "If you can, set up by a window where you can see the moon, or simply picture it overhead.",
+   "Carve the triple moon symbol into the candle.",
+   "Dress from the middle outward with 3 drops of Full Moon Oil or the diluted jasmine and sandalwood blend, keeping off the wick and top half inch.",
+   "Wipe off the excess and dust the lower third lightly with ground jasmine.",
+   "Ring the plate with white rose petals, set the selenite or quartz and the bowl of water beside it, and lay any tools you want to charge nearby.",
+   "Light the candle, speak the words and gaze at the moon's reflection in the water.",
+   "Snuff the candle after 20 to 30 minutes and pour the water onto a plant or the earth."
+  ],
+  "words": "Silver Lady, round and bright,\nfill this flame with all your light.\nPower full and power free,\ncharge my work and bless it be.",
+  "bestTime": "Full moon night, or the night before and after",
+  "moonPhases": [
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "moon magic",
+   "power",
+   "manifestation",
+   "spirituality",
+   "consecration"
+  ],
+  "caution": "Never leave the candle burning unattended or while you sleep; if you want it to burn down over several sessions, snuff it (do not blow it out) and relight it next time. Set it in a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, because too much oil can make the flame flare. Wash your hands after dressing, and never put essential oils neat on skin or on broken skin. Never roll the candle in loose herbs: dust only a light film of finely ground herb on the lower part of the candle, or keep the herbs in a ring on the plate, and watch the flame the whole time with a snuffer or lid and water nearby. Carve away from your hand with a toothpick, pin or blunt tool. Ventilate the room, keep glitter, paper and plastic off the candle itself, and snuff or smother a flare rather than throwing water on hot wax or a wax fire. Let the wax cool completely before disposal and never pour hot wax down a drain. Keep the candle back from the window glass and curtains, even if you want to see the moon. Jasmine absolute can cause skin allergy in some people, and sandalwood can irritate sensitive skin, so patch test; ask a qualified practitioner before using essential oils in pregnancy. Do not get selenite wet, since it dissolves, and do not drink the water.",
+  "pets": "The ASPCA lists true jasmine as non-toxic to cats and dogs, but keep the candle and water out of reach. Keep the lit candle, the dressing oil and the herb plate away from pets, and do not diffuse or leave essential oils where a cat can touch or lick them, since cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/jasmine",
+   "https://www.drugs.com/npp/sandalwood-oil.html",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/"
+  ]
+ },
+ {
+  "id": "dressing-sweetening-reconciliation",
+  "name": "Sweetening and Reconciliation Candle Dressing",
+  "purpose": "Softens hard feelings and opens the way to an honest, kind conversation.",
+  "description": "Sweetening is a hoodoo practice that uses sugar, honey and gentle oils to make a situation kinder, and Reconciliation Oil is dressed on candles to heal quarrels between friends, family or partners. Marjoram is an old European herb of happiness and harmony, and rose softens the heart. This dressing sweetens the situation and your own words, while respecting that the other person makes their own choice.",
+  "candleColors": [
+   "Pink",
+   "White"
+  ],
+  "oils": [
+   {
+    "item": "Reconciliation Oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Sweet Marjoram Essential Oil",
+    "amount": "or 1 drop in 1 tsp carrier oil"
+   },
+   {
+    "item": "Rose Geranium Essential Oil",
+    "amount": "plus 1 drop in the same tsp of carrier oil"
+   },
+   {
+    "item": "Sweet Almond Oil",
+    "amount": "1 tsp, as the carrier"
+   }
+  ],
+  "herbs": [
+   {
+    "item": "Marjoram, finely ground",
+    "amount": "a light pinch"
+   },
+   {
+    "item": "Rose, finely ground petals",
+    "amount": "a pinch, in a ring on the plate"
+   }
+  ],
+  "extras": [
+   {
+    "item": "Brown sugar",
+    "amount": "a thin ring on the plate, outside the herb ring"
+   },
+   {
+    "item": "Rose Quartz or Rhodonite",
+    "amount": "1"
+   }
+  ],
+  "direction": "Stroke from the top area down toward the base and toward you, drawing sweetness and understanding into the situation.",
+  "carving": "Two initials side by side, joined by a small heart or plus sign.",
+  "steps": [
+   "Think about your own part in the quarrel and what you would like to say to make peace.",
+   "Carve your initial and the other person's initial side by side, joined by a heart or plus sign.",
+   "Dress with 3 drops of Reconciliation Oil or the diluted marjoram and rose geranium blend, stroking toward you and keeping off the wick and top half inch.",
+   "Wipe off the excess and dust the lower third lightly with ground marjoram.",
+   "Ring the plate with ground rose petals, then a ring of brown sugar outside it, and set the stone beside the candle.",
+   "Light the candle, speak the words and picture a calm, kind conversation where both of you feel heard.",
+   "Snuff it after 15 to 30 minutes, relight daily for a week, and reach out in person when you feel ready."
+  ],
+  "words": "Sugar sweet and rose so mild,\nsoften words that ran too wild.\nLet us speak with open heart,\nmend what pulled us both apart.",
+  "bestTime": "Waxing moon, on a Friday or Monday",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous"
+  ],
+  "metaphysical": [
+   "reconciliation",
+   "friendship",
+   "peace",
+   "communication",
+   "love"
+  ],
+  "caution": "Never leave the candle burning unattended or while you sleep; if you want it to burn down over several sessions, snuff it (do not blow it out) and relight it next time. Set it in a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, because too much oil can make the flame flare. Wash your hands after dressing, and never put essential oils neat on skin or on broken skin. Never roll the candle in loose herbs: dust only a light film of finely ground herb on the lower part of the candle, or keep the herbs in a ring on the plate, and watch the flame the whole time with a snuffer or lid and water nearby. Carve away from your hand with a toothpick, pin or blunt tool. Ventilate the room, keep glitter, paper and plastic off the candle itself, and snuff or smother a flare rather than throwing water on hot wax or a wax fire. Let the wax cool completely before disposal and never pour hot wax down a drain. Sugar caramelizes and burns hot, so keep the sugar ring on the plate well away from the candle and never on the candle itself. Sweet marjoram and rose geranium can irritate sensitive skin, so patch test; ask a qualified practitioner before using essential oils in pregnancy. Sweet almond is a nut oil; use jojoba if you have a nut allergy. Respect the other person's choice: this candle sweetens the situation, it does not override anyone's will, and it is not for reconnecting with someone who has hurt you or asked for no contact.",
+  "pets": "The ASPCA lists marjoram as toxic to cats, dogs and horses, and sugar attracts pets to the plate, so keep it out of reach. Keep the lit candle, the dressing oil and the herb plate away from pets, and do not diffuse or leave essential oils where a cat can touch or lick them, since cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/marjoram",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ]
+ }
+]

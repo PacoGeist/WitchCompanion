@@ -1,0 +1,32 @@
+import asyncio
+from playwright.async_api import async_playwright
+async def main():
+    async with async_playwright() as p:
+        b = await p.chromium.launch(executable_path='/opt/pw-browsers/chromium-1243/chrome-linux64/chrome')
+        pg = await b.new_page(viewport={'width': 400, 'height': 860}, device_scale_factor=2)
+        errs=[]; pg.on('pageerror', lambda e: errs.append(str(e)))
+        await pg.goto('http://localhost:8765/index.html#/journal'); await pg.wait_for_timeout(1000)
+        await pg.screenshot(path='shots/j0.png')
+        await pg.evaluate("location.hash='#/reading/tarot-celtic-cross'"); await pg.wait_for_timeout(700)
+        await pg.fill('#rq', 'Should I take the new job?'); await pg.fill('#rn', 'Lots of Pentacles — feels practical.'); await pg.wait_for_timeout(600)
+        await pg.screenshot(path='shots/j1.png')
+        await pg.click('#again'); await pg.wait_for_timeout(700)
+        print('question carried:', await pg.input_value('#rq'))
+        await pg.click('#discard'); await pg.wait_for_timeout(600)
+        for sid in ['tarot-three-card-past-present-future','tarot-one-card-daily']:
+            ok=await pg.evaluate(f"!!Store.get('{sid}')")
+            if not ok: sid=await pg.evaluate("Store.all('tarot')[3].id")
+            await pg.evaluate(f"location.hash='#/reading/{sid}'"); await pg.wait_for_timeout(500)
+        await pg.reload(); await pg.wait_for_timeout(900)
+        await pg.evaluate("location.hash='#/journal'"); await pg.wait_for_timeout(700)
+        print('rows:', await pg.locator('#jl .row').count())
+        await pg.screenshot(path='shots/j2.png')
+        await pg.fill('#jf','new job'); await pg.wait_for_timeout(300)
+        print('search rows:', await pg.locator('#jl .row').count())
+        await pg.click('#jl .row'); await pg.wait_for_timeout(600)
+        print('notes kept:', await pg.input_value('#pn'))
+        await pg.screenshot(path='shots/j3.png', full_page=True)
+        await pg.evaluate("location.hash='#/view/tarot-celtic-cross'"); await pg.wait_for_timeout(600)
+        print('past link:', await pg.locator('text=Past readings').count())
+        print(errs); await b.close()
+asyncio.run(main())

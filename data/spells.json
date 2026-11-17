@@ -1,0 +1,1958 @@
+[
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-witch-bottle",
+  "name": "Witch Bottle of Protection",
+  "description": "The witch bottle is one of the oldest recorded protective charms in Britain, with stoneware 'bellarmine' jugs filled with pins, nails and urine found buried beneath hearths and thresholds from the 1600s onward. It was made to catch and trap ill will aimed at a household. This modern version keeps the sharp, salty and personal elements while staying clean and safe to make.",
+  "ingredients": [
+   {
+    "item": "Small glass jar or bottle with a tight lid or cork",
+    "amount": "1"
+   },
+   {
+    "item": "Bent pins, rusty nails or tacks",
+    "amount": "a small handful"
+   },
+   {
+    "item": "Sea salt or black salt",
+    "amount": "3 tbsp"
+   },
+   {
+    "item": "Rosemary sprigs",
+    "amount": "3 sprigs"
+   },
+   {
+    "item": "Rue, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Bay Laurel leaves",
+    "amount": "2"
+   },
+   {
+    "item": "Small foil square (shiny side out) or a small mirror shard with its edges taped",
+    "amount": "1"
+   },
+   {
+    "item": "Vinegar or red wine",
+    "amount": "enough to fill the jar"
+   },
+   {
+    "item": "Personal link: a few strands of your hair or nail clippings",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Black candle",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse the jar by rinsing it in salt water and passing it through incense smoke.",
+   "Drop in the pins and nails one at a time, naming each as a guard that will pierce any harm sent your way.",
+   "Add the salt, Rosemary, Rue and Bay Laurel leaves, then slip in the mirror shard or foil to reflect harm back to its source.",
+   "Add your hair or nail clippings so the bottle knows whose home and body it guards.",
+   "Fill nearly to the top with vinegar or wine, leaving a little air space, which sours any ill intent that enters, then seal tightly.",
+   "Light the black candle and drip wax around the lid to seal it while speaking the chant three times.",
+   "Bury the bottle near your front door, beneath a doorstep, or in the far corner of your property (only on land you own or have permission to dig, and after contacting 811 or your local utility locator to check for buried lines); if you have no yard, hide it in a dark cupboard near the entrance."
+  ],
+  "howToUse": "Leave the bottle undisturbed where it was placed. Traditionally it works for as long as it remains unbroken and hidden. If it ever breaks or is dug up, dispose of the contents off your property, thank it for its service, and make a fresh one.",
+  "chant": "Pin and nail and salt and thorn,\nguard this house from night to morn.\nWhat's sent in spite, turn back its course,\nreturn all harm unto its source.",
+  "intention": "I seal my home and self against all harm, and send ill will back where it came from.",
+  "timing": "Waning moon or dark moon; Saturday (Saturn) for protection.",
+  "metaphysical": [
+   "protection",
+   "hex breaking",
+   "home blessing",
+   "banishing"
+  ],
+  "caution": "Never leave a burning candle unattended or lit while you sleep; use a sturdy holder on a heatproof dish at least 12 inches from curtains, paper and anything that can burn, out of reach of children and pets. Wear gloves with rusty nails and pins and keep your tetanus shots up to date, since puncture wounds from nails can cause tetanus; a foil square is safer than broken mirror glass, and any shard should have its edges taped. Rue can cause blistering, burn-like rashes if skin that touched it is then exposed to sunlight, so wear gloves, wash your hands afterward, and avoid it if pregnant. Bury the bottle only on land you own or have permission to dig, and contact your utility locator (811 in the US) before digging. Keep the bottle and its contents away from children and pets.",
+  "interactions": "",
+  "pets": "Keep the bottle, nails, glass and rue away from pets; they are hazardous if chewed or swallowed.",
+  "toxic": true,
+  "externalOnly": true,
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://www.cdc.gov/tetanus/causes/index.html",
+   "https://medlineplus.gov/ency/article/000615.htm",
+   "https://www.drugs.com/npp/rue.html",
+   "https://www.webmd.com/vitamins/ai/ingredientmono-885/rue",
+   "https://dcpsc.org/Utility-Information/Natural-Gas/Call-Before-You-Dig.aspx",
+   "https://www.dominionenergy.com/about/our-stories/call-811-before-you-dig"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-salt-circle",
+  "name": "Salt Circle of Warding",
+  "description": "Salt has been used to mark sacred and protected space across many cultures, from salt thrown at thresholds to circles poured before ritual. A salt circle creates a clear boundary that unwanted energies are believed unable to cross. Use it for ritual work, meditation, or any time you need a moment of total safety.",
+  "ingredients": [
+   {
+    "item": "Coarse sea salt or kosher salt",
+    "amount": "1-2 cups"
+   },
+   {
+    "item": "Dried Rosemary, crumbled",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "White Sage or Common Sage leaf (optional, for smoke cleansing)",
+    "amount": "1"
+   },
+   {
+    "item": "White candle",
+    "amount": "1"
+   },
+   {
+    "item": "Bowl",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Sweep or tidy the area so the circle has a clean floor to sit on.",
+   "Mix the salt and crumbled Rosemary in a bowl, holding your hands over it and visualizing it glowing with white light.",
+   "Starting in the east, walk clockwise and pour a continuous line of salt to form a circle large enough to sit or work inside.",
+   "Close the circle where you began, leaving no gaps, and step inside.",
+   "Light the white candle in a sturdy holder on a heatproof dish at the center and, if you like, smoke-cleanse the space within with the Sage.",
+   "Speak the chant once facing each direction, turning clockwise."
+  ],
+  "howToUse": "Remain inside the circle for meditation, divination or spellwork. When finished, thank the space, walk counter-clockwise to open it, and sweep the salt up. Dispose of the salt outdoors away from plants or down the drain with running water.",
+  "chant": "Salt of earth and sea and stone,\nthis circle round is mine alone.\nNo harm may cross, no ill may stay,\ntill I myself undo the way.",
+  "intention": "I create a sacred, protected space where only good may enter.",
+  "timing": "Any time; especially before ritual work. Full moon for extra power.",
+  "metaphysical": [
+   "protection",
+   "purification",
+   "consecration",
+   "grounding"
+  ],
+  "caution": "Never leave a burning candle unattended or lit while you sleep; use a sturdy holder on a heatproof dish at least 12 inches from curtains, paper and anything that can burn, out of reach of children and pets. Because you sit inside the circle, keep the candle in a stable holder well clear of loose clothing, hair and the sage, and never knock or reach across it. Salt kills plants and can damage some flooring and lawns; pour it on a sheet or tray if needed and never scatter it in gardens. Sweep up every grain afterward, as salt licked up by pets can cause vomiting, tremors and seizures. If burning sage, use a fireproof dish, open windows, and avoid smoke around people with asthma, infants and pet birds.",
+  "interactions": "",
+  "pets": "Salt eaten by dogs or cats can cause salt poisoning (vomiting, tremors, seizures); sweep it all up and keep pets out of the circle.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://www.petpoisonhelpline.com/poison/salt/",
+   "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets",
+   "https://hero.epa.gov/hero/index.cfm/reference/details/reference_id/1661764"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-protection-sachet",
+  "name": "Herbal Protection Sachet",
+  "description": "Small cloth pouches of protective herbs have been carried, hung over doors and sewn into clothing for centuries. This sachet blends traditional guardian plants into a portable charm. Carry it in a bag or pocket, or hang it in a car or by a bed.",
+  "ingredients": [
+   {
+    "item": "Red or black cloth pouch, or a 6-inch square of cotton and string",
+    "amount": "1"
+   },
+   {
+    "item": "Rosemary, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Basil, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Bay Laurel leaves",
+    "amount": "1, crumbled"
+   },
+   {
+    "item": "Clove buds",
+    "amount": "3"
+   },
+   {
+    "item": "Dill seed",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Angelica root, chopped",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Sea salt",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Black tourmaline or obsidian chip (optional)",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Lay out the cloth and hold each herb in your palm before adding it, telling it what you need protection from.",
+   "Add the Rosemary, Basil, crumbled Bay Laurel leaves, Clove buds, Dill seed and Angelica root to the center.",
+   "Sprinkle in the pinch of salt and add the stone if using.",
+   "Gather the corners and tie the pouch closed with three knots, speaking one line of the chant with each knot and the last line as you finish.",
+   "Breathe gently on the sachet to awaken it."
+  ],
+  "howToUse": "Carry the sachet with you or hang it where protection is needed. Squeeze it gently when you feel uneasy to release its scent and power. Refresh the herbs every three months or whenever it feels spent, returning the old herbs to the earth.",
+  "chant": "Herb of guard and root of might,\nkeep me safe by day and night.\nKnot of three, I bind thee tight,\nwrap me round in warding light.",
+  "intention": "Wherever I go, I am shielded and safe.",
+  "timing": "Waxing moon; Tuesday or Saturday.",
+  "metaphysical": [
+   "protection",
+   "travel",
+   "banishing",
+   "strength"
+  ],
+  "caution": "Keep sachets out of reach of children and pets; Clove and Angelica should not be eaten in quantity. Angelica is best avoided by those who are pregnant. Discard if herbs become damp or moldy.",
+  "interactions": "",
+  "pets": "Keep the sachet away from pets that chew; clove and other herbs can upset their stomachs.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets",
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-rose-quartz-self-love",
+  "name": "Rose Quartz Self-Love Ritual",
+  "description": "Rose quartz has long been associated with the heart and with gentle, unconditional love. This ritual pairs the crystal with Rose and Lavender in a quiet mirror ceremony that encourages kindness toward oneself. It is a spell of self-acceptance rather than attraction, and it lays the foundation for every other kind of love.",
+  "ingredients": [
+   {
+    "item": "Rose quartz (tumbled stone or heart)",
+    "amount": "1"
+   },
+   {
+    "item": "Pink candle",
+    "amount": "1"
+   },
+   {
+    "item": "Rose petals, fresh or dried",
+    "amount": "a handful"
+   },
+   {
+    "item": "Lavender buds",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Small hand mirror",
+    "amount": "1"
+   },
+   {
+    "item": "Paper and pen",
+    "amount": "1 sheet"
+   },
+   {
+    "item": "Rose water or a little Rose-scented oil (optional)",
+    "amount": "a few drops"
+   }
+  ],
+  "steps": [
+   "Take a warm bath or shower first, imagining old self-criticism washing away.",
+   "Arrange the Rose petals and Lavender buds in a circle on a small cloth and set the pink candle in the center.",
+   "Light the candle and hold the rose quartz over your heart, breathing slowly for several minutes.",
+   "Write down five things you appreciate about yourself, including at least one about your body and one about your character.",
+   "Look into the mirror, read each statement aloud to your own eyes, and then speak the chant.",
+   "Anoint the rose quartz with a drop of rose water and place it on the petals until the candle has burned for at least 15 minutes."
+  ],
+  "howToUse": "Carry the rose quartz or keep it by your bed, and touch it whenever unkind self-talk arises. Keep the list somewhere you will see it. Repeat the mirror affirmation each morning for a moon cycle.",
+  "chant": "Stone of rose and heart of light,\nI see myself with loving sight.\nThe love I give the world I keep,\nand plant it in my soul to steep.",
+  "intention": "I love, honor and accept myself just as I am.",
+  "timing": "Friday (Venus); waxing or full moon.",
+  "metaphysical": [
+   "self-love",
+   "love",
+   "emotional healing",
+   "confidence",
+   "beauty"
+  ],
+  "caution": "Never leave a burning candle unattended or lit while you sleep; use a sturdy holder on a heatproof dish at least 12 inches from curtains, paper and anything that can burn, out of reach of children and pets. Patch test any oil before applying to skin. If persistent low self-worth or depression is present, this ritual is a companion to, not a replacement for, support from a counselor or doctor.",
+  "interactions": "",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-honey-jar-sweetening",
+  "name": "Honey Jar Sweetening Spell",
+  "description": "The honey jar is a much-loved Southern folk and hoodoo working used to sweeten a person's disposition toward you, smooth a tense relationship, or encourage kindness from a boss or family member. A petition is sealed in honey with sweet herbs, and a candle is burned on the lid over many days. Ethically, it is used to invite goodwill, not to override anyone's free will.",
+  "ingredients": [
+   {
+    "item": "Small jar of honey (or sugar or syrup) with a metal lid",
+    "amount": "1"
+   },
+   {
+    "item": "Brown paper and pen",
+    "amount": "a small square"
+   },
+   {
+    "item": "Rose petals, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Cinnamon stick or ground cinnamon",
+    "amount": "1 stick or 1/2 tsp"
+   },
+   {
+    "item": "Lavender buds",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Vanilla bean piece or 3 drops vanilla extract",
+    "amount": "1"
+   },
+   {
+    "item": "Small chime candle (pink, white or yellow)",
+    "amount": "1 per session"
+   }
+  ],
+  "steps": [
+   "On the brown paper, write the person's full name (or the situation) three times, then turn the paper and write your own name three times across it.",
+   "Around the names, write a short statement of the outcome you want, such as 'kindness and fair dealing between us', without lifting your pen if you can.",
+   "Fold the paper toward you three times, drawing good things in.",
+   "Open the jar and, before adding anything, eat a small spoonful of honey with a clean spoon and say 'As this honey is sweet to me, so may (name) be sweet to me.'",
+   "Push the folded paper into the honey along with the Rose petals, Cinnamon, Lavender buds and Vanilla, then close the lid tightly.",
+   "Set a chime candle on the lid (melt the base slightly to stick it) and let it burn down completely while you speak the chant."
+  ],
+  "howToUse": "Burn a new candle on the jar weekly, often on Mondays, Wednesdays and Fridays, shaking the jar gently each time. Keep it on your altar until the situation sweetens, then bury the jar or keep it as a standing work. Pair it with kind practical actions toward the person.",
+  "chant": "Honey sweet and cinnamon warm,\nsoften hearts and calm the storm.\nKindly words and gentle grace,\nflow between us in this place.",
+  "intention": "Goodwill, kindness and harmony grow between us.",
+  "timing": "Begin on a Friday during a waxing moon.",
+  "metaphysical": [
+   "love",
+   "reconciliation",
+   "friendship",
+   "communication",
+   "attraction"
+  ],
+  "caution": "Never leave a burning candle unattended or lit while you sleep; use a sturdy holder on a heatproof dish at least 12 inches from curtains, paper and anything that can burn, out of reach of children and pets. Only use small chime or tealight candles on the jar lid and set the jar on a heatproof plate, as the lid becomes hot and wax may spill. Eat the spoonful of honey only before anything else goes into the jar, never after paper, herbs or wax have been added. Do not give honey to babies under 12 months because of the risk of infant botulism, and people with diabetes may prefer just a tiny taste. Work for harmony and fairness; do not attempt to force anyone's will. Edible part: only the single spoonful of plain honey in step 4.",
+  "interactions": "",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html",
+   "https://www.healthychildren.org/English/health-issues/conditions/infections/Pages/Botulism.aspx"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-green-candle-money",
+  "name": "Green Candle Money Drawing",
+  "description": "Dressing a green candle with oil and herbs is a classic prosperity working found in folk magic and modern witchcraft alike. Green is the color of growth and money, and the herbs chosen here are traditional money draws. The candle is rolled toward you to pull abundance in.",
+  "ingredients": [
+   {
+    "item": "Green candle (taper or pillar)",
+    "amount": "1"
+   },
+   {
+    "item": "Olive oil or money-drawing oil",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Cinnamon, ground",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Basil, dried",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Allspice, ground",
+    "amount": "1/4 tsp"
+   },
+   {
+    "item": "Bay Laurel leaves",
+    "amount": "1"
+   },
+   {
+    "item": "Coin or a bill of any denomination",
+    "amount": "1"
+   },
+   {
+    "item": "Carving tool (toothpick or pin)",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Carve your name and a money symbol, or the exact sum you need, into the side of the candle.",
+   "Rub oil onto the candle from the top down toward you and from the bottom up toward you, drawing money to your center.",
+   "Mix the Cinnamon, Basil and Allspice on a plate and roll the oiled candle across the herbs toward yourself.",
+   "Write your financial need on the Bay Laurel leaf and place it beneath the candle holder along with the coin or bill.",
+   "Light the candle and speak the chant, visualizing the money arriving in a specific, realistic way."
+  ],
+  "howToUse": "Burn the candle for 15-30 minutes a day over consecutive days until it is gone, repeating the chant each time. Afterward, carry the coin in your wallet and keep the bay leaf with your bills. Take practical steps toward income at the same time; the spell opens doors that you must walk through.",
+  "chant": "Candle green and spices bright,\ndraw me wealth by day and night.\nCoin to coin and hand to hand,\nprosperity is mine to stand.",
+  "intention": "Money flows to me easily and from honest sources.",
+  "timing": "Thursday (Jupiter) or Sunday; waxing moon, ideally beginning on the new moon.",
+  "metaphysical": [
+   "money",
+   "prosperity",
+   "abundance",
+   "success"
+  ],
+  "caution": "Never leave a burning candle unattended or lit while you sleep; use a sturdy holder on a heatproof dish at least 12 inches from curtains, paper and anything that can burn, out of reach of children and pets. Herb-coated candles flare more than plain ones: trim excess herbs, keep the flame low, and use a deep holder. Cinnamon can irritate skin, so wash hands after dressing.",
+  "interactions": "",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-cinnamon-doorway-blessing",
+  "name": "First of the Month Cinnamon Doorway Blowing",
+  "description": "A popular modern folk practice, rooted in older traditions linking cinnamon with prosperity, is to blow ground cinnamon through the front door on the first day of each month. The ritual invites abundance, luck and opportunity to enter the home for the month ahead. It is simple, fragrant and easy to make a monthly habit.",
+  "ingredients": [
+   {
+    "item": "Cinnamon, ground",
+    "amount": "1 pinch to 1 tsp"
+   },
+   {
+    "item": "Sugar (optional, for sweetness)",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Your front door",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "On the first day of the month, tidy your entryway and open the front door.",
+   "Place a pinch of Cinnamon (and sugar, if using) in your dominant palm.",
+   "Stand just outside the door facing in, or just inside with your back to the outdoors, so the cinnamon blows into the home.",
+   "Speak the chant, then blow the cinnamon gently across the threshold.",
+   "Leave the cinnamon on the floor until the following day if you can, then sweep it inward toward the center of the home before tidying."
+  ],
+  "howToUse": "Repeat on the first day of every month. Many people pair it with a quick check of their budget or a small donation to share their good fortune.",
+  "chant": "Cinnamon sweet upon the breeze,\nbring prosperity with ease.\nThrough this door let fortune flow,\nand all the month my wealth shall grow.",
+  "intention": "Abundance, luck and opportunity enter my home this month.",
+  "timing": "The first day of each month, ideally in the morning.",
+  "metaphysical": [
+   "money",
+   "prosperity",
+   "luck",
+   "abundance",
+   "home blessing"
+  ],
+  "caution": "Cinnamon can irritate eyes, skin and lungs: blow gently, never toward people or pets, and keep your eyes closed. Do not inhale it. Clean up cinnamon outdoors where pets might lick it, and be mindful that it can stain light carpets.",
+  "interactions": "",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets",
+   "https://www.nccih.nih.gov/health/cinnamon",
+   "https://www.drugs.com/npp/cinnamon.html"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-cord-cutting-banishing",
+  "name": "Cord Cutting Release",
+  "description": "Cord cutting is a widely practiced ritual for ending unhealthy energetic ties to a person, habit or past situation. Two candles represent the two parties, joined by a string that is burned or cut through. It frees both people kindly rather than cursing either.",
+  "ingredients": [
+   {
+    "item": "Two small candles (one white for you, one black or another color for the other)",
+    "amount": "2"
+   },
+   {
+    "item": "Cotton string or thread",
+    "amount": "about 12 inches"
+   },
+   {
+    "item": "Rosemary, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Hyssop, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Sea salt",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Scissors or a ritual knife",
+    "amount": "1"
+   },
+   {
+    "item": "Heatproof tray",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse yourself with a salt rinse or Rosemary smoke before beginning.",
+   "Set the two candles about 8 inches apart on a heatproof tray and tie the string around the base of each, joining them.",
+   "Sprinkle a line of salt mixed with Hyssop beneath the string, marking the boundary to come.",
+   "Light both candles and speak honestly about the tie, what it gave you and why it must now end.",
+   "Speak the chant and cut the string in the middle with the scissors (safest), or let the flame of one candle burn through the string with careful supervision.",
+   "Let the candles burn a little longer, then extinguish them. Bury the remains of the string and wax away from your home."
+  ],
+  "howToUse": "After the ritual, take a cleansing bath with Rosemary or salt. Avoid contact with the person or habit where you safely can for at least a moon cycle to let the release settle. Repeat if the tie reforms.",
+  "chant": "Thread that binds, I set you free,\nno longer bound to you and me.\nGo in peace, I wish no harm,\nI take back my heart, my strength, my calm.",
+  "intention": "I release this unhealthy tie with peace and reclaim my energy.",
+  "timing": "Waning moon; Saturday or Tuesday.",
+  "metaphysical": [
+   "banishing",
+   "release",
+   "endings",
+   "emotional healing",
+   "cleansing"
+  ],
+  "caution": "Never leave a burning candle unattended or lit while you sleep; use a sturdy holder on a heatproof dish at least 12 inches from curtains, paper and anything that can burn, out of reach of children and pets. Burning string can drop flaming bits; cutting with scissors is safer. Keep a cup of water nearby. This ritual addresses emotional ties; if you are in an abusive situation, please reach out to local support services as well.",
+  "interactions": "",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-uncrossing-bath",
+  "name": "Uncrossing Spiritual Bath",
+  "description": "Spiritual baths are a cornerstone of hoodoo and many folk traditions, used to wash away bad luck, jinxes and heavy energy. An uncrossing bath is taken when everything seems to go wrong at once. The bath water is poured downward from the head toward the feet to wash misfortune off and away.",
+  "ingredients": [
+   {
+    "item": "Hyssop, dried",
+    "amount": "2 tbsp"
+   },
+   {
+    "item": "Rue, dried (optional; leave out if pregnant, sensitive-skinned or going into the sun soon)",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Rosemary, dried",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Bay Laurel leaves",
+    "amount": "3"
+   },
+   {
+    "item": "Sea salt or Epsom salt",
+    "amount": "1/2 cup"
+   },
+   {
+    "item": "Lemon, sliced",
+    "amount": "1"
+   },
+   {
+    "item": "Hot water",
+    "amount": "4 cups"
+   },
+   {
+    "item": "White candle",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Bring the water to a boil, remove from heat, and add the Hyssop, Rue, Rosemary and Bay Laurel leaves.",
+   "Cover and steep for 15-20 minutes, then strain and let it cool to a comfortable temperature.",
+   "Stir in the salt and add the Lemon slices.",
+   "Light the white candle just outside the bathroom on a heatproof dish (or use a flameless candle in the bathroom) and wash normally first.",
+   "Standing in the tub or shower, pour the herbal water over yourself from the crown of your head downward (keep it off your face and out of your eyes), speaking the chant.",
+   "Air dry if possible, then dress in clean, light-colored clothes.",
+   "Gather a cup of the used bath water if you can and toss it toward the west or at a crossroads, walking away without looking back."
+  ],
+  "howToUse": "Take the bath for three or seven consecutive days, ideally at dawn or before bed. Follow with a protection practice, such as carrying a protection sachet, to keep the cleansed field clear.",
+  "chant": "Wash away the cross and curse,\nturn misfortune into reverse.\nDown and out and gone from me,\nclean and clear, I now am free.",
+  "intention": "All crossed conditions are washed from me, and my path is clear.",
+  "timing": "Waning moon; Saturday or at sunrise.",
+  "metaphysical": [
+   "uncrossing",
+   "hex breaking",
+   "cleansing",
+   "purification"
+  ],
+  "caution": "EXTERNAL USE ONLY; do not drink, and skip this bath if pregnant. Rue and lemon contain compounds that can cause blistering, burn-like rashes when skin they touched is exposed to sunlight: patch test first, take the bath in the evening, and keep treated skin out of strong sun until the next day (or leave the Rue out). Let the water cool to comfortably warm and test it on your wrist before pouring, keep it out of your eyes, and stand on a non-slip mat, since herbs and salt make tubs slippery. Lit candles are not recommended in bathrooms, so place the candle just outside on a heatproof dish or use a flameless candle, and never leave it unattended. Stop if irritation occurs.",
+  "interactions": "",
+  "pets": "Keep pets away from the Rue and the bath water; Rue is toxic if eaten.",
+  "toxic": true,
+  "externalOnly": true,
+  "sources": [
+   "https://www.drugs.com/npp/rue.html",
+   "https://www.webmd.com/vitamins/ai/ingredientmono-885/rue",
+   "https://pubmed.ncbi.nlm.nih.gov/17303046/",
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-home-blessing",
+  "name": "New Home Blessing",
+  "description": "Blessing a home on moving in, or refreshing a long-held one, is an ancient custom that includes gifts of bread and salt, smoke cleansing and the sprinkling of blessed water. This ritual cleanses old energy, then invites peace, safety and joy to settle in every room.",
+  "ingredients": [
+   {
+    "item": "Bowl of water",
+    "amount": "1 cup"
+   },
+   {
+    "item": "Sea salt",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Rosemary sprig (as an aspergillum)",
+    "amount": "1"
+   },
+   {
+    "item": "Frankincense resin or incense",
+    "amount": "1 stick or a few grains on charcoal"
+   },
+   {
+    "item": "White candle",
+    "amount": "1"
+   },
+   {
+    "item": "Loaf of bread",
+    "amount": "1 small"
+   },
+   {
+    "item": "Honey",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Basil, fresh in a pot (optional)",
+    "amount": "1 plant"
+   }
+  ],
+  "steps": [
+   "Open all windows and doors briefly, then clean the home, sweeping from the back of the house toward the front door.",
+   "Stir the salt into the water and bless it by holding your hands over it and asking for purity and peace.",
+   "Light the Frankincense and carry it clockwise through every room, letting the smoke reach corners and doorways.",
+   "Dip the Rosemary sprig in the salt water and sprinkle each threshold and window, speaking the chant in each room.",
+   "Light the white candle in the heart of the home (often the kitchen) and set the bread, salt and honey beside it.",
+   "Share the bread with honey among the household, or leave a piece outside as an offering to the land."
+  ],
+  "howToUse": "Perform when moving in and repeat once a year or after illness, arguments or difficult visitors. Place the potted Basil near the kitchen window to keep the blessing alive.",
+  "chant": "Bread and salt and candle flame,\nbless this house and bless its name.\nPeace within and joy to stay,\nharm and sorrow kept away.",
+  "intention": "This home is cleansed, blessed and filled with peace, safety and joy.",
+  "timing": "Waxing or full moon; Sunday or Monday; ideally your first day in a new home.",
+  "metaphysical": [
+   "home blessing",
+   "blessing",
+   "purification",
+   "protection",
+   "peace"
+  ],
+  "caution": "Never leave a burning candle unattended or lit while you sleep; use a sturdy holder on a heatproof dish at least 12 inches from curtains, paper and anything that can burn, out of reach of children and pets. If using charcoal for resin, hold it in a heatproof censer on sand, never carry it over carpets uncovered, and burn it only in a well-ventilated room, as burning charcoal and incense give off carbon monoxide and other pollutants. Open windows and avoid smoke around infants, pets (especially birds) and anyone with asthma. Salt water can mark wood and electronics, so sprinkle lightly. Edible part: the shared bread with honey (step 6); do not give honey to babies under 12 months.",
+  "interactions": "",
+  "pets": "Keep smoke away from pet birds and cats, and do not leave bread offerings where dogs can eat large amounts.",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://hero.epa.gov/hero/index.cfm/reference/details/reference_id/1661764",
+   "https://www.healthday.com/healthpro-news/pulmonology/burning-incense-generates-harmful-air-pollutants-679059.html",
+   "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html",
+   "https://www.healthychildren.org/English/health-issues/conditions/infections/Pages/Botulism.aspx"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [
+   "insomnia"
+  ],
+  "id": "spell-prophetic-dream-pillow",
+  "name": "Prophetic Dream Pillow",
+  "description": "Herb-filled dream pillows were made in many cottage traditions to bring restful sleep and meaningful dreams. Mugwort is the classic herb of seers and dream journeys, softened here with Lavender and Chamomile for comfort. Sleep with it to invite vivid, insightful and remembered dreams.",
+  "ingredients": [
+   {
+    "item": "Small cotton or muslin pouch (about 4x6 inches)",
+    "amount": "1"
+   },
+   {
+    "item": "Mugwort, dried",
+    "amount": "2 tbsp"
+   },
+   {
+    "item": "Lavender buds",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Chamomile flowers",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Rose petals",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Star Anise",
+    "amount": "1 pod"
+   },
+   {
+    "item": "Amethyst chip (optional)",
+    "amount": "1"
+   },
+   {
+    "item": "Needle and thread, or ribbon",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "On the night of the full moon or a Monday, mix the Mugwort, Lavender buds, Chamomile flowers and Rose petals in a bowl.",
+   "Hold the bowl and ask for clear, true and gentle dreams.",
+   "Fill the pouch with the herb blend, then add the Star Anise and the amethyst.",
+   "Sew or tie the pouch closed, speaking the chant as you work the final stitches.",
+   "Place a notebook and pen by your bed."
+  ],
+  "howToUse": "Tuck the pillow inside your pillowcase or beside your head at night. Before sleep, ask a question or simply invite guidance, then record any dreams immediately upon waking. Refresh the herbs every two to three months.",
+  "chant": "Mugwort silver, moonlit seer,\nlet my dreams be true and clear.\nShow me what I need to know,\nand let me wake with all I'm shown.",
+  "intention": "My dreams bring true insight and guidance, and I remember them clearly.",
+  "timing": "Monday (Moon); full moon.",
+  "metaphysical": [
+   "prophetic dreams",
+   "dreams",
+   "divination",
+   "psychic powers",
+   "sleep"
+  ],
+  "caution": "Avoid Mugwort if pregnant or breastfeeding, and if you are allergic to ragweed or other plants in the daisy family. Some people find Mugwort causes overly vivid dreams; remove it from the pillow if sleep is disturbed. Keep away from pets.",
+  "interactions": "",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-full-moon-release",
+  "name": "Full Moon Release Ritual",
+  "description": "The full moon marks a time of culmination, illumination and letting go, honored in many modern traditions. In this ritual you write down what no longer serves you and release it to the moon's light through fire or water. It is a gentle reset at the peak of each lunar cycle.",
+  "ingredients": [
+   {
+    "item": "Paper and pen",
+    "amount": "1 sheet"
+   },
+   {
+    "item": "White or silver candle",
+    "amount": "1"
+   },
+   {
+    "item": "Fireproof bowl or cauldron",
+    "amount": "1"
+   },
+   {
+    "item": "Sea salt",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Mugwort or White Sage leaves (optional, for smoke)",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Jar of water (to make moon water)",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Go outdoors or sit by a window where you can see the full moon.",
+   "Light the candle and take several deep breaths, asking the moon to witness your release.",
+   "Write down habits, fears, resentments or situations you are ready to let go of.",
+   "Read each item aloud, then speak the chant.",
+   "Burn the paper safely in the fireproof bowl (or tear it into small pieces and dissolve them in water if you cannot burn).",
+   "Set the jar of water in the moonlight overnight to make moon water for future cleansing.",
+   "Once cool, scatter the ashes outdoors or into running water, and sprinkle the salt over the spot."
+  ],
+  "howToUse": "Repeat each full moon. Use the charged moon water to wash your hands, water plants or cleanse crystals during the waning weeks that follow.",
+  "chant": "Silver moon so full and bright,\ntake my burdens in your light.\nWhat I've carried, now I free,\nas the tide goes out from me.",
+  "intention": "I release what no longer serves me and make room for growth.",
+  "timing": "The night of the full moon, or within a day either side.",
+  "metaphysical": [
+   "release",
+   "moon magic",
+   "cleansing",
+   "emotional healing",
+   "endings"
+  ],
+  "caution": "Never leave a burning candle unattended or lit while you sleep; use a sturdy holder on a heatproof dish at least 12 inches from curtains, paper and anything that can burn, out of reach of children and pets. Burn paper only in a deep fireproof container, outdoors or near an open window, with water nearby. Do not burn in windy conditions or near dry grass. Moon water made in clean containers is for external use unless you used drinking water and a food-safe, covered jar.",
+  "interactions": "",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-new-moon-intention",
+  "name": "New Moon Intention Setting",
+  "description": "The dark of the new moon is a time of seeds and beginnings, when intentions are planted to grow as the moon waxes. This ritual uses a seed, soil and written goals to embody the act of planting a wish. Watch the seed sprout as your intention takes root.",
+  "ingredients": [
+   {
+    "item": "Small pot with soil",
+    "amount": "1"
+   },
+   {
+    "item": "Seed (Basil, Calendula or any easy-growing plant)",
+    "amount": "3-5 seeds"
+   },
+   {
+    "item": "Paper and pen",
+    "amount": "1 small sheet"
+   },
+   {
+    "item": "Black or white candle",
+    "amount": "1"
+   },
+   {
+    "item": "Bay Laurel leaves",
+    "amount": "1"
+   },
+   {
+    "item": "Water",
+    "amount": "1 cup"
+   }
+  ],
+  "steps": [
+   "In a quiet, dark space, light the candle and sit in stillness for a few minutes.",
+   "Write up to three intentions in the present tense, as though already true (for example, 'I am confident in my new role').",
+   "Write the single most important intention on the Bay Laurel leaf.",
+   "Fold the paper small and bury it at the bottom of the pot, then lay the bay leaf on top and cover with soil.",
+   "Press the seeds into the surface, speaking the chant, and water them gently.",
+   "Let the candle burn for a while, then extinguish it."
+  ],
+  "howToUse": "Place the pot on a sunny windowsill. Each time you water it, restate your intention and take one practical step toward it. Review your intentions at the next full moon.",
+  "chant": "Dark moon, seed and quiet ground,\nhere my wish is planted down.\nAs you wax and as you grow,\nlet my dream take root and show.",
+  "intention": "I plant this intention, and it grows with each passing day.",
+  "timing": "The new moon, or the first days after it.",
+  "metaphysical": [
+   "new beginnings",
+   "manifestation",
+   "moon magic",
+   "wishes"
+  ],
+  "caution": "Never leave a burning candle unattended or lit while you sleep; use a sturdy holder on a heatproof dish at least 12 inches from curtains, paper and anything that can burn, out of reach of children and pets. Keep pots and seeds away from pets that might dig or eat them, and choose non-toxic plants.",
+  "interactions": "",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-bay-leaf-wish",
+  "name": "Bay Leaf Abundance Wish",
+  "description": "Bay Laurel was sacred to Apollo, and writing wishes on bay leaves is a beloved folk working for manifestation and abundance. The wish is written on the leaf and released by flame, carrying it out into the world. It is quick, simple and very satisfying.",
+  "ingredients": [
+   {
+    "item": "Bay Laurel leaves, dried",
+    "amount": "1-3"
+   },
+   {
+    "item": "Pen or marker",
+    "amount": "1"
+   },
+   {
+    "item": "Gold, green or yellow candle",
+    "amount": "1"
+   },
+   {
+    "item": "Fireproof dish",
+    "amount": "1"
+   },
+   {
+    "item": "Cinnamon, ground (optional)",
+    "amount": "a pinch"
+   }
+  ],
+  "steps": [
+   "Hold the Bay Laurel leaf and think clearly about one wish for abundance.",
+   "Write the wish on the leaf in a few words or as a symbol.",
+   "Light the candle and focus on the flame, picturing your wish already fulfilled.",
+   "Speak the chant, then hold the tip of the leaf to the flame using tongs and drop it into the fireproof dish to burn.",
+   "Sprinkle the Cinnamon over the ashes to sweeten and speed the wish.",
+   "When cool, blow the ashes out of your front door or scatter them in a garden."
+  ],
+  "howToUse": "Make one wish per leaf; do not overload a single working. If you prefer not to burn it, keep the inscribed leaf in your wallet or under your pillow until the wish manifests, then return it to the earth.",
+  "chant": "Laurel leaf of Apollo's grace,\ncarry my wish to its rightful place.\nBy flame and smoke and rising air,\nabundance comes, and more to spare.",
+  "intention": "My wish rises into the world and returns to me as abundance.",
+  "timing": "Waxing or full moon; Sunday (Sun) or Thursday (Jupiter).",
+  "metaphysical": [
+   "abundance",
+   "wishes",
+   "manifestation",
+   "prosperity",
+   "success"
+  ],
+  "caution": "Never leave a burning candle unattended or lit while you sleep; use a sturdy holder on a heatproof dish at least 12 inches from curtains, paper and anything that can burn, out of reach of children and pets. Bay leaves burn quickly and crackle; hold with tongs, burn over a fireproof dish, and keep water nearby. Burn outdoors or beside an open window away from sleeping areas, and never cover or disable a smoke alarm.",
+  "interactions": "",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://hero.epa.gov/hero/index.cfm/reference/details/reference_id/1661764"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-freezer-binding-gossip",
+  "name": "Freezer Spell to Stop Gossip",
+  "description": "Freezer spells are a well-known folk method for 'freezing' a harmful situation, such as gossip or slander, so that it can no longer spread. The target's name or the situation is sealed in water and frozen, halting the harmful words without cursing the speaker. The goal is to stop harm, not to cause it.",
+  "ingredients": [
+   {
+    "item": "Small freezer-safe container or zip-lock bag",
+    "amount": "1"
+   },
+   {
+    "item": "Paper and pen",
+    "amount": "1 small slip"
+   },
+   {
+    "item": "Water",
+    "amount": "enough to fill the container"
+   },
+   {
+    "item": "Sea salt",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Clove buds (traditionally used to stop gossip)",
+    "amount": "3"
+   },
+   {
+    "item": "Slippery Elm bark (traditional for halting gossip)",
+    "amount": "1/2 tsp"
+   }
+  ],
+  "steps": [
+   "Write the person's name, or simply 'the gossip about me', on the paper, along with the words 'Your harmful words are frozen.'",
+   "Fold the paper away from you three times to push the harm away.",
+   "Place it in the container with the Clove buds, Slippery Elm bark and salt.",
+   "Fill the container with water, leaving about an inch of space for the ice to expand, then seal it, and speak the chant over it.",
+   "Place it in the back of the freezer where it will not be disturbed."
+  ],
+  "howToUse": "Leave it frozen as long as needed. When the situation has calmed, thaw the container outdoors, pour the water away from your home, and dispose of the paper. Meanwhile, respond to gossip calmly and truthfully in everyday life.",
+  "chant": "Words of spite and whispered lies,\nfreeze in cold and lose your rise.\nNo more harm from tongue to ear,\ncold and still, you vanish here.",
+  "intention": "Harmful words about me stop spreading and lose their power.",
+  "timing": "Waning moon; Saturday.",
+  "metaphysical": [
+   "binding",
+   "protection",
+   "justice",
+   "communication"
+  ],
+  "caution": "Use a plastic freezer container or bag rather than glass, and leave about an inch of space at the top, as water expands when it freezes and can crack a full container. Label it clearly so no one mistakes it for food, and keep it sealed in a bag away from food items; the Cloves and Slippery Elm in it are not to be eaten. Aim to stop harm only; do not add ingredients meant to injure the person.",
+  "interactions": "",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets",
+   "https://www.drugs.com/npp/slippery-elm.html",
+   "https://www.drugs.com/npp/clove.html"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-road-opener",
+  "name": "Road Opener Candle Spell",
+  "description": "Road opening is a central concept in hoodoo and related traditions: clearing blockages so that opportunities, money and progress can come through. Abre Camino and other road-opening herbs are traditionally used, and here common substitutes from the herb list are combined with a white or orange candle. Use it when you feel stuck or before a new venture.",
+  "ingredients": [
+   {
+    "item": "Orange or white candle",
+    "amount": "1"
+   },
+   {
+    "item": "Olive oil",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Lemongrass, dried",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Orange Peel, dried",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Lemon Balm, dried",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "High John the Conqueror root chip (optional)",
+    "amount": "1"
+   },
+   {
+    "item": "Key (any old key)",
+    "amount": "1"
+   },
+   {
+    "item": "Sea salt",
+    "amount": "a pinch"
+   }
+  ],
+  "steps": [
+   "Sweep your front step and doorway first, sweeping outward to clear away stagnation.",
+   "Carve a symbol of an open road or an arrow pointing forward on the candle, then anoint it with oil from the base to the wick.",
+   "Roll the candle in the Lemongrass, Orange Peel and Lemon Balm.",
+   "Place the key and the High John root before the candle, and sprinkle the salt in a line leading away from you, like a path.",
+   "Light the candle and speak the chant, imagining doors swinging open and paths clearing ahead.",
+   "Burn the candle to completion over one evening, or over several consecutive evenings."
+  ],
+  "howToUse": "Carry the key afterward as a charm. Apply for opportunities, reach out to contacts and say yes to new invitations while the spell is active.",
+  "chant": "Open road and open door,\nblocks and barriers, nevermore.\nKey to turn and path to clear,\nopportunity, now draw near.",
+  "intention": "All obstacles are removed, and the road ahead is open to me.",
+  "timing": "Waxing moon; Sunday or Wednesday; dawn is ideal.",
+  "metaphysical": [
+   "road opening",
+   "new beginnings",
+   "success",
+   "luck",
+   "uncrossing"
+  ],
+  "caution": "Never leave a burning candle unattended or lit while you sleep; use a sturdy holder on a heatproof dish at least 12 inches from curtains, paper and anything that can burn, out of reach of children and pets. Herb-rolled candles flare; remove loose herbs from the wick area and use a deep holder. If you burn the candle to completion in one evening, stay with it the whole time. Wash hands after handling citrus peel to avoid skin sensitivity in sunlight. High John root is a strong purgative if eaten; keep it away from children and pets.",
+  "interactions": "",
+  "pets": "Keep High John root and the herb mix away from pets.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-job-employment",
+  "name": "Job Seeker's Employment Charm",
+  "description": "This charm combines folk prosperity herbs with a written petition to attract the right job and help you shine in interviews. It draws on traditional associations of Bay Laurel with success and Cinquefoil (five-finger grass) with anything the hand can do. Carry it to applications and interviews.",
+  "ingredients": [
+   {
+    "item": "Green or gold pouch",
+    "amount": "1"
+   },
+   {
+    "item": "Cinquefoil, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Bay Laurel leaves",
+    "amount": "1"
+   },
+   {
+    "item": "Basil, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Cinnamon stick piece",
+    "amount": "1"
+   },
+   {
+    "item": "Pyrite or citrine (optional)",
+    "amount": "1"
+   },
+   {
+    "item": "Copy of your resume or a slip of paper with the job title",
+    "amount": "1"
+   },
+   {
+    "item": "Green candle",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Light the green candle and write the type of job you want, your ideal salary and the qualities of a good workplace on the paper.",
+   "Write 'I am hired' on the Bay Laurel leaf.",
+   "Fold the paper around the bay leaf and place it in the pouch with the Cinquefoil, Basil, Cinnamon and stone.",
+   "Pass the pouch three times through the candle's glow, beside the flame rather than over it, speaking the chant.",
+   "Let the candle burn for 15 minutes, then snuff it and relight it before each application."
+  ],
+  "howToUse": "Carry the pouch to every interview and keep it on your desk while applying. Hold it and take three deep breaths before interviews to settle your nerves. Once hired, open it, thank the herbs and return them to the earth.",
+  "chant": "Five-finger grass and laurel crown,\nhelp me find the work I've found.\nSkill and grace and words that shine,\nthe perfect job is surely mine.",
+  "intention": "I am hired for work that suits me, pays me fairly and lets my skills shine.",
+  "timing": "Waxing moon; Thursday (Jupiter) or Sunday.",
+  "metaphysical": [
+   "employment",
+   "success",
+   "prosperity",
+   "confidence",
+   "luck"
+  ],
+  "caution": "Never leave a burning candle unattended or lit while you sleep; use a sturdy holder on a heatproof dish at least 12 inches from curtains, paper and anything that can burn, out of reach of children and pets. Never hold the cloth pouch of dried herbs over the flame; pass it beside the candle instead. The spell supports, not replaces, your practical job search.",
+  "interactions": "",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-courage",
+  "name": "Lion-Heart Courage Spell",
+  "description": "Thyme was given to medieval knights for bravery, and Yarrow was carried into battle by warriors in legend. This spell blends these with fiery Ginger in a red candle working to summon inner bravery before a difficult conversation, performance or decision.",
+  "ingredients": [
+   {
+    "item": "Red candle",
+    "amount": "1"
+   },
+   {
+    "item": "Thyme, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Yarrow, dried",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Ginger, dried and ground",
+    "amount": "1/4 tsp"
+   },
+   {
+    "item": "Black Pepper",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Carnelian or tiger's eye (optional)",
+    "amount": "1"
+   },
+   {
+    "item": "Olive oil",
+    "amount": "a few drops"
+   }
+  ],
+  "steps": [
+   "Stand tall and take three deep breaths into your belly.",
+   "Anoint the red candle with oil and roll it in the Thyme, Yarrow, Ginger and Black Pepper.",
+   "Light it and hold the stone, gazing into the flame and recalling a time you were brave.",
+   "Speak the chant aloud in a strong voice, three times, getting louder each time.",
+   "Press the stone to your solar plexus and feel heat and strength gather there."
+  ],
+  "howToUse": "Carry the stone with you into the situation that requires courage, and touch it when fear rises. A sprig of Thyme in your pocket works as a simple alternative.",
+  "chant": "Thyme of knights and yarrow's might,\nfill my heart with lion's light.\nFear, step back; I stand my ground,\nbrave and steady, strong and sound.",
+  "intention": "I am brave, steady and strong enough to face what is before me.",
+  "timing": "Tuesday (Mars) or Sunday; waxing moon; or immediately before you need it.",
+  "metaphysical": [
+   "courage",
+   "strength",
+   "confidence",
+   "power"
+  ],
+  "caution": "Never leave a burning candle unattended or lit while you sleep; use a sturdy holder on a heatproof dish at least 12 inches from curtains, paper and anything that can burn, out of reach of children and pets. Spice-coated candles can spark; trim excess and keep away from flammables. Avoid touching your eyes after handling Ginger and Black Pepper. Yarrow can trigger allergies in people sensitive to the daisy family.",
+  "interactions": "",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-healing-candle",
+  "name": "Healing Light Candle Spell",
+  "description": "Blue candles and healing herbs have long been used to send comfort and recovery energy to oneself or a loved one. This spell is a supportive, prayer-like working that complements proper medical care. Calendula, Lavender and Eucalyptus bring their gentle healing associations.",
+  "ingredients": [
+   {
+    "item": "Blue or white candle",
+    "amount": "1"
+   },
+   {
+    "item": "Calendula petals",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Lavender buds",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Eucalyptus leaf",
+    "amount": "1"
+   },
+   {
+    "item": "Photo or name of the person to be healed",
+    "amount": "1"
+   },
+   {
+    "item": "Clear quartz (optional)",
+    "amount": "1"
+   },
+   {
+    "item": "Small dish",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Write the person's name (with their permission) on a slip of paper or set out their photo.",
+   "Circle the Calendula petals and Lavender buds on the dish around the candle holder, a few inches from the flame, and lay the Eucalyptus leaf across the name.",
+   "Light the candle and visualize the person surrounded by soft blue light, breathing easily and feeling well.",
+   "Speak the chant, then sit in quiet visualization for at least five minutes.",
+   "Place the quartz on the photo to hold the healing energy when you extinguish the candle."
+  ],
+  "howToUse": "Repeat nightly for seven nights or until the person feels better. Pair the spell with practical care: meals, phone calls, rest and following medical advice.",
+  "chant": "Healing light of gentle blue,\nmend the body, make it new.\nEase the pain and calm the mind,\nhealth and strength, return in kind.",
+  "intention": "Healing, comfort and strength flow to (name), supporting their recovery.",
+  "timing": "Waxing moon to build health, waning moon to remove illness; Sunday or Monday.",
+  "metaphysical": [
+   "healing",
+   "health",
+   "vitality",
+   "peace"
+  ],
+  "caution": "Never leave a burning candle unattended or lit while you sleep; use a sturdy holder on a heatproof dish at least 12 inches from curtains, paper and anything that can burn, out of reach of children and pets. Keep the dried petals, Eucalyptus leaf, paper and photo well clear of the flame; Eucalyptus leaves are oily and catch fire easily. This spell is spiritual support only and never a substitute for medical treatment; please seek professional care for illness. Ask permission before working for another person where possible.",
+  "interactions": "",
+  "pets": "Keep the Eucalyptus leaf away from pets.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [
+   "insomnia",
+   "anxiety",
+   "stress"
+  ],
+  "id": "spell-peaceful-sleep",
+  "name": "Peaceful Sleep Charm",
+  "description": "This bedtime ritual uses calming herbs long associated with rest, such as Lavender, Chamomile and Hops, in a simple charm and wind-down routine. It helps quiet a busy mind and creates a protective, restful atmosphere for sleep.",
+  "ingredients": [
+   {
+    "item": "Small muslin pouch",
+    "amount": "1"
+   },
+   {
+    "item": "Lavender buds",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Chamomile flowers",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Hops, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Lemon Balm, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Amethyst or moonstone (optional)",
+    "amount": "1"
+   },
+   {
+    "item": "Cup of chamomile tea (optional)",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "An hour before bed, dim the lights and turn off screens.",
+   "Mix the Lavender buds, Chamomile flowers, Hops and Lemon Balm, and fill the pouch.",
+   "Add the stone, tie the pouch, and hold it to your heart while breathing slowly: in for four, out for six.",
+   "Speak the chant softly three times.",
+   "Place the pouch by your pillow and, if you like, sip a cup of chamomile tea before lying down."
+  ],
+  "howToUse": "Keep the pouch by your bed and squeeze it to release its scent each night. Refresh the herbs monthly. Consistent bedtime habits strengthen the charm's effect.",
+  "chant": "Lavender soft and chamomile sweet,\nrest my mind from head to feet.\nThrough the night in peace I keep,\nsafe and calm, I fall asleep.",
+  "intention": "I rest deeply, peacefully and safely through the night.",
+  "timing": "Any night; Monday (Moon) is ideal.",
+  "metaphysical": [
+   "sleep",
+   "peace",
+   "calm",
+   "protection"
+  ],
+  "caution": "Dried hops are dangerous to dogs, causing a life-threatening rise in body temperature, so keep the pouch where dogs cannot reach or chew it. Hops may worsen depression in some people and are not advised for those taking sedatives; avoid chamomile if allergic to the daisy family. The only part meant to be swallowed is the optional cup of chamomile tea; never eat the pouch herbs. Persistent insomnia warrants medical advice.",
+  "interactions": "Chamomile tea may add to the effects of sedatives and alcohol and may interact with blood thinners such as warfarin. Hops may add to sedative medications.",
+  "pets": "Hops are highly toxic to dogs (dangerous overheating, panting, vomiting); if a dog eats the pouch, go to a vet immediately.",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.aspca.org/news/dogs-beer-getting-bottom-hops-toxicity",
+   "https://vetmed.umn.edu/news/bitter-brew-new-research-examines-toxic-effects-homebrewing-staple-dogs"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-glamour-beauty",
+  "name": "Morning Glamour Beauty Spell",
+  "description": "Glamour magic is the art of shaping how others perceive you, enhancing your natural radiance and charisma. This gentle working uses Rose water and a mirror ritual each morning. It is about confidence and inner beauty shining outward, not deception.",
+  "ingredients": [
+   {
+    "item": "Rose water (or Rose petals steeped in water, cooled)",
+    "amount": "1/2 cup"
+   },
+   {
+    "item": "True jasmine flowers (Jasminum, not yellow or Carolina jessamine) or a drop of jasmine scent (optional)",
+    "amount": "a few"
+   },
+   {
+    "item": "Small spray bottle",
+    "amount": "1"
+   },
+   {
+    "item": "Mirror",
+    "amount": "1"
+   },
+   {
+    "item": "Pink or gold candle",
+    "amount": "1"
+   },
+   {
+    "item": "Rose quartz (optional)",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Pour the rose water into the spray bottle and add the Jasmine flowers if using.",
+   "Light the candle in front of the mirror and hold the bottle up to its light, asking it to reveal your truest beauty.",
+   "Look into your own eyes in the mirror and smile.",
+   "Mist the rose water lightly over your face (eyes closed) and hair, speaking the chant.",
+   "Visualize a soft golden glow spreading from your heart to your skin and outward."
+  ],
+  "howToUse": "Use the mist each morning before leaving home, or before events where you want to shine. Refrigerate the mist and make a fresh batch weekly.",
+  "chant": "Rose of beauty, mirror bright,\nlet my glow be warm and light.\nAll who see me, let them see,\nthe radiance that lives in me.",
+  "intention": "My natural beauty and confidence shine for all to see.",
+  "timing": "Friday (Venus); waxing or full moon; morning.",
+  "metaphysical": [
+   "glamour",
+   "beauty",
+   "confidence",
+   "attraction",
+   "self-love"
+  ],
+  "caution": "Never leave a burning candle unattended or lit while you sleep; use a sturdy holder on a heatproof dish at least 12 inches from curtains, paper and anything that can burn, out of reach of children and pets. Use only true jasmine (Jasminum species); yellow or Carolina jessamine (Gelsemium) looks similar but every part is highly poisonous. Patch test rose water and any flowers on the inner arm first, keep the mist out of your eyes, and leave out the jasmine scent if your skin is sensitive. Use only food-grade or cosmetic-grade rose water, and discard if cloudy or smelling off.",
+  "interactions": "",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://plants.ces.ncsu.edu/plants/all/gelsemium-sempervirens/",
+   "https://en.wikipedia.org/wiki/Gelsemium_sempervirens",
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-ancestor-altar-offering",
+  "name": "Ancestor Altar Offering",
+  "description": "Honoring the ancestors with offerings of food, drink, light and remembrance is among the oldest spiritual practices on earth. This ritual sets up a simple ancestor altar and offering to build a relationship with those who came before. Honor only the well-intentioned and loving dead, whether of blood, adoption or spirit.",
+  "ingredients": [
+   {
+    "item": "White candle",
+    "amount": "1"
+   },
+   {
+    "item": "Glass of fresh water",
+    "amount": "1"
+   },
+   {
+    "item": "Photos, heirlooms or written names of ancestors",
+    "amount": "a few"
+   },
+   {
+    "item": "Small portion of food they loved (or bread)",
+    "amount": "1 plate"
+   },
+   {
+    "item": "Coffee, tea, or a favorite drink",
+    "amount": "1 cup"
+   },
+   {
+    "item": "Rosemary sprig (for remembrance)",
+    "amount": "1"
+   },
+   {
+    "item": "Myrrh or Frankincense incense",
+    "amount": "1 stick or a few grains"
+   },
+   {
+    "item": "White cloth",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Choose a quiet shelf or table and cleanse it with salt water before laying the white cloth.",
+   "Arrange the photos and heirlooms, placing the Rosemary sprig among them.",
+   "Set the glass of water at the front to give the spirits clarity and refreshment.",
+   "Light the candle and incense, then call your ancestors by name, or simply as 'my loving ancestors', and speak the chant.",
+   "Offer the plate of food and drink, and talk to them openly: share news, ask advice, or thank them.",
+   "After an hour or overnight, remove the food and leave it outdoors or compost it rather than eating it."
+  ],
+  "howToUse": "Refresh the water weekly and make offerings on birthdays, death anniversaries, holidays and Samhain. Listen for guidance in dreams and intuition. Keep the altar clean; neglect is considered disrespectful.",
+  "chant": "Ancestors of blood and bone,\nyou who walked before I've grown,\nhear my call and share my light,\nguide and bless me day and night.",
+  "intention": "I honor my loving ancestors and welcome their guidance and blessing.",
+  "timing": "Any time; especially Samhain, Day of the Dead, anniversaries and Monday evenings.",
+  "metaphysical": [
+   "ancestors",
+   "spirit work",
+   "blessing",
+   "wisdom",
+   "spirituality"
+  ],
+  "caution": "Never leave a burning candle unattended or lit while you sleep; use a sturdy holder on a heatproof dish at least 12 inches from curtains, paper and anything that can burn, out of reach of children and pets. Do not leave food out long enough to attract pests or spoil, and keep chocolate, grapes, onions and other pet-toxic offerings out of pets' reach. Grief can surface during this work; be gentle with yourself. Ventilate when burning incense.",
+  "interactions": "",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets",
+   "https://hero.epa.gov/hero/index.cfm/reference/details/reference_id/1661764"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-mirror-reflection-protection",
+  "name": "Mirror Reflection Shield",
+  "description": "Mirrors have been used in folk magic from China to Europe to deflect evil and turn harmful intent back on itself. This spell charges a small mirror to reflect negative energy away from you or your home without harming anyone. What is reflected returns only as the sender's own energy.",
+  "ingredients": [
+   {
+    "item": "Small round mirror",
+    "amount": "1"
+   },
+   {
+    "item": "Black or white candle",
+    "amount": "1"
+   },
+   {
+    "item": "Sea salt",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Rosemary, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Clove buds",
+    "amount": "3"
+   },
+   {
+    "item": "Black ribbon or cord (optional, for hanging)",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse the mirror with salt water, then dry it with a clean cloth.",
+   "Light the candle and place the mirror face up in front of it, surrounded by a circle of salt, Rosemary and Clove buds.",
+   "Hold your hands over the mirror and visualize it becoming a shining shield that reflects all harm away.",
+   "Speak the chant three times.",
+   "Leave the mirror in the circle until the candle has burned for at least 30 minutes, then hang or place it facing outward toward the source of trouble, such as a front door or window."
+  ],
+  "howToUse": "Place the mirror facing outward at your door or window, or carry a small mirror in your pocket with the reflective side facing out. Cleanse it monthly with salt water, and recharge as needed.",
+  "chant": "Mirror bright and mirror true,\nturn away what's sent to you.\nBack to sender, glass of light,\nreflect all harm both day and night.",
+  "intention": "All harm sent my way is reflected back to its source, and I remain untouched.",
+  "timing": "Waning or full moon; Saturday.",
+  "metaphysical": [
+   "protection",
+   "hex breaking",
+   "banishing",
+   "home blessing"
+  ],
+  "caution": "Never leave a burning candle unattended or lit while you sleep; use a sturdy holder on a heatproof dish at least 12 inches from curtains, paper and anything that can burn, out of reach of children and pets. Do not place reflective mirrors where they can focus sunlight onto flammable materials. Handle mirrors carefully to avoid breakage.",
+  "interactions": "",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-luck-mojo-bag",
+  "name": "Lucky Mojo Bag",
+  "description": "The mojo bag, or gris-gris, is a hoodoo charm bag made of red flannel and filled with roots, herbs and curios, then 'fed' to keep it alive. Traditionally it contains an odd number of ingredients. This version is for all-around good luck in daily life, games and opportunities.",
+  "ingredients": [
+   {
+    "item": "Red flannel bag",
+    "amount": "1"
+   },
+   {
+    "item": "High John the Conqueror root",
+    "amount": "1 small piece"
+   },
+   {
+    "item": "Cinquefoil, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Allspice berries",
+    "amount": "3"
+   },
+   {
+    "item": "Nutmeg (whole)",
+    "amount": "1"
+   },
+   {
+    "item": "Star Anise",
+    "amount": "1 pod"
+   },
+   {
+    "item": "Lucky coin or charm",
+    "amount": "1"
+   },
+   {
+    "item": "Whiskey or Florida water (for feeding)",
+    "amount": "a few drops"
+   }
+  ],
+  "steps": [
+   "Light a green or gold candle and lay out all the ingredients.",
+   "Add each item to the bag one by one, explaining aloud what it brings: High John for power, Cinquefoil for luck in all five fingers, Allspice for success, Nutmeg for fortune, Star Anise for good omens, and the coin for money.",
+   "Breathe into the bag to bring it to life, then pull the drawstring tight.",
+   "Feed the bag with a few drops of whiskey or Florida water, speaking the chant.",
+   "Hold it to your heart and name it if you wish."
+  ],
+  "howToUse": "Carry it on your body, out of sight, and do not let others touch it. Feed it weekly with a drop of whiskey or oil, talk to it, and hold it before games of chance, job interviews or important meetings.",
+  "chant": "Root and coin and seven ways,\nluck be with me all my days.\nIn my pocket, near my skin,\nfortune's door is opening in.",
+  "intention": "Good luck follows me everywhere I go.",
+  "timing": "Thursday or Sunday; waxing moon.",
+  "metaphysical": [
+   "luck",
+   "gambling",
+   "success",
+   "money",
+   "power"
+  ],
+  "caution": "Never leave a burning candle unattended or lit while you sleep; use a sturdy holder on a heatproof dish at least 12 inches from curtains, paper and anything that can burn, out of reach of children and pets. Whiskey and Florida water are flammable: feed the bag away from the candle flame and let it dry before carrying it. Nutmeg and High John root are toxic if ingested in quantity; keep the bag away from children and pets. Gamble responsibly and within your means.",
+  "interactions": "",
+  "pets": "Keep the bag away from pets; nutmeg, High John root and alcohol are harmful if chewed.",
+  "toxic": true,
+  "externalOnly": true,
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-safe-travel",
+  "name": "Safe Travel Talisman",
+  "description": "Travelers have long carried protective charms on journeys; Mugwort was placed in shoes by Roman soldiers to prevent fatigue, and Comfrey was sewn into luggage to keep it from being lost. This talisman combines both for safe and smooth journeys.",
+  "ingredients": [
+   {
+    "item": "Small yellow or white pouch",
+    "amount": "1"
+   },
+   {
+    "item": "Comfrey leaf, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Mugwort, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Rosemary, dried",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Basil, dried",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Small key or travel token",
+    "amount": "1"
+   },
+   {
+    "item": "Moonstone or turquoise (optional)",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Before your trip, light a white candle and hold a map or picture of your destination.",
+   "Add the Comfrey, Mugwort, Rosemary and Basil to the pouch, followed by the token and stone.",
+   "Tie the pouch closed with three knots, speaking the chant once for each knot.",
+   "Touch the pouch to your luggage, shoes and passport or keys."
+  ],
+  "howToUse": "Carry the talisman in your bag or car, and tuck a pinch of Comfrey into each suitcase. When you return safely, thank the pouch and refresh the herbs before your next trip.",
+  "chant": "Road and rail and sea and sky,\nguard me as I travel by.\nSafe I go and safe I stay,\nsafe returning home this way.",
+  "intention": "I travel safely and smoothly, and return home well.",
+  "timing": "The day before departure; Wednesday (Mercury).",
+  "metaphysical": [
+   "travel",
+   "protection",
+   "luck"
+  ],
+  "caution": "Check customs rules: some countries restrict carrying plant material across borders. The herbs in this pouch are not for tea or food: comfrey is toxic to the liver if swallowed, and both comfrey and mugwort should be avoided in pregnancy. Mugwort can trigger allergies in people sensitive to ragweed and the daisy family. Wash your hands after handling the herbs, and pack the pouch inside checked luggage if security rules require.",
+  "interactions": "",
+  "pets": "Keep the pouch away from pets that chew.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.rxlist.com/supplements/comfrey.htm",
+   "https://www.nccih.nih.gov/health/mugwort",
+   "https://DRUGS.COM/npp/comfrey.html"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-lost-object-finding",
+  "name": "Finding Lost Objects Spell",
+  "description": "Many folk traditions call upon helpers to find lost items, from Saint Anthony to household spirits. This spell uses a red string, a candle and focused visualization to lead you back to what was lost. It works best when paired with a calm, methodical search.",
+  "ingredients": [
+   {
+    "item": "White or yellow candle",
+    "amount": "1"
+   },
+   {
+    "item": "Red thread or string",
+    "amount": "about 12 inches"
+   },
+   {
+    "item": "Bay Laurel leaves",
+    "amount": "1"
+   },
+   {
+    "item": "Pen",
+    "amount": "1"
+   },
+   {
+    "item": "Small cup of water (an offering)",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Sit quietly and take three slow breaths to calm any panic.",
+   "Write the name of the lost object on the Bay Laurel leaf.",
+   "Tie one end of the red thread around the leaf and hold the other end loosely in your hand.",
+   "Light the candle and picture the object clearly: its weight, color and the last time you held it.",
+   "Speak the chant three times, then sit still and notice any image, room or impulse that comes to mind.",
+   "Blow out the candle and search calmly where your intuition leads, beginning with the first place that surfaced."
+  ],
+  "howToUse": "Repeat the chant while searching. When the object is found, thank the helpers and pour the water offering outdoors.",
+  "chant": "Thread of red, lead me true,\nwhat I've lost, bring back in view.\nHidden, missing, out of sight,\nreturn to me by candlelight.",
+  "intention": "What I have lost is found and returned to me.",
+  "timing": "Any time; Wednesday (Mercury) is ideal.",
+  "metaphysical": [
+   "divination",
+   "clarity",
+   "focus",
+   "luck"
+  ],
+  "caution": "Never leave a burning candle unattended or lit while you sleep; use a sturdy holder on a heatproof dish at least 12 inches from curtains, paper and anything that can burn, out of reach of children and pets. Do not carry a lit candle while searching; extinguish it first.",
+  "interactions": "",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-peace-in-the-home",
+  "name": "Peace in the Home Floor Wash",
+  "description": "Floor washes are a traditional hoodoo and folk practice for clearing tension and inviting harmony. Herbs such as Lavender, Chamomile and Basil are steeped and added to wash water, cleansing the home from back to front. Use it after quarrels or during stressful times.",
+  "ingredients": [
+   {
+    "item": "Lavender buds",
+    "amount": "2 tbsp"
+   },
+   {
+    "item": "Chamomile flowers",
+    "amount": "2 tbsp"
+   },
+   {
+    "item": "Basil, dried",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Rose petals",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Hot water",
+    "amount": "4 cups"
+   },
+   {
+    "item": "Bucket of warm water",
+    "amount": "1"
+   },
+   {
+    "item": "Mild unscented floor cleaner or a splash of white vinegar",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Blue or white candle",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Steep the Lavender, Chamomile, Basil and Rose petals in the hot water for 20 minutes, then strain.",
+   "Add the herbal infusion and cleaner to the bucket of warm water.",
+   "Light the candle in the heart of the home.",
+   "Starting at the back of the house, mop or wipe the floors toward the front door, speaking the chant as you go.",
+   "Pour the remaining wash water out the front door or down the drain, then open the windows briefly."
+  ],
+  "howToUse": "Perform weekly or after arguments. Follow with soft music, shared food, or a family meal to anchor the peace.",
+  "chant": "Lavender, chamomile, basil and rose,\nwherever this water so gently flows,\nanger and strife are washed away,\nand peace within these walls shall stay.",
+  "intention": "This home is filled with peace, harmony and understanding.",
+  "timing": "Waning moon to clear tension, waxing moon to build harmony; Monday or Friday.",
+  "metaphysical": [
+   "peace",
+   "home blessing",
+   "calm",
+   "cleansing",
+   "happiness"
+  ],
+  "caution": "Never leave a burning candle unattended or lit while you sleep; use a sturdy holder on a heatproof dish at least 12 inches from curtains, paper and anything that can burn, out of reach of children and pets. EXTERNAL USE ONLY; do not drink. Do not use vinegar on marble, limestone or other natural stone, test the wash on a small area of flooring first, and avoid soaking wood floors. Wet floors are slippery, so keep people and pets off them until dry. Never mix vinegar with bleach or other cleaners.",
+  "interactions": "",
+  "pets": "Keep pets off wet floors so they do not slip or lick the cleaner.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [
+   "stress",
+   "anxiety"
+  ],
+  "id": "spell-grief-emotional-healing",
+  "name": "Grief Comfort and Heart Healing Ritual",
+  "description": "This gentle ritual offers comfort through loss, whether of a loved one, a relationship or a chapter of life. Rosemary for remembrance, Rose for love and Lemon Balm for consolation are woven into a candle and letter ritual. It honors grief rather than rushing it away.",
+  "ingredients": [
+   {
+    "item": "White or lavender candle",
+    "amount": "1"
+   },
+   {
+    "item": "Rosemary sprig",
+    "amount": "1"
+   },
+   {
+    "item": "Rose petals",
+    "amount": "a handful"
+   },
+   {
+    "item": "Lemon Balm (fresh or dried, for tea)",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Paper and pen",
+    "amount": "1 sheet"
+   },
+   {
+    "item": "Small box or envelope",
+    "amount": "1"
+   },
+   {
+    "item": "Tissues",
+    "amount": "nearby"
+   }
+  ],
+  "steps": [
+   "Brew a cup of Lemon Balm tea and set it beside you.",
+   "Lay the Rose petals around the candle and the Rosemary sprig in front of it.",
+   "Light the candle and allow whatever feelings come to rise, without judgment.",
+   "Write a letter to the person or thing you have lost, sharing what you miss, what you are grateful for and anything unsaid.",
+   "Read the letter aloud or silently, then speak the chant.",
+   "Place the letter, Rosemary and a few petals in the box to keep, or bury them under a tree."
+  ],
+  "howToUse": "Return to the ritual whenever grief feels heavy, especially on anniversaries. Sip Lemon Balm tea and rest afterward. Allow grief to move in its own time.",
+  "chant": "Rosemary for memory, rose for love,\ncomfort me from earth and above.\nI hold you close and let you go,\nmy heart will heal, though healing's slow.",
+  "intention": "I honor my grief and allow my heart to heal gently in its own time.",
+  "timing": "Any time; waning moon or Monday evenings.",
+  "metaphysical": [
+   "grief",
+   "emotional healing",
+   "peace",
+   "release",
+   "ancestors"
+  ],
+  "caution": "Never leave a burning candle unattended or lit while you sleep; use a sturdy holder on a heatproof dish at least 12 inches from curtains, paper and anything that can burn, out of reach of children and pets. Lemon Balm may interact with thyroid medication and sedatives; consult a healthcare provider if unsure. If grief becomes overwhelming or you feel unsafe, please contact a grief counselor, doctor or crisis line. Edible part: only the cup of Lemon Balm tea.",
+  "interactions": "Lemon Balm may interact with thyroid medication and may add to the effects of sedatives and alcohol.",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-success-in-court",
+  "name": "Court Case Success Spell",
+  "description": "Hoodoo traditionally uses spells for legal matters, often with roots such as Galangal (Little John to Chew) chewed and spit on courtroom floors. This ethical version uses a petition and candle to support a just and fair outcome, focusing on truth, clarity and calm.",
+  "ingredients": [
+   {
+    "item": "Purple or brown candle",
+    "amount": "1"
+   },
+   {
+    "item": "Olive oil",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Marjoram, dried",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Hyssop, dried",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Cinquefoil, dried",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Copy of court papers or case number on paper",
+    "amount": "1"
+   },
+   {
+    "item": "Pen",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Write the case name or number on the paper and, beneath it, 'A just and fair outcome in my favor.'",
+   "Anoint the candle with oil and roll it in the Marjoram, Hyssop and Cinquefoil.",
+   "Place the paper under the candle holder, light the candle and speak the chant.",
+   "Visualize yourself in court calm, articulate and believed, and the judge ruling fairly.",
+   "Burn the candle for 15 minutes daily until the court date, finishing it the night before."
+  ],
+  "howToUse": "Carry the folded paper or a pinch of the herbs in a small pouch to court. Prepare thoroughly with your lawyer, tell the truth and stay calm; the spell supports your case but does not replace legal counsel.",
+  "chant": "Scales of justice, balance true,\nlet the truth come shining through.\nClear my words and calm my mind,\njust and fair the judgment find.",
+  "intention": "Truth prevails, and the outcome is just and fair.",
+  "timing": "Waxing moon; Thursday (Jupiter) or Sunday; begin as soon as the court date is set.",
+  "metaphysical": [
+   "legal matters",
+   "justice",
+   "victory",
+   "success",
+   "clarity"
+  ],
+  "caution": "Never leave a burning candle unattended or lit while you sleep; use a sturdy holder on a heatproof dish at least 12 inches from curtains, paper and anything that can burn, out of reach of children and pets. Do not bring herbs or oils into court if prohibited by security rules. Always follow your attorney's advice. Work for justice, not for harm to others.",
+  "interactions": "",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf"
+  ]
+ },
+ {
+  "type": "spell",
+  "medical": [],
+  "id": "spell-creative-fertility",
+  "name": "Creative Project Fertility Spell",
+  "description": "Fertility magic is not only for children; it can also nurture projects, art, books and businesses. This spell uses seeds, eggs and fertility herbs to plant and nourish the creative spark. Use it at the beginning of a new project or when inspiration feels blocked.",
+  "ingredients": [
+   {
+    "item": "Orange or green candle",
+    "amount": "1"
+   },
+   {
+    "item": "Pomegranate seeds (or a few dried seeds)",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Hazel twig or a pencil",
+    "amount": "1"
+   },
+   {
+    "item": "Vervain, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Calendula petals",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Small notebook or sketchbook",
+    "amount": "1"
+   },
+   {
+    "item": "Egg (raw or a carved wooden egg)",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Light the candle and set the notebook before it, open to the first page.",
+   "Sprinkle the Vervain and Calendula across the page, then hold the egg in both hands and breathe life into it.",
+   "Write the name of your project and three things you hope it becomes.",
+   "Place the Pomegranate seeds on the page, speaking the chant, and visualize the project growing and flourishing.",
+   "Close the notebook gently over the herbs (or brush them into an envelope inside the cover) and set the egg on top.",
+   "Let the candle burn for 20 minutes, then extinguish it; bury a raw egg in a garden afterward, or keep a wooden egg on your workspace."
+  ],
+  "howToUse": "Use the notebook to plan and track your project. Light the candle each time you sit down to work. When the project is finished, burn or bury the herbs and celebrate.",
+  "chant": "Seed and egg and fertile ground,\nlet my art be rich and sound.\nSpark of fire, take root and grow,\nlet my vision bloom and flow.",
+  "intention": "My creative project is fertile, inspired and flourishing.",
+  "timing": "New or waxing moon; Friday or Wednesday; spring is especially potent.",
+  "metaphysical": [
+   "fertility",
+   "new beginnings",
+   "manifestation",
+   "success",
+   "energy"
+  ],
+  "caution": "Never leave a burning candle unattended or lit while you sleep; use a sturdy holder on a heatproof dish at least 12 inches from curtains, paper and anything that can burn, out of reach of children and pets. Pomegranate seeds stain fabric and paper. Dispose of raw eggs promptly to avoid odors and pests. Vervain should be avoided by those who are pregnant. Wash hands after handling a raw egg.",
+  "interactions": "",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"
+  ]
+ }
+]

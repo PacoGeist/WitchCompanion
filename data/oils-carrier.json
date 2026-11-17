@@ -1,0 +1,1101 @@
+[
+ {
+  "id": "oil-carrier-olive",
+  "name": "Olive Oil",
+  "latin": "Olea europaea",
+  "folkNames": [
+   "Liquid Gold",
+   "Oil of Gladness",
+   "Holy Oil",
+   "Extra Virgin Olive Oil"
+  ],
+  "planet": "Sun",
+  "element": "Fire",
+  "gender": "Masculine",
+  "deities": [
+   "Athena",
+   "Apollo",
+   "Demeter",
+   "Isis"
+  ],
+  "partsUsed": "fruit",
+  "extraction": "cold pressed from the whole fruit (extra virgin is the first, unrefined pressing)",
+  "aroma": "Green, fruity and peppery when extra virgin, nearly neutral when light or refined.",
+  "texture": "Heavy and rich; absorbs slowly and leaves a noticeable glossy film on the skin.",
+  "shelfLife": "12-24 months; keep tightly capped, cool and away from light.",
+  "skinTypes": "Dry, rough or mature skin; may feel too heavy for oily or acne-prone skin.",
+  "description": "The oldest anointing oil in the Western world, pressed from the fruit of a tree sacred to Athena and planted around temples for thousands of years. Olive oil has filled sanctuary lamps, blessed kings and healed wounds. It is the kitchen witch's universal base: affordable, stable and already in the pantry.",
+  "metaphysical": [
+   "blessing",
+   "purification",
+   "healing",
+   "protection",
+   "peace",
+   "fertility",
+   "success",
+   "consecration"
+  ],
+  "medical": [
+   "dry skin",
+   "skin",
+   "cradle cap",
+   "earwax",
+   "massage",
+   "chapped lips"
+  ],
+  "metaphysicalUses": "Olive oil is the classic anointing base. Traditionally it is blessed and used to consecrate candles, tools, doorways and the brow, and it carries the steady, solar energy of peace and divine favor, since the olive branch has long been a sign of truce. In folk magic it is the default oil for condition oils and dressing candles, it fuels oil lamps kept burning for protection or a petition, and it is rubbed on the forehead or hands in healing work. Add a few drops of olive oil to any blend that needs grounding, blessing or a sense of the sacred.",
+  "medicalUses": "In traditional use olive oil is a simple emollient for dry, rough hands, elbows and heels, and a gentle base for herbal infusions such as calendula or St. John's wort. It has long been used to soften cradle cap before brushing, and a drop or two of warmed olive oil is a folk remedy for softening earwax. As a massage oil it is rich and slow, best blended with a lighter oil for full-body work.",
+  "uses": [
+   "Base for anointing and condition oils",
+   "Dressing candles before spellwork",
+   "Fuel for oil lamps on the altar",
+   "Slow herbal infusions (calendula, rosemary, St. John's wort)",
+   "Blessing the brow, hands and doorways",
+   "Rich hand and cuticle balm base",
+   "Salve and ointment base with beeswax"
+  ],
+  "whereToFind": "Any grocery store. Choose extra virgin olive oil in dark glass or tins with a harvest date; avoid bottles labeled only 'olive oil blend', and buy 'pomace' oil only for lamps.",
+  "caution": "Generally safe. Its heaviness can clog pores on oily or acne-prone skin. Do not put oil in the ear if the eardrum may be perforated or there is ear pain or discharge. Herbal infusions in oil must be made with fully dried herbs to avoid spoilage and botulism risk.",
+  "herb": null,
+  "bestTime": "Work with it on a Sunday or at midsummer noon for solar blessing, or during autumn harvest when the olives are gathered.",
+  "moonPhases": [
+   "Full Moon",
+   "Waxing Gibbous",
+   "New Moon"
+  ],
+  "type": "oil",
+  "kind": "carrier",
+  "toxic": false,
+  "interactions": "",
+  "pets": "Plain carrier oil is low risk, but never apply blends containing essential oils to pets.",
+  "externalOnly": false,
+  "sources": [
+   "https://poison.org/articles/essential-oils",
+   "https://www.poison.org/articles/2014-jun/essential-oils"
+  ]
+ },
+ {
+  "id": "oil-carrier-sweet-almond",
+  "name": "Sweet Almond Oil",
+  "latin": "Prunus amygdalus var. dulcis (syn. Prunus dulcis)",
+  "folkNames": [
+   "Almond Oil",
+   "Oleum Amygdalae",
+   "Sweet Almond"
+  ],
+  "planet": "Mercury",
+  "element": "Air",
+  "gender": "Masculine",
+  "deities": [
+   "Hermes",
+   "Attis",
+   "Zeus"
+  ],
+  "partsUsed": "nut (kernel)",
+  "extraction": "cold pressed from the kernels; refined versions are also common",
+  "aroma": "Very faint, softly nutty and slightly sweet.",
+  "texture": "Medium; glides beautifully and absorbs at a moderate pace, leaving skin soft rather than greasy.",
+  "shelfLife": "6-12 months; keep cool and dark, and refrigerate to extend it.",
+  "skinTypes": "Most skin types, especially normal, dry and sensitive skin.",
+  "description": "Pressed from the kernels of the sweet almond, this pale golden oil is the aromatherapist's all-purpose workhorse. In folk tradition the almond tree, first to blossom in late winter, is a sign of new beginnings, wisdom and prosperity. Its oil carries essential oils gracefully without overpowering them.",
+  "metaphysical": [
+   "prosperity",
+   "wisdom",
+   "love",
+   "success",
+   "clarity",
+   "new beginnings",
+   "beauty"
+  ],
+  "medical": [
+   "dry skin",
+   "skin",
+   "massage",
+   "stretch marks",
+   "chapped skin",
+   "eczema"
+  ],
+  "metaphysicalUses": "Traditionally linked to Mercury and Air, almond is used in folk magic for money, wisdom and success in business and study. Sweet almond oil makes a fine base for prosperity and attraction oils, for anointing a wallet, a business card or a green candle, and for blends meant to sharpen the mind before exams or interviews. Because the almond flowers early, its oil is also chosen for spells of fresh starts and hopeful beginnings, and its gentleness suits love and beauty rituals.",
+  "medicalUses": "Sweet almond oil is a traditional massage oil and a classic base for aromatherapy blends. It is used to soften dry, chapped or itchy skin, as a gentle makeup remover, and in belly and body oils during pregnancy massage to keep skin supple. Many people find it soothing on mild dry or irritated patches.",
+  "uses": [
+   "All-purpose base for aromatherapy and ritual oils",
+   "Prosperity and money-drawing anointing oil",
+   "Full-body massage oil",
+   "Study and success oils for exams",
+   "Gentle makeup remover",
+   "Bath oil for a beauty or self-love ritual"
+  ],
+  "whereToFind": "Health food stores and soap or aromatherapy suppliers. Look for 'sweet almond' (Prunus dulcis) cold pressed in dark bottles; never use bitter almond oil, which is a different and hazardous product.",
+  "caution": "Avoid entirely with tree nut allergies; patch test first. Do not confuse with bitter almond oil, which can contain toxic compounds. Can go rancid; discard if it smells sharp or like old paint.",
+  "herb": null,
+  "bestTime": "Best worked with in late winter and early spring when the almond trees bloom, on a Wednesday for Mercury's favor.",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous"
+  ],
+  "type": "oil",
+  "kind": "carrier",
+  "toxic": false,
+  "interactions": "",
+  "pets": "Plain carrier oil is low risk, but never apply blends containing essential oils to pets.",
+  "externalOnly": false,
+  "sources": [
+   "https://poison.org/articles/essential-oils",
+   "https://www.poison.org/articles/2014-jun/essential-oils"
+  ]
+ },
+ {
+  "id": "oil-carrier-jojoba",
+  "name": "Jojoba Oil",
+  "latin": "Simmondsia chinensis",
+  "folkNames": [
+   "Liquid Wax",
+   "Goat Nut",
+   "Deer Nut",
+   "Coffeeberry",
+   "Golden Jojoba"
+  ],
+  "planet": "Sun",
+  "element": "Earth",
+  "gender": "Feminine",
+  "deities": [],
+  "partsUsed": "seed",
+  "extraction": "cold pressed from the seeds; technically a liquid wax ester rather than a true oil",
+  "aroma": "Golden jojoba is mildly nutty and earthy; clear refined jojoba is nearly odorless.",
+  "texture": "Light to medium and silky; absorbs well and closely resembles the skin's own sebum.",
+  "shelfLife": "Several years (often 3-5); very stable, though it should still be kept cool and dark.",
+  "skinTypes": "All skin types, including oily, acne-prone and sensitive skin; excellent for the face and scalp.",
+  "description": "Jojoba is not truly an oil but a liquid wax pressed from the seeds of a hardy desert shrub of the American Southwest and northern Mexico. It is prized for its remarkable stability, which makes it the best choice for perfume oils and blends you want to keep for a long time. Because it mimics skin's natural sebum, it suits nearly everyone.",
+  "metaphysical": [
+   "endurance",
+   "grounding",
+   "protection",
+   "healing",
+   "balance",
+   "preservation",
+   "resilience"
+  ],
+  "medical": [
+   "skin",
+   "acne",
+   "dry scalp",
+   "dandruff",
+   "oily skin",
+   "dry skin",
+   "cuticles"
+  ],
+  "metaphysicalUses": "Born of a plant that thrives in harsh desert sun, jojoba is chosen in modern practice for workings of endurance, resilience and long-lasting results. Its long shelf life makes it the preferred base for oils meant to be kept and used over months, such as house blessing oils, protection oils and personal signature perfumes. Use it to anoint charms you wish to keep strong, and in balancing oils for times when life feels pulled to extremes.",
+  "medicalUses": "In traditional and cosmetic use, jojoba is a gentle moisturizer for both dry and oily skin and is commonly used on the face, cuticles and scalp. It is a popular base for roll-on perfumes and for facial serums, and it is used to soothe a dry, flaky scalp before washing. Many acne-prone people tolerate it well, though everyone's skin differs.",
+  "uses": [
+   "Base for roll-on perfume and signature oils",
+   "Long-keeping protection or blessing oils",
+   "Facial and beard oil base",
+   "Scalp oil before washing",
+   "Anointing charms and talismans meant to last",
+   "Cuticle oil"
+  ],
+  "whereToFind": "Natural beauty shops and aromatherapy suppliers. Choose 100% jojoba (Simmondsia chinensis), golden for skin care or clear for perfumery; check that it is not blended with cheaper oils.",
+  "caution": "Generally very well tolerated. Patch test before facial use. Not for ingestion: jojoba wax is poorly digested and can cause digestive upset.",
+  "herb": null,
+  "bestTime": "Work with it at high summer or midday when the desert sun is strongest, or any time you want a blend to last.",
+  "moonPhases": [
+   "Full Moon",
+   "First Quarter",
+   "Waxing Gibbous"
+  ],
+  "type": "oil",
+  "kind": "carrier",
+  "toxic": false,
+  "interactions": "",
+  "pets": "Plain carrier oil is low risk, but never apply blends containing essential oils to pets.",
+  "externalOnly": true,
+  "sources": [
+   "https://poison.org/articles/essential-oils",
+   "https://www.poison.org/articles/2014-jun/essential-oils"
+  ]
+ },
+ {
+  "id": "oil-carrier-grapeseed",
+  "name": "Grapeseed Oil",
+  "latin": "Vitis vinifera",
+  "folkNames": [
+   "Grape Seed Oil",
+   "Vine Oil",
+   "Oleum Vitis"
+  ],
+  "planet": "Moon",
+  "element": "Water",
+  "gender": "Feminine",
+  "deities": [
+   "Dionysus",
+   "Bacchus",
+   "Hathor"
+  ],
+  "partsUsed": "seed",
+  "extraction": "usually expeller pressed or solvent extracted from seeds left after winemaking; cold pressed versions exist",
+  "aroma": "Almost odorless with a faint clean, green note.",
+  "texture": "Light; absorbs quickly and leaves a thin, satiny finish without much grease.",
+  "shelfLife": "6-12 months; prone to rancidity, so keep cool, dark and tightly sealed.",
+  "skinTypes": "Oily, combination and acne-prone skin; good for anyone who dislikes heavy oils.",
+  "description": "Grapeseed oil is a byproduct of the wine harvest, pressed from the tiny seeds of the grape. Light, inexpensive and nearly scentless, it lets essential oils shine and is a favorite for massage. In magical practice it carries the grape's associations with celebration, abundance and the ecstatic joy of the vine.",
+  "metaphysical": [
+   "abundance",
+   "joy",
+   "fertility",
+   "celebration",
+   "prosperity",
+   "intuition",
+   "happiness"
+  ],
+  "medical": [
+   "massage",
+   "oily skin",
+   "acne",
+   "skin"
+  ],
+  "metaphysicalUses": "Grapeseed oil draws on the lore of the vine: harvest, merriment, fertility and plenty. Traditionally the grape is sacred to wine gods, so its oil suits celebration rituals, harvest-tide workings and spells for abundance and good cheer. Its lunar, watery nature makes it a light, unobtrusive base for dream oils and intuitive work, and it is a good choice when you want a blend's essential oils to speak for themselves.",
+  "medicalUses": "In aromatherapy grapeseed oil is valued as a light massage oil that spreads easily and absorbs without a heavy residue. It is a common base for blends meant for oily or combination skin, and it is often mixed with richer oils to lighten them.",
+  "uses": [
+   "Light massage oil",
+   "Base for dream and intuition oils",
+   "Harvest and Mabon celebration oils",
+   "Abundance and joy anointing blends",
+   "Lightening heavier carrier blends",
+   "Facial oil for combination skin"
+  ],
+  "whereToFind": "Grocery stores and aromatherapy suppliers. For skin, choose cold pressed or expeller pressed rather than solvent extracted, in dark bottles; buy small amounts as it spoils quickly.",
+  "caution": "Rarely irritating, but patch test. Spoils quickly; discard if it smells off. People with grape allergies should avoid it.",
+  "herb": null,
+  "bestTime": "Best during the autumn grape harvest and around Mabon, or on a Monday evening for lunar work.",
+  "moonPhases": [
+   "Full Moon",
+   "Waxing Gibbous",
+   "Waning Gibbous"
+  ],
+  "type": "oil",
+  "kind": "carrier",
+  "toxic": false,
+  "interactions": "",
+  "pets": "Plain carrier oil is low risk, but never apply blends containing essential oils to pets.",
+  "externalOnly": false,
+  "sources": [
+   "https://poison.org/articles/essential-oils",
+   "https://www.poison.org/articles/2014-jun/essential-oils"
+  ]
+ },
+ {
+  "id": "oil-carrier-fractionated-coconut",
+  "name": "Fractionated Coconut Oil",
+  "latin": "Cocos nucifera",
+  "folkNames": [
+   "FCO",
+   "MCT Oil",
+   "Liquid Coconut Oil",
+   "Caprylic/Capric Triglyceride"
+  ],
+  "planet": "Moon",
+  "element": "Water",
+  "gender": "Feminine",
+  "deities": [
+   "Selene"
+  ],
+  "partsUsed": "fruit (coconut meat)",
+  "extraction": "processed from coconut oil by removing long-chain fatty acids so it stays liquid",
+  "aroma": "Odorless.",
+  "texture": "Very light, thin and silky; absorbs quickly and is almost non-greasy.",
+  "shelfLife": "Very long, often 2+ years; keep capped and away from heat.",
+  "skinTypes": "All skin types; especially handy for those who prefer a light, non-greasy feel.",
+  "description": "Fractionated coconut oil is coconut oil that has been processed so it remains clear and liquid at any temperature. It has no scent, does not stain easily and keeps for a very long time. This makes it a popular modern base for roll-on bottles and ready-to-use blends.",
+  "metaphysical": [
+   "purification",
+   "protection",
+   "clarity",
+   "peace",
+   "versatility",
+   "cleansing"
+  ],
+  "medical": [
+   "massage",
+   "skin",
+   "dry skin"
+  ],
+  "metaphysicalUses": "Because it is clear, scentless and stable, fractionated coconut oil is a neutral canvas that lets the essential oils and herbs in a blend carry the working. In modern practice it carries coconut's traditional ties to purification and protection in a lighter form. Use it for roll-on ritual oils kept in a bag or purse, travel protection oils and clarity blends where you want no competing scent.",
+  "medicalUses": "Fractionated coconut oil is widely used as a carrier for aromatherapy roll-ons and massage blends because it absorbs quickly and rarely stains linens. It is a light moisturizer, though less nourishing than whole, unrefined oils, and it is often chosen for diluting essential oils for topical use.",
+  "uses": [
+   "Roll-on bottle base for ritual and aromatherapy oils",
+   "Travel protection oil",
+   "Light massage oil that won't stain sheets",
+   "Clarity and focus blends",
+   "Diluting essential oils for patch testing"
+  ],
+  "whereToFind": "Aromatherapy suppliers, pharmacies and online. Look for 100% fractionated coconut oil or caprylic/capric triglyceride, with no added fragrance.",
+  "caution": "Avoid with coconut allergy; patch test. Lacks the nutrients of unrefined oils. Once essential oils are added, the blend must not be swallowed.",
+  "herb": null,
+  "bestTime": "Any season; especially handy in cold months when solid oils harden, and on a Monday for lunar workings.",
+  "moonPhases": [
+   "New Moon",
+   "Waxing Crescent",
+   "Full Moon"
+  ],
+  "type": "oil",
+  "kind": "carrier",
+  "toxic": false,
+  "interactions": "",
+  "pets": "Plain carrier oil is low risk, but never apply blends containing essential oils to pets.",
+  "externalOnly": false,
+  "sources": [
+   "https://poison.org/articles/essential-oils",
+   "https://www.poison.org/articles/2014-jun/essential-oils"
+  ]
+ },
+ {
+  "id": "oil-carrier-coconut",
+  "name": "Coconut Oil",
+  "latin": "Cocos nucifera",
+  "folkNames": [
+   "Virgin Coconut Oil",
+   "Copra Oil",
+   "Tree of Life Oil",
+   "Nariyal Tel"
+  ],
+  "planet": "Moon",
+  "element": "Water",
+  "gender": "Feminine",
+  "deities": [
+   "Lakshmi",
+   "Selene"
+  ],
+  "partsUsed": "fruit (fresh coconut meat)",
+  "extraction": "cold pressed or centrifuged from fresh coconut meat (virgin, unrefined)",
+  "aroma": "Sweet, creamy and unmistakably tropical, like fresh coconut.",
+  "texture": "Solid below about 76°F (24°C), melting on contact with skin; medium-heavy and absorbs moderately.",
+  "shelfLife": "2 years or more; very stable, keep sealed and out of direct sun.",
+  "skinTypes": "Dry and normal skin, hair and body; may clog pores on acne-prone faces.",
+  "description": "Virgin coconut oil is pressed from fresh coconut meat and keeps the sweet scent of the fruit. Solid when cool and liquid when warm, it melts into balms, body butters and hair treatments. The coconut has long been a sacred offering in many traditions, and in folk magic it stands for purity, protection and the nurturing power of the sea.",
+  "metaphysical": [
+   "purification",
+   "protection",
+   "chastity",
+   "abundance",
+   "nurturing",
+   "self-love",
+   "healing"
+  ],
+  "medical": [
+   "dry skin",
+   "dry hair",
+   "skin",
+   "chapped lips",
+   "diaper rash",
+   "massage"
+  ],
+  "metaphysicalUses": "In folk magic the coconut is a symbol of purity and protection, its hard shell guarding sweet water within. Virgin coconut oil makes a good base for cleansing, protection and self-love balms, for anointing white candles in purification work and for blessing offerings near the sea. Its solid-to-liquid nature suits spells of transformation and softening, and its nurturing quality fits rituals of self-care and abundance.",
+  "medicalUses": "Traditionally used as a rich moisturizer for skin and hair, virgin coconut oil softens dry skin, chapped lips and frizzy or brittle hair. It is often used as a pre-wash hair mask and as a base for homemade body butters, lip balms and salves.",
+  "uses": [
+   "Base for solid balms and body butters",
+   "Protection and purification anointing balm",
+   "Hair mask for a self-love ritual",
+   "Lip balm base",
+   "Dressing white candles for cleansing work",
+   "Offerings and blessings tied to the sea"
+  ],
+  "whereToFind": "Grocery and health food stores. Choose 'virgin' or 'unrefined' cold pressed coconut oil in glass jars; refined coconut oil has no scent and fewer nutrients.",
+  "caution": "Avoid with coconut allergy. Comedogenic for many people, so use cautiously on the face. Solid oil can clog drains. Do not use on pets with essential oils added; check with a vet before any topical use on animals.",
+  "herb": null,
+  "bestTime": "Best in summer when it melts easily, or by the sea and on a Monday for lunar and water magic.",
+  "moonPhases": [
+   "Full Moon",
+   "Waxing Gibbous",
+   "New Moon"
+  ],
+  "type": "oil",
+  "kind": "carrier",
+  "toxic": false,
+  "interactions": "",
+  "pets": "Do not use on pets with essential oils added; check with a vet before any topical use on animals.",
+  "externalOnly": false,
+  "sources": [
+   "https://poison.org/articles/essential-oils",
+   "https://www.poison.org/articles/2014-jun/essential-oils",
+   "https://www.petpoisonhelpline.com/wp-content/uploads/2020/03/Updates-on-Essential-Oils.pdf",
+   "https://pdsa.org.uk/cats-and-essential-oils-advice",
+   "https://aspca.org/node/60122"
+  ]
+ },
+ {
+  "id": "oil-carrier-sunflower",
+  "name": "Sunflower Oil",
+  "latin": "Helianthus annuus",
+  "folkNames": [
+   "Sunflower Seed Oil",
+   "Corona Solis Oil",
+   "Sola Indianus Oil"
+  ],
+  "planet": "Sun",
+  "element": "Fire",
+  "gender": "Masculine",
+  "deities": [
+   "Apollo",
+   "Helios",
+   "Lugh"
+  ],
+  "partsUsed": "seed",
+  "extraction": "cold pressed from the seeds; refined high-oleic versions are also common",
+  "aroma": "Mild, faintly nutty and sunny when cold pressed; nearly odorless when refined.",
+  "texture": "Light to medium; absorbs fairly well with a slight sheen.",
+  "shelfLife": "6-12 months (high-oleic types last longer); keep cool and dark.",
+  "skinTypes": "Most skin types, including dry, sensitive and normal skin.",
+  "description": "Pressed from the seeds of the bright sunflower, this golden oil is affordable, gentle and widely available. The sunflower follows the sun across the sky as it grows, and its oil carries that solar promise of joy, health and good fortune. It is a cheerful, practical base for any working of success or happiness.",
+  "metaphysical": [
+   "happiness",
+   "success",
+   "luck",
+   "wishes",
+   "health",
+   "fertility",
+   "loyalty",
+   "confidence"
+  ],
+  "medical": [
+   "dry skin",
+   "skin",
+   "massage",
+   "eczema"
+  ],
+  "metaphysicalUses": "Traditionally sunflower is a solar plant of wishes, luck, fame and honest success; folk lore says sleeping with a sunflower beneath the bed lets you learn the truth of a matter. Its oil is a natural base for success and confidence oils, for dressing gold and yellow candles, and for Midsummer and Lughnasadh blessings. Use it in joy and luck blends, and to anoint yourself before you need to shine.",
+  "medicalUses": "In traditional skin care, sunflower oil is a gentle moisturizer that helps soften dry, rough skin and is often used as a massage oil and base for herbal infusions. It is a common and inexpensive carrier for aromatherapy blends.",
+  "uses": [
+   "Solar success and confidence oils",
+   "Dressing yellow and gold candles",
+   "Midsummer and Lughnasadh anointing",
+   "Luck and wish-granting blends",
+   "Budget massage oil",
+   "Herbal infusion base"
+  ],
+  "whereToFind": "Grocery stores; for skin, prefer organic cold pressed sunflower oil in dark bottles, or high-oleic sunflower oil for longer shelf life.",
+  "caution": "Generally safe; patch test. People allergic to plants in the daisy family may react. Discard if it smells rancid.",
+  "herb": "herb-sunflower",
+  "bestTime": "Best at midsummer and high noon, or on a Sunday when the sun is strong.",
+  "moonPhases": [
+   "Full Moon",
+   "Waxing Gibbous",
+   "First Quarter"
+  ],
+  "type": "oil",
+  "kind": "carrier",
+  "toxic": false,
+  "interactions": "",
+  "pets": "Plain carrier oil is low risk, but never apply blends containing essential oils to pets.",
+  "externalOnly": false,
+  "sources": [
+   "https://poison.org/articles/essential-oils",
+   "https://www.poison.org/articles/2014-jun/essential-oils"
+  ]
+ },
+ {
+  "id": "oil-carrier-vitamin-e",
+  "name": "Vitamin E Oil",
+  "latin": "Tocopherol (mixed tocopherols or d-alpha-tocopherol)",
+  "folkNames": [
+   "Tocopherol Oil",
+   "Mixed Tocopherols",
+   "Preserving Oil"
+  ],
+  "planet": "Sun",
+  "element": "Earth",
+  "gender": "Masculine",
+  "deities": [],
+  "partsUsed": "extracted from vegetable oils (often soybean, sunflower or wheat germ)",
+  "extraction": "distilled and concentrated from vegetable oils; sold pure or diluted in a carrier",
+  "aroma": "Thick and faintly oily, with little to no scent.",
+  "texture": "Very thick, sticky and viscous; used in tiny amounts rather than on its own.",
+  "shelfLife": "2 years or more unopened; keep cool and dark.",
+  "skinTypes": "Used as an additive for all skin types; avoid applying neat to sensitive skin.",
+  "description": "Vitamin E oil is not a carrier in its own right but a concentrated antioxidant added in small amounts to slow rancidity in other oils. A few drops can extend the life of delicate oils such as rosehip, hemp and grapeseed. In practice it is the guardian of your oil cabinet.",
+  "metaphysical": [
+   "preservation",
+   "protection",
+   "healing",
+   "longevity",
+   "renewal",
+   "endurance"
+  ],
+  "medical": [
+   "skin",
+   "dry skin",
+   "scars"
+  ],
+  "metaphysicalUses": "In modern magical practice vitamin E oil is added as a keeper and preserver, chosen to help a blend and its intent hold steady over time. Add a drop when making an oil meant to protect a home or person for a long season, or in healing and renewal blends. It is a practical ally rather than a traditional magical material, and its symbolism comes from what it does: guarding against decay.",
+  "medicalUses": "As an additive, vitamin E is used at about 0.5-1% of a blend to slow oxidation of other oils. In cosmetic use it is added to lotions, balms and facial oils for its antioxidant properties, and some people use it on dry patches or healed scars, although evidence for scar improvement is mixed.",
+  "uses": [
+   "Antioxidant additive to extend shelf life of blends (0.5-1%)",
+   "Protecting delicate oils like rosehip and hemp",
+   "Adding to long-term protection oils",
+   "Balm and lip balm additive",
+   "Healing and renewal blend additive"
+  ],
+  "whereToFind": "Pharmacies and soap-making suppliers. For preserving oils, look for natural mixed tocopherols at high concentration; capsules can be pierced for small batches. Note that it is an antioxidant, not a preservative against mold or bacteria.",
+  "caution": "Use sparingly; neat vitamin E can irritate or cause contact dermatitis in some people, so patch test. Does not prevent microbial growth in water-containing products. Do not take supplements on your own initiative, especially with blood thinners; ask a doctor. Often derived from soy or wheat germ, so check the source if you have those allergies.",
+  "herb": null,
+  "bestTime": "Add it any time you make a batch; especially useful in warm summer months when oils spoil faster.",
+  "moonPhases": [
+   "Full Moon",
+   "Waxing Gibbous",
+   "Last Quarter"
+  ],
+  "type": "oil",
+  "kind": "carrier",
+  "toxic": false,
+  "interactions": "High-dose oral vitamin E can increase bleeding risk with warfarin and other blood thinners.",
+  "pets": "Plain carrier oil is low risk, but never apply blends containing essential oils to pets.",
+  "externalOnly": true,
+  "sources": [
+   "https://poison.org/articles/essential-oils",
+   "https://www.poison.org/articles/2014-jun/essential-oils"
+  ]
+ },
+ {
+  "id": "oil-carrier-apricot-kernel",
+  "name": "Apricot Kernel Oil",
+  "latin": "Prunus armeniaca",
+  "folkNames": [
+   "Apricot Oil",
+   "Persic Oil",
+   "Moon of the Faithful Oil"
+  ],
+  "planet": "Venus",
+  "element": "Water",
+  "gender": "Feminine",
+  "deities": [
+   "Aphrodite",
+   "Venus"
+  ],
+  "partsUsed": "seed (kernel inside the pit)",
+  "extraction": "cold pressed from the kernels",
+  "aroma": "Very light, softly sweet and faintly nutty.",
+  "texture": "Light and silky; absorbs quickly with little residue.",
+  "shelfLife": "6-12 months; keep cool and dark, refrigerate to extend.",
+  "skinTypes": "Sensitive, mature, dry and normal skin; good for the face.",
+  "description": "Pressed from the kernels of apricot pits, this delicate oil is lighter than sweet almond and similar in feel. The apricot is a fruit of Venus in folk lore, sweet and sensual, and its oil suits gentle love and beauty magic. It is a lovely choice for facial oils and for those who prefer a lighter touch.",
+  "metaphysical": [
+   "love",
+   "beauty",
+   "self-love",
+   "romance",
+   "gentleness",
+   "peace",
+   "happiness"
+  ],
+  "medical": [
+   "skin",
+   "dry skin",
+   "sensitive skin",
+   "massage"
+  ],
+  "metaphysicalUses": "Traditionally the apricot is ruled by Venus and used for love, and its sweetness makes the oil a gentle base for romance, attraction and self-love blends. Use it to anoint pink candles, as a body oil before a love ritual or in a soothing blend for heartache. Its softness suits workings of tenderness, reconciliation and gentle beauty glamours.",
+  "medicalUses": "In aromatherapy and skin care, apricot kernel oil is used as a light, soothing oil for sensitive or mature skin and for facial massage. It is a common base for gentle blends and is often used for those who find almond oil a little heavy.",
+  "uses": [
+   "Base for love and attraction oils",
+   "Self-love body oil",
+   "Facial massage oil",
+   "Anointing pink candles",
+   "Beauty glamour oil",
+   "Soothing heartache blend"
+  ],
+  "whereToFind": "Aromatherapy suppliers and natural beauty shops. Look for cold pressed apricot kernel oil (Prunus armeniaca) in dark bottles.",
+  "caution": "People with tree nut or stone-fruit allergies should patch test or avoid. Never ingest apricot kernels themselves, which can contain cyanide-releasing compounds; the cosmetic oil is for external use only.",
+  "herb": null,
+  "bestTime": "Best in early summer when apricots ripen, on a Friday for Venus.",
+  "moonPhases": [
+   "Waxing Crescent",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "type": "oil",
+  "kind": "carrier",
+  "toxic": false,
+  "interactions": "",
+  "pets": "Keep apricot kernels (pits) away from pets; they release cyanide.",
+  "externalOnly": true,
+  "sources": [
+   "https://poison.org/articles/essential-oils",
+   "https://www.poison.org/articles/2014-jun/essential-oils"
+  ]
+ },
+ {
+  "id": "oil-carrier-avocado",
+  "name": "Avocado Oil",
+  "latin": "Persea americana",
+  "folkNames": [
+   "Alligator Pear Oil",
+   "Ahuacatl Oil",
+   "Butter Pear Oil"
+  ],
+  "planet": "Venus",
+  "element": "Water",
+  "gender": "Feminine",
+  "deities": [
+   "Aphrodite"
+  ],
+  "partsUsed": "fruit (flesh)",
+  "extraction": "cold pressed from the flesh; unrefined is green, refined is pale yellow",
+  "aroma": "Unrefined is green, buttery and a little earthy; refined is mild.",
+  "texture": "Heavy and rich; absorbs slowly, best mixed with a lighter oil.",
+  "shelfLife": "12 months; keep cool and dark.",
+  "skinTypes": "Very dry, mature or weathered skin; may feel heavy for oily skin.",
+  "description": "Avocado oil is pressed from the lush flesh of the fruit rather than its seed, giving a rich, deeply nourishing oil. Unrefined avocado oil is a beautiful green. In folk magic the avocado is associated with love, lust and beauty.",
+  "metaphysical": [
+   "love",
+   "lust",
+   "beauty",
+   "fertility",
+   "nourishment",
+   "self-love",
+   "abundance"
+  ],
+  "medical": [
+   "dry skin",
+   "skin",
+   "cracked heels",
+   "dry hair",
+   "mature skin"
+  ],
+  "metaphysicalUses": "In folk magic avocado is used for love, lust and beauty, and tradition says eating it encourages desire. Its oil makes a rich base for sensual and fertility blends, for beauty and self-love rituals, and for nourishing workings where you want to feed something slowly. Blend it with a lighter oil for anointing so it does not feel too heavy.",
+  "medicalUses": "Traditionally used as a deeply nourishing oil for very dry, rough or mature skin, avocado oil is added to salves, body butters and foot balms, and is used as a hair treatment for dry ends. It is commonly blended at 10-20% with a lighter carrier.",
+  "uses": [
+   "Sensual and love anointing blends",
+   "Fertility ritual oils",
+   "Rich body butter and salve ingredient",
+   "Foot and heel balm",
+   "Hair oil for dry ends",
+   "Self-love bath oil"
+  ],
+  "whereToFind": "Grocery stores and aromatherapy suppliers. For skin care, choose unrefined cold pressed avocado oil; it may cloud when cold, which is normal.",
+  "caution": "Patch test; people with latex allergy sometimes react to avocado. Its heaviness can clog pores on oily skin.",
+  "herb": null,
+  "bestTime": "Best on a Friday, or in spring for fertility and love workings.",
+  "moonPhases": [
+   "Waxing Gibbous",
+   "Full Moon",
+   "Waxing Crescent"
+  ],
+  "type": "oil",
+  "kind": "carrier",
+  "toxic": false,
+  "interactions": "",
+  "pets": "Avocado fruit, pits and leaves are toxic to birds and some other animals; keep products away from pet birds.",
+  "externalOnly": false,
+  "sources": [
+   "https://poison.org/articles/essential-oils",
+   "https://www.poison.org/articles/2014-jun/essential-oils"
+  ]
+ },
+ {
+  "id": "oil-carrier-castor",
+  "name": "Castor Oil",
+  "latin": "Ricinus communis",
+  "folkNames": [
+   "Palma Christi",
+   "Palm of Christ",
+   "Castor Bean Oil",
+   "Ricinus Oil"
+  ],
+  "planet": "Mars",
+  "element": "Fire",
+  "gender": "Masculine",
+  "deities": [],
+  "partsUsed": "seed (bean)",
+  "extraction": "cold pressed from the seeds; the toxic protein ricin stays in the seed cake and is not present in properly processed oil",
+  "aroma": "Faint, slightly earthy and fatty; nearly odorless when refined.",
+  "texture": "Extremely thick and sticky; absorbs very slowly, usually blended with a thinner oil.",
+  "shelfLife": "1-2 years or more; very stable, keep cool and dark.",
+  "skinTypes": "Dry skin, hair, brows and lashes; can be drying or heavy on its own for some faces.",
+  "description": "Castor oil is pressed from the seeds of a striking, fast-growing plant called Palma Christi in old herbals. It is famously thick and sticky. In hoodoo and folk magic it is the traditional base for protection and hex-breaking work.",
+  "metaphysical": [
+   "protection",
+   "banishing",
+   "hex breaking",
+   "absorbing negativity",
+   "courage",
+   "strength"
+  ],
+  "medical": [
+   "dry hair",
+   "dry skin",
+   "massage",
+   "skin"
+  ],
+  "metaphysicalUses": "In folk magic and hoodoo castor oil, called Palma Christi, is a protective oil said to absorb and repel negativity. It is used as a base for protection, uncrossing and banishing oils, dabbed on doorframes and windowsills, and added to candles meant to break hexes or drive off harm. Its heavy, sticky nature suits workings that hold firm or bind harm away.",
+  "medicalUses": "Traditionally, castor oil packs (cloth soaked in the oil and laid on the skin) were used as a folk remedy, and the oil is widely used today in hair and brow treatments and as a thickening component of balms, lip glosses and soaps. Its use as a laxative is a medical matter and should only be done under a doctor's guidance.",
+  "uses": [
+   "Base for protection and uncrossing oils",
+   "Anointing doorframes and windowsills",
+   "Hex-breaking candle dressing",
+   "Brow and lash oil (blended)",
+   "Thickening agent for balms and lip glosses",
+   "Folk castor oil packs"
+  ],
+  "whereToFind": "Pharmacies and natural beauty shops. Choose cold pressed, hexane-free castor oil in dark bottles; 'Jamaican black' castor oil is roasted and darker.",
+  "caution": "Do not swallow castor oil except as a laxative under a doctor's guidance: it is a strong stimulant laxative, overdose causes cramps, diarrhea and dehydration, and it should not be given to children without medical advice. Never take it during pregnancy or to start labor, as it can stimulate contractions and has been linked to serious complications. The raw seeds contain ricin and are highly poisonous, so keep them away from children and pets; the refined oil is not toxic in normal topical use. Patch test, especially near eyes, as allergic skin reactions occur.",
+  "herb": null,
+  "bestTime": "Best during the waning moon or on a Tuesday or Saturday for protection and banishing.",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent",
+   "Dark Moon"
+  ],
+  "type": "oil",
+  "kind": "carrier",
+  "toxic": false,
+  "interactions": "Avoid combining oral castor oil with other laxatives or bowel-prep products; prolonged laxative use can lower potassium and affect heart and diuretic medications.",
+  "pets": "Castor beans (seeds) are highly poisonous to dogs and cats; keep plants and seeds away from pets.",
+  "externalOnly": true,
+  "sources": [
+   "https://medlineplus.gov/ency/article/002768.htm",
+   "https://www.drugs.com/npp/castor.html"
+  ]
+ },
+ {
+  "id": "oil-carrier-argan",
+  "name": "Argan Oil",
+  "latin": "Argania spinosa",
+  "folkNames": [
+   "Liquid Gold of Morocco",
+   "Moroccan Oil",
+   "Argan Tree Oil"
+  ],
+  "planet": "Sun",
+  "element": "Earth",
+  "gender": "Feminine",
+  "deities": [],
+  "partsUsed": "seed (kernel of the nut)",
+  "extraction": "cold pressed from the kernels; cosmetic argan is unroasted, culinary argan is roasted",
+  "aroma": "Cosmetic argan is mild and slightly nutty; culinary argan is toasty.",
+  "texture": "Medium-light; absorbs well and leaves a smooth, satiny finish.",
+  "shelfLife": "12-18 months; keep cool and dark.",
+  "skinTypes": "Most skin types, especially dry, mature and normal skin; popular for hair.",
+  "description": "Argan oil comes from the kernels of the argan tree, which grows in southwestern Morocco. Traditionally produced by hand, much of it today comes from women's cooperatives. Prized and costly, it is a luxurious oil for the face and hair and a special-occasion base for ritual blends.",
+  "metaphysical": [
+   "beauty",
+   "prosperity",
+   "resilience",
+   "self-love",
+   "success",
+   "nourishment",
+   "abundance"
+  ],
+  "medical": [
+   "dry skin",
+   "dry hair",
+   "skin",
+   "mature skin",
+   "cuticles"
+  ],
+  "metaphysicalUses": "In modern practice argan is a luxury oil, chosen when a working calls for richness, beauty and earned abundance. Its tree is drought-hardy and long-lived, so it suits resilience spells and blessings for steady prosperity. Use a few drops in beauty glamours, self-love rituals and success oils, or to honor a special occasion.",
+  "medicalUses": "Argan oil is traditionally used in Morocco on skin, hair and nails. Today it is a popular facial oil, hair serum for dry or frizzy ends and cuticle treatment. It is often used undiluted in small amounts or as part of a facial serum blend.",
+  "uses": [
+   "Beauty glamour oil",
+   "Hair serum for a self-love ritual",
+   "Prosperity and success anointing (a few drops)",
+   "Facial serum base",
+   "Cuticle and nail oil",
+   "Special occasion ritual blends"
+  ],
+  "whereToFind": "Natural beauty shops and fair-trade suppliers. Look for 100% pure cold pressed argan oil (Argania spinosa), ideally from women's cooperatives; cheap 'argan' products are often diluted.",
+  "caution": "Rarely irritating, but people with tree nut allergies should patch test or avoid. Often diluted or faked, so buy from reputable sources.",
+  "herb": null,
+  "bestTime": "Best on a Sunday or in late summer, when the argan fruit ripens.",
+  "moonPhases": [
+   "Full Moon",
+   "Waxing Gibbous",
+   "First Quarter"
+  ],
+  "type": "oil",
+  "kind": "carrier",
+  "toxic": false,
+  "interactions": "",
+  "pets": "Plain carrier oil is low risk, but never apply blends containing essential oils to pets.",
+  "externalOnly": false,
+  "sources": [
+   "https://poison.org/articles/essential-oils",
+   "https://www.poison.org/articles/2014-jun/essential-oils"
+  ]
+ },
+ {
+  "id": "oil-carrier-rosehip-seed",
+  "name": "Rosehip Seed Oil",
+  "latin": "Rosa canina; Rosa rubiginosa (syn. Rosa eglanteria)",
+  "folkNames": [
+   "Rosehip Oil",
+   "Rosa Mosqueta",
+   "Dog Rose Oil",
+   "Briar Oil"
+  ],
+  "planet": "Venus",
+  "element": "Water",
+  "gender": "Feminine",
+  "deities": [
+   "Aphrodite",
+   "Freyja",
+   "Isis"
+  ],
+  "partsUsed": "seed (from the rose hip fruit)",
+  "extraction": "cold pressed or CO2 extracted from the seeds",
+  "aroma": "Earthy, slightly woody and a little fishy when fresh; not floral.",
+  "texture": "Light to medium; absorbs quickly and is often called a 'dry' oil.",
+  "shelfLife": "6 months or less; very fragile, refrigerate and add vitamin E.",
+  "skinTypes": "Mature, dry, scarred or sun-weathered skin; many with oily skin find it light enough.",
+  "description": "Rosehip seed oil is pressed from the seeds in the rose hip, the fruit left after wild rose petals fall. Golden orange and fragile, it is one of the most prized facial oils. It carries the rose's lore of love along with the hip's later promise of renewal.",
+  "metaphysical": [
+   "love",
+   "healing",
+   "renewal",
+   "beauty",
+   "self-love",
+   "patience",
+   "transformation"
+  ],
+  "medical": [
+   "skin",
+   "scars",
+   "mature skin",
+   "dry skin",
+   "stretch marks"
+  ],
+  "metaphysicalUses": "Rose hips are the fruit that follows the rose, so traditionally they carry the rose's love energy matured into healing and renewal. Rosehip seed oil makes a meaningful base for healing the heart, self-love glamours and workings of transformation after loss. Use small amounts in love oils, autumn rituals and blends meant to help something bloom again.",
+  "medicalUses": "In skin care rosehip seed oil is used as a facial oil for mature, dry or uneven skin and on healed scars and stretch marks to help the skin feel smoother. It is usually used on its own in small amounts, or at 10-30% in a facial blend.",
+  "uses": [
+   "Heart-healing and self-love oil",
+   "Facial serum for beauty glamours",
+   "Base for autumn and renewal rituals",
+   "Love oil enhancer (small amounts)",
+   "Scar and stretch mark oil"
+  ],
+  "whereToFind": "Aromatherapy and natural beauty suppliers. Buy small amounts of cold pressed or CO2 rosehip seed oil in dark glass, with a recent pressing date; store in the fridge.",
+  "caution": "Patch test; it can cause breakouts in some people. Goes rancid quickly; discard if it smells sharp. Do not apply to broken skin or open wounds.",
+  "herb": "herb-rose",
+  "bestTime": "Best in autumn, when rose hips ripen after the first frosts, and on a Friday for Venus.",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Waxing Crescent",
+   "Full Moon"
+  ],
+  "type": "oil",
+  "kind": "carrier",
+  "toxic": false,
+  "interactions": "",
+  "pets": "Plain carrier oil is low risk, but never apply blends containing essential oils to pets.",
+  "externalOnly": false,
+  "sources": [
+   "https://poison.org/articles/essential-oils",
+   "https://www.poison.org/articles/2014-jun/essential-oils"
+  ]
+ },
+ {
+  "id": "oil-carrier-hemp-seed",
+  "name": "Hemp Seed Oil",
+  "latin": "Cannabis sativa",
+  "folkNames": [
+   "Hempseed Oil",
+   "Hemp Oil",
+   "Chanvre Oil"
+  ],
+  "planet": "Saturn",
+  "element": "Water",
+  "gender": "Feminine",
+  "deities": [],
+  "partsUsed": "seed",
+  "extraction": "cold pressed from the seeds; contains no meaningful THC or CBD",
+  "aroma": "Green, grassy and nutty.",
+  "texture": "Light; absorbs quickly with little residue.",
+  "shelfLife": "6 months or less; very fragile, keep refrigerated.",
+  "skinTypes": "Oily, combination, acne-prone and dry skin; generally well balanced.",
+  "description": "Hemp seed oil is cold pressed from the seeds of the hemp plant and has a deep green color and grassy scent. It is not the same as CBD oil and contains no meaningful amounts of psychoactive compounds. In folk tradition hemp seed was used in love divination and healing.",
+  "metaphysical": [
+   "divination",
+   "love",
+   "healing",
+   "meditation",
+   "visions",
+   "peace",
+   "binding"
+  ],
+  "medical": [
+   "skin",
+   "acne",
+   "dry skin",
+   "oily skin",
+   "eczema"
+  ],
+  "metaphysicalUses": "Hemp has a long history in folk divination; in old British and Irish custom, maidens sowed hemp seed at midnight on Midsummer Eve or Halloween to glimpse a future spouse. Its oil suits divination, vision and meditation blends, love divination and healing work. Because hemp was spun into rope and cord, it also suits knot and binding magic.",
+  "medicalUses": "In skin care hemp seed oil is a light moisturizer often used on oily, acne-prone or combination skin, and on dry or irritated patches. It is commonly blended with more stable oils because it oxidizes quickly.",
+  "uses": [
+   "Divination and vision oils",
+   "Love divination rituals",
+   "Meditation blend base",
+   "Cord and knot magic anointing",
+   "Light facial oil for oily skin"
+  ],
+  "whereToFind": "Health food stores and natural beauty shops. Look for cold pressed hemp seed oil in dark bottles, refrigerated; do not confuse with CBD oil, which is a different and often far more expensive product.",
+  "caution": "Patch test. Goes rancid quickly, so keep refrigerated and buy small amounts. Check local laws and workplace drug-testing policies if concerned, though hemp seed oil is legal in most places.",
+  "herb": null,
+  "bestTime": "Best on Midsummer Eve or around Samhain for divination, at midnight.",
+  "moonPhases": [
+   "Full Moon",
+   "Dark Moon",
+   "Waning Crescent"
+  ],
+  "type": "oil",
+  "kind": "carrier",
+  "toxic": false,
+  "interactions": "",
+  "pets": "Plain carrier oil is low risk, but never apply blends containing essential oils to pets.",
+  "externalOnly": false,
+  "sources": [
+   "https://poison.org/articles/essential-oils",
+   "https://www.poison.org/articles/2014-jun/essential-oils"
+  ]
+ },
+ {
+  "id": "oil-carrier-sesame",
+  "name": "Sesame Oil",
+  "latin": "Sesamum indicum",
+  "folkNames": [
+   "Gingelly Oil",
+   "Til Oil",
+   "Benne Oil",
+   "Open Sesame Oil"
+  ],
+  "planet": "Sun",
+  "element": "Fire",
+  "gender": "Masculine",
+  "deities": [
+   "Ganesha"
+  ],
+  "partsUsed": "seed",
+  "extraction": "cold pressed from raw seeds (light sesame); toasted sesame oil is for cooking, not skin",
+  "aroma": "Light sesame is mild and nutty; toasted sesame is strong and smoky.",
+  "texture": "Medium; warming and spreads well, absorbs moderately.",
+  "shelfLife": "12 months or more; fairly stable thanks to its natural antioxidants, keep cool and dark.",
+  "skinTypes": "Dry and normal skin; good for body massage, especially in cold weather.",
+  "description": "Sesame oil is one of the oldest pressed oils in the world, made from tiny seeds that burst from their pods when ripe. Light, untoasted sesame oil is a traditional warming massage oil. In folk magic it is linked to opening doors, prosperity and hidden treasure, as in the famous phrase 'open sesame.'",
+  "metaphysical": [
+   "prosperity",
+   "opening the way",
+   "success",
+   "luck",
+   "protection",
+   "abundance",
+   "lust"
+  ],
+  "medical": [
+   "massage",
+   "dry skin",
+   "skin",
+   "muscle aches"
+  ],
+  "metaphysicalUses": "Traditionally sesame is associated with money, lust and opening the way, and folk magic suggests keeping sesame seeds in an open dish to draw money. Its oil is a good base for road-opening and prosperity oils, for anointing keys and door handles to welcome opportunity, and for warming lust blends. It also fuels lamps in many traditions.",
+  "medicalUses": "In traditional use light sesame oil is warmed and used for full-body self-massage, especially in cold, dry weather, to soften skin and ease tired muscles. It is also a common base for herbal massage oils.",
+  "uses": [
+   "Road-opening and opportunity oils",
+   "Anointing keys and door handles",
+   "Prosperity anointing blends",
+   "Warm self-massage oil for cold days",
+   "Lamp fuel for altar lamps",
+   "Lust and passion blends"
+  ],
+  "whereToFind": "Grocery stores, Asian markets and natural food stores. For skin and ritual use, choose untoasted (light) cold pressed sesame oil; toasted oil is too strongly scented.",
+  "caution": "Sesame allergy is common and can be serious; avoid if allergic and patch test otherwise. Do not use toasted sesame oil on skin.",
+  "herb": null,
+  "bestTime": "Best in autumn and winter for warming work, and on a Sunday or Thursday for prosperity.",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous",
+   "New Moon"
+  ],
+  "type": "oil",
+  "kind": "carrier",
+  "toxic": false,
+  "interactions": "",
+  "pets": "Plain carrier oil is low risk, but never apply blends containing essential oils to pets.",
+  "externalOnly": false,
+  "sources": [
+   "https://poison.org/articles/essential-oils",
+   "https://www.poison.org/articles/2014-jun/essential-oils"
+  ]
+ },
+ {
+  "id": "oil-carrier-evening-primrose",
+  "name": "Evening Primrose Oil",
+  "latin": "Oenothera biennis",
+  "folkNames": [
+   "King's Cure-All",
+   "Sundrop Oil",
+   "Night Willow Herb Oil",
+   "Fever Plant Oil"
+  ],
+  "planet": "Moon",
+  "element": "Water",
+  "gender": "Feminine",
+  "deities": [
+   "Selene",
+   "Diana"
+  ],
+  "partsUsed": "seed",
+  "extraction": "cold pressed from the seeds",
+  "aroma": "Faint, slightly nutty and earthy.",
+  "texture": "Light to medium; absorbs fairly quickly.",
+  "shelfLife": "6 months or less; fragile, refrigerate and consider adding vitamin E.",
+  "skinTypes": "Dry, sensitive, mature and irritated skin; often added to blends rather than used alone.",
+  "description": "Evening primrose is a wildflower whose pale yellow blossoms open at dusk and glow in the moonlight. Its tiny seeds yield a delicate golden oil prized in skin care. In modern magic it is an oil of the moon, of women's mysteries and of beauty unfolding in the dark.",
+  "metaphysical": [
+   "beauty",
+   "intuition",
+   "psychic",
+   "love",
+   "moon magic",
+   "healing",
+   "dreams"
+  ],
+  "medical": [
+   "dry skin",
+   "eczema",
+   "sensitive skin",
+   "skin",
+   "mature skin"
+  ],
+  "metaphysicalUses": "Because its flowers open at twilight, evening primrose is linked in modern practice with the moon, intuition and night magic. Use the oil in moon rituals, dream and psychic blends, and beauty glamours that are meant to unfold slowly. It is also chosen for workings honoring the cycles of the body and moon.",
+  "medicalUses": "In skin care evening primrose oil is used for dry, sensitive or irritated skin and as an addition to facial oils, usually at 10-20% of a blend. It is often used for dry, itchy patches and in gentle balms.",
+  "uses": [
+   "Moon ritual anointing oil",
+   "Dream and psychic blends",
+   "Beauty glamour facial oil",
+   "Esbat and cycle-honoring rituals",
+   "Additive for soothing balms"
+  ],
+  "whereToFind": "Health food stores and aromatherapy suppliers. Choose cold pressed evening primrose oil in dark glass; capsules can be pierced for small batches.",
+  "caution": "Patch test. Spoils quickly; refrigerate. This entry covers topical use only. Oral supplements can cause stomach upset, nausea and headache, should not be taken in pregnancy or to start labor without a doctor's guidance (complications have been reported), and may increase bleeding risk; ask a doctor before taking it by mouth if you have a bleeding disorder or surgery planned.",
+  "herb": null,
+  "bestTime": "Best at dusk in summer, when the flowers open, and on a Monday for lunar work.",
+  "moonPhases": [
+   "Full Moon",
+   "Waxing Gibbous",
+   "New Moon",
+   "Waxing Crescent"
+  ],
+  "type": "oil",
+  "kind": "carrier",
+  "toxic": false,
+  "interactions": "Oral evening primrose oil may increase bleeding risk with anticoagulants and antiplatelet drugs, may raise lopinavir levels and lower lithium levels. An older concern about seizures with phenothiazines is now disputed; ask a doctor before taking it by mouth.",
+  "pets": "Plain carrier oil is low risk, but never apply blends containing essential oils to pets.",
+  "externalOnly": false,
+  "sources": [
+   "https://www.nccih.nih.gov/health/evening-primrose-oil",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/evening-primrose-oil",
+   "https://www.drugs.com/npp/evening-primrose-oil.html"
+  ]
+ }
+]

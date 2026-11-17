@@ -1,0 +1,2700 @@
+[
+ {
+  "type": "spell",
+  "category": "candle",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "id": "spell-seven-day-money-magnet-jar-candle",
+  "name": "Seven-Day Money Magnet Jar Candle",
+  "description": "Tall glass-jar candles, often called seven-day or novena candles, are a staple of hoodoo candle work and Catholic folk devotion in the Americas, and candle shops still 'fix' them for customers by carving the top and adding oil and herbs. Their long, steady burn suits a slow, building money-drawing working. Here the candle is lit in daily sessions and snuffed between them, so each relighting renews the call for income.",
+  "ingredients": [
+   {
+    "item": "Green glass-jar 7-day candle (about 8 inches tall), unscented",
+    "amount": "1"
+   },
+   {
+    "item": "Money Drawing Oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Cinnamon, finely ground",
+    "amount": "a small pinch"
+   },
+   {
+    "item": "Basil, dried and finely crumbled",
+    "amount": "a small pinch"
+   },
+   {
+    "item": "Pyrite",
+    "amount": "1 small piece"
+   },
+   {
+    "item": "Bamboo skewer or long toothpick",
+    "amount": "1"
+   },
+   {
+    "item": "Small square of paper and a pen",
+    "amount": "1"
+   },
+   {
+    "item": "Salt water and a soft cloth, for cleansing",
+    "amount": "a little"
+   },
+   {
+    "item": "Heatproof ceramic tile or plate",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse the outside of the jar by wiping it with a cloth dampened in salt water, and dry it well.",
+   "With the skewer, carve a dollar sign, your initials and the amount you need into the top surface of the wax, working away from your hand and keeping the marks a little away from the wick.",
+   "Dress the candle with three drops of Money Drawing Oil placed on the wax near the glass rim, never on the wick, and blot any pooling with a tissue.",
+   "Sprinkle a very small pinch of the ground Cinnamon and Basil on the wax near the rim, well away from the wick, so it sits like a ring of dust rather than a heap.",
+   "Write your money petition on the paper and slide it under the heatproof tile, then set the jar on top with the Pyrite beside it.",
+   "Light the candle and say the chant while picturing money arriving through work, sales and fair dealings.",
+   "Let it burn for one to three hours while you are home and awake, then close by snuffing it with a snuffer or the jar lid and saying 'This work rests, and does not end.'",
+   "Relight it at the same time each day, repeating the chant, until about half an inch of wax remains."
+  ],
+  "howToUse": "Burn the candle in daily sessions; it is named for its roughly seven days of continuous burn, so in short sessions it may last several weeks, and that is fine. Watch for real-world openings and act on them. When you stop with half an inch of wax left, let the jar cool completely, scrape out the leftover wax and herbs, wrap them with the petition in a scrap of paper and bury them near your front door or put them in the trash on your way out of the house. Wash the jar and recycle it or use it as a coin jar, and keep the Pyrite in your wallet or cash box.",
+  "chant": "Green flame, steady flame,\ncall my money, speak my name.\nDay by day the glass grows bright,\nbring me plenty, fair and right.",
+  "intention": "I draw steady money to me through honest work and good opportunity, day by day.",
+  "timing": "Start on a Thursday or Sunday during the waxing moon; relight daily at the same hour.",
+  "bestTime": "Any season; a good start for a new month, quarter or financial year.",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous"
+  ],
+  "metaphysical": [
+   "money",
+   "prosperity",
+   "attraction",
+   "abundance",
+   "manifestation"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; snuff it (do not blow it out) and relight it at the next session. Use a sturdy holder on a heatproof plate or tray at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Glass-jar candles can crack when hot: set the jar on a heatproof surface, never in a window, and stop burning it when about half an inch of wax remains so it never burns dry. Use only a few drops of dressing oil, wipe off the excess, keep it off the wick and the top half inch of the candle, and wash your hands afterward; too much oil can make the flame flare. Formula oils and essential oils must be diluted (a few drops in a teaspoon of carrier oil) and never used on broken skin. Carve away from your hand with a toothpick, pin or blunt tool. Herbs on top of a jar candle can flare: use only a small pinch of finely ground herb near the glass, never near the wick, and watch it the whole time; if anything catches, cover the jar with its lid or a snuffer. Cinnamon can irritate skin, so wash your hands after handling it. Keep the Pyrite away from small children, who could choke on it. Ventilate the room, keep a snuffer or lid and a bowl of water nearby, and never throw water on hot wax or a wax fire. Let the wax cool completely before handling it, and never pour hot wax down a drain. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep the candle, oil, Cinnamon and Pyrite away from pets; cinnamon can irritate a pet's mouth and skin, and cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://www.petpoisonhelpline.com/uncategorized/nutmeg-cinnamon-toxicity/",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ],
+  "image": "art:candle"
+ },
+ {
+  "type": "spell",
+  "category": "candle",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "id": "spell-coin-circle-prosperity-taper",
+  "name": "Coin Circle Prosperity Taper",
+  "description": "Coins appear in money charms across many folk traditions, from silver dimes carried for luck in American folk magic to coins set out at the New Year to invite prosperity. In this candle working a green taper stands in the center of a ring of coins, so its light 'warms' the money around it. The coins are then kept and carried so they can go out and call more money back.",
+  "ingredients": [
+   {
+    "item": "Green taper candle (about 10 inches), unscented",
+    "amount": "1"
+   },
+   {
+    "item": "Coins of any kind, cleaned",
+    "amount": "8 (or 9, adding one silver-colored coin)"
+   },
+   {
+    "item": "Prosperity Oil",
+    "amount": "2-3 drops"
+   },
+   {
+    "item": "Allspice, finely ground",
+    "amount": "1/4 tsp"
+   },
+   {
+    "item": "Green Aventurine",
+    "amount": "1 small tumbled stone"
+   },
+   {
+    "item": "Sturdy taper holder",
+    "amount": "1"
+   },
+   {
+    "item": "Large heatproof plate or tray",
+    "amount": "1"
+   },
+   {
+    "item": "Salt water in a small bowl",
+    "amount": "1/2 cup"
+   }
+  ],
+  "steps": [
+   "Cleanse the coins by swishing them in the salt water, then rinse and dry them; wipe the taper with a dry cloth.",
+   "With a pin, carve a circle near the base of the taper and the word 'Return' running up the lower half, carving away from your hand.",
+   "Dress the taper by rubbing two or three drops of Prosperity Oil onto the lower half of the taper only, stroking from the bottom up to draw, then wipe off any excess and keep oil off the wick and the top part of the candle.",
+   "Set the taper firmly in its holder in the center of the heatproof plate and lay the coins heads up in a circle around it, at least two inches from the holder.",
+   "Sprinkle a fine line of Allspice in a ring just outside the coins and set the Green Aventurine at the top of the circle.",
+   "Light the taper and say the chant once for each coin, touching each one in turn, clockwise.",
+   "Let it burn for one hour while you sit with it, then close by snuffing it and saying 'Coin to coin, the circle holds.' Repeat for two more evenings or until the taper is finished."
+  ],
+  "howToUse": "Leave the coins in their circle between sessions. When the taper has burned down or you have finished three sessions, let everything cool, then put the coins in your wallet, purse or a money jar; spend one coin within a week as a 'messenger' and keep the rest. Peel the leftover wax off the holder once it is fully cool, wrap it in paper and keep it in the money jar or a drawer where you keep bills, or bin it with thanks. Carry the Green Aventurine for luck in money matters, and sweep up the Allspice and put it in the trash.",
+  "chant": "Round and round the silver goes,\nwhere the light falls, money grows.\nWhat I spend comes home to me,\ncoin by coin, so mote it be.",
+  "intention": "I warm my money with light so it circulates freely and returns to me multiplied.",
+  "timing": "Thursday (Jupiter) during the waxing moon; or the first day of a month.",
+  "bestTime": "Any season; New Year's Eve and the first of the month are traditional for money work.",
+  "moonPhases": [
+   "Waxing Crescent",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "money",
+   "prosperity",
+   "abundance",
+   "luck",
+   "attraction"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; snuff it (do not blow it out) and relight it at the next session. Use a sturdy holder on a heatproof plate or tray at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Tapers can drip and lean: make sure the holder grips the taper upright and keep the coins, stone and spice well clear of drips. Use only a few drops of dressing oil, wipe off the excess, keep it off the wick and the top half inch of the candle, and wash your hands afterward; too much oil can make the flame flare. Formula oils and essential oils must be diluted (a few drops in a teaspoon of carrier oil) and never used on broken skin. Carve away from your hand with a toothpick, pin or blunt tool. Allspice can irritate skin and eyes, so wash your hands after handling it and keep the ring well away from the flame. Coins and small stones are a choking hazard for young children, so pick them all up after each session if children are around. Ventilate the room, keep a snuffer or lid and a bowl of water nearby, and never throw water on hot wax or a wax fire. Let the wax cool completely before handling it, and never pour hot wax down a drain. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep the candle, oil, coins and spice out of reach of pets; swallowed coins (especially US pennies made after 1982, which contain zinc) can cause zinc poisoning in dogs, and cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://www.drugs.com/npp/allspice.html",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.petpoisonhelpline.com/poison/zinc/"
+  ],
+  "image": "art:candle"
+ },
+ {
+  "type": "spell",
+  "category": "candle",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "id": "spell-business-blessing-candle-trio",
+  "name": "Business Blessing Candle Trio",
+  "description": "Shopkeepers in many traditions bless their premises at opening time, and in modern candle magic three colors are often combined so each does one job. This trio uses a green pillar for income, a gold or yellow pillar for success and visibility, and a white pillar for blessing and protection, set in a triangle around a business card or a sign from your business. It suits a new venture, a slow season or a fresh start after a setback.",
+  "ingredients": [
+   {
+    "item": "Green pillar candle (about 3 x 4 inches), unscented",
+    "amount": "1"
+   },
+   {
+    "item": "Gold or yellow pillar candle (about 3 x 4 inches), unscented",
+    "amount": "1"
+   },
+   {
+    "item": "White pillar candle (about 3 x 4 inches), unscented",
+    "amount": "1"
+   },
+   {
+    "item": "Money Drawing Oil",
+    "amount": "2-3 drops"
+   },
+   {
+    "item": "Crown of Success Oil",
+    "amount": "2-3 drops"
+   },
+   {
+    "item": "Blessing Oil",
+    "amount": "2-3 drops"
+   },
+   {
+    "item": "Business card, receipt or logo printout",
+    "amount": "1"
+   },
+   {
+    "item": "Bay Laurel leaves, dried",
+    "amount": "3"
+   },
+   {
+    "item": "Citrine",
+    "amount": "1 small stone"
+   },
+   {
+    "item": "Large heatproof tray",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse the space by sweeping or wiping the counter, desk or table where the candles will stand, then wipe each pillar with a dry cloth.",
+   "With a toothpick, carve your business name into the green pillar, a star or crown into the gold pillar, and an equal-armed cross or circle into the white pillar, all on the lower half and away from your hand.",
+   "Dress each pillar with two or three drops of its own oil (Money Drawing Oil on green, Crown of Success Oil on gold, Blessing Oil on white) on the lower half only, wiping off the excess.",
+   "Set the three pillars in a triangle on the tray, each at least three inches from the others, with the business card face up in the center and the Citrine on top of it.",
+   "Lay one Bay Laurel leaf flat on the tray in front of each candle, at least two inches from its base.",
+   "Light the white candle first for blessing, then the green for money, then the gold for success, speaking the matching line of the chant as you light each.",
+   "Burn them together for 30 minutes to an hour while you work nearby, then snuff them in reverse order and say 'Blessed be this work and all who come here.' Repeat on each business day for a week."
+  ],
+  "howToUse": "Relight the trio at opening time or at the start of your work session, never when no one is there to watch it. After a week, or when the pillars are low, let the wax cool completely and keep a small piece of each color wrapped with the three bay leaves in a paper packet in your till, cash drawer or desk. Bin the rest of the wax with thanks. Keep the Citrine on the business card near the register or your workspace.",
+  "chant": "White for blessing, keep us whole,\ngreen for money, fill the bowl,\ngold for success that all can see:\nthis work is blessed, so mote it be.",
+  "intention": "I bless my business with protection, steady income and visible success.",
+  "timing": "Start on a Thursday or Sunday morning during the waxing moon, ideally at opening time.",
+  "bestTime": "Any season; at a grand opening, a new quarter or before a busy season.",
+  "moonPhases": [
+   "New Moon",
+   "Waxing Crescent",
+   "First Quarter"
+  ],
+  "metaphysical": [
+   "blessing",
+   "success",
+   "money",
+   "prosperity",
+   "protection"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; snuff it (do not blow it out) and relight it at the next session. Use a sturdy holder on a heatproof plate or tray at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Three flames give off more heat and soot than one, so space the pillars apart and never set the tray near shelving, signage, paper stock or a customer area where people could brush past. Check your lease or workplace rules first, since many businesses do not allow open flames; if so, do the spell at home with a business card. Use only a few drops of dressing oil, wipe off the excess, keep it off the wick and the top half inch of the candle, and wash your hands afterward; too much oil can make the flame flare. Formula oils and essential oils must be diluted (a few drops in a teaspoon of carrier oil) and never used on broken skin. Carve away from your hand with a toothpick, pin or blunt tool. Keep the bay leaves flat on the tray well away from the flames, as dry leaves catch fire easily. Ventilate the room, keep a snuffer or lid and a bowl of water nearby, and never throw water on hot wax or a wax fire. Let the wax cool completely before handling it, and never pour hot wax down a drain. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep shop cats and other pets away from the candles and oils; bay laurel is listed by the ASPCA as toxic to cats and dogs, and cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bay-laurel",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ],
+  "image": "art:candle"
+ },
+ {
+  "type": "spell",
+  "category": "candle",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "id": "spell-lucky-break-orange-candle",
+  "name": "Lucky Break Orange Candle",
+  "description": "In modern candle-color lore, orange stands for opportunity, sudden change and luck that moves quickly, and 'fast luck' formulas are sold in hoodoo-inspired candle shops for exactly that purpose. This working marks an orange taper into three sections so it can be burned over three days, each section opening a little more room for a lucky break. Use it when you need a chance, a callback or a door to open.",
+  "ingredients": [
+   {
+    "item": "Orange taper candle (about 8-10 inches), unscented",
+    "amount": "1"
+   },
+   {
+    "item": "Fast Luck Oil",
+    "amount": "2-3 drops"
+   },
+   {
+    "item": "Orange Peel, dried and finely ground",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Chamomile, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Carnelian or Sunstone",
+    "amount": "1 small stone"
+   },
+   {
+    "item": "Sturdy taper holder",
+    "amount": "1"
+   },
+   {
+    "item": "Heatproof plate",
+    "amount": "1"
+   },
+   {
+    "item": "Bowl of water with a pinch of salt, for cleansing",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse yourself by washing your hands in the salt water, then wipe the taper with a dry cloth.",
+   "With a pin, carve two rings around the taper to divide it into three equal sections, and carve a small arrow pointing up in each section, carving away from your hand.",
+   "Dress the lower section only with two or three drops of Fast Luck Oil, stroking upward, and wipe off any excess.",
+   "Roll the lower two inches of the oiled taper very lightly in the ground Orange Peel so it holds only a thin dusting, then tap off anything loose.",
+   "Fix the taper in its holder on the heatproof plate and scatter the Chamomile in a ring around the holder, with the stone in front.",
+   "Light the candle, say the chant three times and name the break you are hoping for.",
+   "Let it burn down to the first carved ring, then snuff it and close by saying 'One door opens.' On the second and third days, burn to the next ring, closing with 'Two doors open' and 'Every door opens.'"
+  ],
+  "howToUse": "On each of the three days, take one practical step toward your break: send the email, make the call, enter the contest. After the third session, when the wax is completely cool, collect the drips and the leftover stub, wrap them in a scrap of paper with a pinch of the Chamomile and carry it in your bag until your luck arrives, then bury it or bin it with thanks. Keep the stone in your pocket for important days.",
+  "chant": "Orange flame, quick and bright,\nturn my luck toward the light.\nOne, two, three, the doors swing wide,\na lucky break is on my side.",
+  "intention": "I open myself to a fast, fortunate break and I am ready to take it.",
+  "timing": "Start on a Wednesday or Thursday during the waxing moon.",
+  "bestTime": "Any season; especially before an audition, an application deadline or a big decision.",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous"
+  ],
+  "metaphysical": [
+   "luck",
+   "road opening",
+   "success",
+   "new beginnings",
+   "wishes"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; snuff it (do not blow it out) and relight it at the next session. Use a sturdy holder on a heatproof plate or tray at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Use only a few drops of dressing oil, wipe off the excess, keep it off the wick and the top half inch of the candle, and wash your hands afterward; too much oil can make the flame flare. Formula oils and essential oils must be diluted (a few drops in a teaspoon of carrier oil) and never used on broken skin. Carve away from your hand with a toothpick, pin or blunt tool. Rolling candles in herbs is a fire risk: use only a thin dusting of finely ground Orange Peel on the lower two inches, never near the top, and watch the flame the whole time. Keep the Chamomile ring on the plate well clear of the flame. Chamomile can cause allergic reactions in people sensitive to ragweed, daisies or marigolds, so handle it with care if you have those allergies. Ventilate the room, keep a snuffer or lid and a bowl of water nearby, and never throw water on hot wax or a wax fire. Let the wax cool completely before handling it, and never pour hot wax down a drain. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Chamomile and orange peel are listed by the ASPCA as toxic to cats and dogs; keep the candle, herbs and oil away from pets, and remember cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/chamomile",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/orange",
+   "https://www.nccih.nih.gov/health/chamomile"
+  ],
+  "image": "art:candle"
+ },
+ {
+  "type": "spell",
+  "category": "candle",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "id": "spell-three-light-job-interview-layout",
+  "name": "Three-Light Job Interview Layout",
+  "description": "Candle layouts, where several candles are arranged to stand for people and goals, are common in hoodoo and modern candle magic. In this one a small human figure candle stands for you, flanked by a yellow chime candle for clear speech and a green chime candle for the job offer. It is done the evening before an interview, alongside real preparation, to steady your nerves and set a clear intention.",
+  "ingredients": [
+   {
+    "item": "Human figure candle (about 4-6 inches), in white or a color you feel represents you",
+    "amount": "1"
+   },
+   {
+    "item": "Yellow chime candle (4 inches)",
+    "amount": "1"
+   },
+   {
+    "item": "Green chime candle (4 inches)",
+    "amount": "1"
+   },
+   {
+    "item": "Chime candle holders",
+    "amount": "2"
+   },
+   {
+    "item": "Road Opener Oil",
+    "amount": "3-4 drops"
+   },
+   {
+    "item": "Cinquefoil, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Tiger's Eye",
+    "amount": "1 small stone"
+   },
+   {
+    "item": "Copy of the job listing or the company name on paper",
+    "amount": "1"
+   },
+   {
+    "item": "Large heatproof tray",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse the candles by passing each one through the steam of a cup of hot water or wiping it with a cloth, and cleanse yourself by washing your hands and face.",
+   "With a toothpick, carve your name on the back of the figure candle, the word 'Clear' on the yellow chime and the job title or company name on the green chime, carving away from your hand.",
+   "Dress all three with a drop or two of Road Opener Oil, on the lower half of the chimes and on the legs and body of the figure only, keeping oil off the wicks and heads, and wipe off any excess.",
+   "Place the job listing on the tray with the figure candle standing on a small heatproof saucer on top of it, the yellow chime on its left and the green chime on its right, each about four inches apart.",
+   "Sprinkle the Cinquefoil in a ring around the outer edge of the tray, well away from the flames, and set the Tiger's Eye in front of the figure.",
+   "Light the yellow chime, then the green chime, then the figure candle, and say the chant. Rehearse your answers to likely questions out loud while the candles burn.",
+   "Let the two chimes burn all the way down while you stay in the room (about two hours). Burn the figure for 15 minutes only, then snuff it and say 'I walk in ready.'"
+  ],
+  "howToUse": "Carry the Tiger's Eye to the interview. After the interview, relight the figure candle for 15 minutes to give thanks, whatever the outcome, and repeat each evening until you hear back or the figure is spent. Once all the wax is completely cool, collect the chime candle stubs, a little of the figure's leftover wax and the Cinquefoil, wrap them in the job listing and keep the bundle in your bag or desk until you have an answer; then bury it if you got the job, or bin it with thanks and start a new layout for the next opportunity.",
+  "chant": "Yellow for words both clear and true,\ngreen for the work I'm meant to do,\nand here I stand between the two:\nI walk in ready, I walk through.",
+  "intention": "I speak clearly and confidently in my interview and draw the job that is right for me.",
+  "timing": "The evening before the interview; Wednesday (Mercury) is ideal for communication.",
+  "bestTime": "Any season; whenever an interview is booked.",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "employment",
+   "success",
+   "communication",
+   "confidence",
+   "road opening"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; snuff it (do not blow it out) and relight it at the next session. Use a sturdy holder on a heatproof plate or tray at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Figure candles burn unevenly and can drip a lot of wax, so stand the figure on its own heatproof saucer and never leave it lit for long periods. Chime candles burn quickly and get very hot near the end: keep the holders on the tray and stay with them until they are fully out. Use only a few drops of dressing oil, wipe off the excess, keep it off the wick and the top half inch of the candle, and wash your hands afterward; too much oil can make the flame flare. Formula oils and essential oils must be diluted (a few drops in a teaspoon of carrier oil) and never used on broken skin. Carve away from your hand with a toothpick, pin or blunt tool. Keep the Cinquefoil ring and the paper well clear of drips and flames. Ventilate the room, keep a snuffer or lid and a bowl of water nearby, and never throw water on hot wax or a wax fire. Let the wax cool completely before handling it, and never pour hot wax down a drain. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep pets out of the room while three flames are burning, and store the oil sealed; cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.poison.org/articles/essential-oils"
+  ],
+  "image": "art:candle"
+ },
+ {
+  "type": "spell",
+  "category": "candle",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "id": "spell-black-to-green-debt-turning-candle",
+  "name": "Black-to-Green Debt Turning Candle",
+  "description": "Double-action candles, made in two colors with one layered over the other, are sold in many candle shops for work that removes one thing and brings in another. This working uses a black-over-green candle: the black top burns away debt, worry and money blocks, and once the flame reaches the green, the work turns to drawing in money and stability. It is a companion to practical steps such as a budget or a payment plan, not a substitute for them.",
+  "ingredients": [
+   {
+    "item": "Double-action black-over-green pillar candle (about 2 x 6 inches); or a black chime candle and a green chime candle (4 inches each)",
+    "amount": "1 (or 1 of each)"
+   },
+   {
+    "item": "Uncrossing Oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Money Drawing Oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Salt",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Patchouli, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "A recent bill or a slip of paper listing your debts",
+    "amount": "1"
+   },
+   {
+    "item": "Smoky Quartz",
+    "amount": "1 small stone"
+   },
+   {
+    "item": "Heatproof plate and a separate heatproof saucer",
+    "amount": "1 of each"
+   }
+  ],
+  "steps": [
+   "Cleanse the candle by wiping it with a cloth and passing it over the salt; cleanse yourself by washing your hands in salt water.",
+   "With a toothpick, carve a minus sign and the word 'Debt' into the black part, and a plus sign and the word 'Paid' into the green part, carving away from your hand.",
+   "Dress the black part with two drops of Uncrossing Oil, stroking from the middle out toward the top to push debt away, and the green part with two drops of Money Drawing Oil, stroking from the bottom toward the middle to draw. Keep oil off the wick and the top half inch, and wipe off the excess.",
+   "Set the candle on the heatproof plate, sprinkle the salt in a ring around it, and sprinkle the Patchouli in a second ring just outside the salt. Place the Smoky Quartz on the bill beside the plate.",
+   "Light the candle and say the first two lines of the chant. Sit with it for an hour, writing down one practical step you can take toward the debt, then snuff it.",
+   "Relight it daily until the black is gone. When the flame reaches the green, tear the bill or list in half, put it on the saucer under the Smoky Quartz, and switch to the last two lines of the chant.",
+   "Keep relighting until the candle is finished or about an inch remains, and close each session by snuffing it and saying 'What I owe grows less; what I hold grows more.'"
+  ],
+  "howToUse": "If you use two chime candles instead, burn the black one fully first, then light the green one from a match on the next day. Make at least one payment, call or budget change during the working. When the candle is done and cool, gather the black drips and bin them off your property to take the debt away. Keep a little of the green wax wrapped with the Patchouli in your wallet or bill folder. Shred and recycle the torn bill, and put the salt in the trash.",
+  "chant": "Black burns down and debt grows small,\nwhat I owe I loose from all.\nGreen burns up and plenty grows,\nsteady as the river flows.",
+  "intention": "I release the weight of debt and turn my finances toward stability and plenty.",
+  "timing": "Begin the black during the waning moon and aim to reach the green near the new moon; Saturday to start.",
+  "bestTime": "Any season; after the holidays or at tax time are traditional moments to take stock.",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent",
+   "New Moon"
+  ],
+  "metaphysical": [
+   "money",
+   "release",
+   "banishing",
+   "new beginnings",
+   "prosperity",
+   "uncrossing"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; snuff it (do not blow it out) and relight it at the next session. Use a sturdy holder on a heatproof plate or tray at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Use only a few drops of dressing oil, wipe off the excess, keep it off the wick and the top half inch of the candle, and wash your hands afterward; too much oil can make the flame flare. Formula oils and essential oils must be diluted (a few drops in a teaspoon of carrier oil) and never used on broken skin. Carve away from your hand with a toothpick, pin or blunt tool. Black candle dyes can produce more visible soot, so trim the wick to about a quarter inch before each lighting and keep the room ventilated. Keep the paper well away from the flame and do not burn it. Salt kills plants and can mark some surfaces, so keep it on the plate. If debt is causing serious stress, a nonprofit credit counselor can help alongside this spell. Ventilate the room, keep a snuffer or lid and a bowl of water nearby, and never throw water on hot wax or a wax fire. Let the wax cool completely before handling it, and never pour hot wax down a drain. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep pets away from the candle and the salt ring; salt licked up by pets can cause salt poisoning, and cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://www.petpoisonhelpline.com/poison/salt/",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ],
+  "image": "art:candle"
+ },
+ {
+  "type": "spell",
+  "category": "candle",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "id": "spell-plenty-pillar-on-a-bay-leaf-petition",
+  "name": "Plenty Pillar on a Bay Leaf Petition",
+  "description": "Bay laurel was sacred to Apollo in ancient Greece, and writing wishes on bay leaves is a popular modern folk practice. In this working, three bay leaves carry a written petition for abundance and are laid under the heatproof plate that holds a green pillar candle, so the candle 'stands on' your request without the leaves ever touching the flame. The pillar is burned once a week until it is finished, letting abundance build slowly.",
+  "ingredients": [
+   {
+    "item": "Green pillar candle (about 3 x 6 inches), unscented",
+    "amount": "1"
+   },
+   {
+    "item": "Bay Laurel leaves, dried and whole",
+    "amount": "3"
+   },
+   {
+    "item": "Fine-tip marker",
+    "amount": "1"
+   },
+   {
+    "item": "Prosperity Oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Cinnamon, finely ground",
+    "amount": "1/4 tsp"
+   },
+   {
+    "item": "Clove, whole",
+    "amount": "3"
+   },
+   {
+    "item": "Citrine or Green Aventurine",
+    "amount": "1 small stone"
+   },
+   {
+    "item": "Heatproof plate larger than the candle base",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse the candle and leaves by wiping the candle with a dry cloth and passing it and the leaves through the light of a sunny window, saying 'Clean and clear.'",
+   "With the marker, write one word of your petition on each bay leaf, such as 'Plenty', 'Ease' and 'Enough', and lay them in a triangle on the table.",
+   "Set the heatproof plate on top of the leaves so they are completely covered and protected.",
+   "With a toothpick, carve a spiral that winds upward around the lower half of the pillar, carving away from your hand.",
+   "Dress the lower half with three drops of Prosperity Oil, wipe off the excess, and dust the lowest inch very lightly with ground Cinnamon, tapping off anything loose.",
+   "Stand the pillar in the center of the plate, set the three Cloves on the plate in front of it and the stone behind it.",
+   "Light the candle and say the chant. Burn it for one hour, then snuff it, saying 'Plenty grows while the light rests.' Relight it once a week on the same day until the pillar is finished."
+  ],
+  "howToUse": "Burn the pillar weekly, never longer than you can watch it. Pillars tend to tunnel, so after each session, once the wax is soft but not hot, gently press the outer rim inward. When it is finished or too low to burn safely, let it cool, then wrap the leftover wax with the three bay leaves and Cloves in paper and keep the packet in your kitchen or wherever you keep your money until the next new moon, then bury it under a plant or bin it with thanks. Keep the stone near your bills.",
+  "chant": "Three green leaves beneath the light,\nplenty rising day and night.\nEnough for me and some to share,\nabundance gathers everywhere.",
+  "intention": "I invite steady, growing abundance into my life, with enough for me and enough to share.",
+  "timing": "Thursday during the waxing moon; relight every Thursday.",
+  "bestTime": "Any season; especially late summer and autumn harvest time.",
+  "moonPhases": [
+   "New Moon",
+   "Waxing Crescent",
+   "Waxing Gibbous"
+  ],
+  "metaphysical": [
+   "abundance",
+   "prosperity",
+   "manifestation",
+   "wishes",
+   "money"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; snuff it (do not blow it out) and relight it at the next session. Use a sturdy holder on a heatproof plate or tray at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Never put the bay leaves directly under or beside the candle: they stay beneath the plate where no flame or hot wax can reach them. Use only a few drops of dressing oil, wipe off the excess, keep it off the wick and the top half inch of the candle, and wash your hands afterward; too much oil can make the flame flare. Formula oils and essential oils must be diluted (a few drops in a teaspoon of carrier oil) and never used on broken skin. Carve away from your hand with a toothpick, pin or blunt tool. Use only a thin dusting of Cinnamon on the lowest inch; rolling a candle heavily in herbs is a fire risk. Cinnamon and clove can irritate skin, so wash your hands after handling them. Ventilate the room, keep a snuffer or lid and a bowl of water nearby, and never throw water on hot wax or a wax fire. Let the wax cool completely before handling it, and never pour hot wax down a drain. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Bay laurel is listed by the ASPCA as toxic to cats and dogs, and cinnamon and clove can irritate pets; keep the candle, leaves, spices and oil out of reach, and remember cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bay-laurel",
+   "https://www.petpoisonhelpline.com/uncategorized/nutmeg-cinnamon-toxicity/",
+   "https://tisserandinstitute.org/learn-more/eugenol/"
+  ],
+  "image": "art:candle"
+ },
+ {
+  "type": "spell",
+  "category": "candle",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "id": "spell-sunday-gold-sun-candle-for-success",
+  "name": "Sunday Gold Sun Candle for Success",
+  "description": "In the traditional system of planetary days, Sunday belongs to the Sun, which rules success, recognition, vitality and leadership, and gold and yellow are its colors. This working dresses a gold pillar with a carved sun sign and sets it in a ring of sunflower seeds and marigold petals, lit in the morning to borrow the energy of the rising day. Use it for a goal you want to see shine: a launch, an award, a performance review or a personal achievement.",
+  "ingredients": [
+   {
+    "item": "Gold or yellow pillar candle (about 3 x 4 inches), unscented",
+    "amount": "1"
+   },
+   {
+    "item": "Crown of Success Oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Sunflower seeds, unsalted, in the shell",
+    "amount": "a small handful"
+   },
+   {
+    "item": "Calendula petals, dried",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Citrine or Sunstone",
+    "amount": "1 small stone"
+   },
+   {
+    "item": "Small dish of water",
+    "amount": "1"
+   },
+   {
+    "item": "Heatproof plate",
+    "amount": "1"
+   },
+   {
+    "item": "Paper and pen",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse yourself at sunrise on Sunday by washing your face and hands with cool water and opening a window to let fresh air and daylight into the room.",
+   "Write your goal on the paper as if it has already happened, and set it under the heatproof plate.",
+   "With a toothpick, carve the sun sign (a circle with a dot in the center) on the front of the pillar and your initials beneath it, carving away from your hand.",
+   "Dress the lower half of the pillar with three drops of Crown of Success Oil, stroking upward toward the sun sign, and wipe off any excess.",
+   "Stand the pillar on the plate and lay the Sunflower seeds and Calendula petals in a ring around it, at least two inches from the base, with the stone at the top like a rising sun.",
+   "Light the candle, face the east or the brightest window, and say the chant three times.",
+   "Let it burn for 30 to 60 minutes while you plan the next real step toward your goal, then close by snuffing it and saying 'The sun goes on.' Relight it each Sunday until the goal is reached or the candle is spent."
+  ],
+  "howToUse": "Relight the candle every Sunday morning, taking one visible action toward your goal each week. When it is finished, let the wax cool completely, then break off a small piece of the gold wax and keep it with the stone on your desk or in your work bag as a reminder of your success. Bin the rest of the wax with thanks, and scatter the Sunflower seeds and Calendula outdoors for the birds and the soil.",
+  "chant": "Sun of Sunday, gold and high,\nlift my name into the sky.\nWhat I aim for, let it shine;\nthe crown of my success is mine.",
+  "intention": "I shine in my work and my efforts are seen, rewarded and successful.",
+  "timing": "Sunday at sunrise or in the first hour after; waxing to full moon.",
+  "bestTime": "Summer, especially near Midsummer, or any time you need recognition.",
+  "moonPhases": [
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "success",
+   "sun magic",
+   "confidence",
+   "victory",
+   "power"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; snuff it (do not blow it out) and relight it at the next session. Use a sturdy holder on a heatproof plate or tray at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Keep the candle out of direct sun on a windowsill, which can soften or warp the pillar, and never set a lit candle in a window near curtains. Use only a few drops of dressing oil, wipe off the excess, keep it off the wick and the top half inch of the candle, and wash your hands afterward; too much oil can make the flame flare. Formula oils and essential oils must be diluted (a few drops in a teaspoon of carrier oil) and never used on broken skin. Carve away from your hand with a toothpick, pin or blunt tool. Keep the seed and petal ring well clear of the flame and wax drips. Calendula is in the daisy family and may cause allergic reactions in people sensitive to ragweed, daisies or chrysanthemums. Ventilate the room, keep a snuffer or lid and a bowl of water nearby, and never throw water on hot wax or a wax fire. Let the wax cool completely before handling it, and never pour hot wax down a drain. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep pets away from the candle and oil; cats are especially sensitive to essential oils, and seed shells can upset a pet's stomach if eaten.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/calendula"
+  ],
+  "image": "art:candle"
+ },
+ {
+  "type": "spell",
+  "category": "candle",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "id": "spell-steady-work-brown-tealights",
+  "name": "Steady Work Brown Tealights",
+  "description": "Brown is linked in candle-color lore with the earth, stability and practical matters, and 'steady work' formulas are sold in hoodoo-inspired shops for keeping a job and staying in good standing. This working uses a small brown tealight each workday morning for one working week, so the spell becomes a quiet daily habit rather than one big ritual. Each tealight burns for a short, watched session before you leave for work or log on.",
+  "ingredients": [
+   {
+    "item": "Brown tealight candles in metal or clear cups, unscented",
+    "amount": "5"
+   },
+   {
+    "item": "Steady Work Oil",
+    "amount": "5 drops (1 per tealight)"
+   },
+   {
+    "item": "Oak leaf, dried, or a small piece of oak bark",
+    "amount": "1"
+   },
+   {
+    "item": "Thyme, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Tiger's Eye or Petrified Wood",
+    "amount": "1 small stone"
+   },
+   {
+    "item": "Work badge, business card or a slip of paper with your job title",
+    "amount": "1"
+   },
+   {
+    "item": "Heatproof saucer or tile",
+    "amount": "1"
+   },
+   {
+    "item": "Salt water and a cloth, for cleansing",
+    "amount": "a little"
+   }
+  ],
+  "steps": [
+   "On Sunday evening, cleanse the five tealights by wiping their cups with a cloth dampened in salt water, and set them in a row on a shelf.",
+   "Pop each tealight out of its cup and, with a toothpick, carve a small square (for a solid foundation) into the underside of the wax, carving away from your hand.",
+   "Dress each tealight with a single drop of Steady Work Oil on the underside only, wipe off the excess and press it back into its cup, so the oil stays well away from the wick.",
+   "Each workday morning, set one tealight on the heatproof saucer on top of your badge or job slip, with the Oak leaf and stone beside the saucer and a pinch of Thyme in a ring on the saucer around the cup.",
+   "Light it, say the chant, and spend a few minutes planning one thing you will do well that day.",
+   "Let it burn while you get ready (at least 15 minutes, never while you are out of the room), then snuff it and say 'Steady as the oak, I stay.'",
+   "Relight the same tealight in the evening if you like, and use a fresh one each morning until all five are spent."
+  ],
+  "howToUse": "Repeat the five-tealight week whenever your job feels uncertain, such as during layoffs, reviews or a new manager's arrival. Once each tealight has cooled completely, pop the leftover wax disc out of its cup; keep the five discs together with the Oak leaf in a small paper bag in your work bag or desk drawer, and bin them with thanks at the end of the month. Recycle the metal cups. Keep the stone at your workstation.",
+  "chant": "Brown as earth and firm as stone,\nthis work I do, this place I own.\nSteady hand and steady pay,\nhere I'm valued, here I stay.",
+  "intention": "I keep my job, do it well and am valued for the steady work I bring.",
+  "timing": "Monday through Friday mornings, starting on a Monday; any moon phase, with waxing best.",
+  "bestTime": "Any season; especially before reviews, contract renewals or times of workplace change.",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "employment",
+   "grounding",
+   "strength",
+   "success",
+   "protection"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; snuff it (do not blow it out) and relight it at the next session. Use a sturdy holder on a heatproof plate or tray at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Tealight cups get very hot: never move a lit or freshly snuffed tealight, and always set it on a heatproof saucer rather than directly on furniture. Never leave it burning while you shower, dress in another room or leave the house. Use only a few drops of dressing oil, wipe off the excess, keep it off the wick and the top half inch of the candle, and wash your hands afterward; too much oil can make the flame flare. Formula oils and essential oils must be diluted (a few drops in a teaspoon of carrier oil) and never used on broken skin. Carve away from your hand with a toothpick, pin or blunt tool. Keep the Thyme ring on the saucer only and the Oak leaf and paper away from the flame. Ventilate the room, keep a snuffer or lid and a bowl of water nearby, and never throw water on hot wax or a wax fire. Let the wax cool completely before handling it, and never pour hot wax down a drain. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep pets away from the tealight and oil; cats are especially sensitive to essential oils, and a curious pet can knock over a small, hot tealight.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.poison.org/articles/essential-oils"
+  ],
+  "image": "art:candle"
+ },
+ {
+  "type": "spell",
+  "category": "candle",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "id": "spell-chime-candle-wish-in-one-sitting",
+  "name": "Chime Candle Wish in One Sitting",
+  "description": "Chime candles are small four-inch candles, originally made for spinning chime ornaments, that burn in about two hours and have become a favorite in modern candle magic for quick wishes. Because a chime is meant to burn all the way down in one sitting, this spell asks you to stay with it the entire time, which turns the wait into a focused meditation on your goal. Pick the color that fits your success wish.",
+  "ingredients": [
+   {
+    "item": "Chime candle (4 inches): green for money, orange for opportunity, yellow or gold for success",
+    "amount": "1"
+   },
+   {
+    "item": "Chime candle holder",
+    "amount": "1"
+   },
+   {
+    "item": "Success Oil or Attraction Oil",
+    "amount": "1-2 drops"
+   },
+   {
+    "item": "Star Anise",
+    "amount": "1 whole pod"
+   },
+   {
+    "item": "Clear Quartz",
+    "amount": "1 small point or tumbled stone"
+   },
+   {
+    "item": "Strip of paper and a pen",
+    "amount": "1"
+   },
+   {
+    "item": "Heatproof plate",
+    "amount": "1"
+   },
+   {
+    "item": "Timer or clock",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse the chime by holding it under your breath and blowing gently along its length three times (not at a flame), saying 'Only my wish lives here.'",
+   "Write your wish in one short sentence on the strip of paper and slide it under the heatproof plate.",
+   "With a pin, carve one key word from your wish down the side of the chime, carving away from your hand.",
+   "Dress the chime with one or two drops of oil on the lower half only, wipe off the excess, and set it in its holder on the plate.",
+   "Place the Star Anise and Clear Quartz on the plate, at least two inches from the holder.",
+   "Light the chime, say the chant, and set a timer for every 20 minutes to check the flame and restate your wish.",
+   "Stay in the room until the flame goes out on its own (about two hours), then close by saying 'My wish is sent; I go to meet it.'"
+  ],
+  "howToUse": "If you must leave before it finishes, snuff it and relight it as soon as you can, finishing the spell in a later sitting. Once the holder and wax are completely cool, peel off the leftover drips and wrap them with the paper wish and the Star Anise; keep the little bundle on your altar or in a drawer until the wish comes true, then bury it in the earth with thanks. If nothing has moved in a month, bin it and cast a fresh wish. Keep the Clear Quartz to charge the next one.",
+  "chant": "Little flame, burn straight and true,\ncarry my wish the whole night through.\nWhen the last of you is gone,\nmy wish is sent and carries on.",
+  "intention": "I send one clear wish for success into the world and I am ready to receive it.",
+  "timing": "Any evening during the waxing moon; Thursday for money, Sunday for success, Wednesday for opportunity.",
+  "bestTime": "Any season; a good choice for New Year's Eve or a birthday.",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "wishes",
+   "manifestation",
+   "success",
+   "luck",
+   "focus"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; snuff it (do not blow it out) and relight it at the next session. Use a sturdy holder on a heatproof plate or tray at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Chime candles are thin and burn hot near the end; use a holder made for chimes, set on a heatproof plate, and stay with the candle until it is completely out. Use only a few drops of dressing oil, wipe off the excess, keep it off the wick and the top half inch of the candle, and wash your hands afterward; too much oil can make the flame flare. Formula oils and essential oils must be diluted (a few drops in a teaspoon of carrier oil) and never used on broken skin. Carve away from your hand with a toothpick, pin or blunt tool. Keep the Star Anise and stone well away from the flame. Do not eat the Star Anise afterward, since it has been near oils and wax. Ventilate the room, keep a snuffer or lid and a bowl of water nearby, and never throw water on hot wax or a wax fire. Let the wax cool completely before handling it, and never pour hot wax down a drain. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep pets out of the room while the chime burns and store the oil sealed; cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.poison.org/articles/essential-oils"
+  ],
+  "image": "art:candle"
+ },
+ {
+  "type": "spell",
+  "category": "candle",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "id": "spell-lodestone-customer-drawing-candle",
+  "name": "Lodestone Customer-Drawing Candle",
+  "description": "Lodestones, naturally magnetic pieces of magnetite, have been carried as charms to draw luck, money and people for centuries, and in hoodoo they are traditionally 'fed' with magnetic sand (fine iron filings) to keep them strong. This working pairs a lodestone with a yellow pillar candle for attraction and visibility, so the candle's light draws customers and clients while the lodestone 'holds' them. It is best for shops, freelancers, online sellers and anyone who needs more people walking through the door.",
+  "ingredients": [
+   {
+    "item": "Yellow pillar candle (about 2 x 6 inches), unscented",
+    "amount": "1"
+   },
+   {
+    "item": "Lodestone",
+    "amount": "1 (or a matched pair)"
+   },
+   {
+    "item": "Magnetic sand (fine iron filings)",
+    "amount": "a small pinch"
+   },
+   {
+    "item": "Lodestone Oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Basil, dried and finely crumbled",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Sugar",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Business card, shop sign, or a screenshot of your online store printed on paper",
+    "amount": "1"
+   },
+   {
+    "item": "Small dish for the lodestone",
+    "amount": "1"
+   },
+   {
+    "item": "Heatproof plate",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse the lodestone by rinsing it briefly in cool water and drying it completely, and wipe the candle with a dry cloth.",
+   "With a toothpick, carve a horseshoe-magnet shape (a U) on the front of the pillar with arrows pointing into it, and your business name beneath, carving away from your hand.",
+   "Dress the lower half of the pillar with three drops of Lodestone Oil, stroking from the bottom toward you to draw, and wipe off the excess.",
+   "Set the pillar on the heatproof plate on top of your business card or printout, and mix the Basil and Sugar in a ring around the base, at least two inches out.",
+   "Put the lodestone on its own small dish beside the plate, rub a drop of the oil onto it, and 'feed' it a pinch of magnetic sand while saying 'Draw them in.'",
+   "Light the candle and say the chant, picturing a steady stream of happy customers arriving.",
+   "Burn it for 30 to 60 minutes during your business hours, then snuff it and say 'Doors stay open.' Relight it each business day, feeding the lodestone a pinch of sand once a week."
+  ],
+  "howToUse": "Keep the fed lodestone near your register, front door, or the device you use to take orders. When the candle is finished, let the wax cool completely, then crumble a little of it with the Basil and Sugar mixture into a paper packet and tuck it under your doormat or behind the shop sign; bin the rest with thanks. Keep feeding the lodestone weekly on Friday and give it a drop of oil at each new moon.",
+  "chant": "Stone that pulls and flame that calls,\nbring the people through my walls.\nOne by one and two by two,\ncustomers come, and come back too.",
+  "intention": "I draw a steady stream of good customers who are glad to buy from me and return.",
+  "timing": "Friday or Thursday during the waxing moon; relight at opening time.",
+  "bestTime": "Any season; especially before a launch, a sale or the holiday shopping season.",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous"
+  ],
+  "metaphysical": [
+   "attraction",
+   "money",
+   "success",
+   "prosperity",
+   "luck"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; snuff it (do not blow it out) and relight it at the next session. Use a sturdy holder on a heatproof plate or tray at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Check your lease or workplace rules before burning a candle at a business. Use only a few drops of dressing oil, wipe off the excess, keep it off the wick and the top half inch of the candle, and wash your hands afterward; too much oil can make the flame flare. Formula oils and essential oils must be diluted (a few drops in a teaspoon of carrier oil) and never used on broken skin. Carve away from your hand with a toothpick, pin or blunt tool. Keep magnetic sand away from eyes, phones, cards and electronics, wash your hands after handling it, and keep it sealed. Lodestones and iron filings are a choking and swallowing hazard for children. Keep the sugar and basil ring well clear of the flame, as sugar burns hot if it catches. Ventilate the room, keep a snuffer or lid and a bowl of water nearby, and never throw water on hot wax or a wax fire. Let the wax cool completely before handling it, and never pour hot wax down a drain. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep pets away from the candle, oil, magnetic sand and sugar ring; cats are especially sensitive to essential oils.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.poison.org/articles/essential-oils"
+  ],
+  "image": "art:candle"
+ },
+ {
+  "name": "Bathside Pink Chime Candle Self-Love Ritual",
+  "description": "Candlelit baths are a much-loved modern witchcraft practice for self-care, and pink is widely used in contemporary candle magic for gentle, tender love, including love for yourself. In this ritual a small pink chime candle is carved with words you need to hear, dressed with self-love oil, and set beside the tub (never in it) while you soak in a simple salt and rose bath. The candle keeps watch while you practice speaking kindly to yourself.",
+  "ingredients": [
+   {
+    "item": "Pink chime candle (4 inch, about 2 hours burn time)",
+    "amount": "1"
+   },
+   {
+    "item": "Metal chime candle holder",
+    "amount": "1"
+   },
+   {
+    "item": "Heatproof plate or tile",
+    "amount": "1"
+   },
+   {
+    "item": "Love Me Now Self-Love Oil (or 2 drops Rose Geranium Essential Oil in 1 tsp Sweet Almond Oil)",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Rose, dried petals, finely crumbled",
+    "amount": "a pinch for the plate, a handful for the bath bag"
+   },
+   {
+    "item": "Epsom salt or sea salt",
+    "amount": "1 cup"
+   },
+   {
+    "item": "Muslin or cotton tea bag (drawstring)",
+    "amount": "1"
+   },
+   {
+    "item": "Rose Quartz (tumbled)",
+    "amount": "1"
+   },
+   {
+    "item": "Toothpick",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse the candle by passing it through the steam of your running bath or wiping it with a cloth dampened in salt water, saying, 'Only love remains.' Let it dry.",
+   "With the toothpick, carving away from your hand, write three short words you want to feel down the side of the candle, such as 'worthy', 'soft' and 'whole'.",
+   "Dress the candle with three drops of oil, stroking from the middle down to the base only, keeping oil off the wick and the top half inch, then wipe off any excess and wash your hands.",
+   "Put the candle in its holder on the heatproof plate and set it on a flat, stable surface beside the bath, such as a closed counter or a stool, at least 12 inches from towels and curtains and out of reach of splashing water. Never set it on the tub rim or in the water. Scatter a pinch of crumbled Rose in a ring on the plate, 3 inches from the flame.",
+   "Fill the muslin bag with the salt and a handful of Rose petals, tie it shut and drop it into the warm (not hot) bath so no loose petals clog the drain.",
+   "Light the candle, step into the bath holding the Rose Quartz over your heart, and speak the chant three times, then read each carved word aloud as 'I am...'.",
+   "Soak for 15 to 20 minutes, looking at the flame and naming one thing you appreciate about yourself for each breath you count.",
+   "Close by thanking yourself aloud. Step out carefully, dry off, and snuff the candle before leaving the room."
+  ],
+  "howToUse": "Repeat the bath once a week, relighting the same chime candle each time until it is used up, or let a fresh candle burn to the end on a later evening while you sit with it. Keep the Rose Quartz by your mirror. Once the leftover wax is completely cool, wrap it in a tissue with the crumbled Rose and keep it in your dresser drawer as a reminder of the promise you made to yourself, or bury it under a flowering plant. Empty the bath bag into the compost.",
+  "chant": "Pink as dawn and soft as rose,\nkindness to myself now flows.\nEvery part of me is whole,\nloved in body, loved in soul.",
+  "intention": "I treat myself with the same tenderness I give the people I love.",
+  "timing": "Friday (Venus) evening, waxing moon; the hour of Venus if you follow planetary hours.",
+  "bestTime": "Any season; especially comforting in late winter or after a hard week.",
+  "moonPhases": [
+   "Waxing Crescent",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "self-love",
+   "beauty",
+   "emotional healing",
+   "calm",
+   "love"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; snuff it (do not blow it out) whenever you step away and relight it at the next session. Use a sturdy holder on a heatproof plate or tray at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Keep the candle on a stable surface beside the bath, well away from towels and splashing water; never on the tub rim, never in the water, and never doze off in the bath while it burns. Bathroom floors are slippery, so step out carefully. Carve away from your hand with a toothpick, pin or blunt tool. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, since too much oil can make the flame flare; wash your hands after dressing, and never use essential oils undiluted or on broken skin. Do not add essential oils straight to bath water, since they do not mix with water and can irritate skin; keep them in the candle oil only. Keep the bath warm rather than hot, and skip it if you are pregnant, have heart or blood pressure problems, or feel faint in hot water. Keep the herb ring on the plate at least 3 inches from the flame and watch it the whole time, since dried plant material catches fire easily. Ventilate the room against smoke and soot, keep a lid or snuffer and water nearby, and smother a wax fire with a lid; never throw water on hot wax or a wax fire. Let wax cool completely before handling it, and never pour hot wax down a drain. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep flames, dressing oils and herbs away from pets; cats are especially sensitive to essential oils, and even diffused or spilled oil can harm them. Keep pets out of the bathroom while the candle is lit.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ],
+  "type": "spell",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "category": "candle",
+  "id": "spell-bathside-pink-chime-candle-self-love-ritual",
+  "image": "art:candle"
+ },
+ {
+  "name": "Two Figure Candle Harmony Spell",
+  "description": "Figure candles shaped like people are widely used in hoodoo and modern candle magic to stand for the people in a working, and couple candles are a common choice for relationship work. This spell is for an existing couple who both agree to do it together: each partner dresses a figure candle that represents themselves, and the two are set facing each other to burn in short sessions while you talk. It asks for harmony, patience and kind communication between two willing people, never for control of either one.",
+  "ingredients": [
+   {
+    "item": "Figure candles in pink or white (about 6 inches), one representing each partner, chosen by each person",
+    "amount": "2"
+   },
+   {
+    "item": "Large heatproof tray",
+    "amount": "1"
+   },
+   {
+    "item": "Peaceful Home Oil (or 3 drops Lavender Essential Oil in 1 tsp Jojoba Oil)",
+    "amount": "a few drops"
+   },
+   {
+    "item": "Lavender, dried buds",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Rose, dried petals",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Rose Quartz (tumbled)",
+    "amount": "1"
+   },
+   {
+    "item": "Rhodonite (tumbled)",
+    "amount": "1"
+   },
+   {
+    "item": "Salt water in a small bowl and a soft cloth",
+    "amount": "1 cup"
+   },
+   {
+    "item": "Toothpick or pin",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Sit together and agree, out loud, that you both want this harmony working and what you each hope it brings, such as calmer arguments or more patience. If either of you is unsure, do not do the spell.",
+   "Cleanse each figure candle by wiping it with the cloth dampened in salt water, then pat it dry.",
+   "Each partner takes their own candle and, carving away from the hand with the toothpick, writes their own first name on the back and one quality they promise to bring, such as 'listening', on the front.",
+   "Each partner dresses their own candle with two or three drops of oil, stroking from the shoulders down to the feet only, keeping oil off the head, wick and top half inch. Wipe off the excess and wash your hands.",
+   "Stand the candles on the tray facing each other about 4 inches apart, with the Rose Quartz and Rhodonite between their feet, and scatter a ring of Lavender and Rose on the tray at least 3 inches from either flame.",
+   "Light each other's candle. Holding hands, speak the chant together, then each say one thing you appreciate about the other.",
+   "Let the candles burn for 20 to 30 minutes while you talk about something you would like to do together, then snuff them together."
+  ],
+  "howToUse": "Relight the candles together for 20 to 30 minutes on six more evenings, moving them a little closer each night until they touch, and snuff them together each time. Figure candles often burn unevenly, so keep watching and trim any runaway wick. When they are finished, let the wax cool fully, gather the leftover wax, the two stones and a few petals into a small cloth bag, and keep it in your bedroom or a shared drawer; if you would rather not keep it, bury it together under a healthy tree or bush on your own property.",
+  "chant": "Two lights facing, side by side,\nwhere kindness walks and truths abide.\nIn patient word and gentle deed,\nwe give each other what we need.",
+  "intention": "We choose patience and kindness with each other, freely and together.",
+  "timing": "Friday (Venus) or Monday (Moon) evening, waxing moon.",
+  "bestTime": "Any season; good after a stressful period or before a big shared change.",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous"
+  ],
+  "metaphysical": [
+   "love",
+   "peace",
+   "communication",
+   "reconciliation",
+   "balance"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; snuff it (do not blow it out) whenever you step away and relight it at the next session. Use a sturdy holder on a heatproof plate or tray at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Figure candles burn unevenly and can drip or flare where limbs are thin, so use a large tray with a rim, keep the candles at least 4 inches apart until the final night, and never leave them for a moment. Carve away from your hand with a toothpick, pin or blunt tool. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, since too much oil can make the flame flare; wash your hands after dressing, and never use essential oils undiluted or on broken skin. Keep the herb ring on the plate at least 3 inches from the flame and watch it the whole time, since dried plant material catches fire easily. Ventilate the room against smoke and soot, keep a lid or snuffer and water nearby, and smother a wax fire with a lid; never throw water on hot wax or a wax fire. Let wax cool completely before handling it, and never pour hot wax down a drain. This spell is only for two consenting adults in an existing relationship; it is not a substitute for counseling, and anyone who feels unsafe with a partner should reach out to a domestic violence hotline. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep flames, dressing oils and herbs away from pets; cats are especially sensitive to essential oils, and even diffused or spilled oil can harm them. Lavender is toxic to cats and dogs if eaten, so sweep up the herb ring afterward.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ],
+  "type": "spell",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "category": "candle",
+  "id": "spell-two-figure-candle-harmony-spell",
+  "image": "art:candle"
+ },
+ {
+  "name": "Red Pillar Date Night Passion Candle",
+  "description": "Red is the color of passion, desire and vitality in most modern candle-color systems, and a shared candle lit for romance is a popular folk practice. In this spell an existing couple, both willing, carve one red pillar together, each adding words of desire on their own side, and light it only on date nights over a month. The candle becomes a little ritual of turning toward each other, so passion is fed by attention as well as by flame.",
+  "ingredients": [
+   {
+    "item": "Red pillar candle (3 x 6 inch)",
+    "amount": "1"
+   },
+   {
+    "item": "Heatproof plate with a rim",
+    "amount": "1"
+   },
+   {
+    "item": "Ginger Essential Oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Patchouli Essential Oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Sweet Almond Oil",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Damiana, dried and finely ground",
+    "amount": "a light pinch"
+   },
+   {
+    "item": "Cinnamon, ground",
+    "amount": "a light pinch"
+   },
+   {
+    "item": "Carnelian or Garnet (tumbled)",
+    "amount": "2"
+   },
+   {
+    "item": "Toothpick or pin",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Agree together that you both want this candle and choose your first date night. Cleanse the pillar by wiping it together with a cloth dampened in salt water, each saying, 'Only what is ours.'",
+   "Mix the Ginger and Patchouli Essential Oils into the Sweet Almond Oil to make a dressing oil.",
+   "Each partner takes one side of the pillar and, carving away from the hand with the toothpick, writes one word of desire, such as 'spark' or 'play', and draws a small heart. Together carve a line around the candle joining the two sides.",
+   "Each dresses their own side with a drop or two of oil, stroking upward from the base to the middle only, keeping oil off the wick and the top half inch. Wipe off the excess and wash your hands.",
+   "Mix the Damiana and Cinnamon and dust only the bottom inch of the pillar very lightly, then set it on the plate and lay the two stones on either side.",
+   "Light the candle together, speak the chant together, then tell each other one memory of when you first felt drawn to each other.",
+   "Let it burn through dinner, a dance or a long talk, never longer than three hours, and snuff it together when the evening ends."
+  ],
+  "howToUse": "Light the pillar only on date nights, about once a week for a month or until it is used up, and give each other your full attention while it burns. Each of you carries one stone on the days between. When it is finished, let the wax cool completely, pop the leftover wax from the plate, and keep a small piece wrapped in red cloth in your bedroom drawer; bin the rest respectfully or bury it under a rose bush.",
+  "chant": "Flame of red and ember bright,\nwarm the hearts that meet tonight.\nSide by side and hand in hand,\nkindle what we both have planned.",
+  "intention": "We feed the fire between us with attention, play and desire freely given.",
+  "timing": "Friday (Venus) or Tuesday (Mars) evening, waxing to full moon.",
+  "bestTime": "Spring or summer, especially around Beltane; or any time you want to rekindle closeness.",
+  "moonPhases": [
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "love",
+   "attraction",
+   "vitality",
+   "energy",
+   "happiness"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; snuff it (do not blow it out) whenever you step away and relight it at the next session. Use a sturdy holder on a heatproof plate or tray at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Burn a pillar no more than three hours at a time, trimming the wick to 1/4 inch before each lighting, and do not leave it burning if you step away from the room. Carve away from your hand with a toothpick, pin or blunt tool. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, since too much oil can make the flame flare; wash your hands after dressing, and never use essential oils undiluted or on broken skin. Ginger and Patchouli oils are diluted here; do not use this candle oil as a massage oil, and keep Cinnamon dust away from eyes and skin. Rolling a candle in dried herbs is a real fire risk, so use only a light dusting of finely ground herb on the lower part of the candle, never near the wick, and watch it the whole time. Ventilate the room against smoke and soot, keep a lid or snuffer and water nearby, and smother a wax fire with a lid; never throw water on hot wax or a wax fire. Let wax cool completely before handling it, and never pour hot wax down a drain. This candle is for an existing couple who both agree to it. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep flames, dressing oils and herbs away from pets; cats are especially sensitive to essential oils, and even diffused or spilled oil can harm them. Ground Cinnamon can irritate a pet's mouth and lungs.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.petpoisonhelpline.com/uncategorized/nutmeg-cinnamon-toxicity/",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ],
+  "type": "spell",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "category": "candle",
+  "id": "spell-red-pillar-date-night-passion-candle",
+  "image": "art:candle"
+ },
+ {
+  "name": "White Pillar Peace for the Home",
+  "description": "White candles are used across many folk and modern traditions for peace, purity and calm, and keeping a light burning in the main room of a house is an old hearth custom in many cultures. In this spell a white pillar is carved with a house and a dove, dressed with peaceful oil, and lit in the room where the household gathers for short sessions over seven evenings. It invites a softer, calmer atmosphere for everyone who lives there.",
+  "ingredients": [
+   {
+    "item": "White pillar candle (3 x 4 or 3 x 6 inch)",
+    "amount": "1"
+   },
+   {
+    "item": "Heatproof plate or tray",
+    "amount": "1"
+   },
+   {
+    "item": "Peaceful Home Oil (or 3 drops Lavender Essential Oil in 1 tsp Olive Oil)",
+    "amount": "a few drops"
+   },
+   {
+    "item": "Lavender, dried buds",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Chamomile, dried flowers",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Basil, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Salt",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Selenite or Clear Quartz",
+    "amount": "1"
+   },
+   {
+    "item": "Toothpick or pin",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Open a window and cleanse the candle by wiping it with a cloth dampened in salt water, saying, 'Let only peace be carried here.'",
+   "Carving away from your hand with the toothpick, draw a simple house shape on one side of the pillar and a dove or a wavy line for calm water on the other. Beneath them write the word 'peace'.",
+   "Dress the candle with a few drops of oil, stroking from the top half inch downward to the base, keeping oil off the wick and the top half inch, then wipe off the excess and wash your hands.",
+   "Set the pillar on the plate in the main room. Mix the salt with the Lavender, Chamomile and Basil and sprinkle it in a ring on the plate, at least 3 inches from the candle, and place the Selenite or Quartz in front.",
+   "Light the candle and slowly speak the chant three times, imagining soft white light filling the room and drifting into every other room of the house.",
+   "Sit quietly for 15 minutes, or invite the household to sit with you and each name one thing that makes home feel safe.",
+   "Close by saying, 'Peace stays when the flame goes out,' and snuff the candle."
+  ],
+  "howToUse": "Relight the pillar for 15 to 30 minutes on seven evenings in a row, ideally at the same time, and again any evening the house feels tense. When the candle is finished or you choose to end the spell, let the wax cool completely, then sweep the herb ring and salt into a paper bag and put it in the outside trash bin. Keep a piece of the leftover wax on a high shelf in the main room as a token of household peace, and bin the rest respectfully.",
+  "chant": "White light rising, calm and clear,\nlet only peace be welcome here.\nSoft the voice and kind the word,\nin every room let love be heard.",
+  "intention": "I fill my home with a calm, gentle peace that everyone here can feel.",
+  "timing": "Monday (Moon) or Friday (Venus) evening; any moon phase, especially waxing.",
+  "bestTime": "Any season; especially after moving, during a stressful time, or after a quarrel.",
+  "moonPhases": [
+   "Waxing Crescent",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "peace",
+   "home blessing",
+   "calm",
+   "protection",
+   "blessing"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; snuff it (do not blow it out) whenever you step away and relight it at the next session. Use a sturdy holder on a heatproof plate or tray at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Choose a spot in the main room where nobody will brush past the candle, and trim the wick to 1/4 inch before each lighting. Carve away from your hand with a toothpick, pin or blunt tool. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, since too much oil can make the flame flare; wash your hands after dressing, and never use essential oils undiluted or on broken skin. Keep the herb ring on the plate at least 3 inches from the flame and watch it the whole time, since dried plant material catches fire easily. Ventilate the room against smoke and soot, keep a lid or snuffer and water nearby, and smother a wax fire with a lid; never throw water on hot wax or a wax fire. Let wax cool completely before handling it, and never pour hot wax down a drain. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep flames, dressing oils and herbs away from pets; cats are especially sensitive to essential oils, and even diffused or spilled oil can harm them. Lavender, Chamomile and Basil can upset a pet's stomach if eaten, so set the plate up high and clear the herb ring when you finish.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/chamomile",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ],
+  "type": "spell",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "category": "candle",
+  "id": "spell-white-pillar-peace-for-the-home",
+  "image": "art:candle"
+ },
+ {
+  "name": "Open Heart Rose Quartz Taper",
+  "description": "Rose Quartz is one of the best-known love stones in modern crystal practice, linked with an open, gentle heart, and pink candles are a contemporary favorite for drawing love in general. This spell does not name or seek any particular person: a pink taper is carved with an open heart, dressed with attraction oil, and ringed with Rose Quartz to soften old guarding and make you ready to give and receive love freely. It is as much about opening yourself as about calling love in.",
+  "ingredients": [
+   {
+    "item": "Pink taper candle (8 or 10 inch, dripless if possible)",
+    "amount": "1"
+   },
+   {
+    "item": "Sturdy taper holder on a heatproof plate",
+    "amount": "1"
+   },
+   {
+    "item": "Attraction Oil (or 2 drops Rose Essential Oil and 1 drop Ylang Ylang Essential Oil in 1 tsp Sweet Almond Oil)",
+    "amount": "a few drops"
+   },
+   {
+    "item": "Rose, dried petals",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Hibiscus, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Rose Quartz (small tumbled stones)",
+    "amount": "5"
+   },
+   {
+    "item": "Toothpick or pin",
+    "amount": "1"
+   },
+   {
+    "item": "Salt water in a small bowl",
+    "amount": "1 cup"
+   }
+  ],
+  "steps": [
+   "Cleanse the taper by dipping your fingers in the salt water and drawing them down the candle three times, then pat it dry.",
+   "Carving away from your hand with the toothpick, draw a heart in the middle of the taper with a small gap at the top, an open heart, and write 'open' beneath it.",
+   "Dress the candle with a few drops of oil, stroking from the bottom of the candle upward to the heart to draw love toward you, keeping oil off the wick and the top half inch. Wipe off the excess and wash your hands.",
+   "Fix the taper upright in its holder on the plate. Set the five Rose Quartz stones in a ring around the holder, and sprinkle the Rose and Hibiscus in a wider ring on the plate, at least 3 inches from the flame.",
+   "Light the taper, place your hand over your heart and speak the chant three times.",
+   "For 15 minutes, breathe slowly and imagine a door in your chest opening; say aloud one old hurt you are ready to stop guarding and one quality of love you are ready to welcome.",
+   "Snuff the candle, saying, 'My heart is open; love may enter freely.'"
+  ],
+  "howToUse": "Relight the taper for 15 minutes each evening until it reaches the bottom inch, then snuff it for the last time. Carry one Rose Quartz with you and keep the rest by your bed. Once the wax is completely cool, bury the leftover wax stub and the petals under a rose bush or in a flower bed you are allowed to dig, as a seed for new love; if you cannot bury it, wrap it in pink cloth and keep it. Then say yes to new people and new places, since the spell opens you, and you still need to walk out the door.",
+  "chant": "Rose of stone and rose of flame,\nopen what old fears made tame.\nLove that's free and love that's true,\nmy heart is open; come through.",
+  "intention": "I open my heart and welcome a kind love that comes to me freely.",
+  "timing": "Friday (Venus) evening during the waxing moon.",
+  "bestTime": "Spring, especially near Beltane, or any time you feel ready for love.",
+  "moonPhases": [
+   "New Moon",
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous"
+  ],
+  "metaphysical": [
+   "love",
+   "attraction",
+   "self-love",
+   "emotional healing",
+   "new beginnings"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; snuff it (do not blow it out) whenever you step away and relight it at the next session. Use a sturdy holder on a heatproof plate or tray at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Tapers can lean or drip, so make sure the candle is firmly fixed upright, keep it away from drafts, and snuff it when it reaches the last inch so the holder does not overheat. Carve away from your hand with a toothpick, pin or blunt tool. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, since too much oil can make the flame flare; wash your hands after dressing, and never use essential oils undiluted or on broken skin. Keep the herb ring on the plate at least 3 inches from the flame and watch it the whole time, since dried plant material catches fire easily. Ventilate the room against smoke and soot, keep a lid or snuffer and water nearby, and smother a wax fire with a lid; never throw water on hot wax or a wax fire. Let wax cool completely before handling it, and never pour hot wax down a drain. Keep the small stones away from young children, who could choke on them. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep flames, dressing oils and herbs away from pets; cats are especially sensitive to essential oils, and even diffused or spilled oil can harm them. Keep the stones and herbs where pets cannot swallow them.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ],
+  "type": "spell",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "category": "candle",
+  "id": "spell-open-heart-rose-quartz-taper",
+  "image": "art:candle"
+ },
+ {
+  "name": "Circle of Friends Tealight Spell",
+  "description": "Yellow is linked with friendship, warmth and cheerful company in many modern candle-color systems, and a circle is an old symbol of belonging. In this spell a ring of yellow tealights stands for you and your friends, with one extra light for friends still to come, and each light is carved with an initial and dressed underneath so the oil stays well away from the flame. It blesses the friendships you have and opens a place for new ones.",
+  "ingredients": [
+   {
+    "item": "Yellow tealight candles in metal cups (4 to 5 hour)",
+    "amount": "1 for you, 1 for each close friend, and 1 extra"
+   },
+   {
+    "item": "Large heatproof tray",
+    "amount": "1"
+   },
+   {
+    "item": "Sweet Orange Essential Oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Sweet Almond Oil",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Lemon Balm, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Chamomile, dried flowers",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Citrine or Amazonite (tumbled)",
+    "amount": "1"
+   },
+   {
+    "item": "Toothpick or pin",
+    "amount": "1"
+   },
+   {
+    "item": "Salt water and a soft cloth",
+    "amount": "a little"
+   }
+  ],
+  "steps": [
+   "Cleanse the tealights by wiping each metal cup and the top of the wax with a cloth dampened in salt water, then let them dry.",
+   "Carving away from your hand with the toothpick, scratch an initial into the top of each tealight, well clear of the wick: your own, one for each friend, and a small star on the extra light for friends yet to come.",
+   "Mix the Sweet Orange Essential Oil into the Sweet Almond Oil to make the dressing oil. To dress each candle safely, gently push each tealight out of its cup, dab a single drop of oil on the underside of the wax, wipe off any excess, and press it back into the cup so no oil sits on top. Wash your hands.",
+   "Set the Citrine or Amazonite in the center of the tray and arrange the tealights in a circle around it, at least 3 inches apart so they do not heat each other. Sprinkle the Lemon Balm and Chamomile in a thin outer ring on the tray, 3 inches from the nearest flame.",
+   "Light your own tealight first, then use a long match or wooden spill to light each friend's candle, saying each friend's name and one thing you love about them.",
+   "Light the star candle last and speak the chant, then sit with the circle for 20 minutes, sending each friend a kind message if you like.",
+   "Close by saying, 'Bound in kindness, free in choice,' and snuff each tealight in the order you lit them."
+  ],
+  "howToUse": "Relight the circle once a week for a month, or on a night when you gather with friends, until the tealights burn down. Carry the stone when you meet friends or go somewhere you hope to make new ones. Once the leftover wax is completely cool, pop each disk out of its cup, keep your own and the star disk together in a small yellow bag, and give the others back to the earth by burying them or binning them respectfully; recycle the empty metal cups.",
+  "chant": "Light by light, a ring of cheer,\nfriends I love and friends drawn near.\nLaughing, loyal, kind and true,\nthere's a place in here for you.",
+  "intention": "I bless the friends who love me and make room for good new friends.",
+  "timing": "Sunday (Sun) or Wednesday (Mercury) evening, waxing moon.",
+  "bestTime": "Spring or summer; also before a move, a new school year or a new job.",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "friendship",
+   "happiness",
+   "attraction",
+   "communication",
+   "blessing"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; snuff it (do not blow it out) whenever you step away and relight it at the next session. Use a sturdy holder on a heatproof plate or tray at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Keep tealights in their metal cups and at least 3 inches apart, since grouped tealights can heat each other until the wax pools and flares; never set them directly on wood or plastic, and let the cups cool before touching them. Carve away from your hand with a toothpick, pin or blunt tool. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, since too much oil can make the flame flare; wash your hands after dressing, and never use essential oils undiluted or on broken skin. Here the single drop of oil goes only on the underside of each tealight. Sweet Orange oil can irritate sensitive skin. Keep the herb ring on the plate at least 3 inches from the flame and watch it the whole time, since dried plant material catches fire easily. Ventilate the room against smoke and soot, keep a lid or snuffer and water nearby, and smother a wax fire with a lid; never throw water on hot wax or a wax fire. Let wax cool completely before handling it, and never pour hot wax down a drain. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep flames, dressing oils and herbs away from pets; cats are especially sensitive to essential oils, and even diffused or spilled oil can harm them. Citrus oils are especially risky for cats, and Chamomile can upset pets if eaten.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/chamomile"
+  ],
+  "type": "spell",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "category": "candle",
+  "id": "spell-circle-of-friends-tealight-spell",
+  "image": "art:candle"
+ },
+ {
+  "name": "Honeyed Reconciliation Seven-Day Candle",
+  "description": "Sweetening work belongs to the African American folk tradition of hoodoo, where honey jars and sugar have long been used to make situations and relationships sweeter; many rootworkers taste the honey while saying 'as this honey is sweet to me...'. This candle spell borrows that idea respectfully and does not try to force anyone's feelings. A seven-day glass-jar candle is lit for a quarrel or estrangement you sincerely want to mend, and each night you taste a little honey, sweeten your own words, and ask that both sides be open to an honest, kind conversation if that is right for you both.",
+  "ingredients": [
+   {
+    "item": "Pink or white glass-jar 7-day candle (about 8 inches)",
+    "amount": "1"
+   },
+   {
+    "item": "Heatproof plate or tile",
+    "amount": "1"
+   },
+   {
+    "item": "Reconciliation Oil (or 3 drops Rose Essential Oil in 1 tsp Sweet Almond Oil)",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Lavender, dried buds, finely crumbled",
+    "amount": "a small pinch"
+   },
+   {
+    "item": "Honey in a small dish, with a clean spoon",
+    "amount": "2 tbsp"
+   },
+   {
+    "item": "Paper and pen",
+    "amount": "1 small sheet"
+   },
+   {
+    "item": "Rhodonite or Rose Quartz (tumbled)",
+    "amount": "1"
+   },
+   {
+    "item": "Toothpick or wooden skewer",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse the outside of the glass jar with a cloth dampened in salt water, then wipe it dry.",
+   "On the paper, write a petition for the situation, not for control: for example, 'May there be peace between me and my sister, may we both be willing to listen, and may this be sweetened only if it is right for us both.' Fold it toward you three times and slide it beneath the heatproof plate, never under the hot glass itself.",
+   "With the toothpick, carving away from your hand, draw a heart and two joined circles into the top surface of the wax, around but not touching the wick.",
+   "Dress the top of the wax with three drops of oil near the rim, away from the wick, and wipe up any pooled oil with a tissue. Add only a tiny pinch of crumbled Lavender at the outer edge, well away from the wick. Wash your hands.",
+   "Set the jar on the plate on a heatproof surface, away from windows and drafts, with the stone in front and the dish of honey beside it.",
+   "Take a small spoonful of honey and say, 'As this honey is sweet to me, so let my words be sweet and true, and may our hearts be open.' Then light the candle and speak the chant.",
+   "Sit for 15 to 30 minutes thinking of what you honestly want to say and what you are sorry for, then snuff the candle with a lid or snuffer."
+  ],
+  "howToUse": "Relight the candle each evening for seven nights, beginning each session with a taste of honey from a clean spoon and the same words. Do not let it burn while you are out or asleep, and stop and remove the candle when only half an inch of wax is left in the jar. By the last night, take a real step: send a kind message, apologize, or simply let the other person know the door is open, and respect their answer either way. Once the jar is completely cool, scoop out the leftover wax and bury it with the petition under a flowering plant or near your front door; wash and recycle the glass. Pour the used honey dish into the compost.",
+  "chant": "Honey on my tongue, my words made kind,\nopen heart and open mind.\nIf it's right, let the bridge be mended,\nlet the bitter days be ended.",
+  "intention": "I sweeten my own words and open the door to peace, if it is right for us both.",
+  "timing": "Friday (Venus) or Monday (Moon), beginning on a waxing moon.",
+  "bestTime": "Any season; especially before holidays or family gatherings.",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous"
+  ],
+  "metaphysical": [
+   "reconciliation",
+   "peace",
+   "communication",
+   "emotional healing",
+   "love"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; snuff it (do not blow it out) whenever you step away and relight it at the next session. Use a sturdy holder on a heatproof plate or tray at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Glass-jar candles can crack when hot, so keep this one on a heatproof surface, never in a window, and never let it burn dry. Stop burning when half an inch of wax remains. Carve away from your hand with a toothpick, pin or blunt tool. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, since too much oil can make the flame flare; wash your hands after dressing, and never use essential oils undiluted or on broken skin. Keep the oil and the tiny pinch of herb at the outer edge of the wax, away from the wick, and watch the flame the whole time. Ventilate the room against smoke and soot, keep a lid or snuffer and water nearby, and smother a wax fire with a lid; never throw water on hot wax or a wax fire. Let wax cool completely before handling it, and never pour hot wax down a drain. This spell asks for openness on both sides and never for anyone to be forced back; if the relationship was abusive, do not use it to reopen contact. Do not give honey to babies under one year old because of the risk of infant botulism. Edible part: a small taste of plain honey from a clean spoon each night; nothing else in the spell is eaten or drunk.",
+  "interactions": "No drug interactions are expected from a small taste of honey, but people managing diabetes should count it as sugar.",
+  "externalOnly": false,
+  "pets": "Keep flames, dressing oils and herbs away from pets; cats are especially sensitive to essential oils, and even diffused or spilled oil can harm them. Keep honey away from pets.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://www.poison.org/articles/dont-feed-honey-to-infants",
+   "https://www.cdc.gov/botulism/prevention/index.html",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ],
+  "type": "spell",
+  "medical": [],
+  "toxic": false,
+  "category": "candle",
+  "id": "spell-honeyed-reconciliation-seven-day-candle",
+  "image": "art:candle"
+ },
+ {
+  "name": "Family Circle Unity Pillar",
+  "description": "Hearth fires and family candles have been gathering points in homes across many cultures, and in modern candle magic brown and green are often used for home, steadiness and growth. In this spell every member of the household, children included with an adult's help, carves their own mark into one large pillar, so the whole family is held in a single flame. It is lit at a weekly family gathering to strengthen belonging, patience and loyalty among everyone who lives together.",
+  "ingredients": [
+   {
+    "item": "Brown or green pillar candle (3 x 6 inch or larger)",
+    "amount": "1"
+   },
+   {
+    "item": "Large heatproof plate or tray",
+    "amount": "1"
+   },
+   {
+    "item": "Blessing Oil (or 3 drops Sweet Orange Essential Oil in 1 tsp Olive Oil)",
+    "amount": "a few drops"
+   },
+   {
+    "item": "Rosemary, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Bay Laurel leaves",
+    "amount": "1 per family member"
+   },
+   {
+    "item": "Basil, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Family photo or a drawing of your home",
+    "amount": "1"
+   },
+   {
+    "item": "Toothpick, pin or blunt pencil for each carver",
+    "amount": "1"
+   },
+   {
+    "item": "Salt water and a soft cloth",
+    "amount": "a little"
+   }
+  ],
+  "steps": [
+   "Gather the household and cleanse the pillar by passing it from hand to hand, each person wiping it once with the salt water cloth and saying, 'Only love here.'",
+   "Each person carves their initial or a small symbol into the side of the candle, carving away from the hand; an adult guides young children's hands or carves the mark for them. Carve one circle around the middle of the candle that touches every mark.",
+   "An adult dresses the candle with a few drops of oil, stroking from the middle down to the base, keeping oil off the wick and the top half inch, then wipes off the excess. Everyone washes their hands.",
+   "Set the pillar on the plate in the middle of the table, with the photo propped at least 12 inches away. Lay the Bay Laurel leaves in a ring on the plate and sprinkle the Rosemary and Basil around them, all at least 3 inches from the flame.",
+   "An adult lights the candle while everyone speaks the chant together.",
+   "Go around the circle: each person names one thing they are grateful for in another family member, and one way they will help the family this week.",
+   "Share a meal, game or story by candlelight, then an adult snuffs the candle while everyone says, 'Together.'"
+  ],
+  "howToUse": "Light the family pillar at the same weekly gathering, such as Sunday dinner, until it is used up, adding the gratitude round each time. When a family member is away, light it for a few minutes and say their name. When it is finished, let the wax cool completely, break off one piece of the leftover wax for each person to keep in a pocket or treasure box, and bury the rest with the Bay leaves under a tree or bush near your home, or bin it respectfully if you cannot dig.",
+  "chant": "One flame for all beneath this roof,\nour love the wall, our trust the proof.\nThrough calm and storm, through near and far,\ntogether is the way we are.",
+  "intention": "Our family is held together in patience, gratitude and love.",
+  "timing": "Sunday (Sun) evening, waxing or full moon.",
+  "bestTime": "Any season; especially at the new year, after a move, or when a new member joins the family.",
+  "moonPhases": [
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "home blessing",
+   "love",
+   "peace",
+   "strength",
+   "happiness"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; snuff it (do not blow it out) whenever you step away and relight it at the next session. Use a sturdy holder on a heatproof plate or tray at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Children may carve and speak but an adult should do all lighting and snuffing, and nobody should reach across the flame; place the candle where no one will bump the table. Carve away from your hand with a toothpick, pin or blunt tool. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, since too much oil can make the flame flare; wash your hands after dressing, and never use essential oils undiluted or on broken skin. Keep the herb ring on the plate at least 3 inches from the flame and watch it the whole time, since dried plant material catches fire easily. Ventilate the room against smoke and soot, keep a lid or snuffer and water nearby, and smother a wax fire with a lid; never throw water on hot wax or a wax fire. Let wax cool completely before handling it, and never pour hot wax down a drain. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep flames, dressing oils and herbs away from pets; cats are especially sensitive to essential oils, and even diffused or spilled oil can harm them. Bay Laurel is toxic to cats, dogs and horses if eaten, so keep the plate up high and clear the leaves away afterward.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bay-laurel",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ],
+  "type": "spell",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "category": "candle",
+  "id": "spell-family-circle-unity-pillar",
+  "image": "art:candle"
+ },
+ {
+  "name": "Seven-Notch Breakup Healing Candle",
+  "description": "Marking a candle into sections and burning one section a night is a common technique in American folk candle magic, used to pace a working over several days. In this spell a white taper is notched into seven parts, one for each night of the waning moon, and each night you burn one section and name one thing you are releasing from a relationship that has ended. It does not touch your former partner at all; it is about grieving, letting go and coming back to yourself.",
+  "ingredients": [
+   {
+    "item": "White taper candle (10 or 12 inch)",
+    "amount": "1"
+   },
+   {
+    "item": "Sturdy taper holder on a heatproof plate",
+    "amount": "1"
+   },
+   {
+    "item": "Healing Oil (or 2 drops Lavender Essential Oil and 1 drop Rosemary Essential Oil in 1 tsp Sweet Almond Oil)",
+    "amount": "a few drops"
+   },
+   {
+    "item": "Lemon Balm, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Rose, dried petals",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Rosemary, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Smoky Quartz or Rhodochrosite (tumbled)",
+    "amount": "1"
+   },
+   {
+    "item": "Pin and a ruler",
+    "amount": "1 each"
+   },
+   {
+    "item": "Journal or paper and pen",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse the taper by wiping it with a cloth dampened in salt water and saying, 'I begin again.'",
+   "Using the ruler, mark the taper into seven equal sections and, carving away from your hand with the pin, scratch a line around the candle at each mark. Leave the bottom inch unmarked.",
+   "Dress the candle with a few drops of oil, stroking from the top half inch downward to the base to send the old ties away from you, keeping oil off the wick and the top half inch. Wipe off the excess and wash your hands.",
+   "Fix the taper upright in its holder. Sprinkle the Lemon Balm, Rose and Rosemary in a ring on the plate, at least 3 inches from the flame, and set the stone in front.",
+   "Light the candle and speak the chant. Write one thing you are releasing tonight, such as 'waiting for their text' or 'blaming myself', and one thing you are reclaiming, such as 'my Sunday mornings'.",
+   "Hold the stone and let any feelings come while the first section burns down; this usually takes 20 to 40 minutes. Stay with the candle the whole time.",
+   "When the flame reaches the first notch, read your two lines aloud, then snuff the candle, saying, 'One night lighter.'"
+  ],
+  "howToUse": "Burn one section on each of seven nights in a row, ideally starting near the full moon so you finish during the waning moon, and stop for the last time at the unmarked bottom inch. Keep the journal pages. When the seven nights are done and the wax is completely cool, take the leftover wax stub and the herbs from the plate and bury them away from your home, at a park edge or under a tree you are allowed to dig near, or put them in a trash bin off your property, and walk away without looking back. Carry the stone for another month. If grief stays heavy, talk to a trusted friend or a counselor; candles are a companion to support, not a replacement for it.",
+  "chant": "Notch by notch the old ties burn,\nnight by night my strength returns.\nWhat was ours I now release;\nwhat is mine comes home in peace.",
+  "intention": "I release what has ended and come home to myself, one night at a time.",
+  "timing": "Begin just after the full moon and finish in the waning moon; Saturday (Saturn) or Monday (Moon).",
+  "bestTime": "Any season, whenever a relationship has ended; autumn suits letting go.",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent"
+  ],
+  "metaphysical": [
+   "emotional healing",
+   "release",
+   "endings",
+   "grief",
+   "self-love"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; snuff it (do not blow it out) whenever you step away and relight it at the next session. Use a sturdy holder on a heatproof plate or tray at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Tapers can lean or drip, so fix the candle firmly upright, keep it out of drafts, and stop at the unmarked bottom inch so the holder does not overheat. Carve away from your hand with a toothpick, pin or blunt tool. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, since too much oil can make the flame flare; wash your hands after dressing, and never use essential oils undiluted or on broken skin. Keep the herb ring on the plate at least 3 inches from the flame and watch it the whole time, since dried plant material catches fire easily. Ventilate the room against smoke and soot, keep a lid or snuffer and water nearby, and smother a wax fire with a lid; never throw water on hot wax or a wax fire. Let wax cool completely before handling it, and never pour hot wax down a drain. If you have thoughts of harming yourself, contact a crisis line such as 988 in the US right away. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep flames, dressing oils and herbs away from pets; cats are especially sensitive to essential oils, and even diffused or spilled oil can harm them. Keep the herbs and stone where pets cannot eat or chew them.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.poison.org/articles/essential-oils"
+  ],
+  "type": "spell",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "category": "candle",
+  "id": "spell-seven-notch-breakup-healing-candle",
+  "image": "art:candle"
+ },
+ {
+  "name": "Blue Jar Candle for an Anxious Mind",
+  "description": "Pale blue is used in many modern candle-color systems for calm, peace and soothing, and steady flame-gazing is a simple focusing practice found in several meditation traditions. In this spell a light-blue glass-jar candle is dressed with calming oil and lit for a short evening sitting, paired with slow breathing timed to the flame. It is a gentle nightly ritual to help a racing mind settle; it supports, but does not replace, care from a doctor or therapist.",
+  "ingredients": [
+   {
+    "item": "Light-blue glass-jar 7-day candle (about 8 inches)",
+    "amount": "1"
+   },
+   {
+    "item": "Heatproof plate or tile",
+    "amount": "1"
+   },
+   {
+    "item": "Lavender Essential Oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Roman Chamomile Essential Oil",
+    "amount": "1 drop"
+   },
+   {
+    "item": "Jojoba Oil or Sweet Almond Oil",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Chamomile, dried flowers, finely crumbled",
+    "amount": "a small pinch"
+   },
+   {
+    "item": "Blue Lace Agate or Lepidolite (tumbled)",
+    "amount": "1"
+   },
+   {
+    "item": "Wooden skewer or toothpick",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse the outside of the jar with a cloth dampened in salt water, then wipe it dry.",
+   "With the skewer, carving away from your hand, draw a gentle wave and the word 'calm' into the top surface of the wax, around but not touching the wick.",
+   "Mix the Lavender and Roman Chamomile Essential Oils into the carrier oil. Dress the top of the wax with two or three drops near the rim, away from the wick, wipe up any pooling, and add a tiny pinch of crumbled Chamomile at the outer edge. Wash your hands.",
+   "Set the jar on the plate on a table or desk, never in a window or near curtains, with the stone in front of it.",
+   "Light the candle, hold the stone, and speak the chant once slowly.",
+   "Watch the flame and breathe: in for a count of four, hold for four, out for six. Each time you breathe out, picture one worry floating into the blue light. Continue for 10 to 15 minutes.",
+   "Close by naming one small, kind thing you will do for yourself before bed, then snuff the candle with its lid or a snuffer."
+  ],
+  "howToUse": "Light the candle for 10 to 15 minutes each evening, or whenever worry spikes, until it is used up; stop when half an inch of wax remains in the jar. Keep the stone in your pocket or under your pillow and hold it while repeating the breathing when you cannot light the candle. Once the jar is fully cool, scoop out the leftover wax, wrap it in paper and put it in the trash, saying, 'I let this worry go'; wash and recycle the glass. If anxiety is affecting your sleep, work or relationships, please talk to a health professional.",
+  "chant": "Blue as water, still and deep,\nquiet the thoughts that will not sleep.\nBreath by breath and flame by flame,\nmy mind grows calm and clear again.",
+  "intention": "I breathe slowly, let my thoughts settle, and allow myself to feel calm.",
+  "timing": "Monday (Moon) evening; any moon phase, especially the waning moon to ease worry.",
+  "bestTime": "Any season; especially busy or stressful times of year.",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "calm",
+   "peace",
+   "emotional healing",
+   "clarity",
+   "sleep"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; snuff it (do not blow it out) whenever you step away and relight it at the next session. Use a sturdy holder on a heatproof plate or tray at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Glass-jar candles can crack when hot, so keep this one on a heatproof surface, never in a window, and never let it burn dry. Stop burning when half an inch of wax remains, and never fall asleep with it lit; snuff it before you get into bed. Carve away from your hand with a toothpick, pin or blunt tool. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, since too much oil can make the flame flare; wash your hands after dressing, and never use essential oils undiluted or on broken skin. Keep the tiny pinch of herb at the outer edge of the wax, away from the wick, and watch the flame the whole time. People allergic to ragweed or daisies may react to Chamomile. Ventilate the room against smoke and soot, keep a lid or snuffer and water nearby, and smother a wax fire with a lid; never throw water on hot wax or a wax fire. Let wax cool completely before handling it, and never pour hot wax down a drain. This ritual is not a treatment for anxiety disorders; if you have thoughts of harming yourself, contact a crisis line such as 988 in the US. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep flames, dressing oils and herbs away from pets; cats are especially sensitive to essential oils, and even diffused or spilled oil can harm them. Lavender and Chamomile are toxic to pets if eaten.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/chamomile",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ],
+  "type": "spell",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "category": "candle",
+  "id": "spell-blue-jar-candle-for-an-anxious-mind",
+  "image": "art:candle"
+ },
+ {
+  "name": "Braided Cord and Two Taper Bond Spell",
+  "description": "Knotted and braided cords appear in many European folk charms, and in modern handfasting, cords are wrapped around joined hands to show a shared promise. In this spell two people who both want a stronger bond, whether partners, close friends or family, each light a taper and braid three strands into one cord between them: one for each person and one for what you share. The cord is never tied to the candles; it is braided and knotted beside them and kept as a token afterward.",
+  "ingredients": [
+   {
+    "item": "Taper candles (8 or 10 inch) in pink, red or white, each person choosing their own color",
+    "amount": "2"
+   },
+   {
+    "item": "Sturdy taper holders on a heatproof tray",
+    "amount": "2"
+   },
+   {
+    "item": "Cotton or wool cords or embroidery threads, about 18 inches each, in three colors",
+    "amount": "3"
+   },
+   {
+    "item": "Blessing Oil (or 3 drops Rose Geranium Essential Oil in 1 tsp Sweet Almond Oil)",
+    "amount": "a few drops"
+   },
+   {
+    "item": "Rose, dried petals",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Vervain or Lavender, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Rose Quartz or Moonstone (tumbled)",
+    "amount": "2"
+   },
+   {
+    "item": "Toothpick or pin",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Agree together that you both want this bond strengthened and say what kind of bond it is, such as 'loving partners' or 'sisters who stay close'. Cleanse both tapers by wiping them with a cloth dampened in salt water.",
+   "Each person carves their own first name down their own taper, carving away from the hand with the toothpick, then carves a small circle at the base for the circle you share.",
+   "Each person dresses their own taper with a drop or two of oil, stroking from the base up to the middle, keeping oil off the wick and the top half inch. Wipe off the excess and wash your hands.",
+   "Fix the tapers upright in their holders on the tray, about 12 inches apart. Sprinkle the Rose and Vervain in a line on the tray between them, at least 3 inches from each flame, and place a stone in front of each candle.",
+   "Each lights the other's candle and you speak the chant together. Then, sitting well back from the flames, knot the three cords together at one end.",
+   "One person holds the knot while the other braids, or take turns, saying one promise for every few crossings, such as 'I'll call when it's hard' or 'I'll listen first'. Knot the other end when the braid is done.",
+   "Lay the braided cord on the table in front of the tray, never on it or near the flames, let the candles burn 10 more minutes while you talk, then snuff them together."
+  ],
+  "howToUse": "Relight the tapers together for 15 minutes on two more evenings, holding the braided cord between you while you speak the chant, then let them burn on a last session until the final inch and snuff them. Each person keeps one stone. Keep the cord in a box or hang it in a shared space; if you live apart, cut it in half after snuffing, knot the cut ends, and each keep one half. Once the leftover wax is completely cool, press the two stubs together into one lump and keep it with the cord, or bury it together under a tree you both love.",
+  "chant": "Three strands crossing, one cord true,\nmy part, your part, and what we grew.\nBraided strong and knotted tight,\nheld by choice and held by light.",
+  "intention": "We freely choose to strengthen the bond we share, with care and honesty.",
+  "timing": "Friday (Venus) or Thursday (Jupiter) evening, waxing moon.",
+  "bestTime": "Any season; lovely near an anniversary, a reunion, or before a time apart.",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "love",
+   "friendship",
+   "strength",
+   "communication",
+   "blessing"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; snuff it (do not blow it out) whenever you step away and relight it at the next session. Use a sturdy holder on a heatproof plate or tray at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Never tie cord, thread or ribbon to a candle or let it hang near a flame; braid well back from the tray and keep the finished cord off it. Tapers can lean or drip, so fix them firmly and snuff them at the last inch. Carve away from your hand with a toothpick, pin or blunt tool. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, since too much oil can make the flame flare; wash your hands after dressing, and never use essential oils undiluted or on broken skin. Keep the herb ring on the plate at least 3 inches from the flame and watch it the whole time, since dried plant material catches fire easily. Ventilate the room against smoke and soot, keep a lid or snuffer and water nearby, and smother a wax fire with a lid; never throw water on hot wax or a wax fire. Let wax cool completely before handling it, and never pour hot wax down a drain. This spell is only for people who both agree to it. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep flames, dressing oils and herbs away from pets; cats are especially sensitive to essential oils, and even diffused or spilled oil can harm them. Keep cords and threads away from pets, especially cats, since swallowed string can cause serious intestinal blockage.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender"
+  ],
+  "type": "spell",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "category": "candle",
+  "id": "spell-braided-cord-and-two-taper-bond-spell",
+  "image": "art:candle"
+ },
+ {
+  "type": "spell",
+  "category": "candle",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "id": "spell-black-pillar-negativity-absorbing-candle",
+  "name": "Black Pillar Negativity-Absorbing Candle",
+  "description": "In many modern Wiccan and folk practices, black is the color that absorbs, the way dark cloth soaks up heat. A black candle is lit to draw heaviness, tension and stray ill will out of a room or a person and burn it away as harmless smoke and light. This version uses a pillar set in a dish of salt, so the salt catches what the flame releases.",
+  "ingredients": [
+   {
+    "item": "Black pillar candle, about 3 inches wide and 4-6 inches tall",
+    "amount": "1"
+   },
+   {
+    "item": "Heatproof plate or shallow ceramic dish",
+    "amount": "1"
+   },
+   {
+    "item": "Coarse salt",
+    "amount": "about 1 cup"
+   },
+   {
+    "item": "Cast Off Evil Oil (or Olive Oil with 2 drops Black Pepper Essential Oil)",
+    "amount": "3-4 drops"
+   },
+   {
+    "item": "Rosemary, dried and finely ground",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Black Tourmaline",
+    "amount": "1 small stone"
+   },
+   {
+    "item": "Toothpick or blunt pin for carving",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse the black pillar by wiping it with a cloth dampened in salt water, then dry it well and hold it while you name the heaviness you want it to take in.",
+   "Using a toothpick and carving away from your hand, carve a downward spiral from the top of the candle toward the base, picturing negativity being drawn down and out.",
+   "Dress the candle with a few drops of Cast Off Evil Oil, stroking from top to bottom, keeping oil off the wick and the top half inch; wipe off any excess and wash your hands.",
+   "Pour the salt onto the heatproof plate, set the pillar firmly in the center, and dust the finely ground Rosemary onto the salt in a ring around the base, not on the candle.",
+   "Set the Black Tourmaline on the salt at the front of the plate, at least 2 inches from the flame.",
+   "Light the candle and say the chant three times, then sit quietly and imagine the room's heaviness flowing into the dark flame and rising away as light.",
+   "Let it burn for one hour or more while you stay with it, then close by snuffing the flame and saying, 'Taken in, burned clean, done.' Repeat on following nights until the pillar is used up."
+  ],
+  "howToUse": "Burn it in sessions on consecutive nights, always snuffing it when you leave the room. When it is finished, let everything cool completely, then wrap the leftover wax and the salt together in paper and put them in an outdoor trash bin away from your home, since they hold what was absorbed. Rinse the Black Tourmaline under running water and keep it near your door.",
+  "chant": "Black of night and dark of stone,\ndraw the weight from hearth and home.\nWhat is heavy, take it in;\nburn it clean, let peace begin.",
+  "intention": "I let this flame draw every heavy and unwanted energy out of my space and burn it clean.",
+  "timing": "Saturday, during a waning moon; any time a room feels heavy after conflict or illness.",
+  "bestTime": "Any season; especially late autumn and winter.",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent"
+  ],
+  "metaphysical": [
+   "protection",
+   "cleansing",
+   "banishing",
+   "purification",
+   "peace"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; if you must stop, snuff it (do not blow it out) and relight it at the next session. Use a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, since too much oil can make the flame flare; wash your hands afterward and never use oils on broken skin. Dried herbs near a flame are a real fire risk: keep them as a light dusting on the lower part only or in a ring on the plate, watch the candle the whole time, and keep a snuffer or lid and a cup of water nearby. Ventilate the room against smoke and soot, never put glitter, paper or plastic on the candle, and never throw water on hot wax or a wax fire (smother it with a lid instead). Let wax cool completely before handling and never pour hot wax down a drain. Black Pepper Essential Oil can irritate skin, so dilute it in carrier oil and keep it away from eyes. Salt can damage wood finishes, so keep it on the plate. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Salt is harmful to pets if licked up in quantity (vomiting, tremors, seizures), so keep the plate out of reach and bin the salt afterward. Keep flames, dressing oils and herbs away from pets; cats are especially sensitive to essential oils, so keep them out of the room while the candle burns and until it has aired out.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://www.petpoisonhelpline.com/poison/salt/",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ],
+  "image": "art:candle"
+ },
+ {
+  "type": "spell",
+  "category": "candle",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "id": "spell-double-action-reversing-candle",
+  "name": "Double-Action Reversing Candle",
+  "description": "In hoodoo and related folk practice, a 'double action' or reversing candle (often red on the outside with a black core, or half black and half red) is burned to turn back harm that was sent your way. Practitioners are careful to describe this as returning what was sent, not adding to it. This working sends harm back to its source with the explicit condition that it arrives harmlessly, as a lesson rather than a wound.",
+  "ingredients": [
+   {
+    "item": "Black-and-red double-action taper candle, about 9-10 inches (or a red taper with black wax dripped at its base)",
+    "amount": "1"
+   },
+   {
+    "item": "Sturdy taper holder on a heatproof tray",
+    "amount": "1"
+   },
+   {
+    "item": "Small mirror, glass side up, about 4-6 inches across, or a square of foil shiny side up",
+    "amount": "1"
+   },
+   {
+    "item": "Uncrossing Oil",
+    "amount": "3-4 drops"
+   },
+   {
+    "item": "Hyssop, dried and finely ground",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Bay Laurel leaf",
+    "amount": "1"
+   },
+   {
+    "item": "Toothpick for carving",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse the taper by passing it slowly over a bowl of salt water and wiping it dry, saying, 'Only what was sent, and nothing more.'",
+   "Carve your name near the base of the candle and, above it, an arrow pointing upward and away from your name, carving away from your hand.",
+   "Dress the taper with Uncrossing Oil, stroking from the middle out toward each end, keeping oil off the wick and the top half inch; wipe off the excess and wash your hands.",
+   "Dust a very light pinch of finely ground Hyssop onto the lower third of the taper only, then lay the mirror on the tray and stand the holder on top of it so the candle's light reflects up and out.",
+   "Tuck the Bay Laurel leaf flat under the edge of the mirror, well away from the flame.",
+   "Light the candle and speak the chant, stating aloud that whatever returns must do so harmlessly and teach rather than wound.",
+   "Watch the candle for at least one hour, then close by snuffing it and saying, 'Returned in peace; I am clear.' Relight it on following days until it is gone."
+  ],
+  "howToUse": "Burn the taper over one to three sessions, snuffing it between them. When it is finished and fully cool, scrape up the leftover wax with the Bay Laurel leaf, wrap them in paper, and put them in a trash bin at a crossroads or anywhere away from your home, without looking back. Wipe the mirror with salt water before using it for anything else.",
+  "chant": "What was sent comes home again,\nsoft as rain and free of pain.\nNo harm to them, no harm to me;\nreturned in peace, so mote it be.",
+  "intention": "I return any harm sent to me back to its source, harmlessly and in peace.",
+  "timing": "Saturday or Tuesday, during a waning moon.",
+  "bestTime": "Any season, when you sense ill will directed at you.",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent"
+  ],
+  "metaphysical": [
+   "uncrossing",
+   "hex breaking",
+   "protection",
+   "justice",
+   "release"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; if you must stop, snuff it (do not blow it out) and relight it at the next session. Use a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Tapers can drip and tip, so make sure the holder grips the candle snugly and is stable on the mirror; use a mirror with smooth or taped edges and keep it from overheating by setting the holder base, not the flame, over it. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, since too much oil can make the flame flare; wash your hands afterward and never use oils on broken skin. Dried herbs near a flame are a real fire risk: keep them as a light dusting on the lower part only or in a ring on the plate, watch the candle the whole time, and keep a snuffer or lid and a cup of water nearby. Ventilate the room against smoke and soot, never put glitter, paper or plastic on the candle, and never throw water on hot wax or a wax fire (smother it with a lid instead). Let wax cool completely before handling and never pour hot wax down a drain. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep flames, dressing oils and herbs away from pets; cats are especially sensitive to essential oils, so keep them out of the room while the candle burns and until it has aired out. Bay Laurel leaves can upset a pet's stomach if chewed.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bay-laurel",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ],
+  "image": "art:candle"
+ },
+ {
+  "type": "spell",
+  "category": "candle",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "id": "spell-white-candle-salt-ring-protection",
+  "name": "White Candle Salt Ring Protection",
+  "description": "White candles are used in many traditions for general protection and blessing, and salt has long marked boundaries that harm should not cross. Here a small salt ring is poured on a tray around a single white candle, making a miniature warded space that stands for your home or yourself. It is a compact protection working for apartments, offices and anyone who cannot pour a full salt circle on the floor.",
+  "ingredients": [
+   {
+    "item": "White taper or white chime candle, 4-10 inches",
+    "amount": "1"
+   },
+   {
+    "item": "Heatproof tray or large plate",
+    "amount": "1"
+   },
+   {
+    "item": "Coarse salt",
+    "amount": "about 1/2 cup"
+   },
+   {
+    "item": "Fiery Wall of Protection Oil",
+    "amount": "2-3 drops"
+   },
+   {
+    "item": "Angelica root, dried and finely ground (or Rosemary)",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Clear Quartz",
+    "amount": "4 small points or tumbles"
+   },
+   {
+    "item": "Toothpick for carving",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse the candle by holding it in both hands and breathing out slowly over it three times, then wiping it with a clean cloth.",
+   "Carve a simple shield or a circle with a dot in its center into the side of the candle, carving away from your hand, and carve your initials beneath it.",
+   "Dress the candle with Fiery Wall of Protection Oil from base to middle only, keeping oil off the wick and the top half inch; wipe off the excess and wash your hands.",
+   "Set the candle in its holder in the middle of the tray, then pour an unbroken ring of salt around it about 3 inches from the base, starting in the east and moving clockwise.",
+   "Sprinkle the ground Angelica along the salt ring, and set one Clear Quartz at each of the four directions on the ring.",
+   "Light the candle and say the chant, picturing the salt ring rising into a bright wall around you and everything you love.",
+   "Stay with the flame for 20 minutes or longer, then close by snuffing it and saying, 'The ring holds.' Leave the salt ring in place on the tray until the candle is finished."
+  ],
+  "howToUse": "Relight the candle in short, attended sessions until it is used up, keeping the ring unbroken between sessions. When done and fully cool, bury the leftover wax at the edge of your property or under a houseplant's outer pot (not in the soil), or keep a small piece in a pouch by your door as a token of the ward. Pour the salt away down an outdoor drain with running water, not on soil, and cleanse the quartz before reusing it.",
+  "chant": "White of light and salt of sea,\nring of guard surrounding me.\nNo harm may cross, no ill may stay;\nwhat's mine is kept by night and day.",
+  "intention": "I surround myself and my home with a wall of protection no harm can cross.",
+  "timing": "Sunday or Saturday, at any moon phase; especially full moon.",
+  "bestTime": "Any season; good when moving into a new home or office.",
+  "moonPhases": [
+   "Full Moon",
+   "Waxing Gibbous",
+   "First Quarter"
+  ],
+  "metaphysical": [
+   "protection",
+   "home blessing",
+   "purification",
+   "consecration"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; if you must stop, snuff it (do not blow it out) and relight it at the next session. Use a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Fiery Wall of Protection Oil commonly contains cinnamon or other warming oils that can irritate skin; use only a few drops and wash your hands right after. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, since too much oil can make the flame flare; wash your hands afterward and never use oils on broken skin. Dried herbs near a flame are a real fire risk: keep them as a light dusting on the lower part only or in a ring on the plate, watch the candle the whole time, and keep a snuffer or lid and a cup of water nearby. Ventilate the room against smoke and soot, never put glitter, paper or plastic on the candle, and never throw water on hot wax or a wax fire (smother it with a lid instead). Let wax cool completely before handling and never pour hot wax down a drain. Keep salt off wood, plants and soil. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep the tray out of reach; salt eaten by dogs or cats can cause vomiting, tremors and seizures, and small quartz pieces are a choking hazard. Keep flames, dressing oils and herbs away from pets; cats are especially sensitive to essential oils, so keep them out of the room while the candle burns and until it has aired out.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://www.petpoisonhelpline.com/poison/salt/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ],
+  "image": "art:candle"
+ },
+ {
+  "type": "spell",
+  "category": "candle",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "id": "spell-purple-psychic-sight-candle",
+  "name": "Purple Psychic Sight Candle",
+  "description": "Purple is linked with intuition and spiritual sight in modern Western color magic, and many readers light a candle before laying out cards, scrying or using a pendulum. This short working uses a purple chime candle, which burns in about two hours, to mark the start and end of a divination session and settle the mind. It does not replace practice or common sense; it helps you shift into a focused, receptive state.",
+  "ingredients": [
+   {
+    "item": "Purple chime candle, about 4 inches",
+    "amount": "1"
+   },
+   {
+    "item": "Chime candle holder on a heatproof plate",
+    "amount": "1"
+   },
+   {
+    "item": "Psychic Vision Oil (or 1 tsp Sweet Almond Oil with 2 drops Lavender Essential Oil)",
+    "amount": "2-3 drops"
+   },
+   {
+    "item": "Mugwort, dried and finely ground",
+    "amount": "a small pinch"
+   },
+   {
+    "item": "Amethyst",
+    "amount": "1 tumbled stone"
+   },
+   {
+    "item": "Your tarot deck, pendulum or scrying bowl",
+    "amount": "1"
+   },
+   {
+    "item": "Toothpick for carving",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse the candle and your tools by setting them on a windowsill in moonlight for a few minutes, or by ringing a bell over them three times.",
+   "Carve an open eye, or a crescent moon with a dot above it, into the candle, carving away from your hand.",
+   "Dress the candle with Psychic Vision Oil, stroking upward from base toward the middle to draw sight upward, keeping oil off the wick and the top half inch; wipe off the excess and wash your hands.",
+   "Set the candle in its holder on the plate and sprinkle the Mugwort in a small ring on the plate around the base, not on the candle.",
+   "Hold the Amethyst to your forehead for a few breaths, then set it beside your deck or pendulum.",
+   "Light the candle, say the chant, and begin your reading while the candle burns beside you.",
+   "When the reading is finished, thank your guides, snuff the flame, and touch the deck or pendulum to the cool base of the candle to close the session."
+  ],
+  "howToUse": "Use the candle across one or two reading sessions, snuffing it in between. When it has burned down and cooled, keep a small piece of the leftover purple wax wrapped with your deck or pendulum as a reminder of the session, and put the rest in the trash. Write down the reading and any impressions afterward.",
+  "chant": "Violet flame and lifted veil,\nshow me truth in clear detail.\nSight to see and sense to know;\nwhat is hidden, gently show.",
+  "intention": "I open my inner sight to see clearly and truthfully during this reading.",
+  "timing": "Monday, evening or night; full or waxing moon.",
+  "bestTime": "Any season; especially autumn around Samhain.",
+  "moonPhases": [
+   "Full Moon",
+   "Waxing Gibbous"
+  ],
+  "metaphysical": [
+   "psychic powers",
+   "divination",
+   "clarity",
+   "spirit work",
+   "moon magic"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; if you must stop, snuff it (do not blow it out) and relight it at the next session. Use a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, since too much oil can make the flame flare; wash your hands afterward and never use oils on broken skin. Dried herbs near a flame are a real fire risk: keep them as a light dusting on the lower part only or in a ring on the plate, watch the candle the whole time, and keep a snuffer or lid and a cup of water nearby. Ventilate the room against smoke and soot, never put glitter, paper or plastic on the candle, and never throw water on hot wax or a wax fire (smother it with a lid instead). Let wax cool completely before handling and never pour hot wax down a drain. Avoid Mugwort if you are pregnant, trying to conceive or breastfeeding, and if you are allergic to ragweed, daisies or related plants. If using Sweet Almond Oil, skip it with nut allergies and use Jojoba Oil instead. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep flames, dressing oils and herbs away from pets; cats are especially sensitive to essential oils, so keep them out of the room while the candle burns and until it has aired out.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://www.nccih.nih.gov/health/mugwort",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ],
+  "image": "art:candle"
+ },
+ {
+  "type": "spell",
+  "category": "candle",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "id": "spell-silver-full-moon-taper-blessing",
+  "name": "Silver Full Moon Taper Blessing",
+  "description": "Silver is the color of the moon in much of modern Wicca and Western ceremonial magic, and the full moon is widely treated as the peak time for blessing, gratitude and charging tools. This working uses a silver taper set in a bowl of water so the flame's reflection 'catches' the moon on the altar. It is a monthly blessing for yourself, your tools and your home.",
+  "ingredients": [
+   {
+    "item": "Silver taper candle, about 10 inches (or a white taper)",
+    "amount": "1"
+   },
+   {
+    "item": "Sturdy taper holder",
+    "amount": "1"
+   },
+   {
+    "item": "Wide, heatproof bowl or deep tray",
+    "amount": "1"
+   },
+   {
+    "item": "Water",
+    "amount": "enough to fill the bowl 1 inch deep"
+   },
+   {
+    "item": "Full Moon Oil",
+    "amount": "2-3 drops"
+   },
+   {
+    "item": "Jasmine or White Rose petals, dried",
+    "amount": "a few"
+   },
+   {
+    "item": "Moonstone or Selenite",
+    "amount": "1"
+   },
+   {
+    "item": "Toothpick for carving",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse the taper by holding it up to the moon (through a window is fine) and asking that it be made clean and bright.",
+   "Carve a full circle near the top of the candle, a crescent on each side of it, and the word 'Bless' along the length, carving away from your hand.",
+   "Dress the taper with Full Moon Oil from the middle outward to each end, keeping oil off the wick and the top half inch; wipe off the excess and wash your hands.",
+   "Set the holder in the center of the bowl, pour in water to about 1 inch deep around the holder base (not above it), and float the petals on the water.",
+   "Place the Moonstone or Selenite beside the bowl, not in the water, since Selenite dissolves when wet.",
+   "Light the taper, look at its reflection on the water, and say the chant, then name aloud three things you are grateful for this month.",
+   "After at least 30 minutes, close by snuffing the flame and saying, 'Full and bright, blessed and right.' Relight it on following full-moon nights or the next two evenings until it is finished."
+  ],
+  "howToUse": "Burn the taper in attended sessions over the full moon and the two nights after. Pour the water onto the earth (not down a drain if it has wax in it; skim the wax off first). When the candle is done and cool, keep the leftover silver wax in a small dish on your altar and add each month's remnant, then melt them together into a new small candle at the year's end or bury them under a tree.",
+  "chant": "Silver lady, round and bright,\nbless this home and bless this night.\nWhat I hold and what I keep,\nbathe in light from height to deep.",
+  "intention": "I welcome the full moon's blessing on myself, my tools and my home.",
+  "timing": "The night of the full moon or the two nights after; Monday is especially fitting.",
+  "bestTime": "Every full moon of the year; harvest moon in September or October for gratitude.",
+  "moonPhases": [
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "moon magic",
+   "blessing",
+   "consecration",
+   "abundance",
+   "spirituality"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; if you must stop, snuff it (do not blow it out) and relight it at the next session. Use a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Keep the water level below the top of the holder so the candle stays stable and dry, and never use the water as a substitute for a heatproof surface. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, since too much oil can make the flame flare; wash your hands afterward and never use oils on broken skin. Ventilate the room against smoke and soot, never put glitter, paper or plastic on the candle, and never throw water on hot wax or a wax fire (smother it with a lid instead). Let wax cool completely before handling and never pour hot wax down a drain. Petals belong on the water only, never on the candle. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep flames, dressing oils and herbs away from pets; cats are especially sensitive to essential oils, so keep them out of the room while the candle burns and until it has aired out. Keep pets from drinking the oily bowl water.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know"
+  ],
+  "image": "art:candle"
+ },
+ {
+  "type": "spell",
+  "category": "candle",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "id": "spell-new-moon-seed-tealight",
+  "name": "New Moon Seed Tealight",
+  "description": "The new moon is traditionally the time to begin, when the sky is dark and anything planted can grow along with the waxing light. In this simple working, one intention is carved into a tealight that sits beside a single seed, and the seed is planted once the candle has burned. It is quick, small and suited to beginners or to a busy month.",
+  "ingredients": [
+   {
+    "item": "White or green tealight candle in its metal cup",
+    "amount": "1"
+   },
+   {
+    "item": "Small heatproof dish or saucer",
+    "amount": "1"
+   },
+   {
+    "item": "New Moon Oil (or 1 tsp Olive Oil with 1 drop Sweet Orange Essential Oil)",
+    "amount": "1-2 drops"
+   },
+   {
+    "item": "Basil, dried and finely ground",
+    "amount": "a tiny pinch"
+   },
+   {
+    "item": "Seed: a sunflower, bean or basil seed",
+    "amount": "1"
+   },
+   {
+    "item": "Small pot of soil",
+    "amount": "1"
+   },
+   {
+    "item": "Toothpick for carving",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse the tealight by lifting it out of its cup, wiping it with a clean cloth, and holding it at your heart while you breathe slowly three times.",
+   "With a toothpick, carve one key word for your intention into the flat top surface of the wax, around the wick, carving away from your hand and keeping marks shallow.",
+   "Dress the tealight by rubbing one or two drops of New Moon Oil onto the sides of the wax only, well away from the wick, then place it back in its metal cup and wash your hands.",
+   "Set the tealight on the saucer, sprinkle the tiny pinch of Basil on the saucer near the cup, and put the seed beside it.",
+   "Light the tealight, hold the seed in your palm, and say the chant while picturing your intention already growing.",
+   "Let the tealight burn while you stay nearby, for up to 4 hours, or snuff it and relight it on the next waxing nights.",
+   "Close by planting the seed in the pot, watering it, and saying, 'As this grows, so grows my wish.'"
+  ],
+  "howToUse": "Tend the seedling through the waxing moon as a living reminder of your intention. When the tealight is spent and cool, pop the little disc of leftover wax out of the metal cup and press it into the soil surface beside the pot's rim for one moon cycle, then lift it out and bin it; recycle the aluminum cup.",
+  "chant": "Dark moon, new moon, seed and flame,\nI plant my wish and speak its name.\nAs light returns and grows anew,\nlet what I sow come growing through.",
+  "intention": "I plant this intention at the new moon and let it grow with the returning light.",
+  "timing": "The night of the new moon or within a day after; Sunday or Monday.",
+  "bestTime": "Any month; spring new moons are especially fitting.",
+  "moonPhases": [
+   "New Moon",
+   "Waxing Crescent"
+  ],
+  "metaphysical": [
+   "new beginnings",
+   "manifestation",
+   "growth",
+   "moon magic",
+   "wishes"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; if you must stop, snuff it (do not blow it out) and relight it at the next session. Use a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Tealights get hot right through the metal cup, so always set them on a saucer and never on a bare surface or plastic. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, since too much oil can make the flame flare; wash your hands afterward and never use oils on broken skin. Dried herbs near a flame are a real fire risk: keep them as a light dusting on the lower part only or in a ring on the plate, watch the candle the whole time, and keep a snuffer or lid and a cup of water nearby. Ventilate the room against smoke and soot, never put glitter, paper or plastic on the candle, and never throw water on hot wax or a wax fire (smother it with a lid instead). Let wax cool completely before handling and never pour hot wax down a drain. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep flames, dressing oils and herbs away from pets; cats are especially sensitive to essential oils, so keep them out of the room while the candle burns and until it has aired out. Choose a seed that is safe if a pet digs it up; avoid toxic plants if pets share the room.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/orange"
+  ],
+  "image": "art:candle"
+ },
+ {
+  "type": "spell",
+  "category": "candle",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "id": "spell-blue-seven-day-healing-support-candle",
+  "name": "Blue Seven-Day Healing Support Candle",
+  "description": "Blue is associated with calm and healing in many modern color-magic systems, and seven-day glass-jar candles are a staple of hoodoo and Catholic folk devotion for steady, ongoing prayer. This working keeps a gentle flame of support burning in attended sessions through a week of treatment or recovery. It is meant to support, and never to replace, care from doctors, nurses and other medical professionals.",
+  "ingredients": [
+   {
+    "item": "Blue glass-jar 7-day candle",
+    "amount": "1"
+   },
+   {
+    "item": "Heatproof plate or tile, larger than the jar base",
+    "amount": "1"
+   },
+   {
+    "item": "Healing Oil",
+    "amount": "2-3 drops"
+   },
+   {
+    "item": "Calendula petals, dried and crumbled",
+    "amount": "a small pinch"
+   },
+   {
+    "item": "Lavender, dried",
+    "amount": "a few buds"
+   },
+   {
+    "item": "Blue Lace Agate or Clear Quartz",
+    "amount": "1"
+   },
+   {
+    "item": "Paper and pen for the name and well-wishes",
+    "amount": "1 slip"
+   },
+   {
+    "item": "Toothpick or chopstick for carving",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse the jar by wiping the outside glass with a cloth dampened in salt water, then dry it fully.",
+   "With a toothpick, carve the first name of the person being supported (yourself or someone who has agreed) and a small heart into the top surface of the wax, carving away from your hand.",
+   "Dress the candle: make three small holes in the top wax with the toothpick, at least 1 inch from the wick, and add one drop of Healing Oil to each; wipe up any oil on the glass and wash your hands.",
+   "Place a pinch of crumbled Calendula and a few Lavender buds into those same holes only, well away from the wick, then set the jar on the heatproof plate.",
+   "Write the name and your well-wishes on the slip of paper and tuck it under the plate, not under the jar or near the flame, with the stone on top of the paper.",
+   "Light the candle and say the chant, then picture the person resting comfortably and following their care plan with strength.",
+   "Close each session by snuffing the flame and saying, 'Rest and mend, the light remains.' Relight it once or twice each day for seven days or until it finishes."
+  ],
+  "howToUse": "Burn the candle in attended sessions of an hour or more over about a week, keeping up any medical appointments and treatments as directed. Stop before the wax burns completely dry to protect the glass. Once cool, scoop out any leftover wax and herb with a spoon and bury it under a healthy tree or bin it; recycle the clean jar, and burn the paper safely in a fireproof bowl or tear it up and compost it.",
+  "chant": "Blue as river, calm as sky,\nease and strength be standing by.\nHands of healers, steady, wise;\nmend and rest and gently rise.",
+  "intention": "I send steady, loving support to this healing, alongside the care of skilled medical hands.",
+  "timing": "Start on a Sunday or Monday, during a waxing moon if possible, or simply when care begins.",
+  "bestTime": "Any season, during a hospital stay, treatment or recovery.",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "healing",
+   "health",
+   "peace",
+   "calm",
+   "strength"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; if you must stop, snuff it (do not blow it out) and relight it at the next session. Use a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Glass-jar candles can crack when hot: keep them on a heatproof surface, never in a window or near drafts, and never let them burn dry; stop when about half an inch of wax remains. Hospitals do not allow open flames, so burn it at home, never at the bedside of someone on oxygen. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, since too much oil can make the flame flare; wash your hands afterward and never use oils on broken skin. Herbs go only into holes away from the wick, as dry herbs can flare. Ventilate the room against smoke and soot, never put glitter, paper or plastic on the candle, and never throw water on hot wax or a wax fire (smother it with a lid instead). Let wax cool completely before handling and never pour hot wax down a drain. This spell supports and never replaces medical care; keep following your doctor's advice. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep flames, dressing oils and herbs away from pets; cats are especially sensitive to essential oils, so keep them out of the room while the candle burns and until it has aired out. Lavender is mildly toxic to cats and dogs if eaten.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.nccih.nih.gov/health/providers/digest/herb-drug-interactions-science"
+  ],
+  "image": "art:candle"
+ },
+ {
+  "type": "spell",
+  "category": "candle",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "id": "spell-waning-moon-notched-habit-breaking-candle",
+  "name": "Waning Moon Notched Habit-Breaking Candle",
+  "description": "Notched or 'marked' candles are a common folk technique: the candle is divided into sections and one section is burned each night, so the work unfolds over several days. In this version, the waning moon's shrinking light carries a habit away a little more each night. It pairs well with practical steps such as support groups, apps or a doctor's help.",
+  "ingredients": [
+   {
+    "item": "Black or brown chime candle, about 4 inches (or a black taper for a longer working)",
+    "amount": "1"
+   },
+   {
+    "item": "Chime holder on a heatproof plate",
+    "amount": "1"
+   },
+   {
+    "item": "Banishing Oil",
+    "amount": "2-3 drops"
+   },
+   {
+    "item": "Rue or Hyssop, dried and finely ground",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Obsidian or Smoky Quartz",
+    "amount": "1"
+   },
+   {
+    "item": "Toothpick or blunt knife for notching",
+    "amount": "1"
+   },
+   {
+    "item": "Small notebook",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse the candle by wiping it with a cloth dampened in salt water while naming the habit you are releasing.",
+   "Mark the candle into seven roughly equal sections with shallow notches, carving away from your hand, and carve the name of the habit near the top.",
+   "Dress the candle with Banishing Oil, stroking from the top down toward the base to push the habit away, keeping oil off the wick and the top half inch; wipe off the excess and wash your hands.",
+   "Set the candle in its holder on the plate, and sprinkle the ground Rue or Hyssop in a ring on the plate around the base.",
+   "Hold the Obsidian, light the candle, and say the chant while you watch the flame.",
+   "Let only one section burn each night, staying with it, then snuff it and write one sentence in the notebook about how you resisted the habit that day.",
+   "Close the working on the last night: let the final section burn down while you watch, then snuff any remaining flame and say, 'It is gone, and I am free.'"
+  ],
+  "howToUse": "Burn one notch a night through the waning moon, beginning about a week before the new moon. When finished and cool, scrape the leftover wax and the herb ring into a paper bag and put it in an outside trash bin off your property, and do not bring it back into the house. Keep the Obsidian in your pocket as a reminder through the next moon.",
+  "chant": "Moon that wanes and flame that falls,\nloose the habit's grip and calls.\nNotch by notch it burns away;\nI walk free from day to day.",
+  "intention": "With every night of the waning moon, I release this habit and grow stronger without it.",
+  "timing": "Begin seven nights before the new moon; Saturday is a good start.",
+  "bestTime": "Any season; autumn and the turn of the year are natural times to let go.",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent"
+  ],
+  "metaphysical": [
+   "banishing",
+   "release",
+   "endings",
+   "strength",
+   "transformation"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; if you must stop, snuff it (do not blow it out) and relight it at the next session. Use a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, since too much oil can make the flame flare; wash your hands afterward and never use oils on broken skin. Dried herbs near a flame are a real fire risk: keep them as a light dusting on the lower part only or in a ring on the plate, watch the candle the whole time, and keep a snuffer or lid and a cup of water nearby. Ventilate the room against smoke and soot, never put glitter, paper or plastic on the candle, and never throw water on hot wax or a wax fire (smother it with a lid instead). Let wax cool completely before handling and never pour hot wax down a drain. Rue can cause blistering skin rashes when skin that touched it meets sunlight, so handle it with gloves, wash your hands, and avoid it if pregnant; use Hyssop instead if unsure. This spell supports, and does not replace, medical or professional help for addiction or harmful habits. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep flames, dressing oils and herbs away from pets; cats are especially sensitive to essential oils, so keep them out of the room while the candle burns and until it has aired out. Keep Rue away from pets; it is harmful if chewed.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://www.drugs.com/npp/rue.html",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ],
+  "image": "art:candle"
+ },
+ {
+  "type": "spell",
+  "category": "candle",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "id": "spell-nine-tealight-cleansing-grid",
+  "name": "Nine-Tealight Cleansing Grid",
+  "description": "Nine is a number of completion in many European folk charms, which often repeat words or knots nine times. In this working, nine white tealights are set in a three-by-three grid on a single tray, lit in a set order, to clear a home or person after a hard stretch. Keeping all nine on one tray makes the grid easy to watch and quick to snuff.",
+  "ingredients": [
+   {
+    "item": "White tealight candles in metal cups",
+    "amount": "9"
+   },
+   {
+    "item": "Large heatproof tray or metal baking sheet, at least 12 x 12 inches",
+    "amount": "1"
+   },
+   {
+    "item": "Jinx Removing Oil or Uncrossing Oil",
+    "amount": "9 drops (1 per tealight)"
+   },
+   {
+    "item": "Coarse salt",
+    "amount": "1/4 cup"
+   },
+   {
+    "item": "Rosemary, dried and finely ground",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Clear Quartz or Selenite",
+    "amount": "1"
+   },
+   {
+    "item": "Long-reach lighter and a candle snuffer",
+    "amount": "1 each"
+   },
+   {
+    "item": "Toothpick for carving",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse the tray with salt water and dry it, then lift each tealight out of its cup and wipe it clean.",
+   "Carve a small equal-armed cross or an X into the top of each tealight around the wick, carving away from your hand.",
+   "Dress each tealight by rubbing one drop of oil onto its side, away from the wick, put them back in their cups, and wash your hands.",
+   "Arrange the tealights in three rows of three, at least 3 inches apart, on the tray, and set the quartz in the center tealight's place or just outside the grid if space is tight.",
+   "Scatter the salt and Rosemary lightly over the tray between the cups, keeping it out of the cups themselves.",
+   "Using the long-reach lighter, light the candles from the top left, row by row, saying one line of the chant (or 'Clear and clean') with each of the nine.",
+   "Sit with the grid for at least 30 minutes while picturing grime and heaviness lifting from you and your home, then close by snuffing all nine with the snuffer in reverse order."
+  ],
+  "howToUse": "Relight the grid in attended sessions until the tealights are spent, which takes about four hours in total. Let everything cool completely, then pop out the leftover wax discs, sweep them up with the salt and herb, and put them in an outdoor trash bin; recycle the metal cups. Open a window for a few minutes afterward to let the old air out.",
+  "chant": "One for the door and two for the floor,\nthree for the walls and four for the halls,\nfive for the heart and six for each part,\nseven the air, eight the stair,\nnine makes it whole and clears every soul.",
+  "intention": "I clear myself and my home of every heavy, stale and unwanted energy, complete and whole.",
+  "timing": "Saturday or Sunday, during a waning moon for removal or a full moon for brightening.",
+  "bestTime": "Spring cleaning season, the New Year, or after illness or conflict.",
+  "moonPhases": [
+   "Full Moon",
+   "Waning Gibbous",
+   "Last Quarter"
+  ],
+  "metaphysical": [
+   "cleansing",
+   "purification",
+   "uncrossing",
+   "home blessing",
+   "protection"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; if you must stop, snuff it (do not blow it out) and relight it at the next session. Use a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Nine flames make a lot of heat: keep the tealights at least 3 inches apart so they do not heat each other and flare, never reach across lit candles, and use a long-reach lighter. Set the tray on a stable heatproof surface, not on a tablecloth. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, since too much oil can make the flame flare; wash your hands afterward and never use oils on broken skin. Dried herbs near a flame are a real fire risk: keep them as a light dusting on the lower part only or in a ring on the plate, watch the candle the whole time, and keep a snuffer or lid and a cup of water nearby. Ventilate the room against smoke and soot, never put glitter, paper or plastic on the candle, and never throw water on hot wax or a wax fire (smother it with a lid instead). Let wax cool completely before handling and never pour hot wax down a drain. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep the tray well out of reach; salt is harmful to pets if licked up, and tealights burn paws and noses. Keep flames, dressing oils and herbs away from pets; cats are especially sensitive to essential oils, so keep them out of the room while the candle burns and until it has aired out.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://www.petpoisonhelpline.com/poison/salt/",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ],
+  "image": "art:candle"
+ },
+ {
+  "type": "spell",
+  "category": "candle",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "id": "spell-white-candle-and-water-glass-for-ancestors",
+  "name": "White Candle and Water Glass for Ancestors",
+  "description": "Setting a clear glass of water beside a white candle is a widespread way of honoring the dead in Spiritist, Caribbean and Latin American home practice, as well as in many modern ancestor altars; the water is said to refresh and draw spirits, and the light guides them. This is a simple weekly honoring that can be done at any time of year, with no special holiday required. It is for loving, well-meaning ancestors only.",
+  "ingredients": [
+   {
+    "item": "White taper or white pillar candle, 6-10 inches",
+    "amount": "1"
+   },
+   {
+    "item": "Holder on a heatproof plate",
+    "amount": "1"
+   },
+   {
+    "item": "Clear drinking glass",
+    "amount": "1"
+   },
+   {
+    "item": "Fresh water",
+    "amount": "to fill the glass"
+   },
+   {
+    "item": "Ancestor Oil (or 1 tsp Olive Oil with 1 drop Frankincense Essential Oil)",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Myrrh resin, finely crushed (optional)",
+    "amount": "a few grains on the plate"
+   },
+   {
+    "item": "A photo or written name of an ancestor",
+    "amount": "1"
+   },
+   {
+    "item": "Toothpick for carving",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse the space and candle by wiping both with a cloth dampened in fresh water, and wash your own hands and face.",
+   "Carve the name, initials or family surname of the ancestor you are honoring into the candle, carving away from your hand.",
+   "Dress the candle with Ancestor Oil from the base upward toward the middle, keeping oil off the wick and the top half inch; wipe off the excess and wash your hands.",
+   "Set the candle on its plate, place the glass of fresh water beside it about 4 inches away, and lean the photo or name against the glass, not against the candle.",
+   "If using Myrrh, sprinkle a few grains on the plate near, but not touching, the candle base as an offering of scent.",
+   "Light the candle, greet your ancestors by name, say the chant, and then simply talk to them about your week, or sit in silence.",
+   "After 20 to 60 minutes, close by thanking them; snuff the candle, and say, 'Go in peace and come in love.' Change the water every week."
+  ],
+  "howToUse": "Relight the candle once a week for your visit until it is used up, and replace the water each time, pouring the old water onto the ground outdoors rather than drinking it. When the candle is finished and cool, wrap the leftover wax in a cloth and keep it in a box with family keepsakes, or bury it in a garden or near a tree in their memory.",
+  "chant": "Light for those who came before,\nwater for the open door.\nBlood and bone and name I keep;\nrest in love, and gently sleep.",
+  "intention": "I honor my loving ancestors with light and fresh water and welcome their guidance.",
+  "timing": "Monday or the same evening each week; any moon phase.",
+  "bestTime": "All year; especially around birthdays and anniversaries of passing.",
+  "moonPhases": [
+   "New Moon",
+   "Full Moon",
+   "Waning Crescent"
+  ],
+  "metaphysical": [
+   "ancestors",
+   "spirit work",
+   "blessing",
+   "peace",
+   "wisdom"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; if you must stop, snuff it (do not blow it out) and relight it at the next session. Use a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Keep the photo and any paper well away from the flame, at least 4 inches from the candle. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, since too much oil can make the flame flare; wash your hands afterward and never use oils on broken skin. Ventilate the room against smoke and soot, never put glitter, paper or plastic on the candle, and never throw water on hot wax or a wax fire (smother it with a lid instead). Let wax cool completely before handling and never pour hot wax down a drain. Myrrh resin should stay on the plate, never on the candle, and only a few grains. The water is an offering only: Nothing in this spell is to be eaten or drunk.",
+  "pets": "Keep flames, dressing oils and herbs away from pets; cats are especially sensitive to essential oils, so keep them out of the room while the candle burns and until it has aired out. Keep pets from drinking the offering water.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/myrrh"
+  ],
+  "image": "art:candle"
+ },
+ {
+  "type": "spell",
+  "category": "candle",
+  "medical": [],
+  "interactions": "",
+  "toxic": false,
+  "externalOnly": true,
+  "id": "spell-peaceful-passing-candle-for-a-beloved-pet",
+  "name": "Peaceful Passing Candle for a Beloved Pet",
+  "description": "Lighting a candle for someone who is dying or has died is one of the oldest and most widespread human customs, and many people now do the same for their animal companions. This gentle working honors a pet who is nearing the end of life or has recently passed, wishing them peace and freedom from pain and giving you a quiet place for grief. It is not a substitute for veterinary care or a vet's advice about comfort and end-of-life decisions.",
+  "ingredients": [
+   {
+    "item": "Pale blue, lavender or white pillar candle, about 3 x 4 inches",
+    "amount": "1"
+   },
+   {
+    "item": "Heatproof plate",
+    "amount": "1"
+   },
+   {
+    "item": "Olive Oil (unscented, no essential oil)",
+    "amount": "2-3 drops"
+   },
+   {
+    "item": "Rose petals, dried",
+    "amount": "a small handful"
+   },
+   {
+    "item": "Rose Quartz",
+    "amount": "1"
+   },
+   {
+    "item": "Your pet's collar, tag or a photo",
+    "amount": "1"
+   },
+   {
+    "item": "Toothpick for carving",
+    "amount": "1"
+   }
+  ],
+  "steps": [
+   "Cleanse the candle by holding it in your hands and breathing gently over it, remembering a happy moment with your pet.",
+   "Carve your pet's name and a small paw print or heart into the side of the candle, carving away from your hand.",
+   "Dress the candle with a few drops of plain Olive Oil from the base upward toward the middle, keeping oil off the wick and the top half inch; wipe off the excess and wash your hands.",
+   "Set the pillar on the plate, scatter the Rose petals in a ring on the plate around the base, and place the collar, tag or photo and the Rose Quartz at least 4 inches from the flame.",
+   "If your pet is still with you, light the candle in a different room from where they rest, so the flame and scent stay away from them.",
+   "Light the candle, say the chant softly, and speak to your pet, thanking them for the love and the years you shared.",
+   "When you are ready, close by snuffing the flame and saying, 'Go gently, friend; you are loved.' Relight it whenever you wish to remember them."
+  ],
+  "howToUse": "Burn it in quiet sessions over the days of their passing and after, as often as feels right; there is no wrong way to grieve. When the candle is spent and cool, you can bury the leftover wax with the rose petals at the place where your pet is laid to rest or beneath a favorite plant, or keep a small piece in a memory box with the collar or tag. Reach out to friends, your vet, or a pet-loss support line if grief feels heavy.",
+  "chant": "Soft of paw and warm of heart,\nlove remains though we must part.\nRun in peace through fields of light;\nsleep, my friend, and rest tonight.",
+  "intention": "I wish my beloved companion a peaceful passing, free of pain and wrapped in love.",
+  "timing": "Any day or hour it is needed; a waning or dark moon suits endings.",
+  "bestTime": "Whenever the time comes; anniversaries of the loss.",
+  "moonPhases": [
+   "Waning Crescent",
+   "Dark Moon",
+   "Waning Gibbous"
+  ],
+  "metaphysical": [
+   "grief",
+   "emotional healing",
+   "peace",
+   "endings",
+   "release"
+  ],
+  "caution": "Never leave a burning candle unattended or burning while you sleep; if you must stop, snuff it (do not blow it out) and relight it at the next session. Use a sturdy holder on a heatproof plate or tray, at least 12 inches from curtains, paper, plants and anything that can burn, out of reach of children and pets, and tie back long hair and loose sleeves. Animals at the end of life may be weak or confused and should be kept well away from flames and wax. Use plain, unscented oil only for this spell, since essential oils and scented smoke can affect sick animals. Use only a few drops of dressing oil, wipe off the excess, and keep oil off the wick and the top half inch of the candle, since too much oil can make the flame flare; wash your hands afterward and never use oils on broken skin. Ventilate the room against smoke and soot, never put glitter, paper or plastic on the candle, and never throw water on hot wax or a wax fire (smother it with a lid instead). Let wax cool completely before handling and never pour hot wax down a drain. Keep petals on the plate, never on the candle. Nothing in this spell is to be eaten or drunk.",
+  "pets": "Burn the candle in a room the pets cannot enter, never near a sick or elderly animal, and keep other pets in the household away from the flame and petals. Avoid essential oils entirely here; cats and birds are especially sensitive to scented vapors.",
+  "sources": [
+   "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/candle/",
+   "https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/candlesafetytips.pdf",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds"
+  ],
+  "image": "art:candle"
+ }
+]

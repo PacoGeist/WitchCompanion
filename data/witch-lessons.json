@@ -1,0 +1,1723 @@
+[
+ {
+  "id": "start-here",
+  "title": "Start Here: The Witch's Path",
+  "subtitle": "Where every witch's journey begins",
+  "icon": "book",
+  "minutes": 10,
+  "intro": [
+   "Witchcraft is a practice, not a single religion or rulebook. Some witches are Wiccan or Wiccan-influenced, some follow folk or green craft rooted in land and hearth, some are eclectic and gather what works for them, and some are secular and see the craft as focused psychology. There are many paths, and yours is allowed to grow and change.",
+   "At its heart, most magic rests on three things working together: intention (knowing clearly what you want and why), energy (the focus, emotion and life force you put behind it) and action (the ritual, the spell, and the real-world steps you take afterwards). A candle spell for a new job works best alongside an updated resume.",
+   "These lessons build on each other. Grounding, centering, shielding and cleansing come first because they keep you steady and safe. Drawing energy and invoking the elements come next, and spells, circles and seasonal work rest on all of them. Take your time: a small practice done often is worth more than a grand ritual done once."
+  ],
+  "keyIdeas": [
+   "Witchcraft is a practice with many paths, and no single tradition owns the word.",
+   "Magic combines intention, energy and action, and mundane effort is part of the spell.",
+   "Ethical witches avoid working on another person's free will without consent, and take responsibility for what they send out.",
+   "A Book of Shadows or journal (the journals in this app) is where you record practices, results and insights so you can learn from them.",
+   "Foundations like grounding and cleansing come before bigger workings, so each lesson builds on the last.",
+   "Respect closed and living cultural practices by learning about them without taking what is not offered."
+  ],
+  "practice": {
+   "name": "A Simple First Daily Practice",
+   "steps": [
+    "Choose a regular time, such as just after waking or before bed, and a quiet spot where you will not be interrupted for ten minutes.",
+    "Sit comfortably, with your feet on the floor if you can, and take three slow breaths, letting each exhale be a little longer than the inhale.",
+    "Notice how you feel right now in your body, your mood and your energy, without judging it.",
+    "If you like, light a candle or hold a stone as a simple signal to yourself that this is your practice time.",
+    "Set one small intention for the day, such as \"I move through today with patience,\" and say it aloud or in your mind.",
+    "Spend a minute imagining that intention as a warm light settling into your chest.",
+    "Thank whatever feels right to you, whether that is the earth, your guides, a deity or simply yourself.",
+    "Blow out or snuff the candle, and open a new entry in your journal.",
+    "Write the date, the moon phase if you know it, how you felt and the intention you set.",
+    "That evening or the next morning, add a line about how the day went, so you start seeing patterns over time."
+   ]
+  },
+  "variations": [
+   {
+    "name": "Two-minute version",
+    "text": "Three breaths, one intention, one line in your journal. On busy days this still counts."
+   },
+   {
+    "name": "Broom-closet version",
+    "text": "Skip the candle and props. A cup of tea held mindfully and a note on your phone make a perfectly valid daily practice."
+   },
+   {
+    "name": "Nature version",
+    "text": "Step outside or open a window, notice the weather, the sky and the season, and let that observation shape your intention."
+   },
+   {
+    "name": "Card or rune of the day",
+    "text": "Draw a single tarot card or rune as part of your practice and record it, then reflect on it at day's end."
+   }
+  ],
+  "tools": [
+   "A journal or this app's journals",
+   "A candle (optional)",
+   "A favorite stone or small natural object",
+   "A quiet corner or small altar space"
+  ],
+  "correspondences": [
+   {
+    "label": "Timing",
+    "value": "Any time you can keep regularly; new moon is a lovely time to begin"
+   },
+   {
+    "label": "Crystals",
+    "value": "Clear quartz for clarity, amethyst for calm focus"
+   },
+   {
+    "label": "Herbs",
+    "value": "Rosemary for memory, lavender for calm"
+   },
+   {
+    "label": "Colors",
+    "value": "White for new beginnings, green for growth"
+   },
+   {
+    "label": "Symbols",
+    "value": "Pentacle, spiral of growth"
+   }
+  ],
+  "signs": [
+   "You start noticing your moods and energy more clearly through the day.",
+   "Your journal begins to show patterns, like better days when you practice.",
+   "The practice starts to feel like a comforting habit rather than a chore."
+  ],
+  "pitfalls": [
+   "Trying to learn everything at once. Pick one practice and stay with it for a few weeks.",
+   "Buying lots of tools before building basic skills. Your focus is the most important tool.",
+   "Skipping the journal. Without records it is hard to tell what actually works for you.",
+   "Feeling you must follow one tradition's rules perfectly. Learn widely, then choose thoughtfully."
+  ],
+  "safety": "Never leave a candle unattended, and keep flames away from curtains, pets and children. Witchcraft can support your wellbeing, but it is not a substitute for medical, legal or mental health care.",
+  "journal": [
+   "What drew me to witchcraft, and what do I hope it brings into my life?",
+   "What does ethical magic mean to me, and where are my personal lines?",
+   "Which parts of my daily routine could become small rituals?"
+  ],
+  "links": [
+   "crystal-clear-quartz",
+   "crystal-amethyst",
+   "herb-rosemary",
+   "herb-lavender",
+   "sigil-pentacle",
+   "sigil-spiral-of-growth",
+   "spell-new-moon-intention",
+   "incense-meditation",
+   "oil-blessing"
+  ],
+  "quiz": [
+   {
+    "q": "Which three things does most magic combine?",
+    "options": [
+     "Candles, crystals and herbs",
+     "Intention, energy and action",
+     "Moon, sun and stars"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What is a Book of Shadows mainly used for?",
+    "options": [
+     "Recording your practices, results and insights",
+     "Storing spells that must be kept secret from everyone",
+     "Listing the tools you need to buy"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Why do these lessons start with grounding and cleansing?",
+    "options": [
+     "They are the most powerful spells",
+     "They are only for beginners and can be skipped later",
+     "They keep you steady and safe, and later work builds on them"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "grounding",
+  "title": "Grounding",
+  "subtitle": "Roots down, steady and present",
+  "icon": "leaf",
+  "minutes": 5,
+  "intro": [
+   "Grounding means connecting your energy with the earth so you feel stable, present and in your body. It is often the very first and last thing a witch does in any working, much like an electrician grounding a circuit so excess charge has somewhere safe to go.",
+   "When you are ungrounded you might feel scattered, anxious, spacey or wired after ritual. Grounding brings you back. It also gives you a steady base for everything else, from meditation to spellwork, because it is hard to direct energy when you cannot feel your own feet.",
+   "The classic method is the tree-roots visualization, but grounding can be as simple as walking barefoot, eating a meal or holding a heavy stone. Find the methods that work for your body and use them often."
+  ],
+  "keyIdeas": [
+   "Grounding connects your energy with the earth so you feel stable and present.",
+   "Ground before magic to steady yourself, and after magic to release excess energy.",
+   "The tree-roots visualization is a classic method, but physical methods work just as well.",
+   "You give spare or stuck energy to the earth to be recycled, not dumped as harm.",
+   "Short, frequent grounding builds a skill you can call on quickly in stressful moments."
+  ],
+  "practice": {
+   "name": "Tree Roots Grounding",
+   "steps": [
+    "Sit or stand with your feet flat on the floor or ground, spine comfortably straight and hands resting loosely.",
+    "Close your eyes or soften your gaze, and take a few slow, deep breaths into your belly.",
+    "Bring your attention to the soles of your feet and notice the weight of your body pressing down.",
+    "Imagine roots growing from the base of your spine and the soles of your feet, reaching down through the floor into the soil.",
+    "Let the roots sink deeper with each exhale, past stones and water, down toward the warm, steady heart of the earth.",
+    "As you exhale, let any anxious, scattered or excess energy flow down the roots to be absorbed and renewed by the earth.",
+    "As you inhale, draw up a gentle, steady energy through the roots, filling your legs, belly and chest with calm strength.",
+    "Stay here for several breaths, feeling heavy, supported and calm.",
+    "When you are ready, let the roots relax and settle, staying lightly connected rather than ripped up.",
+    "Wiggle your fingers and toes, open your eyes, and notice how you feel."
+   ]
+  },
+  "variations": [
+   {
+    "name": "Quick version",
+    "text": "Press your feet into the floor, take three breaths, and on each exhale think \"down and steady.\" Useful before a meeting or after a hard conversation."
+   },
+   {
+    "name": "Outdoors",
+    "text": "Stand barefoot on grass, soil or sand, or lean your back against a tree, and let the land do most of the work."
+   },
+   {
+    "name": "Physical grounding",
+    "text": "Eat something hearty, wash your hands in cool water, garden, or name five things you can see. These are excellent after ritual or when visualization is hard."
+   },
+   {
+    "name": "With crystals",
+    "text": "Hold a heavy, dark stone such as hematite, smoky quartz or black tourmaline in each hand, or place one at your feet, while you breathe."
+   }
+  ],
+  "tools": [
+   "Nothing at all is required",
+   "A grounding stone such as hematite or smoky quartz",
+   "A patch of earth, grass or a tree",
+   "A warm drink or simple snack for afterwards"
+  ],
+  "correspondences": [
+   {
+    "label": "Element",
+    "value": "Earth"
+   },
+   {
+    "label": "Crystals",
+    "value": "Hematite, smoky quartz, black tourmaline, red jasper, petrified wood"
+   },
+   {
+    "label": "Herbs",
+    "value": "Vetiver, patchouli, cedar, oak, burdock root"
+   },
+   {
+    "label": "Colors",
+    "value": "Brown, deep green, black, dark red"
+   },
+   {
+    "label": "Timing",
+    "value": "Before and after every working, and any time you feel scattered"
+   }
+  ],
+  "signs": [
+   "Your body feels heavier, warmer or more settled.",
+   "Racing thoughts slow and your breathing deepens on its own.",
+   "Dizziness, buzzing or a spacey feeling fades after ritual."
+  ],
+  "pitfalls": [
+   "Rushing through it. Even two unhurried minutes work better than ten distracted seconds.",
+   "Forgetting to ground after ritual, which can leave you jittery, headachy or unable to sleep.",
+   "Struggling to visualize. Use touch, movement or a stone instead; feeling counts as much as seeing.",
+   "Pulling all your energy down so you feel sluggish. Aim for steady, not drained."
+  ],
+  "safety": "Grounding can help you feel calmer, but it is not a substitute for professional care. If you live with panic, dissociation or trauma, work gently, keep your eyes open if that feels safer, and reach out to a qualified professional for support.",
+  "journal": [
+   "How does my body feel when I am ungrounded, and when I am grounded?",
+   "Which grounding method felt most natural to me, and why?",
+   "When in my week would a quick grounding help most?"
+  ],
+  "links": [
+   "crystal-hematite",
+   "crystal-smoky-quartz",
+   "crystal-black-tourmaline",
+   "crystal-red-jasper",
+   "crystal-petrified-wood",
+   "herb-vetiver",
+   "herb-oak",
+   "brew-grounding-root-brew",
+   "incense-elemental-earth"
+  ],
+  "quiz": [
+   {
+    "q": "What is the main purpose of grounding?",
+    "options": [
+     "To connect with the earth so you feel stable and present",
+     "To raise as much energy as possible",
+     "To banish spirits from a room"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "When is it most important to ground?",
+    "options": [
+     "Only during the full moon",
+     "Before and after magical work",
+     "Only when outdoors"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "If you find visualization difficult, what can you do?",
+    "options": [
+     "Skip grounding entirely",
+     "Only ground with expensive crystals",
+     "Use physical methods like touching earth, eating or holding a stone"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "centering-shielding",
+  "title": "Centering and Shielding",
+  "subtitle": "Find your core, then guard it",
+  "icon": "eye",
+  "minutes": 10,
+  "intro": [
+   "Once you are grounded, centering is the next step. Centering means gathering your scattered attention and energy back into your core, the place in your body that feels most like \"you.\" For many witches that is the belly just below the navel, for others it is the heart or solar plexus.",
+   "Shielding builds on centering. A shield is an energetic boundary, often imagined as a bubble of light, that lets in what nourishes you and keeps out what drains you. It is useful in crowds, at work, around difficult people, and during spellwork or divination.",
+   "Think of grounding as roots, centering as the trunk and shielding as the bark. A good shield is not a wall you hide behind. It is a healthy boundary that you set with intention and renew as needed."
+  ],
+  "keyIdeas": [
+   "Centering gathers your energy and attention into your core so you feel whole and focused.",
+   "Ground first, then center, then shield, since each step supports the next.",
+   "A shield is an energetic boundary that filters what reaches you, not a wall that cuts you off.",
+   "Shields fade over time and need renewing, especially after draining situations.",
+   "Shielding works alongside, not instead of, practical boundaries like saying no and leaving harmful situations."
+  ],
+  "practice": {
+   "name": "Center and Bubble Shield",
+   "steps": [
+    "Ground yourself first with a few breaths and the tree-roots visualization.",
+    "Place a hand on your belly or heart, wherever feels like your center, and breathe into that spot.",
+    "Imagine your energy as threads stretched out toward work, worries and other people, and on each inhale gently call those threads back to your center.",
+    "Feel your center grow brighter and steadier, like a small warm sun inside you.",
+    "On an exhale, let that light expand outward through your body until it extends about an arm's length around you in every direction, including above your head and below your feet.",
+    "Shape it into a bubble or egg of light in a color that feels protective to you, such as white, gold, silver or blue.",
+    "Set its purpose clearly, for example: \"Only love and what serves my highest good may enter. All else is turned away and returned to the earth.\"",
+    "Imagine the surface of the bubble firming up, flexible yet strong, and notice how it feels to stand inside it.",
+    "Take three more breaths, then open your eyes knowing the shield stays with you as you go about your day.",
+    "Later, when you no longer need it, thank the shield and let it soften back into your normal energy, or renew it if you are still in a draining place."
+   ]
+  },
+  "variations": [
+   {
+    "name": "Quick version",
+    "text": "Touch your center, take one deep breath, and picture a bubble snapping into place around you. Handy before walking into a crowded room."
+   },
+   {
+    "name": "Mirror shield",
+    "text": "Picture the outside of your bubble as a soft mirror that reflects negativity back to its source without adding any harm of your own."
+   },
+   {
+    "name": "Broom-closet version",
+    "text": "Center by pressing your feet down and your thumb and fingertip together, and set your shield with a single silent word you choose in advance."
+   },
+   {
+    "name": "With crystals and herbs",
+    "text": "Carry black tourmaline, labradorite or obsidian, or wear a dab of diluted protection oil on your wrists, as a physical anchor for your shield."
+   }
+  ],
+  "tools": [
+   "Nothing at all is required",
+   "A protective stone such as black tourmaline or labradorite",
+   "A small protection sachet or charm",
+   "A protective sigil drawn on paper or traced on your skin with water"
+  ],
+  "correspondences": [
+   {
+    "label": "Crystals",
+    "value": "Black tourmaline, labradorite, obsidian, amethyst, smoky quartz"
+   },
+   {
+    "label": "Herbs",
+    "value": "Rosemary, bay laurel, angelica, rowan, juniper"
+   },
+   {
+    "label": "Colors",
+    "value": "White, gold, silver, deep blue, violet"
+   },
+   {
+    "label": "Symbols",
+    "value": "Algiz, protective eye, pentacle, Helm of Awe"
+   },
+   {
+    "label": "Timing",
+    "value": "Mornings, before crowds or difficult conversations, before divination"
+   }
+  ],
+  "signs": [
+   "You feel more like yourself and less pulled in many directions.",
+   "Other people's moods affect you less, or you notice them without absorbing them.",
+   "A sense of space, warmth or gentle pressure around your body.",
+   "You leave busy places feeling less drained than usual."
+  ],
+  "pitfalls": [
+   "Shielding without grounding first, which can trap anxious energy inside the bubble with you.",
+   "Building a shield so rigid that you feel isolated or numb. Aim for a filter, not a fortress.",
+   "Setting it once and forgetting it. Shields wear thin, so renew them during long or hard days.",
+   "Relying on a shield alone to handle a harmful person or situation. Practical boundaries come first."
+  ],
+  "safety": "Shielding is a support, not protection from real-world danger. If you feel unsafe with someone, put physical safety first and reach out to trusted people or appropriate services.",
+  "journal": [
+   "Where in my body does my center feel strongest?",
+   "What color and shape did my shield take, and how did it feel?",
+   "Which people or places drain me most, and how might I prepare before facing them?"
+  ],
+  "links": [
+   "crystal-black-tourmaline",
+   "crystal-labradorite",
+   "crystal-obsidian",
+   "herb-angelica",
+   "herb-rowan",
+   "sigil-algiz",
+   "sigil-protective-eye",
+   "spell-mirror-reflection-protection",
+   "spell-protection-sachet",
+   "oil-psychic-protection"
+  ],
+  "quiz": [
+   {
+    "q": "What is the recommended order for these foundation skills?",
+    "options": [
+     "Shield, center, ground",
+     "Ground, center, shield",
+     "Center, shield, ground"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What is the best description of a healthy shield?",
+    "options": [
+     "A filter that lets in what nourishes you and turns away what drains you",
+     "A solid wall that blocks everything and everyone",
+     "A spell that harms anyone who sends negativity"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Why should shields be renewed?",
+    "options": [
+     "They only work on full moons",
+     "They expire exactly at midnight",
+     "They can wear thin over time, especially after draining situations"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "cleansing",
+  "title": "Cleansing",
+  "subtitle": "Clear the old, make room anew",
+  "icon": "broom",
+  "minutes": 15,
+  "intro": [
+   "Cleansing is the practice of clearing stale, heavy or unwanted energy from yourself, your home and your magical tools. Many witches cleanse before a spell to start with a clean slate, after an argument or illness, when moving into a new space, or simply as regular upkeep, like tidying.",
+   "There are many methods: smoke from cleansing herbs or resins, sound from bells or singing bowls, salt, water, moonlight, sunlight, visualization and the humble broom. Each one carries its own feel, and some suit certain items better than others. A crystal that dissolves in water, for example, needs a gentler touch than a cast iron cauldron.",
+   "Cleansing is also an act of respect. Rather than borrowing closed practices, this lesson uses \"smoke cleansing\" with herbs like garden sage, rosemary, juniper and mugwort, many of which you can grow or source responsibly yourself."
+  ],
+  "keyIdeas": [
+   "Cleansing clears stale or unwanted energy from people, spaces and tools so you start fresh.",
+   "Common methods include smoke, sound, salt, water, moonlight, sunlight, visualization and sweeping.",
+   "Match the method to the item: some crystals are damaged by water or salt, and some fade in sunlight.",
+   "Use smoke cleansing with sustainably sourced herbs such as garden sage, rosemary, juniper or mugwort rather than white sage from closed traditions.",
+   "After cleansing, fill the space with something positive, such as an intention, blessing or protective charm."
+  ],
+  "practice": {
+   "name": "Cleansing Yourself, Your Space and Your Tools",
+   "steps": [
+    "Ground and center yourself, then open a window or door so stale energy and smoke have somewhere to go.",
+    "Cleanse yourself first: light a bundle or loose blend of garden sage, rosemary or juniper in a fireproof dish, and waft the smoke from your feet upward to your head, front and back, while saying \"I release what is not mine.\"",
+    "If you prefer no smoke, rinse your hands and face in salted or plain water, or ring a bell around your body instead.",
+    "Next, sweep your space: with a broom held just above the floor or lightly brushing it, move from the back of your home toward the front door, imagining heavy energy being swept out.",
+    "Walk each room counterclockwise (or in whichever direction you associate with releasing), carrying smoke or ringing a bell, paying extra attention to corners, doorways and windows.",
+    "Then cleanse your tools, choosing a method that suits each one: smoke or sound for almost anything, moonlight for most stones, and salt or water only for sturdy items like quartz, glass or iron.",
+    "Place delicate stones such as selenite, malachite or pyrite on a bed of dry rice, beside a selenite plate, or under moonlight instead of in water or salt.",
+    "Once everything is clear, walk the space clockwise and speak a blessing, such as \"May this home hold peace, love and protection.\"",
+    "Safely extinguish any burning herbs fully in sand or a fireproof dish, and dispose of used salt water down the drain or onto bare soil away from plants.",
+    "Ground once more, wash your hands, and note in your journal what you cleansed and how the space feels."
+   ]
+  },
+  "variations": [
+   {
+    "name": "Quick version",
+    "text": "Clap sharply in each corner of a room, or ring a bell three times and open a window. Good for daily upkeep."
+   },
+   {
+    "name": "Smoke-free version",
+    "text": "Use sound, a spray of witch hazel or rose water, a cleansing floor wash, or simply visualize white light flowing through the room. Ideal for renters, asthma, pets or babies."
+   },
+   {
+    "name": "Broom-closet version",
+    "text": "Treat ordinary cleaning as ritual: wipe surfaces and sweep with intention, adding a pinch of salt or a few drops of lemon to your cleaning water."
+   },
+   {
+    "name": "Moonlight and sunlight",
+    "text": "Leave tools on a windowsill overnight during the full moon. Sunlight is cleansing too, but it fades amethyst, rose quartz, fluorite and citrine, so keep those in moonlight."
+   },
+   {
+    "name": "Cleansing bath",
+    "text": "Add a handful of sea salt and a few rosemary sprigs to a warm bath, soak with the intention of release, and let the water drain away your heaviness."
+   }
+  ],
+  "tools": [
+   "Garden sage, rosemary, juniper or mugwort bundle or loose herbs",
+   "A fireproof dish with sand",
+   "A broom or besom",
+   "Sea salt and a bowl of water",
+   "A bell, singing bowl or rattle",
+   "A selenite plate or bowl of dry rice for delicate stones"
+  ],
+  "correspondences": [
+   {
+    "label": "Herbs",
+    "value": "Garden sage, rosemary, juniper, mugwort, hyssop, lavender, cedar"
+   },
+   {
+    "label": "Resins",
+    "value": "Frankincense, copal, benzoin"
+   },
+   {
+    "label": "Crystals",
+    "value": "Selenite and clear quartz (gentle cleansers for other stones)"
+   },
+   {
+    "label": "Timing",
+    "value": "Waning or dark moon for release; full moon for charging afterwards"
+   },
+   {
+    "label": "Salt and water safe",
+    "value": "Clear quartz, amethyst, glass, iron, most hard stones"
+   },
+   {
+    "label": "Avoid salt and water",
+    "value": "Selenite, malachite, pyrite, hematite, lepidolite, opal, turquoise, amber, pearl"
+   }
+  ],
+  "signs": [
+   "The room feels lighter, brighter or easier to breathe in.",
+   "You feel calmer, clearer or as if a weight has lifted.",
+   "Tools and stones feel fresh or \"buzzy\" again in your hand.",
+   "Arguments or heaviness in the home settle down."
+  ],
+  "pitfalls": [
+   "Soaking water-sensitive crystals, which can dissolve, rust or crack them. Check before you dunk.",
+   "Cleansing without refilling the space, which can leave it feeling empty. Follow with a blessing or intention.",
+   "Using too much smoke in a closed room. A little smoke with good airflow is plenty.",
+   "Forgetting to cleanse yourself before cleansing your space, so you carry the heaviness with you."
+  ],
+  "safety": "Never leave burning herbs unattended, keep a fireproof dish under them, and ventilate well, especially around pets, birds, children, pregnancy, asthma or other breathing conditions. Malachite dust is toxic, so never make crystal elixirs or wet-sand it, and wash your hands after handling it.",
+  "journal": [
+   "Which cleansing method felt best to me, and how did my space change afterwards?",
+   "What do I want to clear out of my life right now, energetically or practically?",
+   "Which of my tools need gentle cleansing methods, and which can handle salt and water?"
+  ],
+  "links": [
+   "incense-cleansing-smoke",
+   "incense-purification",
+   "herb-common-sage",
+   "herb-rosemary",
+   "herb-juniper",
+   "herb-mugwort",
+   "crystal-selenite",
+   "spell-broom-threshold-sweeping",
+   "brew-sea-salt-water",
+   "brew-cleansing-floor-wash"
+  ],
+  "quiz": [
+   {
+    "q": "Which crystal should NOT be cleansed in salt water?",
+    "options": [
+     "Clear quartz",
+     "Selenite",
+     "Amethyst"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which herbs are good, respectful choices for smoke cleansing?",
+    "options": [
+     "Garden sage, rosemary, juniper and mugwort",
+     "Only white sage harvested from the wild",
+     "Any plant you find, including unknown ones"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "What is a good thing to do after cleansing a space?",
+    "options": [
+     "Leave it completely empty forever",
+     "Immediately cleanse it again",
+     "Fill it with a blessing, intention or protective charm"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "drawing-energy",
+  "title": "Drawing Energy",
+  "subtitle": "Borrow power, never burn yourself out",
+  "icon": "sun",
+  "minutes": 15,
+  "intro": [
+   "Spells need energy to move. Raising energy means building up power within or around you, and drawing energy means pulling it in from a source beyond yourself, such as the earth, the sky, the sun, the moon or the elements. Most witches combine both: they gather energy from outside, shape it with intention and send it toward their goal.",
+   "A key lesson is not to run your spells on your own life force alone. If you pour out only your personal energy, you can end up tired, irritable or run down. By drawing from vast, renewing sources like the earth and sun, you act as a channel rather than a battery.",
+   "Raised energy needs somewhere to go. In group work, witches often build a \"cone of power,\" a spiraling column of energy raised by chanting, drumming or dancing, then released toward the goal. Afterwards, any leftover energy is grounded so it does not leave you buzzing."
+  ],
+  "keyIdeas": [
+   "Raising energy builds power, and drawing energy brings it in from outside sources like earth, sky, sun, moon and the elements.",
+   "Work as a channel, not a battery: draw from renewing sources rather than draining your own reserves.",
+   "Common ways to raise energy include breath, chanting, drumming, dancing, visualization and focused emotion.",
+   "A cone of power is energy raised and spiraled upward, then released toward a goal at its peak.",
+   "Always ground excess energy afterwards so you do not feel wired, anxious or unable to sleep."
+  ],
+  "practice": {
+   "name": "Earth and Sky Energy Draw",
+   "steps": [
+    "Ground and center yourself, letting your roots reach deep into the earth.",
+    "On an inhale, draw steady, warm earth energy up through your roots, into your feet, legs and belly, and let it rest at your center.",
+    "Now imagine branches reaching from the crown of your head up toward the sky, sun, moon or stars.",
+    "On the next inhale, draw bright, cool sky energy down through your branches into the top of your head, down to meet the earth energy at your center.",
+    "Breathe slowly, letting the two currents mix and swirl at your center until you feel a gentle fullness or warmth.",
+    "Hold your intention clearly in mind, and let the energy take on its feeling, for example courage, healing or calm.",
+    "Direct the energy into your goal, such as by holding your hands over a candle, a charm or a written intention and letting it flow out through your palms.",
+    "When you feel a natural peak, release it with a firm exhale, clap or word such as \"So it is.\"",
+    "Press your palms to the floor or ground and let any leftover energy drain down into the earth.",
+    "Eat or drink something, then rest for a moment and notice how you feel."
+   ]
+  },
+  "variations": [
+   {
+    "name": "Sun and moon",
+    "text": "Draw golden sunlight at midday for vitality and success, or silver moonlight at night for intuition and gentleness. Stand in the actual light if you can."
+   },
+   {
+    "name": "Elemental draw",
+    "text": "Draw energy from a candle flame for passion, a bowl of water for emotion, a breeze for clarity, or a stone for stability, matching the element to your goal."
+   },
+   {
+    "name": "Simple cone of power",
+    "text": "Hum or chant a single word, letting it grow louder and faster while picturing energy spiraling upward around you, then release it all at once and ground."
+   },
+   {
+    "name": "Broom-closet version",
+    "text": "Breathe in sunlight through an open window and imagine it collecting in your belly, then silently send it into a goal you hold in mind."
+   }
+  ],
+  "tools": [
+   "A candle, charm or written intention to receive the energy",
+   "A drum, rattle or your own voice",
+   "A grounding stone for afterwards",
+   "A snack and water"
+  ],
+  "correspondences": [
+   {
+    "label": "Sources",
+    "value": "Earth, sky, sun, moon, elements, plants, running water"
+   },
+   {
+    "label": "Crystals",
+    "value": "Clear quartz (amplifier), citrine and sunstone (solar), moonstone (lunar), carnelian (vitality)"
+   },
+   {
+    "label": "Herbs",
+    "value": "Dragon's blood, cinnamon, ginger, bay laurel"
+   },
+   {
+    "label": "Timing",
+    "value": "Waxing to full moon for building power; midday for solar energy"
+   },
+   {
+    "label": "Colors",
+    "value": "Gold, orange, red for vitality; silver and white for lunar energy"
+   }
+  ],
+  "signs": [
+   "Warmth, tingling or a pulsing sensation in your hands, center or spine.",
+   "A rising feeling of excitement, fullness or focus.",
+   "A natural sense of peak, as if the energy wants to be released."
+  ],
+  "pitfalls": [
+   "Using only your own energy, then feeling exhausted. Remember to draw from outside sources.",
+   "Holding the energy too long after the peak, so it fizzles out instead of launching.",
+   "Skipping grounding afterwards, which can leave you jittery, sleepless or headachy.",
+   "Pushing too hard when tired or unwell. Rest is part of the practice."
+  ],
+  "safety": "If you feel dizzy, overwhelmed or panicky, stop, open your eyes, place your hands on the ground and breathe slowly. Raising energy with fast breathing or intense dancing can be strenuous, so go at a pace your body is comfortable with.",
+  "journal": [
+   "Which source of energy felt strongest or most natural to me?",
+   "How did my body feel before, during and after drawing energy?",
+   "What helped me ground the excess afterwards, and what would I change next time?"
+  ],
+  "links": [
+   "crystal-clear-quartz",
+   "crystal-citrine",
+   "crystal-sunstone",
+   "crystal-moonstone",
+   "crystal-carnelian",
+   "herb-dragons-blood",
+   "oil-dragons-blood-power",
+   "brew-sun-water",
+   "brew-full-moon-water",
+   "incense-planetary-sun"
+  ],
+  "quiz": [
+   {
+    "q": "Why is it wise to draw energy from outside sources?",
+    "options": [
+     "Outside energy is always stronger than yours",
+     "So you act as a channel and do not drain your own reserves",
+     "Because personal energy cannot be used in magic"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What is a cone of power?",
+    "options": [
+     "Energy raised and spiraled upward, then released toward a goal",
+     "A cone-shaped candle used in rituals",
+     "A type of protective shield"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "What should you do with leftover energy after a working?",
+    "options": [
+     "Store it in your body for later",
+     "Send it to a friend without asking",
+     "Ground it into the earth"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "invoking-elements",
+  "title": "Invoking the Elements",
+  "subtitle": "Earth, Air, Fire, Water and Spirit",
+  "icon": "pentacle",
+  "minutes": 20,
+  "intro": [
+   "Many witches work with the classical elements: Earth, Air, Fire and Water, often joined by Spirit, which binds them together and sits at the top of the pentacle. Each element has its own qualities, and inviting them into your ritual brings balance, support and a sense of the whole world gathered around you.",
+   "Calling the elements at the four directions is often called \"calling the quarters\" and is frequently part of casting a circle. A common Wiccan-influenced arrangement in the Northern Hemisphere places Earth in the North, Air in the East, Fire in the South and Water in the West. Directions vary by tradition and hemisphere, though: many Southern Hemisphere witches place Fire in the North, toward the equator and the sun, and Earth in the South, and some witches orient to local landmarks like the nearest coast or mountain.",
+   "Whatever arrangement you choose, the heart of it is respect. You are inviting, not commanding, and you always thank and release what you have called before you close."
+  ],
+  "keyIdeas": [
+   "The classical elements are Earth, Air, Fire and Water, with Spirit often added as the fifth that unites them.",
+   "A common Northern Hemisphere layout is Earth North, Air East, Fire South, Water West, but directions vary by tradition and hemisphere.",
+   "Calling the quarters means respectfully inviting each element at its direction, often as part of casting a circle.",
+   "Invite, do not command, and always thank and release each element at the end, usually in reverse order.",
+   "Each element has correspondences in color, tools, qualities and magic that help you choose what to work with."
+  ],
+  "practice": {
+   "name": "Calling and Releasing the Quarters",
+   "steps": [
+    "Ground, center and cleanse your space, then find North with a compass or phone and decide which element belongs at each direction for you.",
+    "Place a simple symbol at each quarter if you like: a stone or bowl of salt for Earth, a feather or incense for Air, a candle for Fire, and a bowl of water for Water.",
+    "Face East (or wherever you place Air), raise your hand or wand, and say: \"Spirits of Air, of breath and new beginnings, I invite you to join this circle. Hail and welcome.\"",
+    "Turn clockwise to the South (or Fire's direction) and say: \"Spirits of Fire, of passion and courage, I invite you to join this circle. Hail and welcome.\"",
+    "Turn to the West (or Water's direction) and say: \"Spirits of Water, of emotion and intuition, I invite you to join this circle. Hail and welcome.\"",
+    "Turn to the North (or Earth's direction) and say: \"Spirits of Earth, of strength and stability, I invite you to join this circle. Hail and welcome.\"",
+    "Return to the center, touch your heart, and invite Spirit: \"Spirit, which binds all things, be welcome here.\"",
+    "Pause at each call to notice any shift in feeling, such as a breeze, warmth, coolness or heaviness, then do your ritual, meditation or spell.",
+    "When finished, release them in reverse order, starting with Spirit, then turning counterclockwise from Earth through Water, Fire and Air, saying to each: \"Thank you for your presence. Go if you must, stay if you will. Hail and farewell.\"",
+    "Ground any excess energy, safely extinguish candles, and note in your journal how each element felt."
+   ]
+  },
+  "variations": [
+   {
+    "name": "Quick version",
+    "text": "Turn to each direction in silence, nod and think \"welcome,\" then at the end turn back the other way and think \"thank you.\""
+   },
+   {
+    "name": "Southern Hemisphere",
+    "text": "Try placing Fire in the North and Earth in the South, walking your circle counterclockwise if that matches the sun's path where you live. Follow what feels true to your land."
+   },
+   {
+    "name": "Outdoors and local",
+    "text": "Call the elements as they appear in your surroundings, such as the river to the West or the mountain to the North, letting the land shape your quarters."
+   },
+   {
+    "name": "Broom-closet version",
+    "text": "Keep four small items on a shelf, one per element, and touch each with a silent greeting and thanks as your quarter call."
+   },
+   {
+    "name": "Elemental meditation",
+    "text": "Spend a week focusing on one element per day, noticing it in your food, weather, body and emotions."
+   }
+  ],
+  "tools": [
+   "A compass or compass app",
+   "Elemental symbols: stone or salt, feather or incense, candle, bowl of water",
+   "Optional quarter candles in green or brown, yellow, red and blue",
+   "A wand, athame or simply your hand for pointing"
+  ],
+  "correspondences": [
+   {
+    "label": "Earth",
+    "value": "North (Northern Hemisphere); stability, body, money, home; green and brown; pentacle; salt and stones"
+   },
+   {
+    "label": "Air",
+    "value": "East; thought, communication, new beginnings; yellow; wand or blade (varies); feathers and incense"
+   },
+   {
+    "label": "Fire",
+    "value": "South (Northern Hemisphere); passion, courage, transformation; red and orange; wand or athame (varies); candles"
+   },
+   {
+    "label": "Water",
+    "value": "West; emotion, intuition, healing, dreams; blue; chalice or cauldron; shells and water"
+   },
+   {
+    "label": "Spirit",
+    "value": "Center or above and below; unity, the divine, the self; white, violet or black"
+   },
+   {
+    "label": "Incense",
+    "value": "Elemental Earth, Air, Fire and Water blends for each quarter"
+   }
+  ],
+  "signs": [
+   "Subtle shifts in temperature, air movement or mood as you call each quarter.",
+   "A sense of being held, balanced or surrounded by presence.",
+   "Images, colors or sensations that match each element arising naturally."
+  ],
+  "pitfalls": [
+   "Forgetting to release the quarters, which can leave the space or you feeling unsettled.",
+   "Commanding or demanding instead of inviting. Respect goes a long way.",
+   "Worrying about getting the \"right\" directions. Consistency and meaning matter more than one fixed system.",
+   "Reading the words without feeling them. Pause and actually sense each element arrive."
+  ],
+  "safety": "Keep quarter candles on stable, fireproof holders away from fabric, hair and pets, and never leave them unattended. If you use incense for Air, ventilate the room and keep it away from people with breathing conditions.",
+  "journal": [
+   "Which element feels most like me, and which feels least familiar?",
+   "Which directional layout feels right for where I live, and why?",
+   "What did I notice when I called and released each quarter?"
+  ],
+  "links": [
+   "incense-elemental-earth",
+   "incense-elemental-air",
+   "incense-elemental-fire",
+   "incense-elemental-water",
+   "sigil-pentacle",
+   "sigil-alchemical-elements",
+   "sigil-septagram",
+   "spell-salt-circle",
+   "incense-altar-consecration"
+  ],
+  "quiz": [
+   {
+    "q": "In a common Northern Hemisphere Wiccan-influenced layout, which element is in the East?",
+    "options": [
+     "Fire",
+     "Water",
+     "Air"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Why might a Southern Hemisphere witch place Fire in the North?",
+    "options": [
+     "Because the North points toward the equator and the sun there",
+     "Because Fire must always be opposite Air",
+     "Because it is a strict rule in every tradition"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "How do many witches release the quarters at the end of a ritual?",
+    "options": [
+     "They leave them without saying anything",
+     "They thank each one and release them, often in reverse order",
+     "They command them to leave immediately"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "casting-circle",
+  "title": "Casting and Closing a Circle",
+  "subtitle": "Drawing a boundary of sacred space",
+  "icon": "pentacle",
+  "minutes": 15,
+  "intro": [
+   "A magic circle is a boundary of sacred space that you create around yourself before ritual or spellwork. Many witches think of it as a container: it keeps the energy you raise gathered in one place until you are ready to send it out, and it keeps unwanted distractions and influences at bay while you work.",
+   "Casting a circle is also a powerful signal to your own mind. The act of walking the boundary, speaking your words and calling in the elements tells you that ordinary time has paused and focused work has begun. Some traditions cast elaborate circles with many tools, while folk and green witches may simply trace a line with a finger or a sprig of rosemary.",
+   "Just as important as casting is closing. Opening the circle properly, thanking what you called and releasing the boundary helps the energy settle and brings you gently back to everyday awareness."
+  ],
+  "keyIdeas": [
+   "A circle is sacred space that contains raised energy and keeps distractions out while you work.",
+   "You can cast with a wand, athame, finger, salt, herbs or simply visualized light; the intention matters more than the tool.",
+   "Many witches cast clockwise (deosil) to build and open counterclockwise (widdershins) to release, though practices vary.",
+   "Calling the quarters invites the elements of Earth, Air, Fire and Water to witness and strengthen the circle, building on what you learned in Invoking the Elements.",
+   "Once a circle is cast, many witches avoid crossing it casually, or they cut a doorway and seal it again.",
+   "Always close what you open: thank the elements, release the boundary and ground yourself afterward."
+  ],
+  "practice": {
+   "name": "A Simple Circle Casting",
+   "steps": [
+    "Tidy and cleanse your space, for example with a broom, a spritz of salt water or a little rosemary or juniper smoke, and gather everything you need inside the area so you will not have to leave.",
+    "Stand in the center, take several slow breaths and ground yourself by sensing roots reaching from your feet into the earth.",
+    "Face east (or wherever feels like the beginning for you) and point your wand, athame or index finger toward the edge of your space.",
+    "Walk or turn slowly clockwise, picturing a line of bright light pouring from your tool or finger and forming a ring around you.",
+    "When the ring is complete, imagine it expanding into a sphere above and below you, and say something like: \"I cast this circle as a place between the worlds, protected and sacred.\"",
+    "Call the quarters as you learned in Invoking the Elements, turning to east for Air, south for Fire, west for Water and north for Earth, and lighting a candle or touching a symbol for each if you like.",
+    "Do your ritual, meditation or spellwork inside the circle, staying focused on your intention.",
+    "To close, turn to each quarter in reverse order (north, west, south, east), thank each element and bid it farewell.",
+    "Walk or turn counterclockwise, picturing the light drawing back into your tool or finger, or sinking gently into the earth, and say: \"This circle is open but unbroken.\"",
+    "Touch the ground with your palms, eat or drink something simple and note your experience in your journal."
+   ]
+  },
+  "variations": [
+   {
+    "name": "No-tools version",
+    "text": "Point with your finger or simply turn in place and visualize the ring of light forming around you. This works well in shared homes or when you need to stay discreet."
+   },
+   {
+    "name": "Salt or herb circle",
+    "text": "Sprinkle a thin line of salt, dried herbs or flower petals around your working area. Indoors, sprinkle onto a cloth or tray so it is easy to gather up, and keep salt off soil and plants outdoors."
+   },
+   {
+    "name": "Quick bubble",
+    "text": "For short spells or daily devotions, take one breath to picture a sphere of light snapping into place around you, and a second breath to let it dissolve when you finish."
+   },
+   {
+    "name": "Outdoor circle",
+    "text": "Use found stones, sticks or a walked path in the grass to mark the boundary, and leave no trace when you open it."
+   },
+   {
+    "name": "Doorway in the circle",
+    "text": "If you must step out, trace a door in the boundary with your tool, step through, then trace it closed again, and reverse the process when you return."
+   }
+  ],
+  "tools": [
+   "Wand or athame (optional)",
+   "Salt, herbs or petals for marking",
+   "Four candles or symbols for the quarters",
+   "Compass app to find the directions",
+   "Cleansing smoke blend or salt water",
+   "Matches and a fire-safe dish"
+  ],
+  "correspondences": [
+   {
+    "label": "Directions",
+    "value": "East Air, South Fire, West Water, North Earth (some traditions vary, especially in the Southern Hemisphere)"
+   },
+   {
+    "label": "Herbs",
+    "value": "Rosemary, juniper, mugwort, lavender, bay"
+   },
+   {
+    "label": "Crystals",
+    "value": "Clear quartz, selenite, black tourmaline at the edges"
+   },
+   {
+    "label": "Colors",
+    "value": "Yellow (east), red (south), blue (west), green (north), white or silver for the circle"
+   },
+   {
+    "label": "Timing",
+    "value": "Any time; full moon and sabbats are popular for larger rites"
+   }
+  ],
+  "signs": [
+   "The room feels quieter, still or slightly charged once the circle is cast.",
+   "A sense of tingling, warmth or pressure at the edges of your awareness.",
+   "Your focus deepens and outside worries fade during the work.",
+   "A clear sense of release or relief when you open the circle."
+  ],
+  "pitfalls": [
+   "Forgetting something important outside the circle; gather everything first and use a doorway if needed.",
+   "Rushing the closing, which can leave you feeling spacey or unsettled; always thank, release and ground.",
+   "Worrying about exact words or perfect directions; sincerity and clear intention matter more than a script.",
+   "Leaving candles burning unattended inside or outside the circle."
+  ],
+  "safety": "Keep candles and incense on fire-safe holders, away from fabric, hair and loose sleeves, and ventilate the room when burning herbs. Keep pets and children from knocking over flames, and never leave fire unattended.",
+  "journal": [
+   "How did the space feel before, during and after I cast the circle?",
+   "Which element felt strongest or most welcoming when I called the quarters?",
+   "What words or gestures felt most natural to me, and what would I change next time?"
+  ],
+  "links": [
+   "spell-salt-circle",
+   "incense-cleansing-smoke",
+   "incense-elemental-earth",
+   "incense-elemental-air",
+   "incense-elemental-fire",
+   "incense-elemental-water",
+   "herb-rosemary",
+   "crystal-clear-quartz",
+   "sigil-pentacle",
+   "sigil-alchemical-elements"
+  ],
+  "quiz": [
+   {
+    "q": "What is one main purpose of casting a circle?",
+    "options": [
+     "To contain raised energy and create sacred space",
+     "To summon a specific deity every time",
+     "To make a spell work instantly"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "In which order do many witches release the quarters when closing?",
+    "options": [
+     "The same order they were called",
+     "The reverse order they were called",
+     "Whatever order is quickest"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What should you do if you need to leave a cast circle briefly?",
+    "options": [
+     "Just walk out and back in",
+     "Cut a doorway, step through and seal it again",
+     "Start the whole ritual over every time"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "altars",
+  "title": "Building an Altar",
+  "subtitle": "A home for your practice",
+  "icon": "candle",
+  "minutes": 30,
+  "intro": [
+   "An altar is a dedicated surface where you focus your magical and spiritual practice. It can be a grand table covered in candles and statues or a single shelf, windowsill or tin box. What makes it an altar is not its size but your intention and the attention you give it.",
+   "Altars give your practice a physical anchor. They hold your tools, display offerings and seasonal treasures, and act as a visual reminder to pause, breathe and connect each day. Many witches find that simply tending an altar becomes a quiet devotional practice of its own.",
+   "There is no single correct layout. Some traditions follow set arrangements with the elements placed by direction, while eclectic and folk witches often build altars intuitively, letting them change with the seasons, their goals and the beings they honor."
+  ],
+  "keyIdeas": [
+   "An altar is any dedicated space for magical focus, from a full table to a matchbox.",
+   "Many altars include a symbol for each of the four elements: Earth, Air, Fire and Water.",
+   "Altars can be general working altars or dedicated to a season, a deity, ancestors or a single goal.",
+   "Placement can follow directions, practical needs or simple privacy; a stable, safe surface is what matters most.",
+   "Regular cleaning, refreshing offerings and rearranging keeps an altar's energy alive.",
+   "Travel and hidden altars let you keep a practice even in shared spaces or while away from home."
+  ],
+  "practice": {
+   "name": "Setting Up Your First Altar",
+   "steps": [
+    "Choose a stable surface where candles will be safe and the space will not be disturbed, such as a shelf, side table or dresser top.",
+    "Clear and physically clean the surface, then cleanse it energetically with salt water, a sound such as a bell, or a little rosemary or juniper smoke.",
+    "Lay down a cloth in a color that suits your intention or the current season, if you like.",
+    "Place a symbol of Earth, such as a stone, crystal, bowl of salt or potted plant.",
+    "Place a symbol of Air, such as a feather, incense or a bell.",
+    "Place a symbol of Fire, such as a candle in a sturdy holder, and a symbol of Water, such as a small bowl of water or a seashell.",
+    "Add a central focus that represents your path, such as a deity image, a pentacle, a photo of an ancestor or simply a beautiful object from nature.",
+    "Hold your hands over the altar and speak a short dedication, for example: \"I dedicate this space to my craft, my growth and the powers I honor.\"",
+    "Light the candle, sit for a few minutes in quiet attention and notice how the space feels.",
+    "Make a note to visit your altar regularly, even briefly, to tidy, refresh water or offerings and reconnect."
+   ]
+  },
+  "variations": [
+   {
+    "name": "Hidden altar",
+    "text": "Arrange a few meaningful items on a bookshelf, in a decorative box or among houseplants so that it looks like ordinary decor. Only you need to know it is an altar."
+   },
+   {
+    "name": "Travel altar",
+    "text": "Fill a small tin or pouch with a tea light, a tiny crystal, a pinch of salt and a small image or symbol. Unfold it on any surface wherever you are."
+   },
+   {
+    "name": "Seasonal altar",
+    "text": "Change the cloth, colors and natural objects with each sabbat or season, using leaves, flowers, seeds, pinecones or shells you find."
+   },
+   {
+    "name": "Ancestor altar",
+    "text": "Display photos, heirlooms and names of loved ones who have passed, with a candle and small offerings like water, coffee or bread."
+   },
+   {
+    "name": "Deity altar",
+    "text": "Dedicate a space to a goddess or god you work with, including their symbols, colors and offerings traditionally associated with them."
+   }
+  ],
+  "tools": [
+   "Altar cloth",
+   "Candles and safe holders",
+   "Elemental symbols (stone, feather, candle, bowl of water)",
+   "Offering dish",
+   "Incense or a cleansing blend",
+   "Altar oil for anointing"
+  ],
+  "correspondences": [
+   {
+    "label": "Elements",
+    "value": "Earth north, Air east, Fire south, Water west (or arrange intuitively)"
+   },
+   {
+    "label": "Herbs",
+    "value": "Rosemary and juniper for cleansing, seasonal flowers for offerings"
+   },
+   {
+    "label": "Crystals",
+    "value": "Clear quartz, selenite, amethyst"
+   },
+   {
+    "label": "Colors",
+    "value": "White or black for general altars; seasonal colors for sabbats"
+   },
+   {
+    "label": "Timing",
+    "value": "New moon to set up, any time to refresh, sabbats to redecorate"
+   }
+  ],
+  "signs": [
+   "You feel calmer or more focused when you sit near your altar.",
+   "You are drawn to visit it, tidy it or add things without being prompted.",
+   "Spellwork done at the altar feels more grounded and intentional.",
+   "The space begins to feel distinctly different from the rest of the room."
+  ],
+  "pitfalls": [
+   "Overcrowding the altar until it feels cluttered; leave some breathing room.",
+   "Letting offerings rot or water grow stale; clear perishables within a day or two.",
+   "Placing candles near curtains, shelves above or anything flammable.",
+   "Waiting for the perfect tools before starting; a simple altar used often beats an elaborate one ignored."
+  ],
+  "safety": "Keep candles on heat-proof holders well away from fabric, paper and overhanging shelves, and never leave them unattended. Place crystals, herbs and offerings out of reach of pets and small children, as some can be toxic if chewed.",
+  "journal": [
+   "What objects feel most meaningful to me, and why do I want them on my altar?",
+   "How does my altar reflect where I am in my life and practice right now?",
+   "What small daily ritual could I perform at my altar to keep it alive?"
+  ],
+  "links": [
+   "incense-altar-consecration",
+   "oil-altar",
+   "spell-ancestor-altar-offering",
+   "incense-ancestor",
+   "crystal-clear-quartz",
+   "crystal-selenite",
+   "sigil-pentacle",
+   "herb-rosemary",
+   "brew-ancestor-coffee-offering"
+  ],
+  "quiz": [
+   {
+    "q": "What makes a space an altar?",
+    "options": [
+     "It must be a large table with expensive tools",
+     "Your intention and the attention you give it",
+     "It must face north"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which item is a common symbol of the element of Air on an altar?",
+    "options": [
+     "A bowl of salt",
+     "A feather or incense",
+     "A seashell"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What is a good way to keep an altar private in a shared home?",
+    "options": [
+     "Arrange it to look like ordinary decor",
+     "Avoid having an altar at all",
+     "Only use it once a year"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "spell-casting",
+  "title": "Spell Casting",
+  "subtitle": "Intention shaped into action",
+  "icon": "cauldron",
+  "minutes": 30,
+  "intro": [
+   "A spell is a focused act that combines intention, symbolism and energy to bring about change. It might be as simple as lighting a candle while speaking a wish, or as involved as a ritual timed to the moon with herbs, oils and chants. At its heart, every spell is a clear desire given shape and sent out with purpose.",
+   "Most spells share a common anatomy: a clear intention, thoughtful timing, chosen correspondences, a way of raising energy, a moment of release and then letting go. Just as important is the final step that many beginners miss: taking practical action in the mundane world so the magic has a path to travel along.",
+   "Once you understand these building blocks, you can adapt written spells with confidence or write your own. Keeping records of what you did and what happened afterward is how your craft grows from guesswork into personal wisdom."
+  ],
+  "keyIdeas": [
+   "Every spell begins with a clear, specific and positively worded intention.",
+   "Timing by moon phase and weekday can add support, but a sincere spell at an imperfect time still works.",
+   "Correspondences such as colors, herbs, crystals and symbols act as a language that reinforces your intention.",
+   "Raising energy through chanting, visualization, movement or breath, then releasing it, is the engine of the spell.",
+   "Letting go of obsessive worry, and acting in the everyday world, gives your spell room and a path to manifest.",
+   "Recording each spell and its results helps you learn what works for you."
+  ],
+  "practice": {
+   "name": "Writing and Casting a Simple Candle Spell",
+   "steps": [
+    "Write your intention in one clear sentence in the present tense, such as \"I am confident and calm in my job interview.\"",
+    "Choose your timing: a waxing moon for drawing things in, a waning moon for releasing, and a fitting weekday if you wish.",
+    "Pick a candle color that matches your goal, and one or two supporting correspondences such as an herb or crystal.",
+    "Write a short petition on paper: your intention, your name and the date, then fold the paper toward you to draw something in or away from you to send something out.",
+    "Cleanse your space and candle, ground yourself and cast a circle if you like.",
+    "Carve a word or symbol into the candle, anoint it with a little diluted oil from center to ends, and roll it lightly in dried herbs if you are using them.",
+    "Set the candle in a safe holder on top of or beside your petition and light it while speaking your intention aloud.",
+    "Raise energy by chanting your intention, breathing deeply or visualizing your goal as already real, then release it toward the flame with a final push of breath or a clap.",
+    "Let the candle burn down safely while you stay nearby, or snuff it and relight it on following days; never leave it unattended.",
+    "Record the spell in your journal, then let it go and take one concrete action in the mundane world that supports your goal."
+   ]
+  },
+  "variations": [
+   {
+    "name": "Quick version",
+    "text": "Light a tea light, state your intention three times and visualize the outcome while it burns for a few minutes in your presence."
+   },
+   {
+    "name": "Broom-closet version",
+    "text": "Write your intention on a sticky note and charge it with your breath, then keep it in your wallet or under your phone case."
+   },
+   {
+    "name": "Herbal petition",
+    "text": "Fold your petition around a bay leaf or a pinch of matching herbs and carry it in a small pouch until your goal manifests."
+   },
+   {
+    "name": "Crystal-charged spell",
+    "text": "Hold a crystal that corresponds to your goal while you raise energy, then keep it on your altar or carry it as a reminder."
+   }
+  ],
+  "tools": [
+   "Candles in various colors",
+   "Paper and pen for petitions",
+   "Carrier oil and dressing oils",
+   "Dried herbs",
+   "Crystals",
+   "A pin or toothpick for carving",
+   "Fire-safe dish or holder",
+   "Spell journal or grimoire"
+  ],
+  "correspondences": [
+   {
+    "label": "Moon phases",
+    "value": "New: beginnings; waxing: growth and attraction; full: power and completion; waning: release and banishing"
+   },
+   {
+    "label": "Weekdays",
+    "value": "Mon Moon, Tue Mars, Wed Mercury, Thu Jupiter, Fri Venus, Sat Saturn, Sun Sun"
+   },
+   {
+    "label": "Candle colors",
+    "value": "Green money, pink self-love, red courage, blue peace, white all-purpose, black protection or banishing"
+   },
+   {
+    "label": "Herbs",
+    "value": "Bay for wishes, cinnamon for success, lavender for peace, basil for prosperity"
+   },
+   {
+    "label": "Crystals",
+    "value": "Clear quartz as an all-purpose amplifier, citrine for success, rose quartz for love"
+   }
+  ],
+  "signs": [
+   "You feel lighter, hopeful or settled after casting.",
+   "Synchronicities, opportunities or helpful conversations start appearing.",
+   "Your own behavior shifts naturally in support of your goal.",
+   "The outcome arrives, sometimes in an unexpected form."
+  ],
+  "pitfalls": [
+   "Vague intentions lead to vague results; be specific about what you want.",
+   "Checking obsessively for results can hold the energy back; release it and trust the process.",
+   "Doing a spell but taking no real-world action, such as casting for a job and never applying.",
+   "Casting to control another person's free will; focus on yourself and your own choices instead."
+  ],
+  "safety": "Never leave burning candles unattended, and keep them away from flammables, pets and children. Always dilute essential oils in a carrier oil before touching skin or candles you will handle, and never ingest herbs unless you are sure they are safe and food grade.",
+  "journal": [
+   "What exactly do I want, and how will I know when it has arrived?",
+   "Which correspondences did I choose, and why did they feel right?",
+   "What practical step am I taking this week to support my spell?"
+  ],
+  "links": [
+   "spell-new-moon-intention",
+   "spell-road-opener",
+   "spell-green-candle-money",
+   "spell-bay-leaf-wish",
+   "spell-exam-clarity-candle",
+   "oil-road-opener",
+   "oil-success",
+   "herb-bay-laurel",
+   "crystal-clear-quartz",
+   "incense-wishing"
+  ],
+  "quiz": [
+   {
+    "q": "Which is the best-worded intention for a spell?",
+    "options": [
+     "I don't want to be broke",
+     "I attract steady income that meets my needs",
+     "Something good happens maybe"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which moon phase is most associated with drawing things toward you?",
+    "options": [
+     "Waxing moon",
+     "Waning moon",
+     "It never matters"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Why is acting in the mundane world important after a spell?",
+    "options": [
+     "It undoes the spell",
+     "It gives the magic a practical path to manifest",
+     "It is only needed for love spells"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "releasing",
+  "title": "Releasing and Banishing",
+  "subtitle": "Making space by letting go",
+  "icon": "broom",
+  "minutes": 25,
+  "intro": [
+   "Not all magic is about drawing things in. Some of the most healing work a witch can do is about letting go: of old habits, heavy emotions, outworn relationships and energetic ties that no longer serve. Releasing makes room for new growth, the way pruning helps a plant flourish.",
+   "Releasing and banishing are related but different. Releasing is gentle and inward: you consciously let go of something you have been holding, often with compassion and gratitude. Banishing is firmer and outward: you actively drive away an unwanted influence, energy or situation and close the door behind it.",
+   "Both are traditionally timed to the waning moon, when energy naturally decreases. They work best with good aftercare, because letting go can stir up feelings, and the space left behind deserves to be filled with something nourishing."
+  ],
+  "keyIdeas": [
+   "Releasing is a gentle letting go from within; banishing is a firm removal of an outside influence.",
+   "The waning moon, and especially the dark moon, is traditional timing for both.",
+   "Burning, burying and water release are classic ways to symbolically let something go.",
+   "Cord cutting symbolically severs energetic ties to people, situations or patterns without wishing anyone harm.",
+   "Aftercare matters: cleanse, ground, rest and fill the empty space with something positive.",
+   "Magic supports change, but real-world steps and support from others are still part of letting go."
+  ],
+  "practice": {
+   "name": "Waning Moon Release Ritual",
+   "steps": [
+    "On a night during the waning moon, cleanse your space and ground yourself with a few slow breaths.",
+    "Cast a circle or simply light a black or white candle in a safe holder to mark the start of your work.",
+    "On a slip of paper, write what you are ready to release, such as a habit, an emotion or a pattern, in clear and honest words.",
+    "Read it aloud, acknowledging what it taught you or how it once served you, and thank it.",
+    "Say a release statement such as: \"I release you with gratitude. You no longer have a place in my life.\"",
+    "Choose your method: burn the paper safely in a fire-proof bowl, tear it and bury it in soil, or dissolve water-soluble paper in a bowl of water.",
+    "As it burns, decomposes or dissolves, breathe out slowly and visualize the weight leaving your body.",
+    "Cleanse yourself afterward by washing your hands with salt water or passing them through rosemary or juniper smoke.",
+    "Fill the space you have created by naming one thing you welcome in, such as peace, freedom or self-kindness.",
+    "Close your circle, ground yourself with food and water, and dispose of any ashes or remains away from your home."
+   ]
+  },
+  "variations": [
+   {
+    "name": "Cord cutting",
+    "text": "Tie two small candles or figures together with a string representing a tie to a person or situation. Speak your intention, then cut the cord with scissors or burn it safely in the middle, wishing both parties freedom and peace."
+   },
+   {
+    "name": "Water release",
+    "text": "Whisper what you are releasing into a handful of water and pour it onto the ground, down a drain or into flowing water. Use only plain water or biodegradable items outdoors."
+   },
+   {
+    "name": "Banishing version",
+    "text": "For firmer work, use a black candle and stronger words such as \"Begone, you have no power here,\" then sweep from the back of your home toward the front door and out."
+   },
+   {
+    "name": "Quick breath release",
+    "text": "Breathe in, imagine gathering the unwanted feeling into your chest, then exhale sharply through your mouth and shake out your hands."
+   },
+   {
+    "name": "Shower release",
+    "text": "In the shower, visualize the water washing away what you are letting go and spiraling down the drain, then picture fresh light filling you."
+   }
+  ],
+  "tools": [
+   "Black or white candle",
+   "Paper and pen",
+   "Fire-proof bowl",
+   "Cord or string and scissors",
+   "Salt",
+   "Banishing oil or incense",
+   "Small trowel for burying"
+  ],
+  "correspondences": [
+   {
+    "label": "Moon phase",
+    "value": "Waning to dark moon"
+   },
+   {
+    "label": "Weekday",
+    "value": "Saturday for banishing and endings"
+   },
+   {
+    "label": "Herbs",
+    "value": "Rosemary, rue, hyssop, black pepper, bay"
+   },
+   {
+    "label": "Crystals",
+    "value": "Smoky quartz, obsidian, apache tear, black tourmaline"
+   },
+   {
+    "label": "Colors",
+    "value": "Black for banishing, white for gentle release"
+   },
+   {
+    "label": "Elements",
+    "value": "Fire to transform, Earth to compost, Water to wash away"
+   }
+  ],
+  "signs": [
+   "A sense of lightness, relief or more physical space in your body.",
+   "Tears, yawning or sighing during or after the ritual, as emotions move.",
+   "Fewer thoughts or urges related to what you released.",
+   "The person or situation fades from your life or loses its emotional hold."
+  ],
+  "pitfalls": [
+   "Expecting one ritual to undo a deep pattern; repeat the work and pair it with real-world change.",
+   "Skipping aftercare, which can leave you drained or emotionally raw.",
+   "Using banishing to harm another person; focus on removing their influence from your life, not on hurting them.",
+   "Leaving remains of the spell in your home, which can feel like the energy never fully left."
+  ],
+  "safety": "Burn paper only in a fire-proof bowl in a ventilated space, away from smoke alarms and flammables. Releasing work can bring up strong emotions; if you are dealing with trauma, addiction or grief that feels overwhelming, please reach out to a trusted person or a qualified professional alongside your practice.",
+  "journal": [
+   "What am I ready to let go of, and what has holding onto it cost me?",
+   "How did my body and emotions respond during the release?",
+   "What do I want to invite into the space that has opened up?"
+  ],
+  "links": [
+   "spell-cord-cutting-banishing",
+   "spell-banish-bad-habit",
+   "spell-full-moon-release",
+   "oil-banishing",
+   "incense-exorcism-banishing",
+   "incense-dark-moon",
+   "crystal-smoky-quartz",
+   "crystal-apache-tear",
+   "herb-rue",
+   "spell-grief-emotional-healing"
+  ],
+  "quiz": [
+   {
+    "q": "What is the main difference between releasing and banishing?",
+    "options": [
+     "Releasing is gentle and inward; banishing actively drives away an outside influence",
+     "They are exactly the same",
+     "Banishing is only for beginners"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Which moon phase is traditionally used for releasing work?",
+    "options": [
+     "Waxing moon",
+     "Waning moon",
+     "First quarter only"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Why is aftercare important after releasing work?",
+    "options": [
+     "It cancels the spell",
+     "Letting go can stir up emotions and leave empty space to fill",
+     "It is only needed if the spell fails"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "protection",
+  "title": "Protection Magic",
+  "subtitle": "Wards for body, heart and home",
+  "icon": "eye",
+  "minutes": 20,
+  "intro": [
+   "Protection magic is one of the oldest and most widespread forms of witchcraft. From horseshoes over doorways to witch bottles buried by the hearth, people have long used charms, symbols and rituals to keep themselves, their families and their homes safe from harm and unwanted energy.",
+   "Protection works on several levels. Personal protection shields your own energy, helping you feel steady in difficult places or around draining people. Home protection creates boundaries around your living space. Both are less about fear and more about creating a secure foundation from which the rest of your practice can grow.",
+   "Like any boundary, protection needs maintenance. Wards fade, charms collect stray energy and circumstances change, so many witches renew their protections on a regular rhythm, such as each new moon, season or new year."
+  ],
+  "keyIdeas": [
+   "Protection magic creates energetic boundaries for yourself, your loved ones and your home.",
+   "Personal shielding through visualization is free, discreet and can be done anywhere.",
+   "Wards such as salt lines, protective sigils and charms guard thresholds like doors and windows.",
+   "Witch bottles are a traditional folk charm that absorb or turn away harmful energy.",
+   "Protection should be renewed regularly, as wards and charms wear out over time.",
+   "Magical protection supports, but never replaces, practical safety measures."
+  ],
+  "practice": {
+   "name": "Warding Your Home",
+   "steps": [
+    "Begin by physically cleaning your home, opening windows and sweeping toward the front door.",
+    "Cleanse the space room by room with salt water, a bell, or rosemary, juniper or garden sage smoke, moving clockwise.",
+    "Ground yourself and visualize a sphere of protective light around your own body first.",
+    "Stand at your front door and draw a protective sigil, such as a pentacle or a bindrune, in the air or with a dab of diluted protection oil on the frame.",
+    "Sprinkle a thin line of salt across the threshold, or along the inside of the doorframe if you prefer to keep it hidden.",
+    "Move to each window and outer door, repeating the sigil and a protective phrase such as \"Only good may enter here.\"",
+    "Return to the center of your home and visualize all the points joining into a glowing dome around your space.",
+    "Place a charm near the main entrance, such as a sachet of protective herbs, a hag stone or a piece of black tourmaline.",
+    "Thank any guardians or spirits of the home you work with, and leave a small offering if that is part of your practice.",
+    "Mark your calendar to renew the wards, for example at each new moon or every season."
+   ]
+  },
+  "variations": [
+   {
+    "name": "Personal shield",
+    "text": "Visualize a bubble, cloak or mirror of light surrounding you. Use it before commuting, entering busy places or talking to draining people."
+   },
+   {
+    "name": "Witch bottle",
+    "text": "Fill a small jar with nails, pins, salt, rosemary and something personal like a hair or a few drops of your own saliva, seal it and bury it near your home or hide it in a cupboard."
+   },
+   {
+    "name": "Discreet protection",
+    "text": "Hang a decorative hexafoil or eye symbol, keep rosemary in a pot by the door, or tuck a protective sigil drawn on paper under the doormat."
+   },
+   {
+    "name": "Carry charm",
+    "text": "Keep a small pouch with salt, a protective herb and a crystal such as black tourmaline in your bag or car."
+   }
+  ],
+  "tools": [
+   "Salt",
+   "Protection oil",
+   "Protective herbs such as rosemary, bay and rue",
+   "Black tourmaline or other grounding stones",
+   "Jar, nails and pins for a witch bottle",
+   "Paper and pen for sigils",
+   "Broom"
+  ],
+  "correspondences": [
+   {
+    "label": "Herbs",
+    "value": "Rosemary, bay, rue, garlic, rowan, juniper, angelica"
+   },
+   {
+    "label": "Crystals",
+    "value": "Black tourmaline, obsidian, hematite, smoky quartz, hag stone"
+   },
+   {
+    "label": "Symbols",
+    "value": "Pentacle, Algiz, protective eye, hexafoil, Helm of Awe"
+   },
+   {
+    "label": "Colors",
+    "value": "Black for absorbing, white for purifying, red for active defense"
+   },
+   {
+    "label": "Timing",
+    "value": "New or full moon, Saturday or Tuesday, and at each season's turn"
+   }
+  ],
+  "signs": [
+   "Your home feels calmer, safer and easier to rest in.",
+   "Draining people or situations seem to affect you less.",
+   "Charms crack, cloud or feel heavy, suggesting they have absorbed something.",
+   "Fewer unsettled feelings or strange disturbances in your space."
+  ],
+  "pitfalls": [
+   "Working from fear rather than strength; protection is about security, not paranoia.",
+   "Setting up wards once and forgetting them; refresh them regularly.",
+   "Forgetting to protect yourself while focusing only on your home.",
+   "Relying on magic alone; also lock doors, set boundaries and seek help when you are unsafe."
+  ],
+  "safety": "Keep salt away from plants, soil and pets, and choose herbs carefully, as rue and some others can irritate skin or harm animals. If you are in danger, contact the authorities or a support service first; magic is a supplement to real-world safety, not a substitute.",
+  "journal": [
+   "Where in my life do I feel most in need of protection right now?",
+   "How did my home feel before and after warding?",
+   "What protective rhythm can I realistically keep up through the year?"
+  ],
+  "links": [
+   "spell-witch-bottle",
+   "spell-salt-circle",
+   "spell-protection-sachet",
+   "spell-mirror-reflection-protection",
+   "oil-fiery-wall-of-protection",
+   "incense-protection",
+   "crystal-black-tourmaline",
+   "sigil-algiz",
+   "sigil-my-home-is-protected",
+   "herb-rosemary"
+  ],
+  "quiz": [
+   {
+    "q": "Why do many witches renew their protection wards regularly?",
+    "options": [
+     "Wards fade and charms collect energy over time",
+     "Protection only lasts a single hour",
+     "It is required by all traditions"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Which item is commonly found in a traditional witch bottle?",
+    "options": [
+     "Nails or pins and salt",
+     "Chocolate",
+     "Fresh flowers only"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "What is the best attitude toward protection magic?",
+    "options": [
+     "It should replace locks and practical safety",
+     "It supports practical safety and comes from strength, not fear",
+     "It should only be done in a crisis"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "aftercare",
+  "title": "Closing, Aftercare and Practice",
+  "subtitle": "Coming home after the magic",
+  "icon": "teacup",
+  "minutes": 15,
+  "intro": [
+   "The moments after ritual are just as important as the ritual itself. Raising energy, holding focus and touching deep emotions can leave you buzzing, spacey or drained. Good aftercare brings you gently back into your body and everyday life, and helps the work you did settle in.",
+   "Aftercare includes grounding, nourishing yourself with food and drink, disposing of spell remains with respect and recording what happened. These simple habits protect your wellbeing and turn each ritual into a lesson you can build on.",
+   "Beyond individual rituals, a lasting practice is built on rhythm rather than intensity. Small daily and weekly habits, along with honest rest, keep your craft joyful and sustainable instead of becoming another source of pressure or burnout."
+  ],
+  "keyIdeas": [
+   "Grounding after ritual returns excess energy to the earth and brings you back into your body.",
+   "Eating and drinking something simple is a traditional and effective way to ground.",
+   "Spell remains should be disposed of respectfully and in line with the intention of the work.",
+   "Recording each ritual in a journal or grimoire helps you track results and grow your skills.",
+   "A sustainable practice is built on small, regular habits rather than occasional big efforts.",
+   "Rest is part of the craft; taking breaks prevents burnout and keeps your magic heartfelt."
+  ],
+  "practice": {
+   "name": "Post-Ritual Aftercare Routine",
+   "steps": [
+    "As soon as you have closed your circle, sit or stand with your feet flat on the floor and take three slow, deep breaths.",
+    "Place your palms on the ground or floor and imagine any excess energy draining down into the earth like water into soil.",
+    "Eat a small snack such as bread, crackers, fruit or chocolate, and drink a glass of water or a cup of tea.",
+    "Snuff any candles you are not letting burn down, and make sure all flames and embers are fully out.",
+    "Gather spell remains and decide how to dispose of them: bury or compost natural materials for growth, take release and banishing remains away from your home, and recycle or bin non-natural items with a word of thanks.",
+    "Tidy your altar and tools, wiping surfaces and returning items to their places.",
+    "Open your journal and record the date, moon phase, your intention, what you did and how you felt.",
+    "Note anything unusual, such as images, sensations or messages, even if they do not make sense yet.",
+    "Do something gentle and ordinary, like stretching, washing your hands or stepping outside, to fully return to everyday life.",
+    "Set a date to look back at your notes and record any results you notice in the following days and weeks."
+   ]
+  },
+  "variations": [
+   {
+    "name": "Quick grounding",
+    "text": "Stamp your feet, shake out your hands and eat a few nuts or a square of chocolate. This works well after short spells."
+   },
+   {
+    "name": "Outdoor grounding",
+    "text": "Stand barefoot on grass or soil, or lean against a tree, and breathe until you feel settled."
+   },
+   {
+    "name": "Crystal grounding",
+    "text": "Hold a grounding stone such as hematite, smoky quartz or red jasper in each hand until you feel heavy and calm."
+   },
+   {
+    "name": "Daily micro-practice",
+    "text": "Build a five-minute daily habit, such as lighting a candle, pulling a tarot card or greeting the moon, and save longer rituals for weekends or moon phases."
+   },
+   {
+    "name": "Rest and fallow time",
+    "text": "When you feel tired or uninspired, let your practice be simple: tea, a walk, journaling. Like fields, witches have fallow seasons too."
+   }
+  ],
+  "tools": [
+   "Journal or grimoire",
+   "Grounding snack and water",
+   "Grounding crystals",
+   "Candle snuffer",
+   "Small trowel for burying remains",
+   "A calming tea blend"
+  ],
+  "correspondences": [
+   {
+    "label": "Element",
+    "value": "Earth for grounding and stability"
+   },
+   {
+    "label": "Herbs",
+    "value": "Chamomile, lemon balm, lavender, rosemary, nettle"
+   },
+   {
+    "label": "Crystals",
+    "value": "Hematite, smoky quartz, red jasper, black tourmaline"
+   },
+   {
+    "label": "Foods",
+    "value": "Bread, root vegetables, nuts, chocolate, warm tea"
+   },
+   {
+    "label": "Timing",
+    "value": "Immediately after ritual; journal review at each new or full moon"
+   }
+  ],
+  "signs": [
+   "You feel calm, clear-headed and present rather than buzzy or drained.",
+   "Your energy and sleep return to normal quickly after ritual.",
+   "Your journal begins to show patterns of what works for you.",
+   "Your practice feels joyful and steady instead of like a chore."
+  ],
+  "pitfalls": [
+   "Skipping grounding and then feeling dizzy, restless or exhausted afterward.",
+   "Leaving spell remains lying around indefinitely.",
+   "Forgetting to journal, then not remembering what you did when results appear.",
+   "Trying to do big rituals every day and burning out; small and steady is enough."
+  ],
+  "safety": "Make sure all candles, incense and embers are fully extinguished before leaving your space. Never leave non-biodegradable items, salt or wax outdoors where they could harm wildlife or soil. Grounding and rest are helpful for wellbeing but are not a substitute for professional care if you are struggling with your mental or physical health.",
+  "journal": [
+   "How do I usually feel after ritual, and what helps me come back to myself?",
+   "What small daily or weekly practice would bring me joy without feeling like a chore?",
+   "What signs tell me I need to rest from my craft, and how will I honor them?"
+  ],
+  "links": [
+   "brew-grounding-root-brew",
+   "brew-holy-basil-calm-tea",
+   "brew-lunar-chamomile-sleep",
+   "crystal-hematite",
+   "crystal-smoky-quartz",
+   "crystal-red-jasper",
+   "herb-chamomile",
+   "herb-lemon-balm",
+   "incense-peace",
+   "incense-meditation"
+  ],
+  "quiz": [
+   {
+    "q": "Why do many witches eat something after ritual?",
+    "options": [
+     "To ground and return to their bodies",
+     "To cancel the spell",
+     "Because rituals must end with a feast"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "What is a respectful way to handle the remains of a releasing spell?",
+    "options": [
+     "Keep them on your altar forever",
+     "Take them away from your home, burying natural materials or binning others with thanks",
+     "Throw them at a neighbor's house"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What best describes a sustainable practice?",
+    "options": [
+     "Large rituals every single day",
+     "Small, regular habits with room for rest",
+     "Only practicing once a year"
+    ],
+    "answer": 1
+   }
+  ]
+ }
+]

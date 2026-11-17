@@ -1,0 +1,1095 @@
+[
+ {
+  "id": "brew-honey-lemon-ginger-cough-tea",
+  "type": "brew",
+  "name": "Honey, Lemon & Ginger Hearth Cough Tea",
+  "description": "The grandmother's remedy of countless kitchens: fiery fresh Ginger simmered with Cinnamon, finished with Lemon and a generous spoon of honey. Honey has been used for coughs since ancient Egypt and is now among the best-supported home remedies for easing coughs in adults and children over one year, while ginger warms a chilled body.",
+  "ingredients": [
+   {
+    "item": "Ginger root, fresh, thinly sliced",
+    "amount": "1 thumb-sized piece (about 1 in / 2.5 cm), 6-8 slices"
+   },
+   {
+    "item": "Cinnamon stick",
+    "amount": "1/2 stick"
+   },
+   {
+    "item": "Water",
+    "amount": "2 cups (480 ml)"
+   },
+   {
+    "item": "Lemon, fresh juice and a strip of peel",
+    "amount": "1/2 lemon"
+   },
+   {
+    "item": "Raw honey",
+    "amount": "1-2 tsp per cup"
+   },
+   {
+    "item": "Thyme sprig, fresh or 1/2 tsp dried (optional)",
+    "amount": "1 sprig"
+   }
+  ],
+  "steps": [
+   "Bring the water to a boil with the ginger slices and cinnamon, then lower the heat, cover and simmer gently for 10 minutes while speaking the chant over the pot.",
+   "Remove from the heat; add the thyme sprig and lemon peel if using, cover and steep 5 more minutes.",
+   "Strain into mugs and let cool slightly until comfortably hot (below about 60°C / 140°F, so the honey keeps its virtues).",
+   "Stir in the lemon juice and honey, stirring sunwise (clockwise) three times for healing."
+  ],
+  "howToUse": "Adults: 1 cup, sipped slowly while hot, 3-4 times daily during a cough or cold, including a cup at bedtime. Children over 12 months: a weaker version (half the ginger, no cinnamon) in 1/4-1/2 cup portions, with 1/2-1 tsp honey; the honey alone, 1/2-1 tsp on a spoon before bed, is a traditional cough soother for children over one year.",
+  "chant": "Honey sweet and ginger bright, lemon's sun and fire's light, soothe the cough and warm the chest, grant me healing, grant me rest.",
+  "intention": "Warmth and sweetness soothe my throat and quiet my cough.",
+  "timing": "Brew whenever needed; a bedtime cup is traditional. Brewed on a waning moon to banish the cough.",
+  "metaphysical": [
+   "healing",
+   "health",
+   "protection",
+   "happiness",
+   "energy",
+   "purification"
+  ],
+  "medical": [
+   "cough",
+   "sore throat",
+   "colds",
+   "congestion",
+   "chills",
+   "immune support"
+  ],
+  "caution": "Never give honey (raw or cooked) to babies under 12 months because of the risk of infant botulism. Ginger may increase bleeding risk with blood thinners (warfarin, aspirin, clopidogrel), may lower blood sugar, and may aggravate heartburn or gallstones; stop medicinal amounts 2 weeks before surgery. In pregnancy keep ginger to modest food amounts and check with your midwife. Cinnamon (cassia) in large daily amounts contains coumarin, which can affect the liver; this small amount is a food-level dose. People with diabetes should count the honey as sugar. Lemon and hot drinks can sting mouth ulcers. See a doctor promptly if there is difficulty breathing, wheezing, chest pain, coughing up blood or rusty/green-brown phlegm with fever, a fever of 39.4°C (103°F) or higher or any fever lasting more than 3 days, a cough lasting more than 2-3 weeks, symptoms that improve and then suddenly worsen, or any illness lasting beyond 7-10 days; seek urgent care for blue-tinged lips, confusion, a stiff neck or severe headache, and in babies, the elderly, or anyone with asthma, heart or lung disease or a weakened immune system. Herbal teas are traditional folk preparations, not medical advice and not a substitute for medical care; consult a healthcare provider before use if pregnant, breastfeeding, giving to children, taking medication, or living with a health condition.",
+  "bestTime": "Autumn and winter, Samhain to Imbolc (Oct–Feb), the cough and cold season",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent"
+  ],
+  "interactions": "Ginger may add to blood thinners and antiplatelet drugs (warfarin, aspirin, clopidogrel, NSAIDs) and to diabetes medication; it may also alter tacrolimus and cyclosporine levels.",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ginger",
+   "https://www.cdc.gov/botulism/prevention/index.html",
+   "https://www.bfr.bund.de/cm/349/faq-on-coumarin-in-cinnamon-and-other-foods.pdf"
+  ]
+ },
+ {
+  "id": "brew-thyme-honey-cough-syrup",
+  "type": "brew",
+  "name": "Thyme & Honey Cough Syrup",
+  "description": "Thyme was the Roman soldier's herb of courage and is still recognised in Europe as a traditional cough remedy. Here a strong Thyme infusion, with sweet Anise and a little Hyssop for the chest, is thickened with honey into a spoonable syrup to keep on the shelf through the cough season.",
+  "ingredients": [
+   {
+    "item": "Thyme leaves, dried (or 1 cup fresh sprigs)",
+    "amount": "1/4 cup (about 1/3 oz / 10 g)"
+   },
+   {
+    "item": "Hyssop leaves, dried (optional, for a stubborn chest cough)",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Anise seeds, lightly crushed",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Ginger root, fresh, sliced",
+    "amount": "4 slices"
+   },
+   {
+    "item": "Water",
+    "amount": "2 cups (480 ml)"
+   },
+   {
+    "item": "Raw honey",
+    "amount": "about 1/2 cup (170 g), equal to the volume of strained liquid"
+   },
+   {
+    "item": "Lemon juice (optional, for flavour and keeping)",
+    "amount": "1 tbsp"
+   }
+  ],
+  "steps": [
+   "Put the water, ginger and anise in a small pan, bring to a boil and simmer, uncovered, until reduced by roughly half to about 1 cup (240 ml), about 15-20 minutes.",
+   "Remove from the heat, add the thyme (and hyssop if using), cover with a lid to keep in the aromatic oils, and steep 20 minutes.",
+   "Strain through a fine sieve or cloth, squeezing the herbs well, and measure the liquid; you should have about 1/2-3/4 cup.",
+   "Let it cool to warm (below about 60°C / 140°F), then stir in an equal volume of honey and the lemon juice until fully dissolved, stirring sunwise and speaking the chant.",
+   "Pour into a sterilised glass bottle, label with name, date and 'keep refrigerated', and store in the fridge for up to 3-4 weeks."
+  ],
+  "howToUse": "Adults: 1-2 tsp (5-10 ml) straight from the spoon or stirred into warm water, every 3-4 hours as needed, up to 6 times daily, including at bedtime. Children over 12 months: 1/2 tsp (ages 1-5) or 1 tsp (ages 6-11), up to 3-4 times daily (made without hyssop for children). Shake before use.",
+  "chant": "Thyme of courage, honey gold, keep my chest from damp and cold. Cough be loosened, cough be stilled, with every spoon my health fulfilled.",
+  "intention": "With every spoonful, my chest grows clear and my cough grows quiet.",
+  "timing": "Make on a waning moon, ideally a Tuesday (Mars) or Saturday (Saturn), to banish illness; keep it ready from Samhain onward.",
+  "metaphysical": [
+   "healing",
+   "courage",
+   "strength",
+   "purification",
+   "protection",
+   "health"
+  ],
+  "medical": [
+   "cough",
+   "wet cough",
+   "dry cough",
+   "sore throat",
+   "colds",
+   "chest congestion",
+   "bronchitis support"
+  ],
+  "caution": "Never give honey (raw or cooked) to babies under 12 months because of the risk of infant botulism. Omit hyssop for children, in pregnancy (it may stimulate the womb) and breastfeeding, and for anyone with epilepsy or seizure disorders. Medicinal amounts of thyme and anise are best avoided in pregnancy; avoid anise with estrogen-sensitive conditions (and it may reduce the effect of birth control pills, estrogen therapy and tamoxifen) and if allergic to the carrot/celery family; avoid thyme if allergic to the mint family (oregano, marjoram). Thyme may slow blood clotting in large amounts. People with diabetes should be aware this syrup is about half sugar. Discard if it ferments, bubbles, grows mold or smells off. See a doctor promptly if there is difficulty breathing, wheezing, chest pain, coughing up blood or rusty/green-brown phlegm with fever, a fever of 39.4°C (103°F) or higher or any fever lasting more than 3 days, a cough lasting more than 2-3 weeks, symptoms that improve and then suddenly worsen, or any illness lasting beyond 7-10 days; seek urgent care for blue-tinged lips, confusion, a stiff neck or severe headache, and in babies, the elderly, or anyone with asthma, heart or lung disease or a weakened immune system. Herbal teas are traditional folk preparations, not medical advice and not a substitute for medical care; consult a healthcare provider before use if pregnant, breastfeeding, giving to children, taking medication, or living with a health condition.",
+  "bestTime": "Late summer for harvesting thyme (Jul–Aug); make at Mabon or Samhain (Sep–Oct) ready for winter",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent",
+   "Dark Moon"
+  ],
+  "interactions": "Anise may reduce the effect of birth control pills, estrogen therapy and tamoxifen. Large amounts of thyme may add to blood thinners; ginger may add to blood thinners and diabetes medication.",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.webmd.com/vitamins/ai/ingredientmono-823/thyme",
+   "https://www.rxlist.com/anise/supplements.htm",
+   "https://www.webmd.com/vitamins/ai/ingredientmono-258/hyssop",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ginger",
+   "https://www.cdc.gov/botulism/prevention/index.html"
+  ]
+ },
+ {
+  "id": "brew-sage-sore-throat-gargle",
+  "type": "brew",
+  "name": "Sage & Salt Sore Throat Gargle (External)",
+  "description": "A strong, astringent infusion of Sage with sea salt and a splash of cider vinegar, gargled and spat out at the first scratch of a sore throat. Sage gargles appear in herbals from the Middle Ages onward, and the old saying asked, 'Why should a man die whilst sage grows in his garden?'. This is an EXTERNAL gargle, not a drink.",
+  "ingredients": [
+   {
+    "item": "Sage leaves, dried (or 2 tbsp fresh, torn)",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Thyme leaves, dried (optional)",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Boiling water",
+    "amount": "1 cup (240 ml)"
+   },
+   {
+    "item": "Sea salt",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Apple cider vinegar (optional)",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Honey (optional, for soothing)",
+    "amount": "1 tsp"
+   }
+  ],
+  "steps": [
+   "Pour the boiling water over the sage (and thyme) in a mug, cover with a saucer to keep in the aromatic oils, and steep 10-15 minutes while speaking the chant.",
+   "Strain, then stir in the salt until dissolved, followed by the vinegar and honey if using.",
+   "Let it cool to comfortably warm before gargling (gargle and spit only; this strong infusion is never swallowed).",
+   "Make fresh each day; any leftover may be kept covered in the fridge for up to 24 hours and warmed gently."
+  ],
+  "howToUse": "EXTERNAL GARGLE ONLY: take a mouthful, tilt the head back and gargle for 30 seconds, then spit it out; repeat until the cup is used. Use 3-4 times daily, and after meals, while the throat is sore. Can also be used as a mouthwash for mouth ulcers and sore gums.",
+  "chant": "Sage of saving, salt of sea, wash this burning out of me. Cleansed and soothed, my voice runs clear; what brought the hurt, depart from here.",
+  "intention": "My throat is cleansed, soothed and protected.",
+  "timing": "Whenever needed; first gargle at the first scratch. A Wednesday (Mercury, voice) on a waning moon is traditional for banishing throat ills.",
+  "metaphysical": [
+   "healing",
+   "purification",
+   "cleansing",
+   "communication",
+   "protection",
+   "banishing"
+  ],
+  "medical": [
+   "sore throat",
+   "tonsillitis support",
+   "mouth ulcers",
+   "gum health",
+   "colds",
+   "antiseptic"
+  ],
+  "caution": "EXTERNAL USE ONLY: gargle and spit; do not swallow. Sage contains thujone, which is harmful in large internal amounts; do not drink this strong preparation, and avoid sage preparations if pregnant, breastfeeding (sage reduces milk) or living with epilepsy. Only for children old enough to gargle and spit out reliably (usually over 6-7 years); younger children should not use gargles. Never give honey (raw or cooked) to babies under 12 months because of the risk of infant botulism. Salt water may sting open sores; reduce the salt if so. See a doctor if a sore throat is severe, lasts more than a week, comes with a high fever, white patches or pus on the tonsils, swollen tender neck glands, a rash, an earache, or difficulty opening the mouth; seek emergency care at once for difficulty breathing or swallowing, drooling, or a muffled voice. Herbal teas are traditional folk preparations, not medical advice and not a substitute for medical care; consult a healthcare provider before use if pregnant, breastfeeding, giving to children, taking medication, or living with a health condition.",
+  "bestTime": "Midsummer for harvesting sage (Jun–Jul); used through autumn and winter, Mabon to Ostara (Sep–Mar)",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent"
+  ],
+  "interactions": "None expected when gargled and spat out; if swallowed in quantity, sage may affect seizure medicines, diabetes medicines and sedatives.",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.nccih.nih.gov/health/sage?nav=gsa",
+   "https://www.ncbi.nlm.nih.gov/books/NBK501816/",
+   "https://www.cdc.gov/botulism/prevention/index.html"
+  ]
+ },
+ {
+  "id": "brew-marshmallow-cold-infusion",
+  "type": "brew",
+  "name": "Marshmallow Root Moon-Cold Infusion",
+  "description": "Marshmallow Root gives up its slippery, soothing mucilage best in cold water, not hot, so this infusion steeps overnight beneath the moon like a moon-water. The silky, slightly sweet drink, with a touch of Cinnamon and Violet leaf, is a traditional throat-coating remedy for a dry, irritated, tickly cough.",
+  "ingredients": [
+   {
+    "item": "Marshmallow Root, dried, cut and sifted",
+    "amount": "2 tbsp (about 1/3 oz / 10 g)"
+   },
+   {
+    "item": "Violet leaves, dried (optional)",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Cinnamon stick (optional, for flavour)",
+    "amount": "1/2 stick"
+   },
+   {
+    "item": "Cold filtered water",
+    "amount": "2 cups (480 ml)"
+   },
+   {
+    "item": "Honey or a squeeze of lemon (optional)",
+    "amount": "to taste"
+   }
+  ],
+  "steps": [
+   "Place the marshmallow root, violet leaf and cinnamon in a clean glass jar and pour over the cold water.",
+   "Stir sunwise, speak the chant, cover and leave in the refrigerator (or on a cool windowsill in the moonlight for an hour, then the fridge) for 4-8 hours or overnight.",
+   "Strain through a fine sieve, pressing gently; the liquid should be slightly thick and silky.",
+   "Drink at room temperature or warmed gently (do not boil); sweeten with honey if wished. Keep in the fridge and use within 24 hours."
+  ],
+  "howToUse": "Adults: 1/2-1 cup (120-240 ml) sipped slowly, 3-4 times daily, especially before bed, while a dry cough or sore, raw throat lasts. Children over 2: 1/4-1/2 cup, up to 3 times daily (no honey under 12 months).",
+  "chant": "Mallow root in moonlit cold, silken waters, soft and old, coat my throat and calm the dry, sweet relief as night goes by.",
+  "intention": "My throat is coated in soothing calm, and the dry cough is quieted.",
+  "timing": "Set to steep at moonrise on a Monday (Moon) during a waning moon; drink through the next day.",
+  "metaphysical": [
+   "healing",
+   "calm",
+   "protection",
+   "peace",
+   "moon magic",
+   "emotional healing"
+  ],
+  "medical": [
+   "dry cough",
+   "cough",
+   "sore throat",
+   "throat irritation",
+   "heartburn",
+   "colds"
+  ],
+  "caution": "Marshmallow Root may slow the absorption of medicines taken at the same time: drink it at least 1-2 hours apart from other medication. It may lower blood sugar; take care with diabetes medication. Generally considered gentle, but avoid in pregnancy and breastfeeding unless advised by a healthcare provider. Never give honey (raw or cooked) to babies under 12 months because of the risk of infant botulism. Cold infusions can spoil: keep refrigerated and discard after 24 hours or if it smells sour. See a doctor promptly if there is difficulty breathing, wheezing, chest pain, coughing up blood or rusty/green-brown phlegm with fever, a fever of 39.4°C (103°F) or higher or any fever lasting more than 3 days, a cough lasting more than 2-3 weeks, symptoms that improve and then suddenly worsen, or any illness lasting beyond 7-10 days; seek urgent care for blue-tinged lips, confusion, a stiff neck or severe headache, and in babies, the elderly, or anyone with asthma, heart or lung disease or a weakened immune system. Herbal teas are traditional folk preparations, not medical advice and not a substitute for medical care; consult a healthcare provider before use if pregnant, breastfeeding, giving to children, taking medication, or living with a health condition.",
+  "bestTime": "Autumn, Mabon to Samhain (Sep–Oct), when marshmallow roots are dug; used through winter",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent",
+   "Full Moon"
+  ],
+  "interactions": "Marshmallow's mucilage may slow absorption of medicines taken at the same time (take 1 to 2 hours apart) and may add to diabetes medication.",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.webmd.com/vitamins-supplements/marshmallow",
+   "https://www.cdc.gov/botulism/prevention/index.html"
+  ]
+ },
+ {
+  "id": "brew-mullein-licorice-chest-tea",
+  "type": "brew",
+  "name": "Mullein & Licorice Velvet Chest Tea",
+  "description": "Mullein's soft, flannel-like leaves earned it names like 'Our Lady's Flannel' and 'Hag's Taper', and it has long been brewed for tired, irritated lungs. Combined with sweet Licorice Root, warming Fennel and a touch of Thyme, this gentle chest tea is traditionally sipped for lingering coughs and a heavy, tight chest after a cold.",
+  "ingredients": [
+   {
+    "item": "Mullein leaves, dried",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Licorice Root, dried, cut",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Fennel seeds, lightly crushed",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Thyme leaves, dried",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Water",
+    "amount": "2 cups (480 ml)"
+   },
+   {
+    "item": "Honey (optional)",
+    "amount": "1 tsp per cup"
+   }
+  ],
+  "steps": [
+   "Simmer the licorice root and fennel seeds in the water, covered, for 10 minutes to draw out the root.",
+   "Remove from the heat, add the mullein and thyme, cover and steep 10-15 minutes while speaking the chant.",
+   "Strain through a very fine cloth, coffee filter or doubled muslin to remove mullein's tiny irritating hairs; this step matters.",
+   "Sweeten with honey if wished once it has cooled slightly, and sip warm."
+  ],
+  "howToUse": "Adults: 1 cup, 2-3 times daily, for up to 1-2 weeks while a cough lingers. Not for children under 12 because of the licorice; make it without licorice for older children (1/2 cup, twice daily, over age 6).",
+  "chant": "Flannel leaf and honeyed root, quiet cough and calm the chest, velvet soft and sweet the fruit, breathe in peace and breathe in rest.",
+  "intention": "My lungs are soothed, strengthened and at ease.",
+  "timing": "Brew in the evening on a waning moon; a Monday or Saturday is traditional.",
+  "metaphysical": [
+   "healing",
+   "protection",
+   "courage",
+   "calm",
+   "health",
+   "purification"
+  ],
+  "medical": [
+   "cough",
+   "chest congestion",
+   "colds",
+   "sore throat",
+   "bronchitis support",
+   "dry cough"
+  ],
+  "caution": "Licorice Root can raise blood pressure, lower potassium and cause fluid retention: avoid with high blood pressure, heart, kidney or liver disease, low potassium, and with diuretics, digoxin, corticosteroids, blood thinners or blood-pressure medication; do not use for more than 2 weeks, and avoid in pregnancy and breastfeeding. Fennel is mildly estrogenic: avoid medicinal amounts with estrogen-sensitive conditions, and it may reduce the effect of birth control pills, tamoxifen and ciprofloxacin. Always strain mullein through a very fine cloth; ask a provider before using mullein in pregnancy or breastfeeding. Not for children under 12 with the licorice. Never give honey (raw or cooked) to babies under 12 months because of the risk of infant botulism. See a doctor promptly if there is difficulty breathing, wheezing, chest pain, coughing up blood or rusty/green-brown phlegm with fever, a fever of 39.4°C (103°F) or higher or any fever lasting more than 3 days, a cough lasting more than 2-3 weeks, symptoms that improve and then suddenly worsen, or any illness lasting beyond 7-10 days; seek urgent care for blue-tinged lips, confusion, a stiff neck or severe headache, and in babies, the elderly, or anyone with asthma, heart or lung disease or a weakened immune system. Herbal teas are traditional folk preparations, not medical advice and not a substitute for medical care; consult a healthcare provider before use if pregnant, breastfeeding, giving to children, taking medication, or living with a health condition.",
+  "bestTime": "Mullein leaves are gathered in summer, Litha to Lughnasadh (Jun–Aug); brewed through autumn and winter",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent"
+  ],
+  "interactions": "Licorice interacts with diuretics, digoxin, corticosteroids, blood pressure medicines and warfarin and can lower potassium. Fennel may reduce the effect of birth control pills, estrogen, tamoxifen and ciprofloxacin and may add to blood thinners.",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.nccih.nih.gov/health/licorice-root",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/licorice",
+   "https://www.rxlist.com/supplements/fennel.htm",
+   "https://www.webmd.com/diet/health-benefits-mullein-tea",
+   "https://www.cdc.gov/botulism/prevention/index.html"
+  ]
+ },
+ {
+  "id": "brew-ginger-cinnamon-sweat-tea",
+  "type": "brew",
+  "name": "Ginger, Cinnamon & Elderflower Sweat-It-Out Tea",
+  "description": "When a cold arrives with shivers, goosebumps and a chill that blankets cannot shift, old folk wisdom says to warm the body and 'sweat it out'. This fiery tea simmers Ginger and Cinnamon with a pinch of Cayenne, then steeps Elder flower to open the pores, drunk hot in bed under the covers.",
+  "ingredients": [
+   {
+    "item": "Ginger root, fresh, sliced",
+    "amount": "1 in (2.5 cm) piece, 6-8 slices"
+   },
+   {
+    "item": "Cinnamon stick",
+    "amount": "1 stick"
+   },
+   {
+    "item": "Clove",
+    "amount": "2 whole cloves"
+   },
+   {
+    "item": "Elder flowers, dried",
+    "amount": "2 tsp"
+   },
+   {
+    "item": "Cayenne pepper (optional)",
+    "amount": "1 small pinch"
+   },
+   {
+    "item": "Water",
+    "amount": "2 1/2 cups (600 ml)"
+   },
+   {
+    "item": "Lemon juice",
+    "amount": "1/2 lemon"
+   },
+   {
+    "item": "Honey",
+    "amount": "1-2 tsp per cup"
+   }
+  ],
+  "steps": [
+   "Simmer the ginger, cinnamon and cloves in the water, covered, for 10-15 minutes, stirring sunwise and speaking the chant.",
+   "Turn off the heat, add the elder flowers, cover and steep 10 minutes.",
+   "Strain into mugs and add the cayenne if using, then the lemon juice and honey once it is comfortably hot.",
+   "Drink as hot as is comfortable, then get straight into a warm bed with extra blankets."
+  ],
+  "howToUse": "Adults: 1 cup hot, every 3-4 hours on the first day or two of a chilled, shivery cold or flu (up to 4 cups daily), then rest under blankets. Follow each cup with a glass of water, and change into dry clothes after sweating. Children over 2: a mild version without cayenne or cloves, 1/2 cup, with medical guidance.",
+  "chant": "Fire of ginger, cinnamon flame, chill and fever, leave the same; elder open, sweat run clear, carry all the sickness out of here.",
+  "intention": "My body warms, the chill breaks, and illness is carried out of me.",
+  "timing": "Brew at dusk at the first sign of chill; a Tuesday (Mars) on a waning moon is ideal for driving illness away.",
+  "metaphysical": [
+   "healing",
+   "purification",
+   "banishing",
+   "protection",
+   "energy",
+   "strength"
+  ],
+  "medical": [
+   "colds",
+   "flu",
+   "chills",
+   "fever",
+   "congestion",
+   "aches",
+   "immune support"
+  ],
+  "caution": "Not for those who are already overheated with a high fever, or for babies, the frail elderly or anyone at risk of dehydration; sweating loses fluid, so drink plenty of water and stop if dizzy or faint. Ginger and cloves may increase bleeding risk with blood thinners and should be stopped 2 weeks before surgery; ginger and cinnamon may lower blood sugar. Cayenne and ginger may aggravate heartburn, ulcers or reflux. Never use raw elder parts other than properly dried flowers. In pregnancy, keep spices to food amounts and ask your midwife first. Never give honey (raw or cooked) to babies under 12 months because of the risk of infant botulism. Seek medical care for a fever of 39.4°C (103°F) or higher, any fever lasting more than 3 days, a fever with a stiff neck, severe headache, rash that does not fade under a pressed glass, confusion, chest pain, difficulty breathing, persistent vomiting or signs of dehydration (very little or dark urine, dizziness, dry mouth); in babies under 3 months, any temperature of 38°C (100.4°F) or above needs urgent medical attention. Herbal teas are traditional folk preparations, not medical advice and not a substitute for medical care; consult a healthcare provider before use if pregnant, breastfeeding, giving to children, taking medication, or living with a health condition.",
+  "bestTime": "Winter, Samhain to Imbolc (Oct–Feb), the coldest and most chill-ridden months",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent",
+   "Dark Moon"
+  ],
+  "interactions": "Ginger and clove may add to blood thinners and antiplatelet drugs (warfarin, aspirin, clopidogrel, NSAIDs); ginger and cinnamon may add to diabetes medication.",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ginger",
+   "https://www.rxlist.com/supplements/clove.htm",
+   "https://www.nccih.nih.gov/health/elderberry",
+   "https://www.cdc.gov/botulism/prevention/index.html"
+  ]
+ },
+ {
+  "id": "brew-garlic-onion-healing-broth",
+  "type": "brew",
+  "name": "Cauldron Garlic, Onion & Thyme Healing Broth",
+  "description": "The cauldron's oldest healing magic: a deep, savoury broth of whole Garlic, onions, mushrooms and herbs, simmered low and slow. Sipped hot, it is a traditional companion for colds and congestion, and as the 'flu recovery broth' it gently nourishes and rehydrates a body too tired to eat. This version is vegetarian, with a note for bone broth.",
+  "ingredients": [
+   {
+    "item": "Garlic, whole cloves, peeled and lightly crushed",
+    "amount": "1 whole bulb (10-12 cloves)"
+   },
+   {
+    "item": "Onions, yellow or red, with some skins left on",
+    "amount": "2 medium, quartered"
+   },
+   {
+    "item": "Carrots, chopped",
+    "amount": "2"
+   },
+   {
+    "item": "Celery stalks, chopped",
+    "amount": "2"
+   },
+   {
+    "item": "Shiitake or other mushrooms, fresh or dried",
+    "amount": "4 oz (115 g) fresh or 1/2 oz (15 g) dried"
+   },
+   {
+    "item": "Ginger root, fresh, sliced",
+    "amount": "1 in (2.5 cm) piece"
+   },
+   {
+    "item": "Thyme sprigs, fresh (or 1 tsp dried)",
+    "amount": "4-5 sprigs"
+   },
+   {
+    "item": "Bay Laurel leaves",
+    "amount": "2"
+   },
+   {
+    "item": "Nettle leaves, dried (optional, for minerals)",
+    "amount": "2 tbsp"
+   },
+   {
+    "item": "Turmeric, ground",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Black Pepper, whole peppercorns",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Water",
+    "amount": "10 cups (2.4 litres)"
+   },
+   {
+    "item": "Sea salt and lemon juice",
+    "amount": "to taste"
+   },
+   {
+    "item": "Parsley, fresh, chopped, to finish",
+    "amount": "a handful"
+   }
+  ],
+  "steps": [
+   "Peel and crush the garlic and let it rest 10 minutes (traditionally said to wake its virtues) while you chop the vegetables, naming each one's gift as you add it to the cauldron.",
+   "Put everything except the salt, lemon and parsley into a large pot, bring to a boil, then lower to the gentlest simmer, partly covered.",
+   "Simmer for 1 1/2-2 hours, stirring sunwise now and then and speaking the chant, until the liquid is golden and fragrant and reduced by about a third.",
+   "Strain through a sieve, pressing the vegetables (or keep some soft garlic and vegetables in for a heartier soup), and season with salt and a squeeze of lemon.",
+   "Finish each bowl with fresh parsley. Cool quickly, refrigerate for up to 4 days, or freeze in portions for up to 3 months."
+  ],
+  "howToUse": "Colds and congestion: sip 1 mug, steaming hot, 2-3 times daily, breathing in the steam. Flu recovery: sip small mugs every few hours while appetite is low, adding rice, noodles or soft vegetables as it returns. For bone broth, add 1-2 lb (0.5-1 kg) chicken bones or a carcass with 1 tbsp vinegar and simmer 4-6 hours, skimming as needed. Suitable for most of the family, adjusted for salt (omit the nettle in pregnancy, and never share with dogs or cats: onion and garlic are toxic to them).",
+  "chant": "Bubble, cauldron, garlic, thyme, onion, root and mushroom fine; strength return and sickness flee, as I sip, so mote it be.",
+  "intention": "This broth nourishes, warms and restores me from root to crown.",
+  "timing": "Brew on a Sunday (Sun, vitality) for recovery, or on a waning moon to banish a cold.",
+  "metaphysical": [
+   "healing",
+   "protection",
+   "health",
+   "vitality",
+   "strength",
+   "banishing",
+   "home blessing"
+  ],
+  "medical": [
+   "colds",
+   "flu",
+   "flu recovery",
+   "congestion",
+   "dehydration",
+   "convalescence",
+   "immune support"
+  ],
+  "caution": "Large amounts of garlic may increase bleeding risk with blood thinners and should be reduced before surgery; garlic can interact with some HIV medicines and may cause heartburn. Turmeric in food amounts is safe for most, but avoid medicinal amounts with gallstones or blood thinners. Use a low-salt version for babies, people on salt-restricted diets and those with kidney or heart disease; for babies over 6 months, offer only plain unsalted, well-cooled broth. Remove bay leaves before serving (they are a choking hazard). Leave out the nettle in pregnancy and breastfeeding, and ask a provider first if you take lithium, warfarin, diabetes or blood pressure medicine. Never feed this broth to dogs or cats: onion and garlic damage their red blood cells. Cool and refrigerate within 2 hours. Broth helps hydration but is not enough alone in significant dehydration; oral rehydration solution is better for vomiting or diarrhea. Seek medical care for a fever of 39.4°C (103°F) or higher, any fever lasting more than 3 days, a fever with a stiff neck, severe headache, rash that does not fade under a pressed glass, confusion, chest pain, difficulty breathing, persistent vomiting or signs of dehydration (very little or dark urine, dizziness, dry mouth); in babies under 3 months, any temperature of 38°C (100.4°F) or above needs urgent medical attention. See a doctor promptly for coughing up blood, a cough lasting more than 2-3 weeks, symptoms that improve and then suddenly worsen, or any illness lasting beyond 7-10 days. Herbal teas are traditional folk preparations, not medical advice and not a substitute for medical care; consult a healthcare provider before use if pregnant, breastfeeding, giving to children, taking medication, or living with a health condition.",
+  "bestTime": "Autumn and winter, Mabon to Imbolc (Sep–Feb), when the cauldron is kept warm on the hearth",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "New Moon",
+   "Waxing Crescent"
+  ],
+  "interactions": "Large amounts of garlic may add to blood thinners and can lower levels of some HIV medicines (saquinavir). Nettle may raise lithium levels, add to diabetes and blood pressure medicines, and its vitamin K can reduce the effect of warfarin.",
+  "pets": "Toxic to dogs and cats: onion and garlic cause anemia in pets, so never share the broth or vegetables.",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/garlic",
+   "https://aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pets",
+   "https://www.rxlist.com/supplements/stinging_nettle.htm",
+   "https://pubmed.ncbi.nlm.nih.gov/17918162/"
+  ]
+ },
+ {
+  "id": "brew-eucalyptus-thyme-steam",
+  "type": "brew",
+  "name": "Eucalyptus & Thyme Clearing Steam (External)",
+  "description": "Breathing herbal steam beneath a towel is one of the oldest cottage remedies for a blocked head, and Aboriginal Australians have long used eucalyptus leaves in steam and smoke for healing. This aromatic steam of Eucalyptus, Thyme, Peppermint and Pine helps loosen congestion and open stuffy passages. It is EXTERNAL, for inhaling only.",
+  "ingredients": [
+   {
+    "item": "Eucalyptus leaves, dried (or 2-3 drops eucalyptus essential oil)",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Thyme leaves, dried",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Peppermint leaves, dried",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "Pine needles, fresh, chopped (optional)",
+    "amount": "1 small handful"
+   },
+   {
+    "item": "Freshly boiled water",
+    "amount": "4 cups (1 litre)"
+   },
+   {
+    "item": "Large heatproof bowl and a large towel",
+    "amount": "1 each"
+   }
+  ],
+  "steps": [
+   "Place the bowl on a stable table where it cannot be knocked over, away from children and pets, and put the herbs in it (this water is for steam only and is never drunk).",
+   "Pour the freshly boiled water over the herbs and let it stand 2-3 minutes to cool slightly; if using essential oil, add it only now, 1 drop at a time.",
+   "Remove glasses, close your eyes, and lean over the bowl at a comfortable distance (about 12 in / 30 cm), draping the towel over your head to make a tent.",
+   "Breathe slowly through your nose for a few breaths, then the mouth, speaking or thinking the chant; lift the towel for fresh air whenever you need to."
+  ],
+  "howToUse": "EXTERNAL INHALATION ONLY: steam for 5-10 minutes, 2-3 times daily, while congested; blow the nose gently afterwards and rest out of draughts. A warm bath or shower with a bundle of eucalyptus hung from the shower head is a gentler alternative. Never drink the water; pour it out on the earth with thanks when cool.",
+  "chant": "Eucalyptus, thyme and pine, clear these passages of mine. Mist of healing, rise and roll, open breath and clear my soul.",
+  "intention": "With every breath my head clears and my passages open.",
+  "timing": "Whenever needed, especially before bed; on a waning moon for clearing away illness.",
+  "metaphysical": [
+   "healing",
+   "purification",
+   "cleansing",
+   "clarity",
+   "protection",
+   "release"
+  ],
+  "medical": [
+   "congestion",
+   "sinus congestion",
+   "colds",
+   "flu",
+   "catarrh",
+   "cough",
+   "headache"
+  ],
+  "caution": "EXTERNAL USE ONLY; do not drink. Scalding is the main danger: never steam children under 12, never leave hot water where children or pets can reach it, and keep a safe distance from the water. Eucalyptus and peppermint (menthol) can trigger breathing problems or spasm in babies and young children; never use them near a child under 6. People with asthma may find steam or strong aromatics trigger wheezing: try plain steam first and stop at once if breathing tightens. Eucalyptus essential oil is poisonous if swallowed: as little as 2 ml (under half a teaspoon) can seriously poison an infant, causing drowsiness, seizures or coma; store it out of reach of children. Keep cats, dogs and birds out of the room: eucalyptus, peppermint and pine are toxic to pets and cats are especially sensitive to essential oil vapors. Keep eyes closed. Avoid in pregnancy if using essential oil without advice. See a doctor promptly if there is difficulty breathing, wheezing, chest pain, coughing up blood or rusty/green-brown phlegm with fever, a fever of 39.4°C (103°F) or higher or any fever lasting more than 3 days, a cough lasting more than 2-3 weeks, symptoms that improve and then suddenly worsen, or any illness lasting beyond 7-10 days; seek urgent care for blue-tinged lips, confusion, a stiff neck or severe headache, and in babies, the elderly, or anyone with asthma, heart or lung disease or a weakened immune system. Herbal teas are traditional folk preparations, not medical advice and not a substitute for medical care; consult a healthcare provider before use if pregnant, breastfeeding, giving to children, taking medication, or living with a health condition.",
+  "bestTime": "Winter, Samhain to Ostara (Oct–Mar), the season of colds and stuffed-up heads",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent"
+  ],
+  "interactions": "",
+  "pets": "Eucalyptus is toxic to dogs, cats and horses; keep pets out of the room and never leave the bowl or oil where they can reach.",
+  "toxic": true,
+  "externalOnly": true,
+  "sources": [
+   "https://www.aspca.org/node/4870",
+   "https://healthywa.health.wa.gov.au/Articles/A_E/Essential-oils",
+   "https://pubmed.ncbi.nlm.nih.gov/22781995/",
+   "https://www.nccih.nih.gov/health/peppermintoil",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/"
+  ]
+ },
+ {
+  "id": "brew-elderberry-syrup",
+  "type": "brew",
+  "name": "Elder Mother's Elderberry Syrup",
+  "description": "The Elder tree was home to the Elder Mother, and folk asked her permission before taking a single berry. Her dark berries, simmered with Ginger, Cinnamon and Clove and sweetened with honey, make the beloved winter syrup traditionally taken at the first sign of a cold or flu and through the season to support the body's defences.",
+  "ingredients": [
+   {
+    "item": "Elder berries, dried (or 1 1/2 cups fresh, ripe, destemmed)",
+    "amount": "2/3 cup (about 3 1/2 oz / 100 g)"
+   },
+   {
+    "item": "Water",
+    "amount": "3 1/2 cups (840 ml)"
+   },
+   {
+    "item": "Ginger root, fresh, sliced",
+    "amount": "1 in (2.5 cm) piece"
+   },
+   {
+    "item": "Cinnamon stick",
+    "amount": "1 stick"
+   },
+   {
+    "item": "Clove",
+    "amount": "4 whole cloves"
+   },
+   {
+    "item": "Orange Peel, dried (optional)",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Raw honey",
+    "amount": "about 1 cup (340 g)"
+   },
+   {
+    "item": "Lemon juice",
+    "amount": "2 tbsp"
+   }
+  ],
+  "steps": [
+   "Ask the Elder Mother's leave and thank her. Remove every stem from fresh berries (stems, leaves and unripe green berries are toxic) and use only fully ripe, dark berries.",
+   "Put the berries, water, ginger, cinnamon, cloves and orange peel in a pan, bring to a boil, then simmer, partly covered, for 40-45 minutes until reduced by about half. Thorough cooking is essential: raw elderberries cause nausea and vomiting.",
+   "Mash the berries gently, then strain through a fine sieve or cloth, squeezing out all the juice; you should have about 1 1/2-2 cups.",
+   "Let the liquid cool until warm (below about 60°C / 140°F), then stir in the honey and lemon juice sunwise while speaking the chant.",
+   "Pour into sterilised glass bottles, label with name, date and 'keep refrigerated', and store in the fridge for up to 2-3 months (or freeze in ice-cube trays)."
+  ],
+  "howToUse": "Adults: for seasonal support, 1 tsp-1 tbsp (5-15 ml) daily; at the first sign of a cold or flu, 1 tbsp every 3-4 hours, up to 4-5 times daily, for 3-5 days. Children over 12 months: 1/2-1 tsp daily for support, or up to 3 times daily when unwell (ages 1-5: 1/2 tsp; 6-12: 1 tsp). Take straight, or stir into warm (not boiling) water or tea.",
+  "chant": "Elder Mother, dark and wise, bless the berries, bless the prize. Guard my hearth and guard my health, winter's gift and winter's wealth.",
+  "intention": "With the Elder Mother's blessing, my household is protected and strong through the dark season.",
+  "timing": "Gather berries in late summer with the Elder Mother's permission; brew on a full moon for strength or a Sunday for health.",
+  "metaphysical": [
+   "protection",
+   "healing",
+   "health",
+   "blessing",
+   "faery",
+   "home blessing",
+   "banishing"
+  ],
+  "medical": [
+   "colds",
+   "flu",
+   "immune support",
+   "cough",
+   "fever",
+   "congestion",
+   "sore throat"
+  ],
+  "caution": "Raw or undercooked elderberries, and the stems, leaves, bark, seeds and unripe berries, contain compounds that can cause nausea, vomiting and diarrhea: always cook berries thoroughly for at least 30-45 minutes and use only ripe ones, and only Sambucus nigra or canadensis; never red elderberries. Be 100% sure of identification when foraging (some elder lookalikes, such as water hemlock and pokeweed, are deadly). Never give honey (raw or cooked) to babies under 12 months because of the risk of infant botulism. Elderberry may stimulate the immune system: avoid with autoimmune conditions or immunosuppressant medication (e.g. after transplant) unless advised; it is mildly diuretic and laxative, and may affect diabetes medication. There is little safety research in pregnancy and breastfeeding, so consult a healthcare provider. People with diabetes should count the honey. Discard if moldy, fizzy or off-smelling. Seek medical care for a fever of 39.4°C (103°F) or higher, any fever lasting more than 3 days, a fever with a stiff neck, severe headache, rash that does not fade under a pressed glass, confusion, chest pain, difficulty breathing, persistent vomiting or signs of dehydration (very little or dark urine, dizziness, dry mouth); in babies under 3 months, any temperature of 38°C (100.4°F) or above needs urgent medical attention. Herbal teas are traditional folk preparations, not medical advice and not a substitute for medical care; consult a healthcare provider before use if pregnant, breastfeeding, giving to children, taking medication, or living with a health condition.",
+  "bestTime": "Late summer to early autumn, Lughnasadh to Mabon (Aug–Sep), when elderberries hang ripe and dark",
+  "moonPhases": [
+   "Full Moon",
+   "Waxing Gibbous",
+   "Waning Gibbous"
+  ],
+  "interactions": "Elderberry may counteract immunosuppressant drugs and may add to diabetes medication, diuretics and laxatives; ginger and clove may add to blood thinners.",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.nccih.nih.gov/health/elderberry",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ginger",
+   "https://www.cdc.gov/botulism/prevention/index.html"
+  ]
+ },
+ {
+  "id": "brew-ginger-nausea-tea",
+  "type": "brew",
+  "name": "Fresh Ginger Settling Tea",
+  "description": "Ginger has been carried by sailors, chewed by pregnant women and steeped by healers from China to the Caribbean for queasy stomachs. This simple fresh-root tea, softened with a little Lemon Balm or Spearmint, is sipped slowly in small amounts to settle nausea, queasiness and the unsettled stomach that follows illness.",
+  "ingredients": [
+   {
+    "item": "Ginger root, fresh, peeled and thinly sliced or grated",
+    "amount": "1/2-1 in (1-2.5 cm) piece, about 1-2 tsp grated"
+   },
+   {
+    "item": "Water",
+    "amount": "1 1/2 cups (360 ml)"
+   },
+   {
+    "item": "Lemon Balm or Spearmint leaves, dried (optional)",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Lemon slice",
+    "amount": "1"
+   },
+   {
+    "item": "Honey (optional)",
+    "amount": "1 tsp"
+   }
+  ],
+  "steps": [
+   "Simmer the ginger in the water, covered, for 10 minutes for a gentle tea or up to 20 minutes for a stronger one, holding the intention of calm waters.",
+   "Remove from the heat, add lemon balm or spearmint if using, cover and steep 5 minutes.",
+   "Strain, add the lemon slice and honey if wished, and let it cool to warm.",
+   "Sip slowly in small mouthfuls; it may also be chilled and sipped cold, or frozen into ice chips for sucking."
+  ],
+  "howToUse": "Adults: sip 1/2-1 cup slowly, 2-4 times daily as needed for nausea (total fresh ginger up to about 1 tbsp grated a day). Sip small amounts often rather than drinking a whole cup at once. Children over 2: a weaker tea (a few thin slices), 1-2 tbsp at a time, up to 1/2 cup in total over a few hours. Pregnant women: see cautions.",
+  "chant": "Ginger root of sun and fire, settle belly, calm the mire. Little sip and little rest, stillness rises in my chest.",
+  "intention": "My stomach is settled and I am at peace within.",
+  "timing": "Whenever needed; on a waning moon to release sickness, or a Monday (Moon, the belly and its tides).",
+  "metaphysical": [
+   "healing",
+   "calm",
+   "balance",
+   "grounding",
+   "energy",
+   "travel"
+  ],
+  "medical": [
+   "nausea",
+   "upset stomach",
+   "morning sickness",
+   "motion sickness",
+   "indigestion",
+   "vomiting recovery"
+  ],
+  "caution": "Ginger is commonly used for nausea in pregnancy, but keep to modest food-level amounts (no more than about 1 g dried / 1 tsp grated fresh ginger daily), avoid near labour or with a history of miscarriage or bleeding, and always check with your midwife or doctor; severe pregnancy vomiting (hyperemesis) needs medical care. Ginger may increase bleeding risk with blood thinners, may lower blood sugar, and may worsen heartburn or gallstones. Lemon balm may affect thyroid medication. Never give honey (raw or cooked) to babies under 12 months because of the risk of infant botulism. After vomiting, rehydrate with small, frequent sips of an oral rehydration solution as well as tea. See a doctor if there is severe or worsening abdominal pain (especially low on the right side or with a rigid belly), vomiting that lasts more than 24 hours or prevents keeping fluids down, green (bile) or blood-streaked vomit, blood or black tarry stool, diarrhea lasting more than 2-3 days, signs of dehydration (little or dark urine, dizziness, dry mouth, no tears), a high fever, unexplained weight loss, difficulty swallowing, or symptoms that keep returning; upper abdominal or chest pain spreading to the arm, jaw or back can be a heart attack and needs emergency help. Herbal teas are traditional folk preparations, not medical advice and not a substitute for medical care; consult a healthcare provider before use if pregnant, breastfeeding, giving to children, taking medication, or living with a health condition.",
+  "bestTime": "All year; especially autumn and winter, Mabon to Imbolc (Sep–Feb), when ginger's warmth is most welcome",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent",
+   "New Moon"
+  ],
+  "interactions": "Ginger may add to blood thinners and antiplatelet drugs (warfarin, aspirin, clopidogrel, NSAIDs) and to diabetes medication, and may alter tacrolimus and cyclosporine levels; lemon balm may affect thyroid medication and add to sedatives.",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ginger",
+   "https://www.rxlist.com/supplements/lemon_balm.htm",
+   "https://www.cdc.gov/botulism/prevention/index.html"
+  ]
+ },
+ {
+  "id": "brew-peppermint-fennel-after-dinner",
+  "type": "brew",
+  "name": "Peppermint & Fennel After-Feast Tea",
+  "description": "After great feasts, Romans crowned themselves with mint and Indian households still pass bowls of fennel seed after meals. This bright after-dinner tea of Peppermint, Fennel and a little Cardamom is a classic carminative cup, traditionally sipped after heavy meals to ease fullness, indigestion, gas and bloating.",
+  "ingredients": [
+   {
+    "item": "Peppermint leaves, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Fennel seeds, lightly crushed",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Cardamom pods, cracked",
+    "amount": "2 pods"
+   },
+   {
+    "item": "Chamomile flowers, dried (optional)",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Boiling water",
+    "amount": "1 1/4 cups (300 ml)"
+   }
+  ],
+  "steps": [
+   "Crush the fennel seeds and crack the cardamom pods in a mortar to release their oils, speaking the chant as you grind sunwise.",
+   "Place all herbs in a teapot or mug and pour over the boiling water.",
+   "Cover with a lid or saucer (to keep in the aromatic oils) and steep 8-10 minutes.",
+   "Strain and sip warm, ideally sitting quietly rather than lying down."
+  ],
+  "howToUse": "Adults: 1 cup after a large meal, or up to 3 cups daily when indigestion, gas or bloating are troublesome. Children over 6: 1/2 cup (made with half the herbs) after meals for occasional tummy upset.",
+  "chant": "Feast is done and table cleared, mint and fennel, gather near; ease the fullness, free the wind, gentle balance flows within.",
+  "intention": "I digest with ease and give thanks for the nourishment I have received.",
+  "timing": "After the evening meal; especially after the great feasts of Samhain, Yule and Mabon.",
+  "metaphysical": [
+   "healing",
+   "balance",
+   "purification",
+   "happiness",
+   "abundance",
+   "clarity"
+  ],
+  "medical": [
+   "indigestion",
+   "bloating",
+   "gas",
+   "upset stomach",
+   "digestion",
+   "stomach cramps",
+   "nausea"
+  ],
+  "caution": "Peppermint relaxes the valve at the top of the stomach and may worsen acid reflux, heartburn or hiatus hernia (try a spearmint or chamomile tea instead); avoid peppermint with gallstones. Fennel is mildly estrogenic and contains estragole: avoid medicinal daily use in pregnancy and with estrogen-sensitive conditions, and avoid regular use while breastfeeding (nursing infants have been harmed after mothers drank large amounts of fennel-containing tea). Fennel may reduce the effect of birth control pills, tamoxifen and ciprofloxacin (take it at least an hour after ciprofloxacin). Avoid if allergic to the carrot/celery family or, with chamomile, the daisy family. Not for babies or young children under 6 in this strength (see the children's tummy tea). Bloating that is new and persistent (most days for 3 weeks or more), with weight loss or a change in bowel habit, should be checked by a doctor. See a doctor if there is severe or worsening abdominal pain (especially low on the right side or with a rigid belly), vomiting that lasts more than 24 hours or prevents keeping fluids down, green (bile) or blood-streaked vomit, blood or black tarry stool, diarrhea lasting more than 2-3 days, signs of dehydration (little or dark urine, dizziness, dry mouth, no tears), a high fever, unexplained weight loss, difficulty swallowing, or symptoms that keep returning; upper abdominal or chest pain spreading to the arm, jaw or back can be a heart attack and needs emergency help. Herbal teas are traditional folk preparations, not medical advice and not a substitute for medical care; consult a healthcare provider before use if pregnant, breastfeeding, giving to children, taking medication, or living with a health condition.",
+  "bestTime": "Year-round, especially during feasting seasons from Mabon to Yule (Sep–Dec)",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Full Moon"
+  ],
+  "interactions": "Fennel may reduce the effect of birth control pills, estrogen, tamoxifen and ciprofloxacin and may add to blood thinners; chamomile has reported interactions with warfarin and sedatives.",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.rxlist.com/supplements/fennel.htm",
+   "https://www.nccih.nih.gov/health/peppermintoil",
+   "https://www.nccih.nih.gov/health/chamomile/ataglance.htm?nav=gsa"
+  ]
+ },
+ {
+  "id": "brew-chamomile-lemon-balm-tummy-tea",
+  "type": "brew",
+  "name": "Chamomile & Lemon Balm Tummy-Soothe Tea",
+  "description": "Chamomile was one of the nine sacred herbs of the Anglo-Saxons, and Lemon Balm, the bee's favourite, was said by medieval herbalists to make 'the heart merry'. Together they make a gentle, honeyed tea traditionally sipped for an upset, nervous or crampy stomach, especially when worry and tension sit in the belly.",
+  "ingredients": [
+   {
+    "item": "Chamomile flowers, dried",
+    "amount": "2 tsp"
+   },
+   {
+    "item": "Lemon Balm leaves, dried (or 2 tbsp fresh)",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Spearmint leaves, dried (optional)",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Boiling water, just off the boil",
+    "amount": "1 1/4 cups (300 ml)"
+   },
+   {
+    "item": "Honey (optional)",
+    "amount": "1 tsp"
+   }
+  ],
+  "steps": [
+   "Place the herbs in a teapot or mug, holding them in your palm a moment to bless them with calm.",
+   "Pour over the water, just off the boil, cover and steep 10 minutes while speaking the chant.",
+   "Strain, and sweeten with a little honey if wished.",
+   "Sip slowly while warm, with a warm hand or hot-water bottle on the belly."
+  ],
+  "howToUse": "Adults: 1 cup, 2-4 times daily for an upset, nervous or mildly crampy stomach, and a cup before bed. Children over 2: see the Little Acorn Gentle Tummy Tea for children's doses.",
+  "chant": "Chamomile of golden sun, balm of bees, the work is done. Knots unwind and worries cease, belly soft and heart at peace.",
+  "intention": "My belly softens, my worries ease, and calm settles through me.",
+  "timing": "Any evening; especially a Monday (Moon) or Friday (Venus) for gentleness, on a waning moon to release tension.",
+  "metaphysical": [
+   "calm",
+   "peace",
+   "healing",
+   "happiness",
+   "sleep",
+   "emotional healing"
+  ],
+  "medical": [
+   "upset stomach",
+   "indigestion",
+   "stomach cramps",
+   "nausea",
+   "anxiety",
+   "nervous stomach",
+   "bloating"
+  ],
+  "caution": "Avoid chamomile if allergic to the daisy family (ragweed, daisies, marigolds, echinacea). Chamomile and lemon balm are mildly sedating and may add to sedatives, sleeping pills and alcohol; chamomile may interact with blood thinners such as warfarin and may reduce the effect of birth control pills. Lemon balm may interfere with thyroid medication; avoid medicinal amounts with an underactive thyroid unless advised. Generally gentle, but consult a healthcare provider before regular use in pregnancy or breastfeeding. Never give honey (raw or cooked) to babies under 12 months because of the risk of infant botulism. See a doctor if there is severe or worsening abdominal pain (especially low on the right side or with a rigid belly), vomiting that lasts more than 24 hours or prevents keeping fluids down, green (bile) or blood-streaked vomit, blood or black tarry stool, diarrhea lasting more than 2-3 days, signs of dehydration (little or dark urine, dizziness, dry mouth, no tears), a high fever, unexplained weight loss, difficulty swallowing, or symptoms that keep returning; upper abdominal or chest pain spreading to the arm, jaw or back can be a heart attack and needs emergency help. Herbal teas are traditional folk preparations, not medical advice and not a substitute for medical care; consult a healthcare provider before use if pregnant, breastfeeding, giving to children, taking medication, or living with a health condition.",
+  "bestTime": "Summer, Litha to Lughnasadh (Jun–Aug), when chamomile and lemon balm are harvested; sipped all year",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent",
+   "Full Moon"
+  ],
+  "interactions": "Chamomile and lemon balm may add to sedatives, sleeping pills and alcohol; chamomile has reported interactions with warfarin and may reduce birth control pill effectiveness; lemon balm may interfere with thyroid medication.",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.nccih.nih.gov/health/chamomile/ataglance.htm?nav=gsa",
+   "https://www.rxlist.com/supplements/lemon_balm.htm",
+   "https://www.cdc.gov/botulism/prevention/index.html"
+  ]
+ },
+ {
+  "id": "brew-blackberry-raspberry-leaf-tea",
+  "type": "brew",
+  "name": "Bramble & Raspberry Leaf Settling Tea",
+  "description": "The bramble was a hedge-witch's protector, its arching canes said to heal anyone who crawled beneath them. Blackberry and Raspberry Leaf are rich in astringent tannins and were the old country cure for 'summer complaint', a tea to tighten and settle loose bowels during recovery from mild diarrhoea, with Chamomile for cramps.",
+  "ingredients": [
+   {
+    "item": "Blackberry leaves, dried",
+    "amount": "2 tsp"
+   },
+   {
+    "item": "Raspberry Leaf, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Chamomile flowers, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Cinnamon stick (optional, warming)",
+    "amount": "1/4 stick"
+   },
+   {
+    "item": "Boiling water",
+    "amount": "1 1/2 cups (360 ml)"
+   }
+  ],
+  "steps": [
+   "Place the leaves, chamomile and cinnamon in a teapot, thanking the bramble for its protection.",
+   "Pour over the boiling water, cover and steep 10-15 minutes (longer steeping gives a more astringent tea).",
+   "Strain, speak the chant, and let it cool to warm.",
+   "Sip slowly; it may be lightly sweetened, but keep sugar low as sugar can worsen diarrhoea."
+  ],
+  "howToUse": "Adults: 1 cup, 3-4 times daily during mild, short-lived diarrhoea and recovery, for 1-3 days, alongside plenty of fluids and an oral rehydration solution. Return to bland foods (rice, banana, toast, broth) as appetite allows. Children over 2: 1/4-1/2 cup up to 3 times daily, with medical advice and rehydration solution as the priority.",
+  "chant": "Bramble guard and berry leaf, bind the flow and end the grief; tighten, settle, calm and keep, belly whole and body deep.",
+  "intention": "My body settles, steadies, and returns to its natural balance.",
+  "timing": "Whenever needed; on a waning moon for drawing illness away, or a Saturday (Saturn, binding).",
+  "metaphysical": [
+   "healing",
+   "protection",
+   "binding",
+   "balance",
+   "grounding",
+   "health"
+  ],
+  "medical": [
+   "diarrhea",
+   "diarrhoea recovery",
+   "upset stomach",
+   "stomach cramps",
+   "mouth ulcers",
+   "sore throat"
+  ],
+  "caution": "For mild, short-lived diarrhea in otherwise healthy adults only; the priority is always rehydration with water and an oral rehydration solution. Do not use to hold in diarrhea caused by food poisoning with fever or blood, as the body may need to clear it. High-tannin teas can upset sensitive stomachs and reduce iron absorption; take apart from iron supplements and other medicines by 2 hours, and do not use for more than a few days. Raspberry leaf is traditionally used in late pregnancy to tone the womb, so avoid it in early and mid-pregnancy unless advised by your midwife. Avoid chamomile with daisy-family allergies. Babies and young children with diarrhea dehydrate fast: always seek medical advice for children under 2, and do not give herbal teas in place of feeds or rehydration solution. See a doctor if there is severe or worsening abdominal pain (especially low on the right side or with a rigid belly), vomiting that lasts more than 24 hours or prevents keeping fluids down, green (bile) or blood-streaked vomit, blood or black tarry stool, diarrhea lasting more than 2-3 days, signs of dehydration (little or dark urine, dizziness, dry mouth, no tears), a high fever, unexplained weight loss, difficulty swallowing, or symptoms that keep returning; upper abdominal or chest pain spreading to the arm, jaw or back can be a heart attack and needs emergency help. Herbal teas are traditional folk preparations, not medical advice and not a substitute for medical care; consult a healthcare provider before use if pregnant, breastfeeding, giving to children, taking medication, or living with a health condition.",
+  "bestTime": "Late spring to midsummer, Beltane to Litha (May–Jun), when bramble and raspberry leaves are young and tender",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent",
+   "Dark Moon"
+  ],
+  "interactions": "High-tannin teas can reduce absorption of iron and other oral medicines (take 2 hours apart); chamomile has reported interactions with warfarin and sedatives.",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7871383",
+   "https://cot.food.gov.uk/sites/default/files/2024-11/Raspberry%20leaf%20tea%20statement_cleared_FINAL%20Acc%20V%20SO.pdf",
+   "https://www.nccih.nih.gov/health/chamomile/ataglance.htm?nav=gsa"
+  ]
+ },
+ {
+  "id": "brew-little-acorn-childrens-tummy-tea",
+  "type": "brew",
+  "name": "Little Acorn Gentle Tummy Tea for Children",
+  "description": "A mild, sweet-tasting tea of Chamomile, Lemon Balm and a pinch of Fennel, the gentle herbs grandmothers have given little ones for tummy aches, windy bellies and pre-bedtime wobbles for generations. Brewed weak and given in small amounts, it is a comforting cup to sip together with a story and a warm hand on the tummy.",
+  "ingredients": [
+   {
+    "item": "Chamomile flowers, dried",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "Lemon Balm leaves, dried",
+    "amount": "1/2 tsp"
+   },
+   {
+    "item": "Fennel seeds, lightly crushed",
+    "amount": "1/4 tsp"
+   },
+   {
+    "item": "Boiling water",
+    "amount": "1 cup (240 ml)"
+   },
+   {
+    "item": "Apple juice or a little honey (honey ONLY over 12 months)",
+    "amount": "1-2 tsp (optional)"
+   }
+  ],
+  "steps": [
+   "Place the herbs in a small teapot or mug; let the child help by gently crushing the fennel and naming a wish for their tummy.",
+   "Pour over the boiling water, cover and steep only 5-7 minutes for a mild children's strength.",
+   "Strain well through a fine strainer, and let it cool fully to lukewarm, testing it on your inner wrist like a baby's bottle.",
+   "Add a splash of apple juice (or honey for children over 12 months) and say the chant together."
+  ],
+  "howToUse": "Give lukewarm, in small amounts, for occasional tummy ache, wind or upset, for no more than 2-3 days at a time: under 12 months, do not give without the advice of a doctor or health visitor (breast milk or formula comes first); 1-3 years: 1-2 tbsp (15-30 ml) up to 3 times daily; 4-7 years: 1/4 cup (60 ml) up to 3 times daily; 8-12 years: 1/2 cup (120 ml) up to 3 times daily; over 12: an adult cup. Never replace milk feeds, meals or rehydration solution with tea.",
+  "chant": "Little acorn, safe and sound, tummy soft and feet on ground. Chamomile and balm so sweet, rest now, little one, sleep sweet.",
+  "intention": "This little one is soothed, safe and comforted.",
+  "timing": "Evening, before bed; on a Monday (Moon, nurturing) or whenever a little one needs comfort.",
+  "metaphysical": [
+   "calm",
+   "peace",
+   "protection",
+   "healing",
+   "sleep",
+   "blessing"
+  ],
+  "medical": [
+   "upset stomach",
+   "colic",
+   "gas",
+   "bloating",
+   "stomach cramps",
+   "indigestion",
+   "nausea"
+  ],
+  "caution": "Never give honey (raw or cooked) to babies under 12 months because of the risk of infant botulism. Herbal tea should not be given to babies under 12 months without a doctor's or health visitor's advice. Check for allergies: avoid chamomile with daisy-family allergies (ragweed, daisies) and fennel with carrot/celery-family allergies, and stop at once if a rash, swelling or wheezing appears. Fennel contains estragole, so keep to occasional short-term use, not daily long-term. Never use peppermint for babies or toddlers. Children dehydrate quickly. See a doctor urgently if a child has tummy pain that is severe, constant, getting worse or moves to the lower right side; a swollen or hard tummy; green or bloody vomit; blood in their stool; vomiting for more than 12 hours (any vomiting in a baby under 3 months); signs of dehydration (fewer wet diapers or not peeing, no tears, dry mouth, sunken eyes or soft spot, unusual sleepiness or floppiness); a fever of 38°C (100.4°F) or more under 3 months or 39°C (102.2°F) or more at 3-6 months; or any child who seems very unwell or whose cry or behavior worries you. Herbal teas are traditional folk preparations, not medical advice and not a substitute for medical care; consult a healthcare provider before use if pregnant, breastfeeding, giving to children, taking medication, or living with a health condition.",
+  "bestTime": "Summer, Litha to Lughnasadh (Jun–Aug), for harvesting chamomile and lemon balm; brewed whenever little ones need comfort",
+  "moonPhases": [
+   "Waxing Crescent",
+   "Full Moon",
+   "Waning Gibbous",
+   "Waning Crescent"
+  ],
+  "interactions": "Rarely relevant for children; chamomile and lemon balm may add to sedating medicines, and lemon balm may affect thyroid medication.",
+  "pets": "",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.nccih.nih.gov/health/chamomile/ataglance.htm?nav=gsa",
+   "https://www.rxlist.com/supplements/fennel.htm",
+   "https://www.cdc.gov/botulism/prevention/index.html",
+   "https://www.nccih.nih.gov/health/peppermintoil"
+  ]
+ }
+]

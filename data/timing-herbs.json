@@ -1,0 +1,959 @@
+{
+  "herb-lavender": {
+    "bestTime": "Midsummer — harvest flower spikes just as buds open (June–July), strongest around Litha",
+    "moonPhases": [
+      "Waxing Gibbous",
+      "Full Moon",
+      "Waning Crescent"
+    ]
+  },
+  "herb-rosemary": {
+    "bestTime": "Spring to early summer, harvest before flowering (Apr–June); evergreen, so usable year-round, potent at Yule",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Full Moon",
+      "Waning Gibbous"
+    ]
+  },
+  "herb-common-sage": {
+    "bestTime": "Early summer before flowering (May–June), dried by Lammas for winter workings",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon",
+      "Waning Gibbous"
+    ]
+  },
+  "herb-white-sage": {
+    "bestTime": "Late spring to summer (May–Aug); burn at any sabbat for consecration, especially Samhain cleansing",
+    "moonPhases": [
+      "Full Moon",
+      "Waning Gibbous",
+      "Last Quarter"
+    ]
+  },
+  "herb-mugwort": {
+    "bestTime": "Midsummer — gather on St. John's Eve (late June) through Lammas, traditionally at dusk",
+    "moonPhases": [
+      "Full Moon",
+      "Waxing Gibbous",
+      "Dark Moon"
+    ]
+  },
+  "herb-yarrow": {
+    "bestTime": "Midsummer — harvest in full flower on St. John's Eve (June–Aug)",
+    "moonPhases": [
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-chamomile": {
+    "bestTime": "Summer, pick flower heads at full bloom on sunny mornings (June–Aug), strong at Litha",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-peppermint": {
+    "bestTime": "High summer just before flowering (July–Aug); fresh energy around Beltane",
+    "moonPhases": [
+      "Waxing Crescent",
+      "First Quarter",
+      "Waxing Gibbous"
+    ]
+  },
+  "herb-spearmint": {
+    "bestTime": "Summer before flowering (June–Aug)",
+    "moonPhases": [
+      "Waxing Crescent",
+      "First Quarter",
+      "Waxing Gibbous"
+    ]
+  },
+  "herb-basil": {
+    "bestTime": "High summer, pinch tops before flowering (July–Aug), strongest at Lammas",
+    "moonPhases": [
+      "Waxing Crescent",
+      "First Quarter",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-thyme": {
+    "bestTime": "Late spring to midsummer at flowering (May–July), favoured at Beltane and Litha for faery work",
+    "moonPhases": [
+      "Waxing Crescent",
+      "First Quarter",
+      "Full Moon"
+    ]
+  },
+  "herb-bay-laurel": {
+    "bestTime": "Evergreen; harvest leaves late summer (Aug–Sept); strongest at Midsummer and Yule (solar)",
+    "moonPhases": [
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-cinnamon": {
+    "bestTime": "Imported bark, worked year-round; strongest at Yule and Litha (solar fire)",
+    "moonPhases": [
+      "Waxing Crescent",
+      "First Quarter",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-clove": {
+    "bestTime": "Imported bud, year-round; strongest in winter, Yule to Imbolc",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon",
+      "Waning Gibbous"
+    ]
+  },
+  "herb-nutmeg": {
+    "bestTime": "Imported seed, year-round; prosperity work at Lammas and Mabon",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-star-anise": {
+    "bestTime": "Imported, year-round; strongest at Samhain and Yule for divination",
+    "moonPhases": [
+      "Full Moon",
+      "Waxing Gibbous"
+    ]
+  },
+  "herb-ginger": {
+    "bestTime": "Dig rhizomes in autumn (Sept–Nov); strongest Yule to Imbolc for fire and energy",
+    "moonPhases": [
+      "Waxing Crescent",
+      "First Quarter",
+      "Waxing Gibbous"
+    ]
+  },
+  "herb-garlic": {
+    "bestTime": "Harvest bulbs midsummer (July) as leaves yellow; plant at Samhain; strongest late autumn",
+    "moonPhases": [
+      "Waning Gibbous",
+      "Last Quarter",
+      "Waning Crescent",
+      "Dark Moon"
+    ]
+  },
+  "herb-rose": {
+    "bestTime": "Early summer in full bloom (June), Beltane to Litha; hips at Samhain",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-jasmine": {
+    "bestTime": "Summer nights at full bloom (June–Sept), gather after dusk",
+    "moonPhases": [
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-calendula": {
+    "bestTime": "Summer to first frost, pick at noon in full sun (June–Oct), strongest at Litha",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-st-johns-wort": {
+    "bestTime": "Midsummer — harvest on St. John's Eve / Day (June 23–24), at noon",
+    "moonPhases": [
+      "Full Moon",
+      "Waning Gibbous",
+      "Last Quarter"
+    ]
+  },
+  "herb-vervain": {
+    "bestTime": "Midsummer at flowering, gathered at dawn or when Sirius rises (late June–July)",
+    "moonPhases": [
+      "Waxing Gibbous",
+      "Full Moon",
+      "Waning Gibbous"
+    ]
+  },
+  "herb-wormwood": {
+    "bestTime": "Late summer in flower (Aug); strongest at Samhain",
+    "moonPhases": [
+      "Full Moon",
+      "Waning Gibbous",
+      "Dark Moon"
+    ]
+  },
+  "herb-rue": {
+    "bestTime": "Summer before flowering (June–July); strongest at Samhain for hex breaking",
+    "moonPhases": [
+      "Waning Gibbous",
+      "Last Quarter",
+      "Waning Crescent",
+      "Dark Moon"
+    ]
+  },
+  "herb-valerian": {
+    "bestTime": "Dig roots in autumn of 2nd year (Sept–Oct); strongest at Mabon",
+    "moonPhases": [
+      "Waxing Gibbous",
+      "Full Moon",
+      "Waning Crescent"
+    ]
+  },
+  "herb-lemon-balm": {
+    "bestTime": "Early summer before flowering (June–July), strongest at Litha",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-hyssop": {
+    "bestTime": "Midsummer in flower (July–Aug); used for cleansing at Imbolc and before any rite",
+    "moonPhases": [
+      "Full Moon",
+      "Waning Gibbous",
+      "Last Quarter"
+    ]
+  },
+  "herb-patchouli": {
+    "bestTime": "Year-round dried leaf; strongest at Lammas and Mabon (harvest abundance)",
+    "moonPhases": [
+      "New Moon",
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-sandalwood": {
+    "bestTime": "Year-round resinous wood; strongest at full moons and Samhain",
+    "moonPhases": [
+      "Full Moon",
+      "Waxing Gibbous"
+    ]
+  },
+  "herb-frankincense": {
+    "bestTime": "Resin collected in dry season (spring–autumn); strongest at Yule and Litha",
+    "moonPhases": [
+      "Full Moon",
+      "Waxing Gibbous"
+    ]
+  },
+  "herb-myrrh": {
+    "bestTime": "Resin, year-round; strongest at Samhain and Yule (ancestor and consecration work)",
+    "moonPhases": [
+      "Full Moon",
+      "Waning Gibbous",
+      "Dark Moon"
+    ]
+  },
+  "herb-dragons-blood": {
+    "bestTime": "Resin, year-round; strongest at Beltane and Litha (fire and power)",
+    "moonPhases": [
+      "Waxing Crescent",
+      "First Quarter",
+      "Waxing Gibbous",
+      "Full Moon",
+      "Waning Gibbous"
+    ]
+  },
+  "herb-copal": {
+    "bestTime": "Resin, year-round; strongest at Samhain / Día de Muertos (Oct 31–Nov 2)",
+    "moonPhases": [
+      "Full Moon",
+      "Waning Gibbous"
+    ]
+  },
+  "herb-benzoin": {
+    "bestTime": "Resin, year-round; strongest at Imbolc and Ostara for clarity and new purpose",
+    "moonPhases": [
+      "Waxing Crescent",
+      "First Quarter",
+      "Waxing Gibbous"
+    ]
+  },
+  "herb-cedar": {
+    "bestTime": "Evergreen; cut tips in winter (Dec–Feb), strongest at Yule",
+    "moonPhases": [
+      "Full Moon",
+      "Waning Gibbous",
+      "Waxing Crescent"
+    ]
+  },
+  "herb-juniper": {
+    "bestTime": "Berries ripen autumn (Oct–Nov); strongest at Samhain and Hogmanay for saining",
+    "moonPhases": [
+      "New Moon",
+      "Full Moon",
+      "Waning Gibbous",
+      "Last Quarter"
+    ]
+  },
+  "herb-pine": {
+    "bestTime": "Needles and resin in winter (Dec–Feb), strongest at Yule; cones in autumn",
+    "moonPhases": [
+      "New Moon",
+      "Waxing Crescent",
+      "Full Moon",
+      "Waning Gibbous"
+    ]
+  },
+  "herb-eucalyptus": {
+    "bestTime": "Evergreen, year-round; strongest in winter cold season (Nov–Feb)",
+    "moonPhases": [
+      "Full Moon",
+      "Waning Gibbous",
+      "Last Quarter"
+    ]
+  },
+  "herb-elder": {
+    "bestTime": "Flowers at Litha (June), berries at Mabon (Sept); ask permission before cutting",
+    "moonPhases": [
+      "Full Moon",
+      "Waxing Gibbous"
+    ]
+  },
+  "herb-hawthorn": {
+    "bestTime": "Beltane — blossoms in May (do not bring indoors); berries in autumn (Sept–Oct)",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-rowan": {
+    "bestTime": "Berries at Mabon (Sept); wood cut at Imbolc or Beltane for protection charms",
+    "moonPhases": [
+      "Full Moon",
+      "Waxing Gibbous",
+      "Waning Gibbous"
+    ]
+  },
+  "herb-oak": {
+    "bestTime": "Leaves at Litha (Oak King), acorns at Mabon (Sept–Oct); strongest at Midsummer",
+    "moonPhases": [
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-willow": {
+    "bestTime": "Bark and withies in early spring (Feb–Apr); strongest at Beltane and under moonlight",
+    "moonPhases": [
+      "Full Moon",
+      "Waxing Gibbous",
+      "Dark Moon"
+    ]
+  },
+  "herb-birch": {
+    "bestTime": "Earliest spring — sap and twigs at Imbolc to Ostara (Feb–Mar)",
+    "moonPhases": [
+      "New Moon",
+      "Waxing Crescent"
+    ]
+  },
+  "herb-mistletoe": {
+    "bestTime": "Cut at Midwinter / Yule (or sixth night of the moon after Yule); also Midsummer",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-holly": {
+    "bestTime": "Midwinter — cut at Yule (Dec); Holly King rules Litha to Yule",
+    "moonPhases": [
+      "Full Moon",
+      "Waning Gibbous",
+      "Last Quarter"
+    ]
+  },
+  "herb-ivy": {
+    "bestTime": "Evergreen; gather in winter (Nov–Jan), strongest at Yule",
+    "moonPhases": [
+      "Waning Gibbous",
+      "Last Quarter",
+      "Full Moon"
+    ]
+  },
+  "herb-dandelion": {
+    "bestTime": "Leaves in spring (Mar–May), flowers at Beltane, roots dug in autumn (Sept–Oct); seed clocks at full moon",
+    "moonPhases": [
+      "New Moon",
+      "Waxing Crescent",
+      "Full Moon"
+    ]
+  },
+  "herb-nettle": {
+    "bestTime": "Young tops in spring (Mar–May); seeds late summer; strongest at Beltane",
+    "moonPhases": [
+      "Waning Gibbous",
+      "Last Quarter",
+      "Waning Crescent"
+    ]
+  },
+  "herb-plantain": {
+    "bestTime": "Late spring to summer (May–Aug)",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-burdock": {
+    "bestTime": "Dig first-year roots in autumn (Sept–Nov), strongest at Samhain",
+    "moonPhases": [
+      "Waning Gibbous",
+      "Last Quarter",
+      "Waning Crescent"
+    ]
+  },
+  "herb-comfrey": {
+    "bestTime": "Leaves late spring to summer (May–Aug); roots in autumn",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-mullein": {
+    "bestTime": "Flower spikes at Midsummer (July–Aug); stalks for hag's tapers at Samhain",
+    "moonPhases": [
+      "Full Moon",
+      "Waning Gibbous",
+      "Dark Moon"
+    ]
+  },
+  "herb-red-clover": {
+    "bestTime": "Late spring to summer in bloom (May–Aug), strongest at Beltane",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-echinacea": {
+    "bestTime": "Flowers in summer (July–Aug), roots in autumn of 3rd year (Sept–Oct)",
+    "moonPhases": [
+      "Waxing Crescent",
+      "First Quarter",
+      "Waxing Gibbous"
+    ]
+  },
+  "herb-elecampane": {
+    "bestTime": "Dig roots in autumn of 2nd year (Sept–Oct), strongest at Samhain",
+    "moonPhases": [
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-angelica": {
+    "bestTime": "Stems in spring, roots in autumn of 1st year; strongest around Michaelmas (Sept 29) and Imbolc",
+    "moonPhases": [
+      "Full Moon",
+      "Waning Gibbous",
+      "Last Quarter"
+    ]
+  },
+  "herb-lovage": {
+    "bestTime": "Leaves late spring to summer (May–July), strongest at Beltane",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-fennel": {
+    "bestTime": "Seeds in late summer (Aug–Sept); traditionally hung at Midsummer",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Full Moon",
+      "Waning Gibbous"
+    ]
+  },
+  "herb-dill": {
+    "bestTime": "Seeds in late summer (Aug); hung at Midsummer against witchcraft",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-caraway": {
+    "bestTime": "Seeds in late summer of 2nd year (July–Aug), strongest at Lammas",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-coriander": {
+    "bestTime": "Seeds late summer (Aug–Sept), strongest at Lammas",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-cumin": {
+    "bestTime": "Seeds late summer, imported year-round; strongest at Lammas",
+    "moonPhases": [
+      "Waxing Gibbous",
+      "Full Moon",
+      "Waning Gibbous"
+    ]
+  },
+  "herb-black-pepper": {
+    "bestTime": "Imported, year-round; strongest at Samhain for banishing",
+    "moonPhases": [
+      "Waning Gibbous",
+      "Last Quarter",
+      "Waning Crescent",
+      "Dark Moon"
+    ]
+  },
+  "herb-cayenne": {
+    "bestTime": "Pods ripen late summer to autumn (Aug–Oct)",
+    "moonPhases": [
+      "First Quarter",
+      "Full Moon",
+      "Waning Gibbous",
+      "Last Quarter"
+    ]
+  },
+  "herb-mustard-seed": {
+    "bestTime": "Seeds in late summer (Aug); strongest at Lammas",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-bayberry": {
+    "bestTime": "Berries in autumn (Sept–Nov); candles burned at Yule and New Year's Eve",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-allspice": {
+    "bestTime": "Imported, year-round; strongest Yule to Imbolc for prosperity",
+    "moonPhases": [
+      "Waxing Crescent",
+      "First Quarter",
+      "Waxing Gibbous"
+    ]
+  },
+  "herb-cardamom": {
+    "bestTime": "Imported, year-round; strongest at Beltane and Yule",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-vanilla": {
+    "bestTime": "Imported, year-round; strongest at Beltane and Valentine's season",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-orange-peel": {
+    "bestTime": "Winter citrus season (Dec–Feb), strongest at Yule and Litha (solar)",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-lemon": {
+    "bestTime": "Winter citrus season (Dec–Mar); strongest at Imbolc for cleansing",
+    "moonPhases": [
+      "Full Moon",
+      "Waning Gibbous",
+      "Last Quarter"
+    ]
+  },
+  "herb-apple": {
+    "bestTime": "Blossoms at Beltane (May), fruit at Mabon to Samhain (Sept–Oct)",
+    "moonPhases": [
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-pomegranate": {
+    "bestTime": "Ripens in autumn (Oct–Nov), strongest at Samhain (Persephone's descent)",
+    "moonPhases": [
+      "New Moon",
+      "Full Moon",
+      "Dark Moon"
+    ]
+  },
+  "herb-raspberry-leaf": {
+    "bestTime": "Leaves before fruiting, late spring to summer (May–July)",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-blackberry": {
+    "bestTime": "Fruit at Lammas (Aug); avoid after Michaelmas (Sept 29) per folklore",
+    "moonPhases": [
+      "Waxing Gibbous",
+      "Full Moon",
+      "Waning Gibbous"
+    ]
+  },
+  "herb-strawberry": {
+    "bestTime": "Early summer fruiting (June), strongest at Litha",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-catnip": {
+    "bestTime": "Summer in flower (June–Aug)",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-damiana": {
+    "bestTime": "Leaves in summer flowering season (imported, year-round); strongest at Beltane",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-passionflower": {
+    "bestTime": "Summer in flower (July–Sept)",
+    "moonPhases": [
+      "Waxing Gibbous",
+      "Full Moon",
+      "Waning Crescent"
+    ]
+  },
+  "herb-skullcap": {
+    "bestTime": "Summer in flower (June–Aug)",
+    "moonPhases": [
+      "Full Moon",
+      "Waning Gibbous",
+      "Last Quarter"
+    ]
+  },
+  "herb-hops": {
+    "bestTime": "Strobiles in late summer (Aug–Sept), strongest at Mabon",
+    "moonPhases": [
+      "Full Moon",
+      "Waning Gibbous",
+      "Waning Crescent"
+    ]
+  },
+  "herb-blue-lotus": {
+    "bestTime": "Summer blooming (imported dried, year-round); strongest at full moons and Litha",
+    "moonPhases": [
+      "New Moon",
+      "Full Moon"
+    ]
+  },
+  "herb-violet": {
+    "bestTime": "Early spring flowers (Mar–Apr), strongest at Ostara",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-marjoram": {
+    "bestTime": "Summer at first flowering (July–Aug)",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-oregano": {
+    "bestTime": "Summer at flowering (July–Aug)",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Waning Crescent"
+    ]
+  },
+  "herb-parsley": {
+    "bestTime": "Leaves summer; seeds sown at Good Friday folklore; strongest at Samhain for the dead",
+    "moonPhases": [
+      "Waxing Gibbous",
+      "Full Moon",
+      "Dark Moon"
+    ]
+  },
+  "herb-tansy": {
+    "bestTime": "Late summer in flower (July–Sept); strongest at Samhain",
+    "moonPhases": [
+      "Waning Gibbous",
+      "Last Quarter",
+      "Full Moon"
+    ]
+  },
+  "herb-feverfew": {
+    "bestTime": "Summer in flower (June–Aug)",
+    "moonPhases": [
+      "Waxing Gibbous",
+      "Full Moon",
+      "Waning Gibbous"
+    ]
+  },
+  "herb-horehound": {
+    "bestTime": "Summer before flowering (June–Aug)",
+    "moonPhases": [
+      "First Quarter",
+      "Full Moon",
+      "Waning Gibbous"
+    ]
+  },
+  "herb-licorice-root": {
+    "bestTime": "Dig roots in autumn of 3rd–4th year (Sept–Nov)",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-marshmallow-root": {
+    "bestTime": "Dig roots in autumn (Oct–Nov), strongest at Samhain",
+    "moonPhases": [
+      "Full Moon",
+      "Waxing Gibbous",
+      "Dark Moon"
+    ]
+  },
+  "herb-slippery-elm": {
+    "bestTime": "Inner bark gathered in spring (Mar–Apr)",
+    "moonPhases": [
+      "Waxing Crescent",
+      "First Quarter",
+      "Waning Gibbous"
+    ]
+  },
+  "herb-black-cohosh": {
+    "bestTime": "Dig roots in autumn after fruiting (Sept–Oct)",
+    "moonPhases": [
+      "First Quarter",
+      "Full Moon",
+      "Waning Gibbous",
+      "Last Quarter"
+    ]
+  },
+  "herb-goldenseal": {
+    "bestTime": "Dig roots in autumn (Sept–Oct), strongest at Mabon",
+    "moonPhases": [
+      "Waxing Crescent",
+      "First Quarter",
+      "Waxing Gibbous"
+    ]
+  },
+  "herb-ginseng": {
+    "bestTime": "Dig roots in autumn of 5th+ year (Sept–Oct), strongest at Mabon",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-high-john-the-conqueror": {
+    "bestTime": "Dig roots in autumn (Sept–Oct); dressed and worked year-round, strongest at Lammas",
+    "moonPhases": [
+      "Waxing Crescent",
+      "First Quarter",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-cinquefoil": {
+    "bestTime": "Summer in flower (June–Aug), strongest at Litha",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-devils-shoestring": {
+    "bestTime": "Dig roots in autumn (Sept–Oct)",
+    "moonPhases": [
+      "Waxing Crescent",
+      "First Quarter",
+      "Waxing Gibbous",
+      "Waning Gibbous"
+    ]
+  },
+  "herb-solomons-seal": {
+    "bestTime": "Dig rhizomes in autumn (Sept–Oct)",
+    "moonPhases": [
+      "Full Moon",
+      "Waning Gibbous"
+    ]
+  },
+  "herb-agrimony": {
+    "bestTime": "Midsummer in flower (June–Aug)",
+    "moonPhases": [
+      "Waning Gibbous",
+      "Last Quarter",
+      "Waning Crescent"
+    ]
+  },
+  "herb-wood-betony": {
+    "bestTime": "Summer in flower (July–Aug), strongest at Litha",
+    "moonPhases": [
+      "Waxing Gibbous",
+      "Full Moon",
+      "Waning Gibbous"
+    ]
+  },
+  "herb-meadowsweet": {
+    "bestTime": "Midsummer in flower (June–Aug); a sacred Druid herb of Litha",
+    "moonPhases": [
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-vetiver": {
+    "bestTime": "Roots dug after 18 months, imported year-round; strongest at Mabon",
+    "moonPhases": [
+      "New Moon",
+      "Waxing Crescent",
+      "Waxing Gibbous"
+    ]
+  },
+  "herb-lemongrass": {
+    "bestTime": "Summer to early autumn (July–Sept)",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Full Moon",
+      "Waning Gibbous"
+    ]
+  },
+  "herb-mandrake": {
+    "bestTime": "Dig roots in autumn (Oct), traditionally at Samhain",
+    "moonPhases": [
+      "Full Moon",
+      "Dark Moon"
+    ]
+  },
+  "herb-belladonna": {
+    "bestTime": "Late summer to autumn (Aug–Oct); handle only with gloves, strongest at Samhain",
+    "moonPhases": [
+      "Dark Moon",
+      "New Moon",
+      "Full Moon"
+    ]
+  },
+  "herb-foxglove": {
+    "bestTime": "Early summer in flower (June), strongest at Beltane to Litha (faery season); handle with gloves",
+    "moonPhases": [
+      "Full Moon",
+      "Waxing Gibbous"
+    ]
+  },
+  "herb-datura": {
+    "bestTime": "Late summer nights in bloom (Aug–Sept); handle with gloves, strongest at Samhain",
+    "moonPhases": [
+      "Full Moon",
+      "Dark Moon"
+    ]
+  },
+  "herb-henbane": {
+    "bestTime": "Summer in flower (June–Aug), strongest at Samhain; handle with gloves",
+    "moonPhases": [
+      "Dark Moon",
+      "Waning Crescent",
+      "Full Moon"
+    ]
+  },
+  "herb-wolfsbane": {
+    "bestTime": "Summer in flower (July–Aug), strongest at Samhain; handle only with gloves",
+    "moonPhases": [
+      "Dark Moon",
+      "Waning Crescent",
+      "Last Quarter"
+    ]
+  },
+  "herb-pennyroyal": {
+    "bestTime": "Summer in flower (July–Aug)",
+    "moonPhases": [
+      "Waning Gibbous",
+      "Last Quarter",
+      "Waxing Gibbous"
+    ]
+  },
+  "herb-ladys-mantle": {
+    "bestTime": "Early summer (June); dew gathered on Beltane or Midsummer morning",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-motherwort": {
+    "bestTime": "Summer in flower (June–Aug)",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-sweetgrass": {
+    "bestTime": "Midsummer (June–July), braided fresh; strongest at Litha",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Full Moon"
+    ]
+  },
+  "herb-hibiscus": {
+    "bestTime": "Late summer to autumn in bloom (imported dried, year-round); strongest at Beltane",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-saffron": {
+    "bestTime": "Autumn — stigmas picked at dawn in October flowering",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Waxing Gibbous",
+      "Full Moon"
+    ]
+  },
+  "herb-lemon-verbena": {
+    "bestTime": "Late summer before frost (Aug–Sept)",
+    "moonPhases": [
+      "Waxing Crescent",
+      "Full Moon",
+      "Waning Gibbous"
+    ]
+  },
+  "herb-borage": {
+    "bestTime": "Summer in flower (June–Aug), strongest at Litha",
+    "moonPhases": [
+      "Waxing Crescent",
+      "First Quarter",
+      "Waxing Gibbous"
+    ]
+  }
+}

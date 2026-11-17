@@ -1,0 +1,542 @@
+[
+ {
+  "id": "sigil-thurisaz",
+  "name": "Thurisaz",
+  "origin": "Elder Futhark rune",
+  "description": "Thurisaz is the thorn rune, linked to the giants (thurs) and to Thor's hammer that holds them at bay. It is a rune of raw, directed force: the thorn that pricks the hand of the intruder, the lightning that clears the air. Rune workers use it for active defense and for breaking through obstacles, but treat it with respect because it cuts both ways.",
+  "metaphysical": [
+   "protection",
+   "banishing",
+   "power",
+   "courage",
+   "hex breaking"
+  ],
+  "directions": "Draw Thurisaz facing outward on a threshold, window or the back of a mirror to repel hostile energy, or carve it into a black or red candle for banishing work. Charge it with a sharp exhale while visualizing a wall of thorns. Work it on a Tuesday or Thursday during the waning moon, and do not aim it at anyone in anger.",
+  "intention": "Thorn of Thor, stand at my gate; what comes to harm me is turned away.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><line x1='38' y1='14' x2='38' y2='86'/><polyline points='38,32 64,50 38,68'/></svg>",
+  "bestTime": "Late summer storm season (Jul–Sep), and any time a hard boundary is needed",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent"
+  ]
+ },
+ {
+  "id": "sigil-raidho",
+  "name": "Raidho",
+  "origin": "Elder Futhark rune",
+  "description": "Raidho is the rune of the ride, the journey and the wheel turning in its proper rhythm. It governs travel, movement, right order and the path of one's life unfolding as it should. Travellers carved it for safe roads, and modern practitioners also use it to get stuck situations moving again.",
+  "metaphysical": [
+   "travel",
+   "road opening",
+   "protection",
+   "balance",
+   "justice"
+  ],
+  "directions": "Draw Raidho on luggage tags, inside a car, on a bicycle frame or in a travel journal. For road opening, carve it into an orange candle and burn it on a Wednesday while naming where you want to go. Trace it in the air before setting out on a journey.",
+  "intention": "Raidho, steady wheel, carry me safely on the right road and bring me home again.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><line x1='36' y1='14' x2='36' y2='86'/><polyline points='36,14 62,30 36,48 64,86'/></svg>",
+  "bestTime": "Spring into summer travel season, Ostara to Litha (Mar–Jun)",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous"
+  ]
+ },
+ {
+  "id": "sigil-kenaz",
+  "name": "Kenaz",
+  "origin": "Elder Futhark rune",
+  "description": "Kenaz is the torch rune, the controlled fire of the hearth, forge and craftsman's lamp. It brings illumination, inspiration, skill and the courage to see what was hidden. It is a favorite rune of artists and students and of anyone seeking clarity.",
+  "metaphysical": [
+   "clarity",
+   "knowledge",
+   "transformation",
+   "energy",
+   "healing"
+  ],
+  "directions": "Draw Kenaz on the base of a candle or lantern and light it when studying, creating or searching for an answer. Place it on your desk or sketchbook for creative flow. Charge it at dusk by holding it up to a flame and asking for light on a problem.",
+  "intention": "Kenaz, torch in the dark, kindle my mind and show me what I need to see.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><polyline points='62,22 36,50 62,78'/></svg>",
+  "bestTime": "Autumn and winter evenings, Samhain to Imbolc (Nov–Feb)",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter"
+  ]
+ },
+ {
+  "id": "sigil-gebo",
+  "name": "Gebo",
+  "origin": "Elder Futhark rune",
+  "description": "Gebo is the rune of the gift and of the bond that giving creates between people, and between people and the gods. Its crossed lines are two parties meeting as equals. It governs partnership, generosity, hospitality and sacred agreements, and it is often the kiss at the end of a letter.",
+  "metaphysical": [
+   "love",
+   "friendship",
+   "balance",
+   "reconciliation",
+   "blessing"
+  ],
+  "directions": "Draw Gebo on cards and gift wrapping, on an offering bowl, or on paper beneath two candles representing two people in partnership. Charge it by giving something freely, such as an offering, a donation or a kindness, while holding the rune in mind. Friday is its best day.",
+  "intention": "Gebo, gift for gift, let what I give return in kind and bind us in good faith.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><line x1='26' y1='18' x2='74' y2='82'/><line x1='74' y1='18' x2='26' y2='82'/></svg>",
+  "bestTime": "Midwinter gift-giving season, Yule (Dec), and Beltane (May) for partnerships",
+  "moonPhases": [
+   "First Quarter",
+   "Full Moon"
+  ]
+ },
+ {
+  "id": "sigil-wunjo",
+  "name": "Wunjo",
+  "origin": "Elder Futhark rune",
+  "description": "Wunjo is the rune of joy, the pennant flying over a happy hall. It stands for harmony, contentment, belonging and the warmth of a good fellowship. It is used to lift the spirits, heal discord in a household and make a wish come out well.",
+  "metaphysical": [
+   "happiness",
+   "peace",
+   "friendship",
+   "wishes",
+   "home blessing"
+  ],
+  "directions": "Draw Wunjo in yellow or pink and hang it in the kitchen or gathering room, or add it to a home blessing jar. Carve it on a candle for a celebration or a reconciliation. Charge it with laughter, music or a shared meal on a Friday or Sunday.",
+  "intention": "Wunjo, banner of joy, fly over this home and fill it with laughter and welcome.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><line x1='38' y1='14' x2='38' y2='86'/><polyline points='38,14 64,32 38,50'/></svg>",
+  "bestTime": "High summer, Litha to Lughnasadh (Jun–Aug)",
+  "moonPhases": [
+   "Waxing Gibbous",
+   "Full Moon"
+  ]
+ },
+ {
+  "id": "sigil-hagalaz",
+  "name": "Hagalaz",
+  "origin": "Elder Futhark rune",
+  "description": "Hagalaz is the hail rune, the sudden storm that smashes the crop but melts into water that feeds the soil. It represents disruption, uncontrollable forces and the transformation that follows a crisis. In magic it is used carefully to break stagnant patterns, clear away what must go, and weather the storms of life.",
+  "metaphysical": [
+   "transformation",
+   "banishing",
+   "release",
+   "shadow work",
+   "hex breaking"
+  ],
+  "directions": "Draw Hagalaz on paper during a waning moon, name the pattern you are ready to see broken, then soak the paper in water or leave it out in rain. Pair it with a protective rune such as Algiz when using it on a candle. Do not place it permanently in the home; use it for a specific working and then release it.",
+  "intention": "Hail that falls and melts away, break what binds me and leave fertile ground.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><line x1='34' y1='14' x2='34' y2='86'/><line x1='66' y1='14' x2='66' y2='86'/><line x1='34' y1='40' x2='66' y2='60'/></svg>",
+  "bestTime": "Winter, Samhain to Yule (Nov–Dec), the season of storms",
+  "moonPhases": [
+   "Last Quarter",
+   "Waning Crescent",
+   "Dark Moon"
+  ]
+ },
+ {
+  "id": "sigil-jera",
+  "name": "Jera",
+  "origin": "Elder Futhark rune",
+  "description": "Jera is the year rune, the turning of the seasons and the harvest that comes to those who plant and wait. Its two interlocking halves are the wheel of the year rolling on. It brings rewards for patient effort, good timing and the natural completion of cycles.",
+  "metaphysical": [
+   "abundance",
+   "prosperity",
+   "success",
+   "fertility",
+   "manifestation"
+  ],
+  "directions": "Draw Jera on seed packets, garden markers, a savings jar or the first page of a long project. Charge it at sowing time and again at harvest, thanking the land for what it gives. It is especially potent at the solstices and equinoxes.",
+  "intention": "Jera, turning year, what I sow with patience I will reap in its season.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><polyline points='46,22 28,42 46,62'/><polyline points='54,38 72,58 54,78'/></svg>",
+  "bestTime": "Harvest season, Lughnasadh to Mabon (Aug–Sep), and at sowing in spring",
+  "moonPhases": [
+   "Waxing Gibbous",
+   "Full Moon"
+  ]
+ },
+ {
+  "id": "sigil-eihwaz",
+  "name": "Eihwaz",
+  "origin": "Elder Futhark rune",
+  "description": "Eihwaz is the yew rune. The yew is evergreen, long-lived and poisonous, and is often linked to the world tree Yggdrasil. Eihwaz connects the upper and lower worlds and stands for endurance, protection and the courage to face death and change. Rune workers use it for spirit work, ancestor contact and steadfast defense.",
+  "metaphysical": [
+   "protection",
+   "ancestors",
+   "spirit work",
+   "strength",
+   "transformation"
+  ],
+  "directions": "Carve Eihwaz on a staff, wand or walking stick, or draw it on an ancestor altar. Meditate on it to travel in vision between the worlds, and place it near the bed for protection during dreamwork. It is strongest at Samhain and Yule.",
+  "intention": "Eihwaz, evergreen and enduring, root me deep and guard me between the worlds.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><polyline points='64,28 50,14 50,86 36,72'/></svg>",
+  "bestTime": "Samhain through Yule (late Oct–Dec)",
+  "moonPhases": [
+   "Waning Crescent",
+   "Dark Moon",
+   "New Moon"
+  ]
+ },
+ {
+  "id": "sigil-perthro",
+  "name": "Perthro",
+  "origin": "Elder Futhark rune",
+  "description": "Perthro is the most mysterious rune, often read as the lot-cup or dice cup from which fate is cast. It governs chance, hidden knowledge, the womb of possibility and the workings of wyrd. Diviners treasure it, and it is called on for luck, secrets revealed and safe childbirth.",
+  "metaphysical": [
+   "divination",
+   "luck",
+   "psychic powers",
+   "fertility",
+   "gambling"
+  ],
+  "directions": "Draw Perthro on the lid of your rune or tarot box, or on a cloth used for casting lots. Hold it before a reading to open your intuition. Carry it on a small token for luck in games of chance, and charge it on a Monday under moonlight.",
+  "intention": "Perthro, cup of fate, pour out what is hidden and let fortune fall my way.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><polyline points='66,16 52,30 36,14 36,86 52,70 66,84'/></svg>",
+  "bestTime": "Samhain season (Oct–Nov) for divination; any time for luck",
+  "moonPhases": [
+   "New Moon",
+   "Full Moon",
+   "Dark Moon"
+  ]
+ },
+ {
+  "id": "sigil-laguz",
+  "name": "Laguz",
+  "origin": "Elder Futhark rune",
+  "description": "Laguz is the water rune, the lake, the sea and the flowing current. It rules intuition, dreams, emotion and the hidden depths of the psyche, and it is also linked to the leek, a plant of growth and vigor. It is used to deepen psychic sense, calm turbulent feelings and go with the flow of life.",
+  "metaphysical": [
+   "psychic powers",
+   "dreams",
+   "emotional healing",
+   "moon magic",
+   "divination"
+  ],
+  "directions": "Draw Laguz on a bowl or glass used for moon water or scrying, or trace it in bathwater with your finger. Place it under your pillow for vivid and remembered dreams. Charge it beside running water or under the full moon on a Monday.",
+  "intention": "Laguz, deep water, carry me to the hidden shore and let my intuition flow clear.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><line x1='40' y1='14' x2='40' y2='86'/><line x1='40' y1='14' x2='64' y2='36'/></svg>",
+  "bestTime": "Spring rains and early summer (Apr–Jun), or any season near open water",
+  "moonPhases": [
+   "Waxing Gibbous",
+   "Full Moon"
+  ]
+ },
+ {
+  "id": "sigil-ingwaz",
+  "name": "Ingwaz",
+  "origin": "Elder Futhark rune",
+  "description": "Ingwaz belongs to Ing, often identified with the fertility god Freyr, and is shaped like a seed or a closed enclosure. It stands for stored potential, gestation, completion and the quiet time before new growth breaks out. It is used for fertility, home and hearth, and for sealing a working so it can ripen.",
+  "metaphysical": [
+   "fertility",
+   "new beginnings",
+   "home blessing",
+   "manifestation",
+   "grounding"
+  ],
+  "directions": "Draw Ingwaz on a seed packet, under a plant pot or on a fertility charm. To seal a spell, draw it last across the top of a jar or on the knot of a charm bag. Charge it in a quiet, closed room and let it rest before revealing your plans.",
+  "intention": "Ingwaz, seed of Ing, hold my hopes safe until they are ready to grow.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><polygon points='50,16 72,50 50,84 28,50'/></svg>",
+  "bestTime": "Late winter into spring, Imbolc to Ostara (Feb–Mar)",
+  "moonPhases": [
+   "New Moon",
+   "Waxing Crescent"
+  ]
+ },
+ {
+  "id": "sigil-dagaz",
+  "name": "Dagaz",
+  "origin": "Elder Futhark rune",
+  "description": "Dagaz is the day rune, the breakthrough of dawn after darkness. Its balanced figure-of-eight shape suggests the point where opposites meet, such as night and day or ending and beginning. It brings sudden insight, awakening, hope and transformation for the better.",
+  "metaphysical": [
+   "new beginnings",
+   "transformation",
+   "clarity",
+   "balance",
+   "success"
+  ],
+  "directions": "Draw Dagaz at sunrise on a fresh page, a window or an east-facing altar to welcome a new phase of life. Use it on doorways as a protective mark, a traditional folk use. Charge it at dawn, ideally on a solstice or equinox morning.",
+  "intention": "Dagaz, breaking dawn, carry me from darkness into light and a bright new day.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><polygon points='24,20 76,80 76,20 24,80'/></svg>",
+  "bestTime": "Midsummer, Litha (Jun), and any sunrise; also the dawn after Yule",
+  "moonPhases": [
+   "New Moon",
+   "Waxing Crescent"
+  ]
+ },
+ {
+  "id": "sigil-vegvisir-wayfinder",
+  "name": "Wayfinder Compass (Vegvísir-style)",
+  "origin": "Icelandic galdrastafur style, simplified original rendering",
+  "description": "Vegvísir means 'way-shower' and is known from a 19th-century Icelandic manuscript of magical staves, said to keep the bearer from losing their way in storms or unknown places. This is an original simplified rendering in the same spirit: eight arms radiating from a still centre, ending in alternating forked and ringed terminals like the points of a compass. It is a charm for guidance, safe travel and finding one's direction in life.",
+  "metaphysical": [
+   "travel",
+   "protection",
+   "clarity",
+   "road opening",
+   "wisdom"
+  ],
+  "directions": "Draw the wayfinder on the inside cover of a journal, a map, a luggage tag or a travel charm. Charge it by turning slowly to face each direction in turn, naming what you seek, then returning to the centre. Use it before journeys, career decisions or whenever you feel lost.",
+  "intention": "Eight ways around me, one still heart within; guide me true through storm and dark.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><circle cx='50' cy='50' r='5'/><line x1='50' y1='42' x2='50' y2='10'/><line x1='56' y1='30' x2='44' y2='30'/><line x1='54' y1='22' x2='46' y2='22'/><line x1='50' y1='16' x2='43.6' y2='9.5'/><line x1='50' y1='16' x2='56.4' y2='9.5'/><line x1='55.7' y1='44.3' x2='74' y2='26'/><line x1='69.1' y1='37.9' x2='62.1' y2='30.9'/><circle cx='76.9' cy='23.1' r='4'/><line x1='58' y1='50' x2='90' y2='50'/><line x1='70' y1='56' x2='70' y2='44'/><line x1='78' y1='54' x2='78' y2='46'/><line x1='84' y1='50' x2='90.5' y2='43.6'/><line x1='84' y1='50' x2='90.5' y2='56.4'/><line x1='55.7' y1='55.7' x2='74' y2='74'/><line x1='62.1' y1='69.1' x2='69.1' y2='62.1'/><circle cx='76.9' cy='76.9' r='4'/><line x1='50' y1='58' x2='50' y2='90'/><line x1='44' y1='70' x2='56' y2='70'/><line x1='46' y1='78' x2='54' y2='78'/><line x1='50' y1='84' x2='56.4' y2='90.5'/><line x1='50' y1='84' x2='43.6' y2='90.5'/><line x1='44.3' y1='55.7' x2='26' y2='74'/><line x1='30.9' y1='62.1' x2='37.9' y2='69.1'/><circle cx='23.1' cy='76.9' r='4'/><line x1='42' y1='50' x2='10' y2='50'/><line x1='30' y1='44' x2='30' y2='56'/><line x1='22' y1='46' x2='22' y2='54'/><line x1='16' y1='50' x2='9.5' y2='56.4'/><line x1='16' y1='50' x2='9.5' y2='43.6'/><line x1='44.3' y1='44.3' x2='26' y2='26'/><line x1='37.9' y1='30.9' x2='30.9' y2='37.9'/><circle cx='23.1' cy='23.1' r='4'/></svg>",
+  "bestTime": "Spring equinox, Ostara (Mar), and before any journey",
+  "moonPhases": [
+   "New Moon",
+   "Waxing Crescent",
+   "First Quarter"
+  ]
+ },
+ {
+  "id": "sigil-helm-of-awe",
+  "name": "Helm of Awe (Ægishjálmur)",
+  "origin": "Icelandic galdrastafur, simplified",
+  "description": "The Ægishjálmur, or Helm of Awe, is an Icelandic magical stave associated in saga and grimoire with invincibility and with striking fear into enemies. Its eight trident-tipped arms radiate from a central point like a shield of spears. This simplified rendering keeps its core form of eight identical armed rays around a protected centre.",
+  "metaphysical": [
+   "protection",
+   "courage",
+   "strength",
+   "victory",
+   "power"
+  ],
+  "directions": "Traditionally it was drawn between the brows before facing danger. Today it is drawn in oil on the forehead or chest, worn as a pendant, or painted over the front door. Charge it by standing tall, tracing each arm outward from the centre, and feeling yourself become unassailable. Tuesday is its best day.",
+  "intention": "Helm of Awe upon my brow, no fear within me and no harm upon me.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><circle cx='50' cy='50' r='7'/><line x1='50' y1='43' x2='50' y2='10'/><line x1='55' y1='28' x2='45' y2='28'/><line x1='50' y1='19' x2='43.1' y2='10.6'/><line x1='50' y1='19' x2='56.9' y2='10.6'/><line x1='54.9' y1='45.1' x2='78.3' y2='21.7'/><line x1='69.1' y1='37.9' x2='62.1' y2='30.9'/><line x1='71.9' y1='28.1' x2='72.9' y2='17.2'/><line x1='71.9' y1='28.1' x2='82.8' y2='27.1'/><line x1='57' y1='50' x2='90' y2='50'/><line x1='72' y1='55' x2='72' y2='45'/><line x1='81' y1='50' x2='89.4' y2='43.1'/><line x1='81' y1='50' x2='89.4' y2='56.9'/><line x1='54.9' y1='54.9' x2='78.3' y2='78.3'/><line x1='62.1' y1='69.1' x2='69.1' y2='62.1'/><line x1='71.9' y1='71.9' x2='82.8' y2='72.9'/><line x1='71.9' y1='71.9' x2='72.9' y2='82.8'/><line x1='50' y1='57' x2='50' y2='90'/><line x1='45' y1='72' x2='55' y2='72'/><line x1='50' y1='81' x2='56.9' y2='89.4'/><line x1='50' y1='81' x2='43.1' y2='89.4'/><line x1='45.1' y1='54.9' x2='21.7' y2='78.3'/><line x1='30.9' y1='62.1' x2='37.9' y2='69.1'/><line x1='28.1' y1='71.9' x2='27.1' y2='82.8'/><line x1='28.1' y1='71.9' x2='17.2' y2='72.9'/><line x1='43' y1='50' x2='10' y2='50'/><line x1='28' y1='45' x2='28' y2='55'/><line x1='19' y1='50' x2='10.6' y2='56.9'/><line x1='19' y1='50' x2='10.6' y2='43.1'/><line x1='45.1' y1='45.1' x2='21.7' y2='21.7'/><line x1='37.9' y1='30.9' x2='30.9' y2='37.9'/><line x1='28.1' y1='28.1' x2='17.2' y2='27.1'/><line x1='28.1' y1='28.1' x2='27.1' y2='17.2'/></svg>",
+  "bestTime": "Midwinter, Yule (Dec), and before any confrontation",
+  "moonPhases": [
+   "First Quarter",
+   "Full Moon"
+  ]
+ },
+ {
+  "id": "sigil-venus-glyph",
+  "name": "Venus Glyph",
+  "origin": "Planetary / astrological symbol",
+  "description": "The glyph of Venus, a circle above an equal-armed cross, is often read as the hand mirror of the goddess. It is the classical planetary sign for love, beauty, art, pleasure and harmony, and the alchemical sign for copper. In planetary magic it is used to draw love and sweetness and to celebrate the body.",
+  "metaphysical": [
+   "love",
+   "self-love",
+   "beauty",
+   "attraction",
+   "friendship"
+  ],
+  "directions": "Draw the Venus glyph in pink, green or copper ink on a love charm, a mirror or the base of a rose-coloured candle. Work it on a Friday, ideally in the planetary hour of Venus. Anoint it with a drop of rose oil and speak kindly to your own reflection while charging it.",
+  "intention": "Venus, lady of the mirror, make me loving and lovely and draw sweetness to my door.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><circle cx='50' cy='36' r='20'/><line x1='50' y1='56' x2='50' y2='86'/><line x1='37' y1='72' x2='63' y2='72'/></svg>",
+  "bestTime": "Beltane season, late spring (May), and any Friday",
+  "moonPhases": [
+   "Waxing Crescent",
+   "Waxing Gibbous",
+   "Full Moon"
+  ]
+ },
+ {
+  "id": "sigil-jupiter-glyph",
+  "name": "Jupiter Glyph",
+  "origin": "Planetary / astrological symbol",
+  "description": "The glyph of Jupiter resembles a stylized number four, a crescent of spirit set upon the cross of matter, sometimes read as the god's thunderbolt or throne. Jupiter is the Greater Benefic of astrology, ruling expansion, generosity, wisdom, luck and good fortune. Its sign is a staple of prosperity and success magic.",
+  "metaphysical": [
+   "prosperity",
+   "luck",
+   "success",
+   "abundance",
+   "wisdom"
+  ],
+  "directions": "Draw the Jupiter glyph in blue or purple on a petition for growth, a business card or a money jar. Work it on a Thursday in the planetary hour of Jupiter, ideally while the moon is waxing. Pair it with cinnamon or a blue candle and ask for opportunities that benefit all.",
+  "intention": "Great Jupiter, open your hand; let fortune, wisdom and plenty grow in my life.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><path d='M28 34 C28 20 48 18 48 34 C48 46 36 56 28 64 L72 64'/><line x1='62' y1='18' x2='62' y2='86'/></svg>",
+  "bestTime": "Late autumn into midwinter (Nov–Dec), and any Thursday",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous"
+  ]
+ },
+ {
+  "id": "sigil-horned-god",
+  "name": "Horned God Symbol",
+  "origin": "Modern Pagan / Wiccan symbol",
+  "description": "A circle crowned with upturned horns, the Horned God symbol represents the wild masculine divine of modern Paganism: the lord of the forest, the hunt, the herds and the turning sun. He is consort to the Goddess, dying and returning with the seasons. The sign honours vitality, untamed nature and protective strength.",
+  "metaphysical": [
+   "strength",
+   "fertility",
+   "protection",
+   "vitality",
+   "sun magic"
+  ],
+  "directions": "Place the symbol on the right side of your altar opposite the Triple Moon, or draw it on a green or gold candle for Beltane and Lughnasadh rites. Charge it outdoors among trees, with drumming or a walk in the woods. Use it to call on courage, passion and a deep connection to the wild.",
+  "intention": "Lord of the greenwood, horned and free, lend me your wildness and stand beside me.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><path d='M22 18 A28 28 0 0 0 78 18 A40 40 0 0 1 22 18 Z'/><circle cx='50' cy='66' r='18'/></svg>",
+  "bestTime": "Beltane to Lughnasadh (May–Aug), and Yule for the reborn sun",
+  "moonPhases": [
+   "Waxing Gibbous",
+   "Full Moon"
+  ]
+ },
+ {
+  "id": "sigil-septagram",
+  "name": "Septagram (Elven Star)",
+  "origin": "Modern Pagan star figure",
+  "description": "The septagram, or seven-pointed Elven or Faery Star, is used in several modern Pagan traditions and is linked to the realm of the fae. Its seven points are often matched to the seven classical planets, the seven days of the week or the seven directions (four quarters, above, below and within). It stands for magic, mystery and the bridge between this world and the otherworld.",
+  "metaphysical": [
+   "faery",
+   "spirituality",
+   "protection",
+   "balance",
+   "psychic powers"
+  ],
+  "directions": "Draw the star in silver or green on a faery offering stone, a garden marker or the cover of a book of shadows. Charge it at twilight by naming each of the seven planets or directions as you trace each point. Leave a small offering of honey or milk nearby when working with it for faery contact.",
+  "intention": "Seven points of the Elven Star, open the hidden door and bless me with wonder.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><circle cx='50' cy='50' r='41'/><polygon points='50,14 85.1,58 34.4,82.4 21.9,27.6 78.1,27.6 65.6,82.4 14.9,58'/></svg>",
+  "bestTime": "Beltane and Midsummer Eve (May–Jun), when the faery veil is thin",
+  "moonPhases": [
+   "Waxing Gibbous",
+   "Full Moon"
+  ]
+ },
+ {
+  "id": "sigil-triskele",
+  "name": "Triskele",
+  "origin": "Celtic / Neolithic triple spiral",
+  "description": "The triskele, a triple spiral whirling from one centre, appears on Neolithic stones in Ireland and throughout later Celtic art. It suggests motion, progress and the threefold nature of things, such as land, sea and sky or past, present and future. Modern practitioners use it for personal growth, momentum and harmony between mind, body and spirit.",
+  "metaphysical": [
+   "transformation",
+   "balance",
+   "energy",
+   "spirituality",
+   "strength"
+  ],
+  "directions": "Draw each spiral from the centre outward, focusing on three goals or three parts of yourself. Place it on an altar, carve it into a green candle, or wear it as a charm for steady progress. It works well at the turning points of the year.",
+  "intention": "Three spirals turning from one heart, move me forward in body, mind and spirit.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><polyline points='48.8,28.4 49,28 49.2,27.6 49.6,27.3 50,27 50.5,26.8 51.1,26.7 51.7,26.7 52.4,26.8 53,27 53.6,27.4 54.2,27.8 54.8,28.5 55.2,29.2 55.5,30 55.7,30.9 55.7,31.9 55.6,32.8 55.3,33.8 54.8,34.8 54.1,35.7 53.3,36.5 52.3,37.1 51.2,37.7 50,38 48.7,38.1 47.4,38.1 46,37.8 44.7,37.3 43.5,36.5 42.3,35.6 41.3,34.4 40.5,33.1 39.9,31.6 39.5,30 39.4,28.3 39.5,26.6 40,24.9 40.7,23.2 41.7,21.7 42.9,20.3 44.4,19.1 46.1,18.1 48,17.4 50,17 52.1,16.9 54.2,17.2 56.2,17.7 58.2,18.7 60.1,19.9 61.7,21.5 63.1,23.3 64.3,25.4 65.1,27.6 65.5,30 65.6,32.5 65.2,34.9 64.5,37.4 63.3,39.7 61.8,41.8 60,43.8 57.8,45.4 55.4,46.6 52.8,47.5 50,48 50,50'/><polyline points='69.3,59.8 69.5,60.1 69.7,60.5 69.9,61 69.9,61.5 69.8,62 69.6,62.6 69.3,63.1 68.9,63.7 68.4,64.1 67.8,64.5 67.1,64.7 66.3,64.9 65.4,64.9 64.6,64.8 63.7,64.5 62.8,64 62.1,63.4 61.4,62.6 60.8,61.7 60.3,60.7 60.1,59.6 60,58.4 60.1,57.2 60.4,56 60.9,54.8 61.6,53.7 62.5,52.7 63.6,51.8 64.9,51.1 66.3,50.6 67.8,50.3 69.4,50.2 71,50.4 72.6,50.9 74.1,51.6 75.5,52.6 76.7,53.9 77.8,55.3 78.6,57 79.2,58.7 79.5,60.6 79.5,62.6 79.2,64.6 78.6,66.5 77.6,68.3 76.3,70 74.8,71.5 73,72.8 71,73.8 68.8,74.4 66.5,74.7 64.2,74.7 61.8,74.2 59.6,73.4 57.4,72.2 55.4,70.7 53.7,68.9 52.2,66.7 51.1,64.3 50.4,61.8 50.1,59.1 50.2,56.4 50.7,53.6 51.7,51 50,50'/><polyline points='31.9,61.8 31.5,61.9 31,61.9 30.6,61.7 30.1,61.5 29.7,61.2 29.3,60.7 29,60.2 28.7,59.6 28.6,58.9 28.6,58.2 28.7,57.4 29,56.7 29.4,55.9 30,55.2 30.6,54.6 31.5,54.1 32.4,53.8 33.4,53.5 34.4,53.5 35.5,53.6 36.6,53.9 37.7,54.4 38.7,55.1 39.6,56 40.4,57 41,58.2 41.4,59.5 41.7,60.9 41.6,62.4 41.4,63.9 40.9,65.3 40.1,66.7 39.2,68 38,69.1 36.6,70 35,70.8 33.3,71.2 31.5,71.4 29.7,71.3 27.8,71 26,70.3 24.3,69.3 22.8,68 21.4,66.5 20.3,64.7 19.5,62.8 19,60.7 18.8,58.5 18.9,56.3 19.5,54.1 20.3,52 21.6,50 23.1,48.1 24.9,46.6 27.1,45.3 29.4,44.3 31.8,43.8 34.4,43.6 37,43.8 39.6,44.5 42.1,45.5 44.4,47 46.5,48.8 48.3,51 50,50'/></svg>",
+  "bestTime": "The equinoxes, Ostara (Mar) and Mabon (Sep)",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous"
+  ]
+ },
+ {
+  "id": "sigil-awen",
+  "name": "Awen",
+  "origin": "Welsh / modern Druidic symbol",
+  "description": "Awen is the Welsh word for poetic inspiration, the flowing spirit that touched the bards. The symbol was popularized by the 18th-century writer Iolo Morganwg and is now central to modern Druidry. It shows three rays of light descending from three points within circles, often read as love, wisdom and truth, or as earth, sea and sky.",
+  "metaphysical": [
+   "wisdom",
+   "knowledge",
+   "communication",
+   "spirituality",
+   "clarity"
+  ],
+  "directions": "Draw Awen at the top of a journal page before writing, or above your workspace, instrument or easel. Chant the word 'Awen' (ah-oo-en) three times on a long breath to charge it and open the flow of inspiration. Work it at dawn or by candlelight when seeking creative or spiritual insight.",
+  "intention": "Awen, sacred flow, pour through me in word and song and vision.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><circle cx='50' cy='50' r='41'/><circle cx='50' cy='50' r='35'/><circle cx='41' cy='27' r='3' fill='currentColor' stroke='none'/><circle cx='50' cy='22' r='3' fill='currentColor' stroke='none'/><circle cx='59' cy='27' r='3' fill='currentColor' stroke='none'/><line x1='50' y1='30' x2='50' y2='76'/><line x1='44' y1='34' x2='34' y2='72'/><line x1='56' y1='34' x2='66' y2='72'/></svg>",
+  "bestTime": "Alban Arthan and Alban Hefin, the solstices (Dec and Jun)",
+  "moonPhases": [
+   "New Moon",
+   "Waxing Crescent",
+   "Full Moon"
+  ]
+ },
+ {
+  "id": "sigil-unalome",
+  "name": "Unalome",
+  "origin": "Buddhist-inspired path symbol (Southeast Asian sak yant tradition)",
+  "description": "The unalome comes from Southeast Asian Buddhist sacred art and is often seen in sak yant tattoos. The spiral at its base is the confusion of early life, the winding loops are the struggles and lessons of the path, and the straight line rising to a point is clarity and awakening. Many practitioners use it as a reminder that the crooked road still leads upward.",
+  "metaphysical": [
+   "spirituality",
+   "transformation",
+   "meditation",
+   "clarity",
+   "peace"
+  ],
+  "directions": "Draw the unalome slowly from the bottom spiral upward, reflecting on your own journey with each curve. Keep it on a meditation altar or journal cover, or draw it on the palm before meditating. Treat it respectfully as a symbol drawn from a living religious tradition.",
+  "intention": "Through every twist and turn I rise; my path grows straight and clear.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><polyline points='50,72.5 50.4,72.3 50.8,72.2 51.3,72.3 51.9,72.5 52.4,72.8 52.8,73.3 53.1,73.9 53.3,74.6 53.3,75.4 53.1,76.2 52.7,77 52.1,77.7 51.3,78.3 50.3,78.7 49.2,78.9 48.1,78.8 47,78.5 45.9,77.9 44.9,77 44.2,75.9 43.7,74.6 43.5,73.2 43.6,71.7 44.1,70.2 44.9,68.9 46,67.7 47.4,66.7 49,66.1 50.8,65.9 52.6,66 54.4,66.6 56.1,67.5 57.5,68.9 58.7,70.6 59.4,72.5 59.8,74.6 59.6,76.8 59,78.9 57.9,80.9 56.3,82.7 54.3,84 52.1,85 49.6,85.4 47.1,85.3 44.6,84.6 42.3,83.3 40.3,81.5 38.7,79.3 37.5,76.8 37,74'/><path d='M37 74 C37 60 68 58 62 46 C54 38 34 48 38 38 C42 30 62 34 56 26 C53 22 48 24 50 20 L50 16'/><circle cx='50' cy='10' r='2.5' fill='currentColor' stroke='none'/></svg>",
+  "bestTime": "Any season of reflection; Samhain to Yule (Nov–Dec) for inner work",
+  "moonPhases": [
+   "Waning Crescent",
+   "New Moon",
+   "Full Moon"
+  ]
+ },
+ {
+  "id": "sigil-ouroboros",
+  "name": "Ouroboros",
+  "origin": "Ancient Egyptian and Greek symbol, later alchemical",
+  "description": "The ouroboros, a serpent devouring its own tail, appears in ancient Egyptian funerary texts and later in Greek alchemical manuscripts as 'the One, the All'. It is the endless cycle of creation and destruction, death and rebirth, and the unity of all things. In magic it seals, renews and protects.",
+  "metaphysical": [
+   "transformation",
+   "longevity",
+   "protection",
+   "balance",
+   "endings"
+  ],
+  "directions": "Draw the ouroboros around a spell, petition or other sigil to seal and endlessly renew it. Use it on a charm for longevity or to mark the closing of one life chapter and the opening of the next. Charge it by tracing the serpent's body in a full circle, head to tail, while breathing in and out steadily.",
+  "intention": "Serpent without end, as you devour you renew; let what ends in me begin again.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><polygon points='61.3,19 69.3,19 74.4,20.9 76.9,23.1 79.1,25.6 81.1,28.2 82.9,31 84.4,33.9 85.7,37 86.7,40.2 87.4,43.4 87.9,46.7 88,50 87.9,53.3 87.4,56.6 86.7,59.8 85.7,63 84.4,66.1 82.9,69 81.1,71.8 79.1,74.4 76.9,76.9 74.4,79.1 71.8,81.1 69,82.9 66.1,84.4 63,85.7 59.8,86.7 56.6,87.4 53.3,87.9 50,88 46.7,87.9 43.4,87.4 40.2,86.7 37,85.7 33.9,84.4 31,82.9 28.2,81.1 25.6,79.1 23.1,76.9 20.9,74.4 18.9,71.8 17.1,69 15.6,66.1 14.3,63 13.3,59.8 12.6,56.6 12.1,53.3 12,50 12.1,46.7 12.6,43.4 13.3,40.2 14.3,37 15.6,33.9 17.1,31 18.9,28.2 20.9,25.6 23.1,23.1 25.6,20.9 28.2,18.9 31,17.1 33.9,15.6 37,14.3 42.2,9.8 49.3,10.5 54.1,16.3 53.9,18.2 49.5,23.5 45.2,25.5 40.4,23.7 38.2,24.6 36,25.8 33.9,27.1 32,28.6 30.2,30.2 28.6,32 27.1,33.9 25.8,36 24.6,38.2 23.7,40.4 23,42.8 22.4,45.1 22.1,47.6 22,50 22.1,52.4 22.4,54.9 23,57.2 23.7,59.6 24.6,61.8 25.8,64 27.1,66.1 28.6,68 30.2,69.8 32,71.4 33.9,72.9 36,74.2 38.2,75.4 40.4,76.3 42.8,77 45.1,77.6 47.6,77.9 50,78 52.4,77.9 54.9,77.6 57.2,77 59.6,76.3 61.8,75.4 64,74.2 66.1,72.9 68,71.4 69.8,69.8 71.4,68 72.9,66.1 74.2,64 75.4,61.8 76.3,59.6 77,57.2 77.6,54.9 77.9,52.4 78,50 77.9,47.6 77.6,45.1 77,42.8 76.3,40.4 75.4,38.2 74.2,36 72.9,33.9 71.4,32 69.8,30.2 68,28.6 65.6,25'/><circle cx='46.9' cy='15.1' r='1.8' fill='currentColor' stroke='none'/></svg>",
+  "bestTime": "Samhain (Oct 31) and the turning of the year at Yule (Dec)",
+  "moonPhases": [
+   "Dark Moon",
+   "New Moon",
+   "Full Moon"
+  ]
+ },
+ {
+  "id": "sigil-bindrune-love",
+  "name": "Love Bindrune",
+  "origin": "Norse-style bindrune (modern)",
+  "description": "This bindrune joins Gebo (the gift and the bond) and Wunjo (joy) on a single shared stave to make one sign of loving partnership. The crossing of Gebo marks two equals meeting, and the pennant of Wunjo flies above in celebration. It is used to draw in a loving relationship or strengthen an existing one.",
+  "metaphysical": [
+   "love",
+   "attraction",
+   "happiness",
+   "friendship",
+   "fidelity"
+  ],
+  "directions": "Draw the bindrune in red or pink on a love letter, a shared photograph or a rose-quartz charm bag. Carve it into a pink candle and burn it on a Friday during the waxing moon. Do not aim it at a specific unwilling person; ask for the right love to come, or for an existing love to deepen.",
+  "intention": "Gift for gift and joy for joy, bind us gently in love freely given.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><line x1='50' y1='14' x2='50' y2='86'/><line x1='28' y1='28' x2='72' y2='76'/><line x1='72' y1='28' x2='28' y2='76'/><polyline points='50,14 66,24 50,34'/></svg>",
+  "bestTime": "Beltane (May 1) and the Venus-ruled weeks of Taurus (late Apr–May)",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Full Moon"
+  ]
+ },
+ {
+  "id": "sigil-i-sleep-in-peace",
+  "name": "\"I Sleep in Peace\" Sigil",
+  "origin": "Chaos-magic style intention sigil",
+  "description": "Created with the letter method: I SLEEP IN PEACE becomes S L P N C once vowels and repeated letters are removed. The C becomes a sheltering crescent moon, the L and P share one upright stave, the N rests as a quiet zigzag, and the S lies at the bottom like a gentle wave of breath. Kept by the bed, it is a charm against restless nights and bad dreams.",
+  "metaphysical": [
+   "sleep",
+   "peace",
+   "calm",
+   "dreams",
+   "protection"
+  ],
+  "directions": "Copy the sigil in silver or blue ink and charge it in the drowsy, soft-focus state just before sleep, gazing at it until your eyes grow heavy. Then slip it under your pillow or mattress and stop thinking about it. Redraw it if insomnia returns.",
+  "intention": "I sleep in peace, deep and safe, and I wake refreshed.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><path d='M72 22 A32 32 0 1 0 72 78'/><line x1='52' y1='26' x2='52' y2='64'/><path d='M52 26 Q66 26 66 35 Q66 44 52 44'/><line x1='52' y1='64' x2='64' y2='64'/><polyline points='30,58 30,42 42,58 42,42'/><path d='M36 72 Q39.5 67 43 72 T50 72'/></svg>",
+  "bestTime": "Winter, Yule to Imbolc (Dec–Feb), the season of long nights",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Waning Crescent",
+   "Dark Moon"
+  ]
+ },
+ {
+  "id": "sigil-my-home-is-protected",
+  "name": "\"My Home Is Protected\" Sigil",
+  "origin": "Chaos-magic style intention sigil",
+  "description": "Built by the letter method from MY HOME IS PROTECTED, reduced to M Y H S P R T C D. The roofline of the M and the walls and crossbar of the H form a house. The Y and T make a central guarding pillar, and the curve of the D shelters the doorway. The finished glyph reads as a sealed and guarded dwelling.",
+  "metaphysical": [
+   "protection",
+   "home blessing",
+   "peace",
+   "banishing",
+   "blessing"
+  ],
+  "directions": "Draw the sigil and charge it by walking the inside of your home clockwise while holding it, then gazing at it until your mind goes still. Hide it above the front door, under the doormat or inside a wall cavity, or burn it and scatter the ash at the threshold. Recharge it whenever you move in or after a disturbance.",
+  "intention": "My home is protected, its walls are strong and only welcome guests may enter.",
+  "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='currentColor' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'><polyline points='22,46 50,18 78,46'/><line x1='32' y1='38' x2='32' y2='82'/><line x1='68' y1='38' x2='68' y2='82'/><line x1='32' y1='58' x2='68' y2='58'/><line x1='42' y1='36' x2='50' y2='46'/><line x1='58' y1='36' x2='50' y2='46'/><line x1='50' y1='46' x2='50' y2='58'/><path d='M42 82 L42 74 A8 8 0 0 1 58 74 L58 82'/><line x1='24' y1='82' x2='76' y2='82'/></svg>",
+  "bestTime": "Imbolc (Feb), the traditional time of house cleansing, and on moving day",
+  "moonPhases": [
+   "Full Moon",
+   "Waning Gibbous",
+   "New Moon"
+  ]
+ }
+]

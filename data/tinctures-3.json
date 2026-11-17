@@ -1,0 +1,785 @@
+[
+ {
+  "id": "tincture-elecampane-thyme-hyssop-wet-cough",
+  "type": "tincture",
+  "name": "Elecampane, Thyme & Hyssop Chest-Clearing Tincture",
+  "description": "Elecampane was said to have sprung from Helen of Troy's tears, and its sticky, camphor-scented root has been the hedge-witch's first reach for a rattling, chesty cough since Anglo-Saxon leechbooks. Paired with antiseptic Thyme and the biblical purifier Hyssop, this warming tincture is a traditional expectorant to help loosen thick phlegm and make coughs more productive.",
+  "ingredients": [
+   {
+    "item": "Elecampane root, dried, cut and sifted",
+    "amount": "2 parts by weight (about 1 oz / 30 g)"
+   },
+   {
+    "item": "Thyme leaves, dried",
+    "amount": "1 part (about 1/2 oz / 15 g, roughly 1/2 cup)"
+   },
+   {
+    "item": "Hyssop leaves and flowering tops, dried",
+    "amount": "1 part (about 1/2 oz / 15 g, roughly 1/2 cup)"
+   },
+   {
+    "item": "Ginger root, dried and chopped (for warmth)",
+    "amount": "1 tbsp"
+   },
+   {
+    "item": "80-100 proof (40-50%) vodka or brandy",
+    "amount": "about 1 1/2 cups (330-350 ml)"
+   }
+  ],
+  "steps": [
+   "Cleanse a clean, dry pint (500 ml) glass jar with a pass of incense smoke or a whispered blessing, and hold your intention as you work.",
+   "Place the root and herbs in the jar at about 1:5 weight-to-volume (60 g herb to roughly 300-350 ml liquid); elecampane root swells, so keep the jar no more than half full.",
+   "Pour the 80-100 proof (40-50%) vodka or brandy over the herbs until fully covered by at least 1 inch (2.5 cm); poke out air bubbles with a chopstick and top up over the first days if the plant matter swells.",
+   "Cap tightly (line metal lids with baking parchment), label with herbs, menstruum and date, and shake while speaking the chant.",
+   "Store in a cool, dark cupboard for 4-6 weeks, shaking daily; begin on the waning moon so illness and congestion are drawn away, and strain at the dark moon.",
+   "Strain through a cheesecloth-lined strainer, squeezing the marc (spent herbs) firmly to release every drop, then return the herbs to the earth with thanks.",
+   "Bottle in amber dropper bottles and label with name, herbs, alcohol %, date made and dose. Stored cool and dark, alcohol tinctures keep for several years."
+  ],
+  "howToUse": "Traditional adult dose: 30-40 drops (1.5-2 ml) in a little warm water or Thyme tea, 3 times daily while a wet, chesty cough lasts, for no more than 2 weeks at a stretch. Take with plenty of warm fluids, which thin mucus. Because it encourages coughing up phlegm, avoid taking it right before bed; use a soothing dry-cough remedy at night instead.",
+  "chant": "Elecampane of Helen's tears, thyme of courage, hyssop clear, loosen what has settled deep, breath be free and lungs be sweet.",
+  "intention": "What clogs and weighs my chest is loosened and released, and I breathe freely.",
+  "timing": "Begin on a waning moon on a Saturday (Saturn, release) or Tuesday (Mars, fighting illness); strain at the dark moon.",
+  "metaphysical": [
+   "healing",
+   "purification",
+   "cleansing",
+   "release",
+   "protection",
+   "courage"
+  ],
+  "medical": [
+   "cough",
+   "wet cough",
+   "chest congestion",
+   "colds",
+   "congestion",
+   "bronchitis support",
+   "expectorant"
+  ],
+  "caution": "For a wet, phlegmy cough only; it can aggravate a dry, tickly cough. Avoid in pregnancy (elecampane and hyssop are traditionally avoided) and breastfeeding. Avoid elecampane if allergic to the daisy family (ragweed, chamomile, arnica). Hyssop should not be used by people with epilepsy or seizure disorders, and its essential oil must never be taken internally. Elecampane may add to the effects of sedatives and may affect blood sugar and blood pressure; take care with diabetes or blood pressure medication. Large doses can cause nausea, vomiting or diarrhea. Alcohol-based: not for pregnancy, breastfeeding, children, anyone in recovery from alcohol use or avoiding alcohol, or people with liver disease, and never take it with disulfiram (Antabuse), metronidazole or tinidazole (or within 3 days of the last dose), or alongside sedatives, opioids or other medicines that react with alcohol. Stirring drops into hot water drives off only part of the alcohol, so it is never alcohol-free; a glycerite (3 parts food-grade glycerin to 1 part water) or vinegar version is the alcohol-free alternative. Traditional folk use only, not a substitute for medical care; consult a healthcare provider before use, especially if you take medication or have a health condition.",
+  "bestTime": "Autumn into winter, Samhain to Yule (Oct–Dec), when elecampane roots are dug and coughs begin to circulate",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent",
+   "Dark Moon"
+  ],
+  "interactions": "Elecampane may add to sedatives and to diabetes and blood pressure medicines; hyssop should not be combined with anti-seizure medication or seizure disorders.",
+  "pets": "Keep away from pets: alcohol tinctures are poisonous to dogs and especially cats.",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.nccih.nih.gov/health/providers/digest/herb-drug-interactions-science",
+   "https://www.drugs.com/article/antibiotics-and-alcohol.html",
+   "https://www.drugs.com/disulfiram.html",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7038249/"
+  ]
+ },
+ {
+  "id": "tincture-violet-mullein-dry-cough-glycerite",
+  "type": "tincture",
+  "name": "Violet & Mullein Hush-a-Cough Glycerite",
+  "description": "A sweet, alcohol-free glycerite for the dry, tickly, hacking cough that keeps the whole house awake. Velvety Mullein, cooling Violet leaf, mucilaginous Marshmallow Root and a touch of honey-sweet Licorice Root are old cottage demulcents, said to coat and calm an irritated throat and chest, while the glycerin itself soothes.",
+  "ingredients": [
+   {
+    "item": "Mullein leaves, dried",
+    "amount": "1 part (about 1/2 oz / 15 g, roughly 1 cup loosely packed)"
+   },
+   {
+    "item": "Violet leaves and flowers, dried",
+    "amount": "1 part (about 1/2 oz / 15 g)"
+   },
+   {
+    "item": "Marshmallow Root, dried, cut and sifted",
+    "amount": "1 part (about 1/2 oz / 15 g)"
+   },
+   {
+    "item": "Licorice Root, dried, cut and sifted",
+    "amount": "1/2 part (about 1/4 oz / 7 g, roughly 1 tbsp)"
+   },
+   {
+    "item": "Food-grade vegetable glycerin",
+    "amount": "about 3/4 cup plus 2 tbsp (210 ml)"
+   },
+   {
+    "item": "Water, freshly boiled and cooled",
+    "amount": "about 1/4 cup (70 ml)"
+   }
+  ],
+  "steps": [
+   "Sterilise a pint (500 ml) glass jar by boiling or a hot dishwasher cycle and let it dry completely; hold your intention as you work.",
+   "Place the dried herbs in the jar at about 1:5 weight-to-volume (about 52 g herb to 280 ml menstruum); the jar will look about half full of fluffy mullein, which compresses once wet.",
+   "Mix the menstruum: 3 parts food-grade vegetable glycerin to 1 part freshly boiled and cooled water (75% glycerin). Pour it over the herbs until covered by 1 inch (2.5 cm), stirring well to release air, as glycerin is thick.",
+   "Cap tightly, label with herbs, 'glycerite', and date, and shake while speaking the chant.",
+   "Store somewhere cool and dark for 4 weeks, shaking or turning daily; begin on the waning moon to quieten the cough and strain on the dark moon.",
+   "Strain through a fine cheesecloth or coffee filter (glycerin is slow, so let it drip and then squeeze the marc firmly), and return the spent herbs to the earth with thanks.",
+   "Important: mullein leaves carry tiny irritating hairs, so strain a second time through a coffee filter or tightly woven cloth until no fibres remain.",
+   "Bottle in amber dropper bottles, label with name, herbs, 'alcohol-free glycerite', date and dose, and keep cool and dark (or refrigerated) for 12-18 months."
+  ],
+  "howToUse": "Traditional adult dose: 1/2-1 tsp (2.5-5 ml) taken straight, held in the mouth a moment before swallowing, or stirred into warm water, up to 4 times daily and before bed. Children over 2 years (use a batch made without the licorice; see cautions): roughly 5-10 drops per year of age, i.e. a 4-year-old 20-40 drops, up to 3 times daily, for a few days only.",
+  "chant": "Hush now, cough, and settle low, mullein soft and violet's glow; velvet root and honeyed bark, soothe my throat and calm the dark.",
+  "intention": "My throat is soothed, my chest is calm, and peaceful rest returns.",
+  "timing": "Begin on a waning moon on a Monday (Moon, soothing) or Friday (Venus, gentleness); strain at the dark moon.",
+  "metaphysical": [
+   "healing",
+   "calm",
+   "peace",
+   "protection",
+   "sleep",
+   "communication"
+  ],
+  "medical": [
+   "cough",
+   "dry cough",
+   "sore throat",
+   "colds",
+   "throat irritation",
+   "hoarseness"
+  ],
+  "caution": "Best for a dry, unproductive cough; do not use to suppress a wet cough that needs to clear. Licorice Root can raise blood pressure, lower potassium and cause fluid retention: avoid with high blood pressure, heart, kidney or liver disease, low potassium, and with diuretics, digoxin, corticosteroids or blood-pressure medicines, and do not use for more than 2 weeks; omit the licorice entirely in pregnancy (where this glycerite as a whole is best avoided without professional advice) and while breastfeeding. Marshmallow Root may slow absorption of medicines: take it at least 1-2 hours apart from other medication, and it may lower blood sugar. Not for children under 2 years without a doctor's advice, and make any batch for children without the licorice; children with a cough lasting over a week, a barking cough, noisy breathing, or breathing faster than normal must be seen by a doctor. Glycerite (alcohol-free): suitable for those avoiding alcohol, but vegetable glycerin is sweet and may loosen the bowels in large amounts; people with diabetes should count it as a sugar. Keeps about 12-18 months; discard if cloudy, fizzy or off-smelling. See a doctor promptly if there is difficulty breathing, wheezing, chest pain, coughing up blood or rusty/green-brown phlegm with fever, a fever of 39.4°C (103°F) or higher or any fever lasting more than 3 days, a cough lasting more than 2-3 weeks, symptoms that improve and then suddenly worsen, or any illness lasting beyond 7-10 days; seek urgent care for blue-tinged lips, confusion, a stiff neck or severe headache, and in babies, the elderly, or anyone with asthma, heart or lung disease or a weakened immune system. Traditional folk use only, not medical advice and not a substitute for medical care; consult a healthcare provider before use, especially if you take medication, are pregnant or breastfeeding, have a health condition, or are treating a child or older adult.",
+  "bestTime": "Spring to early summer for gathering violets and mullein leaves (Apr–Jun); make in autumn, Mabon to Samhain (Sep–Oct), ready for the cough season",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent",
+   "Dark Moon"
+  ],
+  "interactions": "Licorice interacts with blood pressure drugs, diuretics, digoxin and corticosteroids; marshmallow may slow absorption of oral medicines (take 1-2 hours apart) and add to diabetes medicines.",
+  "pets": "Keep away from pets; do not dose animals with herbal remedies without a veterinarian's advice.",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/licorice",
+   "https://www.ncbi.nlm.nih.gov/books/NBK590484/",
+   "https://www.nccih.nih.gov/health/tips/things-to-know-about-dietary-supplements-for-children-and-teens"
+  ]
+ },
+ {
+  "id": "tincture-sage-thyme-throat-spray",
+  "type": "tincture",
+  "name": "Sage & Thyme Sore Throat Spray Tincture",
+  "description": "Sage takes its name from the Latin salvare, 'to save', and was the medieval go-to for a raw throat, while Thyme was burned in temples to purify the air. This aromatic, astringent tincture, brightened with Echinacea root's tingling bite and soothing Licorice Root, is diluted into a throat spray or gargle and used at the first scratch of a sore throat.",
+  "ingredients": [
+   {
+    "item": "Sage leaves, dried",
+    "amount": "2 parts (about 1 oz / 30 g)"
+   },
+   {
+    "item": "Thyme leaves, dried",
+    "amount": "1 part (about 1/2 oz / 15 g)"
+   },
+   {
+    "item": "Echinacea root, dried, cut",
+    "amount": "1 part (about 1/2 oz / 15 g)"
+   },
+   {
+    "item": "Licorice Root, dried, cut",
+    "amount": "1/2 part (about 1/4 oz / 7 g)"
+   },
+   {
+    "item": "80-100 proof (40-50%) vodka",
+    "amount": "about 1 1/2 cups (340 ml)"
+   },
+   {
+    "item": "For the spray: water and honey or vegetable glycerin",
+    "amount": "see How to Use"
+   }
+  ],
+  "steps": [
+   "Cleanse a clean, dry pint (500 ml) glass jar with a pass of incense smoke or a whispered blessing, and hold your intention as you work.",
+   "Place the dried herbs and roots in the jar at about 1:5 weight-to-volume (about 67 g herb to 340 ml spirit), filling it no more than halfway.",
+   "Pour the 80-100 proof (40-50%) vodka over the herbs until fully covered by at least 1 inch (2.5 cm); poke out air bubbles with a chopstick and top up over the first days if the plant matter swells.",
+   "Cap tightly (line metal lids with baking parchment), label with herbs, menstruum and date, and shake while speaking the chant.",
+   "Store in a cool, dark cupboard for 4-6 weeks, shaking daily; begin on the waning moon to banish soreness and strain at the dark moon.",
+   "Strain through a cheesecloth-lined strainer, squeezing the marc (spent herbs) firmly to release every drop, then return the herbs to the earth with thanks.",
+   "Bottle in amber dropper bottles and label with name, herbs, alcohol %, date made and dose. Stored cool and dark, alcohol tinctures keep for several years.",
+   "To make the throat spray: in a clean 2 oz (60 ml) amber spray bottle, combine 1 tbsp (15 ml) tincture, 2 tbsp (30 ml) cooled boiled water and 1 tbsp (15 ml) honey or vegetable glycerin; shake well, label, keep in the fridge and use within 2 weeks."
+  ],
+  "howToUse": "Throat spray (adults): 2-3 sprays to the back of the throat every 2-3 hours as needed, up to 6-8 times a day; avoid eating or drinking for 15 minutes after. Gargle (adults): 1 tsp (5 ml) tincture in 1/2 cup (120 ml) warm salty water, gargle and spit, 3-4 times daily. It can also be taken internally at 20-30 drops in water, 3 times daily, for no more than a week.",
+  "chant": "Sage to save and thyme to clear, burning throat, you're welcome not here. Cool and calm and clean and bright, I speak my truth with voice made right.",
+  "intention": "My throat is cleansed and soothed, and my voice is restored.",
+  "timing": "Begin on a waning moon on a Wednesday (Mercury, voice and communication); strain at the dark moon.",
+  "metaphysical": [
+   "healing",
+   "purification",
+   "cleansing",
+   "communication",
+   "protection",
+   "wisdom"
+  ],
+  "medical": [
+   "sore throat",
+   "throat irritation",
+   "hoarseness",
+   "colds",
+   "tonsillitis support",
+   "mouth ulcers",
+   "antiseptic"
+  ],
+  "caution": "Sage contains thujone: do not use it internally long-term or in large amounts, and avoid with epilepsy or seizure disorders. Avoid internal use in pregnancy; avoid sage while breastfeeding, as it is traditionally used to dry up milk. Licorice Root can raise blood pressure and lower potassium: avoid internal use with high blood pressure, heart or kidney disease, or alongside diuretics, digoxin or corticosteroids. Avoid Echinacea with daisy-family allergies or autoimmune conditions, or alongside immunosuppressant drugs. The spray contains alcohol and honey: not for children under 12 (the gargle may be used by children old enough to gargle and spit reliably, with alcohol-free sage tea instead of tincture). Never give honey (raw or cooked) to babies under 12 months because of the risk of infant botulism. When gargling, spit it out. Alcohol-based: not for pregnancy, breastfeeding, children, anyone in recovery from alcohol use or avoiding alcohol, or people with liver disease, and never take it with disulfiram (Antabuse), metronidazole or tinidazole (or within 3 days of the last dose), or alongside sedatives, opioids or other medicines that react with alcohol. Stirring drops into hot water drives off only part of the alcohol, so it is never alcohol-free; a glycerite (3 parts food-grade glycerin to 1 part water) or vinegar version is the alcohol-free alternative. Traditional folk use only, not a substitute for medical care; consult a healthcare provider before use, especially if you take medication or have a health condition.",
+  "bestTime": "Midsummer, Litha to Lughnasadh (Jun–Aug), when sage and thyme are most aromatic; made ready for autumn and winter sore throats",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent",
+   "Dark Moon"
+  ],
+  "interactions": "Sage may interact with anti-seizure medicines, sedatives and diabetes medicines; licorice interacts with blood pressure drugs, diuretics, digoxin and corticosteroids; echinacea may reduce the effect of immunosuppressants.",
+  "pets": "Keep away from pets: alcohol tinctures are poisonous to dogs and especially cats.",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.nccih.nih.gov/health/sage",
+   "https://www.ema.europa.eu/en/documents/public-statement/public-statement-salvia-officinalis-l-aetheroleum_en.pdf",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/licorice",
+   "https://www.nccih.nih.gov/health/echinacea",
+   "https://www.drugs.com/article/antibiotics-and-alcohol.html",
+   "https://www.drugs.com/disulfiram.html",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7038249/"
+  ]
+ },
+ {
+  "id": "tincture-clear-passages-sinus",
+  "type": "tincture",
+  "name": "Clear Passages Sinus & Congestion Tincture",
+  "description": "Yerba Santa, the 'holy herb' of the Californian Chumash and early Spanish missions, was smoked, chewed and steeped for stuffed-up heads and heavy chests. Here it joins Elder flower, the gentle drier of runny noses, warming Ginger and opening Peppermint in a pungent tincture traditionally used to ease a blocked, dripping or heavy-feeling head during a cold.",
+  "ingredients": [
+   {
+    "item": "Elder flowers, dried",
+    "amount": "2 parts (about 1 oz / 30 g, roughly 1 cup)"
+   },
+   {
+    "item": "Yerba Santa leaves, dried",
+    "amount": "1 part (about 1/2 oz / 15 g)"
+   },
+   {
+    "item": "Peppermint leaves, dried",
+    "amount": "1 part (about 1/2 oz / 15 g)"
+   },
+   {
+    "item": "Ginger root, dried and chopped",
+    "amount": "1/2 part (about 1/4 oz / 7 g)"
+   },
+   {
+    "item": "80-100 proof (40-50%) vodka",
+    "amount": "about 1 1/2 cups (340 ml)"
+   }
+  ],
+  "steps": [
+   "Cleanse a clean, dry pint (500 ml) glass jar with a pass of incense smoke or a whispered blessing, and hold your intention as you work.",
+   "Place the dried herbs in the jar at about 1:5 weight-to-volume (about 67 g herb to 340 ml spirit); light flowers and leaves will fill the jar loosely and settle once wet.",
+   "Pour the 80-100 proof (40-50%) vodka over the herbs until fully covered by at least 1 inch (2.5 cm); poke out air bubbles with a chopstick and top up over the first days if the plant matter swells.",
+   "Cap tightly (line metal lids with baking parchment), label with herbs, menstruum and date, and shake while speaking the chant.",
+   "Store in a cool, dark cupboard for 4 weeks, shaking daily; begin on the waning moon so blockages are drawn out, and strain at the dark moon.",
+   "Strain through a cheesecloth-lined strainer, squeezing the marc (spent herbs) firmly to release every drop, then return the herbs to the earth with thanks.",
+   "Bottle in amber dropper bottles and label with name, herbs, alcohol %, date made and dose. Stored cool and dark, alcohol tinctures keep for several years."
+  ],
+  "howToUse": "Traditional adult dose: 30-40 drops (1.5-2 ml) in a mug of hot water, inhaling the rising steam before sipping, 3 times daily during a cold or a bout of congestion, for up to 10 days. Pairs well with a steam inhalation and a saline nasal rinse.",
+  "chant": "Holy herb and elder white, mint and ginger, burning bright, open every hidden way, clear my head this very day.",
+  "intention": "My passages open, my head clears, and I breathe with ease.",
+  "timing": "Begin on a waning moon on a Wednesday (Mercury, air and breath); strain at the dark moon.",
+  "metaphysical": [
+   "healing",
+   "clarity",
+   "purification",
+   "release",
+   "protection",
+   "road opening"
+  ],
+  "medical": [
+   "congestion",
+   "sinus congestion",
+   "colds",
+   "runny nose",
+   "catarrh",
+   "allergies",
+   "headache"
+  ],
+  "caution": "Avoid in pregnancy and breastfeeding. Elder flower is safe when properly dried, but never use other raw parts of the elder (leaves, bark, raw berries). Peppermint may worsen acid reflux or heartburn and should not be used with a hiatus hernia or gallstones. Avoid Yerba Santa with known sensitivity to it. Elder flower is mildly diuretic and may add to the effects of diuretics, lithium or diabetes medication. Ginger may add to blood thinners. Alcohol-based: not for pregnancy, breastfeeding, children, anyone in recovery from alcohol use or avoiding alcohol, or people with liver disease, and never take it with disulfiram (Antabuse), metronidazole or tinidazole (or within 3 days of the last dose), or alongside sedatives, opioids or other medicines that react with alcohol. Stirring drops into hot water drives off only part of the alcohol, so it is never alcohol-free; a glycerite (3 parts food-grade glycerin to 1 part water) or vinegar version is the alcohol-free alternative. Traditional folk use only, not a substitute for medical care; consult a healthcare provider before use, especially if you take medication or have a health condition.",
+  "bestTime": "Early summer, Beltane to Litha (May–Jun), when elder blossoms; made ready for the cold season from Samhain onward",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent"
+  ],
+  "interactions": "Elder flower may add to diuretics, lithium and diabetes medicines; ginger may add to blood thinners; peppermint may interact with acid-reducing drugs.",
+  "pets": "Keep away from pets: alcohol tinctures are poisonous to dogs and especially cats.",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.nccih.nih.gov/health/elderberry",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ginger",
+   "https://www.drugs.com/article/antibiotics-and-alcohol.html",
+   "https://www.drugs.com/disulfiram.html",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7038249/"
+  ]
+ },
+ {
+  "id": "tincture-first-sneeze-cold-onset",
+  "type": "tincture",
+  "name": "First Sneeze Elderflower, Yarrow & Peppermint Tincture",
+  "description": "The classic 'YEP' trio of English hedge herbalism, kept as a ready tincture for the moment the first shiver, sneeze or scratchy throat arrives. Elder flower, Yarrow and Peppermint are traditional diaphoretics, said to open the pores and encourage a cleansing sweat, and a few drops in hot water make a fast cold-onset cup when there is no time to brew.",
+  "ingredients": [
+   {
+    "item": "Elder flowers, dried",
+    "amount": "1 part (about 2/3 oz / 20 g)"
+   },
+   {
+    "item": "Yarrow flowering tops, dried",
+    "amount": "1 part (about 2/3 oz / 20 g)"
+   },
+   {
+    "item": "Peppermint leaves, dried",
+    "amount": "1 part (about 2/3 oz / 20 g)"
+   },
+   {
+    "item": "Cinnamon stick, broken (optional, for warming)",
+    "amount": "1 small stick"
+   },
+   {
+    "item": "80-100 proof (40-50%) vodka or brandy",
+    "amount": "about 1 1/4 cups (300 ml)"
+   }
+  ],
+  "steps": [
+   "Cleanse a clean, dry pint (500 ml) glass jar with a pass of incense smoke or a whispered blessing, and hold your intention as you work.",
+   "Place the dried herbs in the jar at about 1:5 weight-to-volume (60 g herb to 300 ml spirit).",
+   "Pour the 80-100 proof (40-50%) vodka or brandy over the herbs until fully covered by at least 1 inch (2.5 cm); poke out air bubbles with a chopstick and top up over the first days if the plant matter swells.",
+   "Cap tightly (line metal lids with baking parchment), label with herbs, menstruum and date, and shake while speaking the chant.",
+   "Store in a cool, dark cupboard for 4 weeks, shaking daily; traditionally begin at Midsummer when elder and yarrow bloom together, on a waning moon to banish illness, and strain at the dark moon.",
+   "Strain through a cheesecloth-lined strainer, squeezing the marc (spent herbs) firmly to release every drop, then return the herbs to the earth with thanks.",
+   "Bottle in amber dropper bottles and label with name, herbs, alcohol %, date made and dose. Stored cool and dark, alcohol tinctures keep for several years."
+  ],
+  "howToUse": "Traditional adult dose: at the first sign of a cold, 40-60 drops (2-3 ml) in a mug of hot water, drunk as hot as comfortable while wrapped up warmly, every 3-4 hours on the first day (up to 5 doses), then 3 times daily for up to 5 days. Rest, keep warm and drink plenty of water to replace what you sweat out.",
+  "chant": "First sneeze, last sneeze, chill be gone with ease. Yarrow, elder, mint so bright, sweat it out and sleep tonight.",
+  "intention": "I meet the first whisper of illness and send it on its way.",
+  "timing": "Begin on a waning moon on a Tuesday (Mars, defence) or Saturday (Saturn, banishing); strain at the dark moon.",
+  "metaphysical": [
+   "healing",
+   "protection",
+   "banishing",
+   "purification",
+   "health",
+   "release"
+  ],
+  "medical": [
+   "colds",
+   "flu",
+   "fever",
+   "chills",
+   "congestion",
+   "sore throat",
+   "immune support"
+  ],
+  "caution": "Avoid in pregnancy (yarrow is traditionally avoided) and breastfeeding. Avoid if allergic to the daisy family (yarrow). Yarrow may interact with blood thinners, blood-pressure, lithium and sedative medicines; elder flower is mildly diuretic. Peppermint may worsen acid reflux. Sweating can dehydrate, especially the elderly: drink plenty of fluids and stop if lightheaded. For children, use a weak elderflower tea instead (over age 2, with medical guidance), and keep peppermint away from young children's faces. Alcohol-based: not for pregnancy, breastfeeding, children, anyone in recovery from alcohol use or avoiding alcohol, or people with liver disease, and never take it with disulfiram (Antabuse), metronidazole or tinidazole (or within 3 days of the last dose), or alongside sedatives, opioids or other medicines that react with alcohol. Stirring drops into hot water drives off only part of the alcohol, so it is never alcohol-free; a glycerite (3 parts food-grade glycerin to 1 part water) or vinegar version is the alcohol-free alternative. Traditional folk use only, not a substitute for medical care; consult a healthcare provider before use, especially if you take medication or have a health condition.",
+  "bestTime": "Midsummer, Litha (June), when elder flower and yarrow bloom together; used from Samhain through Imbolc (Oct–Feb)",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent",
+   "Dark Moon"
+  ],
+  "interactions": "Yarrow may interact with blood thinners, blood pressure medicines, lithium and sedatives; elder flower may add to diuretics; peppermint may interact with acid-reducing drugs.",
+  "pets": "Keep away from pets: alcohol tinctures are poisonous to dogs and especially cats.",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.nccih.nih.gov/health/elderberry",
+   "https://www.nccih.nih.gov/health/providers/digest/herb-drug-interactions-science",
+   "https://www.drugs.com/article/antibiotics-and-alcohol.html",
+   "https://www.drugs.com/disulfiram.html",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7038249/"
+  ]
+ },
+ {
+  "id": "tincture-rising-phoenix-flu-recovery",
+  "type": "tincture",
+  "name": "Rising Phoenix Flu Recovery Tonic",
+  "description": "After the fever breaks comes the long, washed-out tail of flu: weak legs, foggy head and no appetite. This gentle restorative tincture blends mineral-rich Nettle, the steadying Indian adaptogens Holy Basil and Ashwagandha, and bright Orange Peel to wake a flat appetite, traditionally taken for a few weeks to help the body rise again from the ashes of illness.",
+  "ingredients": [
+   {
+    "item": "Holy Basil leaves and flowering tops, dried",
+    "amount": "2 parts (about 1 oz / 30 g)"
+   },
+   {
+    "item": "Nettle leaves, dried",
+    "amount": "1 part (about 1/2 oz / 15 g)"
+   },
+   {
+    "item": "Ashwagandha root, dried, cut",
+    "amount": "1 part (about 1/2 oz / 15 g)"
+   },
+   {
+    "item": "Orange Peel, dried (unwaxed, organic)",
+    "amount": "1/2 part (about 1/4 oz / 7 g)"
+   },
+   {
+    "item": "Ginger root, dried and chopped",
+    "amount": "1 tsp"
+   },
+   {
+    "item": "80 proof (40%) brandy or vodka",
+    "amount": "about 1 1/2 cups (350 ml)"
+   }
+  ],
+  "steps": [
+   "Cleanse a clean, dry pint (500 ml) glass jar with a pass of incense smoke or a whispered blessing, and hold your intention as you work.",
+   "Place the dried herbs in the jar at about 1:5 weight-to-volume (about 70 g herb to 350 ml spirit), filling it about half full.",
+   "Pour the 80 proof (40%) brandy or vodka over the herbs until fully covered by at least 1 inch (2.5 cm); poke out air bubbles with a chopstick and top up over the first days if the plant matter swells.",
+   "Cap tightly (line metal lids with baking parchment), label with herbs, menstruum and date, and shake while speaking the chant.",
+   "Store in a cool, dark cupboard for 4-6 weeks, shaking daily; begin on the new moon so strength may grow with the waxing light, and strain at the full moon.",
+   "Strain through a cheesecloth-lined strainer, squeezing the marc (spent herbs) firmly to release every drop, then return the herbs to the earth with thanks.",
+   "Bottle in amber dropper bottles and label with name, herbs, alcohol %, date made and dose. Stored cool and dark, alcohol tinctures keep for several years."
+  ],
+  "howToUse": "Traditional adult dose: 30-60 drops (1.5-3 ml) in a little warm water or juice, 2 times daily (morning and mid-afternoon) once the fever has fully gone, for 2-4 weeks of convalescence. Support it with rest, nourishing broths, gentle walks and early nights; do not use it to push yourself back to work before you are ready.",
+  "chant": "From the embers, from the ash, strength returns, not slow nor rash. Basil, nettle, root and sun, rise again, the healing's done.",
+  "intention": "My strength returns day by day, steady, whole and renewed.",
+  "timing": "Begin on a new moon on a Sunday (Sun, vitality); strain at the full moon.",
+  "metaphysical": [
+   "healing",
+   "vitality",
+   "strength",
+   "energy",
+   "transformation",
+   "new beginnings",
+   "health"
+  ],
+  "medical": [
+   "flu",
+   "flu recovery",
+   "convalescence",
+   "fatigue",
+   "low appetite",
+   "immune support",
+   "stress"
+  ],
+  "caution": "For recovery only, after fever has gone; not to be taken during an active high fever. Avoid in pregnancy and breastfeeding (ashwagandha and holy basil are traditionally avoided). Ashwagandha is a nightshade: avoid with nightshade allergy, hyperthyroidism, or autoimmune disease, hormone-sensitive prostate cancer, and with thyroid, immunosuppressant, sedative, anti-seizure, diabetes or blood pressure medication; rare cases of liver injury have been reported, so stop if you notice yellowing skin, dark urine or abdominal pain. Holy basil may lower blood sugar and slow clotting: take care with diabetes medication or blood thinners and stop 2 weeks before surgery. Nettle is diuretic and may interact with diuretics, lithium, blood-pressure and diabetes medication. Alcohol-based: not for pregnancy, breastfeeding, children, anyone in recovery from alcohol use or avoiding alcohol, or people with liver disease, and never take it with disulfiram (Antabuse), metronidazole or tinidazole (or within 3 days of the last dose), or alongside sedatives, opioids or other medicines that react with alcohol. Stirring drops into hot water drives off only part of the alcohol, so it is never alcohol-free; a glycerite (3 parts food-grade glycerin to 1 part water) or vinegar version is the alcohol-free alternative. Traditional folk use only, not a substitute for medical care; consult a healthcare provider before use, especially if you take medication or have a health condition.",
+  "bestTime": "Late winter into early spring, Imbolc to Ostara (Feb–Mar), the season of recovery and returning light",
+  "moonPhases": [
+   "New Moon",
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous"
+  ],
+  "interactions": "Ashwagandha may interact with thyroid, immunosuppressant, sedative, anti-seizure, diabetes and blood pressure medicines; holy basil and ginger may add to blood thinners and diabetes medicines; nettle may add to diuretics and lithium.",
+  "pets": "Keep away from pets: alcohol tinctures are poisonous to dogs and especially cats.",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.nccih.nih.gov/health/ashwagandha",
+   "https://ods.od.nih.gov/factsheets/Ashwagandha-HealthProfessional/",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC10459262/",
+   "https://www.drugs.com/article/antibiotics-and-alcohol.html",
+   "https://www.drugs.com/disulfiram.html",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7038249/"
+  ]
+ },
+ {
+  "id": "tincture-linden-catnip-fever-comfort",
+  "type": "tincture",
+  "name": "Linden & Catnip Cool Brow Fever-Comfort Tincture",
+  "description": "Linden trees were sacred to Freya and the place where village disputes were settled in peace, and catnip tea was the old cottage remedy for a hot, restless child. These gentle relaxing diaphoretics, joined by Elder flower and a little Lemon Balm, are traditionally used not to stop a fever but to keep a feverish person comfortable, relaxed and gently perspiring while the body does its work.",
+  "ingredients": [
+   {
+    "item": "Linden flowers and bracts, dried",
+    "amount": "2 parts (about 1 oz / 30 g)"
+   },
+   {
+    "item": "Catnip leaves and flowering tops, dried",
+    "amount": "1 part (about 1/2 oz / 15 g)"
+   },
+   {
+    "item": "Elder flowers, dried",
+    "amount": "1 part (about 1/2 oz / 15 g)"
+   },
+   {
+    "item": "Lemon Balm leaves, dried",
+    "amount": "1/2 part (about 1/4 oz / 7 g)"
+   },
+   {
+    "item": "80-100 proof (40-50%) vodka",
+    "amount": "about 1 1/2 cups (340 ml)"
+   }
+  ],
+  "steps": [
+   "Cleanse a clean, dry pint (500 ml) glass jar with a pass of incense smoke or a whispered blessing, and hold your intention as you work.",
+   "Place the dried flowers and leaves in the jar at about 1:5 weight-to-volume (about 67 g herb to 340 ml spirit).",
+   "Pour the 80-100 proof (40-50%) vodka over the herbs until fully covered by at least 1 inch (2.5 cm); poke out air bubbles with a chopstick and top up over the first days if the plant matter swells.",
+   "Cap tightly (line metal lids with baking parchment), label with herbs, menstruum and date, and shake while speaking the chant.",
+   "Store in a cool, dark cupboard for 4 weeks, shaking daily; begin on the waning moon to cool and release heat, and strain at the dark moon.",
+   "Strain through a cheesecloth-lined strainer, squeezing the marc (spent herbs) firmly to release every drop, then return the herbs to the earth with thanks.",
+   "Bottle in amber dropper bottles and label with name, herbs, alcohol %, date made and dose. Stored cool and dark, alcohol tinctures keep for several years."
+  ],
+  "howToUse": "Traditional adult dose: 30-60 drops (1.5-3 ml) in a cup of warm (not scalding) water, every 3-4 hours during a feverish illness, up to 5 times daily for no more than 3 days. Rest, sip water or diluted juice constantly, dress in light layers and use a cool damp cloth on the brow. For children, use weak linden and catnip tea instead (see cautions).",
+  "chant": "Linden leaf and catnip cool, calm the fire, keep the rule: burn no higher, burn no long, rest me easy, make me strong.",
+  "intention": "My body burns clean and steady, and I rest in comfort while I heal.",
+  "timing": "Begin on a waning moon on a Monday (Moon, cooling and soothing); strain at the dark moon.",
+  "metaphysical": [
+   "healing",
+   "calm",
+   "peace",
+   "sleep",
+   "protection",
+   "release"
+  ],
+  "medical": [
+   "fever",
+   "flu",
+   "colds",
+   "restlessness",
+   "aches",
+   "insomnia",
+   "chills"
+  ],
+  "caution": "This is a comfort remedy and does not replace medical assessment of a fever or fever-reducing medicine where advised. Avoid in pregnancy and breastfeeding. Linden has traditionally been avoided with existing heart conditions in frequent large doses; avoid catnip with heavy menstrual bleeding. Linden, catnip and lemon balm are mildly sedating: do not combine with sedatives, sleeping pills or alcohol, and do not drive if drowsy. Lemon balm may affect thyroid medication. Elder flower is mildly diuretic. For children over 2, a weak tea of 1/2 tsp linden and catnip per cup, given in small sips, may be used with a doctor's agreement. Never give aspirin to children or teenagers with fever (risk of Reye's syndrome). Alcohol-based: not for pregnancy, breastfeeding, children, anyone in recovery from alcohol use or avoiding alcohol, or people with liver disease, and never take it with disulfiram (Antabuse), metronidazole or tinidazole (or within 3 days of the last dose), or alongside sedatives, opioids or other medicines that react with alcohol. Stirring drops into hot water drives off only part of the alcohol, so it is never alcohol-free; a glycerite (3 parts food-grade glycerin to 1 part water) or vinegar version is the alcohol-free alternative. Traditional folk use only, not a substitute for medical care; consult a healthcare provider before use, especially if you take medication or have a health condition.",
+  "bestTime": "Midsummer, Litha (late June–July), when linden trees blossom and hum with bees; used through the winter illness season",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent"
+  ],
+  "interactions": "Linden, catnip and lemon balm add to sedatives, sleeping pills and alcohol; lemon balm may affect thyroid medication; elder flower may add to diuretics and lithium.",
+  "pets": "Keep away from pets: alcohol tinctures are poisonous to dogs and especially cats.",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.webmd.com/vitamins/ai/ingredientmono-437/lemon-balm",
+   "https://www.nccih.nih.gov/health/elderberry",
+   "https://www.drugs.com/article/antibiotics-and-alcohol.html",
+   "https://www.drugs.com/disulfiram.html",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7038249/"
+  ]
+ },
+ {
+  "id": "tincture-ginger-peppermint-nausea-glycerite",
+  "type": "tincture",
+  "name": "Calm Seas Ginger & Peppermint Glycerite",
+  "description": "Sailors chewed ginger to settle their stomachs on rolling seas, and peppermint has cooled queasy bellies since Roman times. This sweet, alcohol-free glycerite captures both with soothing Chamomile, giving a pocketable drop-by-drop remedy traditionally used for waves of nausea, queasiness after illness, and a churning stomach.",
+  "ingredients": [
+   {
+    "item": "Ginger root, fresh, finely grated (or 1/2 oz / 15 g dried)",
+    "amount": "1 1/2 oz (45 g) fresh"
+   },
+   {
+    "item": "Peppermint leaves, dried",
+    "amount": "1/2 oz (15 g)"
+   },
+   {
+    "item": "Chamomile flowers, dried",
+    "amount": "1/4 oz (7 g, about 1/4 cup)"
+   },
+   {
+    "item": "Food-grade vegetable glycerin",
+    "amount": "about 3/4 cup (180 ml)"
+   },
+   {
+    "item": "Water, freshly boiled and cooled (reduce to 2 tbsp if using fresh ginger)",
+    "amount": "about 1/4 cup (60 ml)"
+   }
+  ],
+  "steps": [
+   "Sterilise a pint (500 ml) glass jar by boiling or a hot dishwasher cycle and let it dry completely; hold your intention as you work.",
+   "Place the grated ginger and dried herbs in the jar; fresh ginger brings its own juice, so pack it loosely and keep the jar about half full.",
+   "Mix the menstruum: 3 parts food-grade vegetable glycerin to 1 part freshly boiled and cooled water (75% glycerin). Pour it over the herbs until covered by 1 inch (2.5 cm), stirring well to release air, as glycerin is thick.",
+   "Cap tightly, label with herbs, 'glycerite', and date, and shake while speaking the chant.",
+   "Store somewhere cool and dark for 3-4 weeks, shaking daily; begin on the waning moon to calm and release, and strain at the dark moon.",
+   "Strain through a fine cheesecloth or coffee filter (glycerin is slow, so let it drip and then squeeze the marc firmly), and return the spent herbs to the earth with thanks.",
+   "Bottle in amber dropper bottles, label with name, herbs, 'alcohol-free glycerite', date and dose, and keep cool and dark (or refrigerated) for 12-18 months."
+  ],
+  "howToUse": "Traditional adult dose: 1/2-1 tsp (2.5-5 ml) straight on the tongue or in a little warm or fizzy water, every 2-3 hours as needed for nausea, up to 6 times daily. Sip slowly. Children over 2 (see cautions): 5 drops per year of age, i.e. a 6-year-old 30 drops, up to 3 times daily.",
+  "chant": "Calm the sea and still the tide, ginger warm and mint inside. Settle, belly, soft and slow, waves of sickness, ebb and go.",
+  "intention": "My stomach is calm, steady and at peace.",
+  "timing": "Begin on a waning moon on a Monday (Moon, tides and the belly); strain at the dark moon.",
+  "metaphysical": [
+   "healing",
+   "calm",
+   "balance",
+   "peace",
+   "travel",
+   "grounding"
+  ],
+  "medical": [
+   "nausea",
+   "upset stomach",
+   "indigestion",
+   "motion sickness",
+   "queasiness",
+   "bloating"
+  ],
+  "caution": "Ginger may increase bleeding risk with blood thinners (warfarin, aspirin, clopidogrel) and may lower blood sugar; stop 2 weeks before surgery. Ginger is commonly used in modest amounts for morning sickness, but in pregnancy keep to food-level doses (no more than about 1 g dried ginger daily) and check with your midwife or doctor first; peppermint may worsen heartburn in pregnancy. Peppermint may worsen acid reflux, hiatus hernia and gallstones. Avoid chamomile if allergic to the daisy family. Not for children under 2; never put peppermint preparations near a baby's or toddler's face. Glycerite (alcohol-free): suitable for those avoiding alcohol, but vegetable glycerin is sweet and may loosen the bowels in large amounts; people with diabetes should count it as a sugar. Keeps about 12-18 months; discard if cloudy, fizzy or off-smelling. Persistent nausea can signal pregnancy, medication side effects, migraine, ear problems or more serious illness. See a doctor if there is severe or worsening abdominal pain (especially low on the right side or with a rigid belly), vomiting that lasts more than 24 hours or prevents keeping fluids down, green (bile) or blood-streaked vomit, blood or black tarry stool, diarrhea lasting more than 2-3 days, signs of dehydration (little or dark urine, dizziness, dry mouth, no tears), a high fever, unexplained weight loss, difficulty swallowing, or symptoms that keep returning; upper abdominal or chest pain spreading to the arm, jaw or back can be a heart attack and needs emergency help. Traditional folk use only, not medical advice and not a substitute for medical care; consult a healthcare provider before use, especially if you take medication, are pregnant or breastfeeding, have a health condition, or are treating a child or older adult.",
+  "bestTime": "Autumn, Mabon to Samhain (Sep–Oct), when ginger is harvested and peppermint has been dried from summer",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent",
+   "Dark Moon"
+  ],
+  "interactions": "Ginger may add to warfarin, aspirin, clopidogrel and diabetes medicines; chamomile may add to sedatives and blood thinners; peppermint may interact with acid-reducing drugs.",
+  "pets": "Keep away from pets; do not dose animals with herbal remedies without a veterinarian's advice.",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ginger",
+   "https://www.nccih.nih.gov/health/chamomile",
+   "https://www.nccih.nih.gov/health/tips/things-to-know-about-dietary-supplements-for-children-and-teens"
+  ]
+ },
+ {
+  "id": "tincture-fennel-caraway-chamomile-wind",
+  "type": "tincture",
+  "name": "Fennel, Caraway & Chamomile Wind-Calming Tincture",
+  "description": "Fennel, caraway and anise are the seeds of the 'gripe water' tradition and the after-dinner seed bowls of India, chewed to sweeten the breath and settle the belly. With gentle Chamomile to ease spasm, this aromatic carminative tincture is a hedge-witch's standby for a swollen, gassy, gurgling stomach and the mild cramps of trapped wind.",
+  "ingredients": [
+   {
+    "item": "Fennel seeds, lightly crushed",
+    "amount": "1 part (about 2/3 oz / 20 g, roughly 2 1/2 tbsp)"
+   },
+   {
+    "item": "Caraway seeds, lightly crushed",
+    "amount": "1/2 part (about 1/3 oz / 10 g, roughly 1 1/2 tbsp)"
+   },
+   {
+    "item": "Anise seeds, lightly crushed",
+    "amount": "1/2 part (about 1/3 oz / 10 g)"
+   },
+   {
+    "item": "Chamomile flowers, dried",
+    "amount": "1 part (about 2/3 oz / 20 g)"
+   },
+   {
+    "item": "Cardamom pods, cracked",
+    "amount": "4 pods"
+   },
+   {
+    "item": "80-100 proof (40-50%) vodka or brandy",
+    "amount": "about 1 1/4 cups (300 ml)"
+   }
+  ],
+  "steps": [
+   "Cleanse a clean, dry pint (500 ml) glass jar with a pass of incense smoke or a whispered blessing, and hold your intention as you work.",
+   "Crush the seeds in a mortar just before using to release their oils, then place them with the chamomile and cardamom in the jar at about 1:5 weight-to-volume (60 g herb to 300 ml spirit).",
+   "Pour the 80-100 proof (40-50%) vodka or brandy over the herbs until fully covered by at least 1 inch (2.5 cm); poke out air bubbles with a chopstick and top up over the first days if the plant matter swells.",
+   "Cap tightly (line metal lids with baking parchment), label with herbs, menstruum and date, and shake while speaking the chant.",
+   "Store in a cool, dark cupboard for 4 weeks, shaking daily; begin on the waning moon to release what is trapped, and strain at the dark moon.",
+   "Strain through a cheesecloth-lined strainer, squeezing the marc (spent herbs) firmly to release every drop, then return the herbs to the earth with thanks.",
+   "Bottle in amber dropper bottles and label with name, herbs, alcohol %, date made and dose. Stored cool and dark, alcohol tinctures keep for several years."
+  ],
+  "howToUse": "Traditional adult dose: 20-40 drops (1-2 ml) in a little warm water, sipped 10-15 minutes before or just after a heavy meal, or when bloating and wind come on, up to 3 times daily. A warm hand or hot-water bottle on the belly and a gentle walk help it along.",
+  "chant": "Seed of fennel, seed of grace, caraway, set things in place. Ease the knot and free the wind, gentle peace now flows within.",
+  "intention": "What is stuck now moves freely, and my belly is at ease.",
+  "timing": "Begin on a waning moon on a Wednesday (Mercury, movement); strain at the dark moon.",
+  "metaphysical": [
+   "healing",
+   "release",
+   "balance",
+   "calm",
+   "protection",
+   "purification"
+  ],
+  "medical": [
+   "bloating",
+   "gas",
+   "indigestion",
+   "upset stomach",
+   "stomach cramps",
+   "colic",
+   "digestion"
+  ],
+  "caution": "Avoid medicinal amounts of fennel and anise in pregnancy and breastfeeding, and with estrogen-sensitive conditions (e.g. some breast cancers, endometriosis), as they are mildly estrogenic; keep to occasional short-term use, as fennel and anise contain estragole. Avoid if allergic to the carrot/celery family (fennel, caraway, anise) or the daisy family (chamomile). Chamomile may add to the effects of sedatives and blood thinners. For babies, speak to a doctor or health visitor, and use the alcohol-free children's tummy tea or glycerite for older children. Alcohol-based: not for pregnancy, breastfeeding, children, anyone in recovery from alcohol use or avoiding alcohol, or people with liver disease, and never take it with disulfiram (Antabuse), metronidazole or tinidazole (or within 3 days of the last dose), or alongside sedatives, opioids or other medicines that react with alcohol. Stirring drops into hot water drives off only part of the alcohol, so it is never alcohol-free; a glycerite (3 parts food-grade glycerin to 1 part water) or vinegar version is the alcohol-free alternative. Traditional folk use only, not a substitute for medical care; consult a healthcare provider before use, especially if you take medication or have a health condition.",
+  "bestTime": "Late summer, Lughnasadh to Mabon (Aug–Sep), when fennel and caraway seeds ripen; useful through feasting seasons from Samhain to Yule",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent"
+  ],
+  "interactions": "Fennel may reduce absorption of ciprofloxacin and may interfere with hormonal birth control, hormone therapy and tamoxifen; chamomile may add to sedatives and blood thinners.",
+  "pets": "Keep away from pets: alcohol tinctures are poisonous to dogs and especially cats.",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.drugs.com/mtm/fennel.html",
+   "https://pubmed.ncbi.nlm.nih.gov/10678493/",
+   "https://www.nccih.nih.gov/health/chamomile",
+   "https://www.drugs.com/article/antibiotics-and-alcohol.html",
+   "https://www.drugs.com/disulfiram.html",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7038249/"
+  ]
+ },
+ {
+  "id": "tincture-wayfarers-travel-tummy",
+  "type": "tincture",
+  "name": "Wayfarer's Travel Tummy Tincture",
+  "description": "Pilgrims, sailors and coach travellers once carried ginger and mint in their pockets against the sickness of the road and sea. This travel tincture blends warming Ginger and Cardamom with cooling Spearmint and calming Lemon Balm, a little bottle for the bag or glovebox to steady a lurching stomach and a nervous traveller alike.",
+  "ingredients": [
+   {
+    "item": "Ginger root, dried and chopped",
+    "amount": "2 parts (about 1 oz / 30 g)"
+   },
+   {
+    "item": "Spearmint leaves, dried",
+    "amount": "1 part (about 1/2 oz / 15 g)"
+   },
+   {
+    "item": "Lemon Balm leaves, dried",
+    "amount": "1 part (about 1/2 oz / 15 g)"
+   },
+   {
+    "item": "Cardamom pods, cracked",
+    "amount": "6 pods"
+   },
+   {
+    "item": "80-100 proof (40-50%) vodka",
+    "amount": "about 1 1/2 cups (330 ml)"
+   }
+  ],
+  "steps": [
+   "Cleanse a clean, dry pint (500 ml) glass jar with a pass of incense smoke or a whispered blessing, and hold your intention as you work.",
+   "Place the dried herbs and cracked cardamom in the jar at about 1:5 weight-to-volume (about 65 g herb to 330 ml spirit).",
+   "Pour the 80-100 proof (40-50%) vodka over the herbs until fully covered by at least 1 inch (2.5 cm); poke out air bubbles with a chopstick and top up over the first days if the plant matter swells.",
+   "Cap tightly (line metal lids with baking parchment), label with herbs, menstruum and date, and shake while speaking the chant.",
+   "Store in a cool, dark cupboard for 4 weeks, shaking daily; begin on a waxing moon on a Wednesday, the day of Mercury, guardian of travellers, and strain at the full moon.",
+   "Strain through a cheesecloth-lined strainer, squeezing the marc (spent herbs) firmly to release every drop, then return the herbs to the earth with thanks.",
+   "Bottle in amber dropper bottles and label with name, herbs, alcohol %, date made and dose. Stored cool and dark, alcohol tinctures keep for several years.",
+   "Decant a little into a 1 oz (30 ml) travel dropper bottle for the journey bag, labelled clearly, and keep the rest at home."
+  ],
+  "howToUse": "Traditional adult dose: 30-40 drops (1.5-2 ml) in a little water about 30 minutes before setting off, then every 2-3 hours during the journey as needed (up to 4 doses a day). Sit facing forward, look at the horizon, keep fresh air flowing and sip water. Not for the driver if it makes you drowsy.",
+  "chant": "Mercury, guard the traveller's way, belly steady, night and day. Ginger's fire and mint's cool breeze, carry me on roads and seas.",
+  "intention": "I travel safely and comfortably, steady in body and calm in mind.",
+  "timing": "Begin on a waxing moon on a Wednesday (Mercury, travel); strain at the full moon.",
+  "metaphysical": [
+   "travel",
+   "protection",
+   "calm",
+   "balance",
+   "grounding",
+   "courage"
+  ],
+  "medical": [
+   "motion sickness",
+   "travel sickness",
+   "nausea",
+   "upset stomach",
+   "anxiety",
+   "indigestion"
+  ],
+  "caution": "Not for drivers or anyone operating machinery if drowsy; lemon balm is mildly sedating and may add to sedatives and affect thyroid medication. Ginger may increase bleeding risk with blood thinners and lower blood sugar. Avoid in pregnancy and breastfeeding in tincture form (pregnant travelers can ask a midwife about modest ginger tea or ginger biscuits). Spearmint may worsen reflux. For travel-sick children over 2, try crystallised ginger, a ginger biscuit or the Calm Seas glycerite at the child's dose. Alcohol-based: not for pregnancy, breastfeeding, children, anyone in recovery from alcohol use or avoiding alcohol, or people with liver disease, and never take it with disulfiram (Antabuse), metronidazole or tinidazole (or within 3 days of the last dose), or alongside sedatives, opioids or other medicines that react with alcohol. Stirring drops into hot water drives off only part of the alcohol, so it is never alcohol-free; a glycerite (3 parts food-grade glycerin to 1 part water) or vinegar version is the alcohol-free alternative. Traditional folk use only, not a substitute for medical care; consult a healthcare provider before use, especially if you take medication or have a health condition.",
+  "bestTime": "Summer, Beltane to Mabon (May–Sep), the travelling season; make before any long journey",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "interactions": "Lemon balm may add to sedatives and affect thyroid medication; ginger may add to blood thinners and diabetes medicines.",
+  "pets": "Keep away from pets: alcohol tinctures are poisonous to dogs and especially cats.",
+  "toxic": false,
+  "externalOnly": false,
+  "sources": [
+   "https://www.webmd.com/vitamins/ai/ingredientmono-437/lemon-balm",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ginger",
+   "https://www.drugs.com/article/antibiotics-and-alcohol.html",
+   "https://www.drugs.com/disulfiram.html",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7038249/"
+  ]
+ }
+]

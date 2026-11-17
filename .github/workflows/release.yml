@@ -1,0 +1,122 @@
+# Builds and publishes a new version whenever a tag such as v1.1 is pushed (GitHub Desktop: History,
+# right-click the latest commit, Create Tag, then Push origin).
+#  1. works out the version from the tag: v1.1 -> versionName 1.1, versionCode 10100 (v1.2.3 -> 10203)
+#  2. builds and signs the Android app with the key kept in this repository's Secrets
+#  3. creates the GitHub Release with WitchcraftCompanion.apk
+#  4. only then updates docs/ (download page, web app, version.json), which tells installed apps to update
+name: Release
+
+on:
+  push:
+    tags: ['v*']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    env:
+      # the certificate of android/witchcompanion.keystore (alias witchcompanion). A build signed with any
+      # other key is refused, because installed apps could never accept it.
+      EXPECTED_CERT_SHA256: ce9d08cc06fa1e7bbcffc46a102da34b064467f777fca502d1998b6eb4aa75c2
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Work out the version from the tag
+        run: |
+          VN="${GITHUB_REF_NAME#v}"
+          if ! [[ "$VN" =~ ^([0-9]+)\.([0-9]+)(\.([0-9]+))?$ ]]; then
+            echo "::error::Tags must look like v1.1 or v1.1.2 (this one is $GITHUB_REF_NAME)"; exit 1
+          fi
+          VC=$(( BASH_REMATCH[1] * 10000 + BASH_REMATCH[2] * 100 + ${BASH_REMATCH[4]:-0} ))
+          LIVE=$(git show origin/main:docs/version.json | python3 -c "import json,sys;print(json.load(sys.stdin)['versionCode'])")
+          if [ "$VC" -le "$LIVE" ]; then
+            echo "::error::Version $VN (code $VC) is not newer than the published version (code $LIVE). Use a higher tag."; exit 1
+          fi
+          echo "VN=$VN" >> "$GITHUB_ENV"; echo "VC=$VC" >> "$GITHUB_ENV"
+          echo "Building version $VN, versionCode $VC (live: $LIVE)"
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Android build tools
+        run: |
+          SDKM="$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager"
+          yes | "$SDKM" --licenses > /dev/null || true
+          "$SDKM" "build-tools;35.0.0" "platforms;android-35" > /dev/null
+          echo "ANDROID_SDK=$ANDROID_HOME" >> "$GITHUB_ENV"
+
+      - name: Put the signing key in place (from Secrets)
+        env:
+          KEYSTORE_BASE64: ${{ secrets.KEYSTORE_BASE64 }}
+          KEY_ALIAS: ${{ secrets.KEY_ALIAS }}
+          KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
+        run: |
+          if [ -z "$KEYSTORE_BASE64" ] || [ -z "$KEY_ALIAS" ] || [ -z "$KEY_PASSWORD" ]; then
+            echo "::error::The signing key is missing. Add KEYSTORE_BASE64, KEY_ALIAS and KEY_PASSWORD under Settings, Secrets and variables, Actions."; exit 1
+          fi
+          echo "$KEYSTORE_BASE64" | tr -d ' \r\n' | base64 -d > android/witchcompanion.keystore
+          printf 'KEYSTORE=witchcompanion.keystore\nALIAS=%s\nPASSWORD=%s\n' "$KEY_ALIAS" "$KEY_PASSWORD" > android/key.properties
+
+      - name: Build and sign the Android app
+        run: |
+          node build_data.js
+          bash android/build.sh
+          AAPT2="$ANDROID_HOME/build-tools/35.0.0/aapt2"
+          "$AAPT2" dump badging android/WitchcraftCompanion.apk | head -1
+          "$AAPT2" dump badging android/WitchcraftCompanion.apk | head -1 | grep -q "name='io.github.pacogeist.witchcompanion' versionCode='$VC' versionName='$VN'" \
+            || { echo "::error::The app ID or version inside the APK is wrong"; exit 1; }
+          CERT=$("$ANDROID_HOME/build-tools/35.0.0/apksigner" verify --print-certs android/WitchcraftCompanion.apk | grep -m1 'certificate SHA-256 digest' | awk '{print $NF}')
+          [ "$CERT" = "$EXPECTED_CERT_SHA256" ] || { echo "::error::The APK was signed with the wrong key ($CERT)"; exit 1; }
+          echo "Signed with the right key."
+
+      - name: Remove the key from the build machine
+        if: always()
+        run: rm -f android/witchcompanion.keystore android/key.properties
+
+      - name: Build the website and web app
+        run: python3 build_site.py
+
+      - name: Create the GitHub Release with the APK
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tail -n +4 dist/release/RELEASE-NOTES.txt > notes.md
+          if gh release view "$GITHUB_REF_NAME" > /dev/null 2>&1; then
+            gh release upload "$GITHUB_REF_NAME" dist/release/WitchcraftCompanion.apk --clobber
+          else
+            gh release create "$GITHUB_REF_NAME" dist/release/WitchcraftCompanion.apk --title "Version $VN" --notes-file notes.md --latest
+          fi
+          URL="https://github.com/$GITHUB_REPOSITORY/releases/download/$GITHUB_REF_NAME/WitchcraftCompanion.apk"
+          for i in 1 2 3 4 5 6 7 8 9 10; do
+            CODE=$(curl -s -o /dev/null -w '%{http_code}' -I "$URL")
+            [ "$CODE" = "302" ] && { echo "Download answers ($CODE)"; exit 0; }
+            sleep 6
+          done
+          echo "::error::The APK download did not answer ($CODE), so the website was not updated"; exit 1
+
+      - name: Publish the website (this is what tells installed apps to update)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git checkout -f -B main origin/main
+          rm -rf docs
+          cp -r dist/WitchCompanion/docs docs
+          cp dist/WitchCompanion/README.md README.md
+          git add -A docs README.md
+          git commit -m "Publish version $VN"
+          git push origin main

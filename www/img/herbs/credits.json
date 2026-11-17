@@ -1,0 +1,926 @@
+{
+ "herb-lavender": {
+  "taxon": "Lavandula angustifolia",
+  "attribution": "(c) epicnom, some rights reserved (CC BY-NC)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/133395"
+ },
+ "herb-rosemary": {
+  "credit": "Fir0002 · CC BY-SA 3.0 · Wikimedia Commons",
+  "license": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Rosemary_white_bg.jpg"
+ },
+ "herb-common-sage": {
+  "taxon": "Salvia officinalis",
+  "attribution": "(c) dittant, some rights reserved (CC BY-NC), uploaded by dittant",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/51738"
+ },
+ "herb-white-sage": {
+  "taxon": "Salvia apiana",
+  "attribution": "(c) soggyfroggy1, some rights reserved (CC BY-NC)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/64134"
+ },
+ "herb-mugwort": {
+  "taxon": "Artemisia vulgaris",
+  "attribution": "(c) dgorrill, some rights reserved (CC BY-NC-SA), uploaded by dgorrill",
+  "license": "cc-by-nc-sa",
+  "url": "https://www.inaturalist.org/taxa/52856"
+ },
+ "herb-yarrow": {
+  "credit": "Petar Milošević · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Yarrow_(Achillea_millefolium).jpg"
+ },
+ "herb-chamomile": {
+  "taxon": "Matricaria chamomilla",
+  "attribution": "(c) anaxvp, some rights reserved (CC BY-NC), uploaded by anaxvp",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/77965"
+ },
+ "herb-peppermint": {
+  "taxon": "Mentha × piperita",
+  "attribution": "(c) rhillahorse, some rights reserved (CC BY-NC)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/181525"
+ },
+ "herb-spearmint": {
+  "taxon": "Mentha spicata",
+  "attribution": "(c) Jon Sullivan, some rights reserved (CC BY)",
+  "license": "cc-by",
+  "url": "https://www.inaturalist.org/taxa/62652"
+ },
+ "herb-basil": {
+  "taxon": "Ocimum basilicum",
+  "attribution": "(c) Sune Holt, some rights reserved (CC BY-NC), uploaded by Sune Holt",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/61398"
+ },
+ "herb-thyme": {
+  "credit": "Richard North · CC BY 2.0 · Wikimedia Commons",
+  "license": "CC BY 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Bunch_of_thyme.jpg"
+ },
+ "herb-bay-laurel": {
+  "taxon": "Laurus nobilis",
+  "attribution": "(c) Sarah Gregg, bazı hakları saklıdır (CC BY-NC-SA)",
+  "license": "cc-by-nc-sa",
+  "url": "https://www.inaturalist.org/taxa/54759"
+ },
+ "herb-cinnamon": {
+  "taxon": "Cinnamomum verum",
+  "attribution": "Wikimedia Commons, no known copyright restrictions (public domain)",
+  "license": "pd",
+  "url": "https://www.inaturalist.org/taxa/122777"
+ },
+ "herb-clove": {
+  "taxon": "Syzygium aromaticum",
+  "attribution": "(c) Frédéric LEVIEZ, some rights reserved (CC BY-NC), uploaded by Frédéric LEVIEZ",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/122770"
+ },
+ "herb-nutmeg": {
+  "taxon": "Myristica fragrans",
+  "attribution": "(c) Jim, some rights reserved (CC BY-NC-ND)",
+  "license": "cc-by-nc-nd",
+  "url": "https://www.inaturalist.org/taxa/122768"
+ },
+ "herb-star-anise": {
+  "taxon": "Illicium verum",
+  "attribution": "(c) Te Chang, some rights reserved (CC BY-NC), uploaded by Te Chang",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/122996"
+ },
+ "herb-ginger": {
+  "credit": "Rubel Das · CC0 · Wikimedia Commons",
+  "license": "CC0",
+  "url": "https://commons.wikimedia.org/wiki/File:Ginger_Root_(Zingiber_officinale).jpg"
+ },
+ "herb-garlic": {
+  "credit": "Donovan Govan · CC BY-SA 3.0 · Wikimedia Commons",
+  "license": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Garlic.jpg"
+ },
+ "herb-rose": {
+  "taxon": "Rosa gallica",
+  "attribution": "(c) Roberto Sindaco, some rights reserved (CC BY-NC-SA), uploaded by Roberto Sindaco",
+  "license": "cc-by-nc-sa",
+  "url": "https://www.inaturalist.org/taxa/167982"
+ },
+ "herb-jasmine": {
+  "taxon": "Jasminum officinale",
+  "attribution": "(c) trala, some rights reserved (CC BY-NC)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/164233"
+ },
+ "herb-calendula": {
+  "taxon": "Calendula officinalis",
+  "attribution": "(c) Brittany Jackson, some rights reserved (CC BY-NC), uploaded by Brittany Jackson",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/75931"
+ },
+ "herb-st-johns-wort": {
+  "taxon": "Hypericum perforatum",
+  "attribution": "(c) akolter, some rights reserved (CC BY-NC)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/56077"
+ },
+ "herb-vervain": {
+  "taxon": "Verbena officinalis",
+  "attribution": "(c) 小铖/Smalltown, some rights reserved (CC BY-NC), uploaded by 小铖/Smalltown",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/56163"
+ },
+ "herb-wormwood": {
+  "taxon": "Artemisia absinthium",
+  "attribution": "(c) Flora_DUMO, some rights reserved (CC BY), uploaded by Flora_DUMO",
+  "license": "cc-by",
+  "url": "https://www.inaturalist.org/taxa/60350"
+ },
+ "herb-rue": {
+  "taxon": "Ruta graveolens",
+  "attribution": "(c) owenmoorhead, some rights reserved (CC BY-NC), uploaded by owenmoorhead",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/147294"
+ },
+ "herb-valerian": {
+  "taxon": "Valeriana officinalis",
+  "attribution": "(c) dziugasindr, some rights reserved (CC BY-NC)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/1105640"
+ },
+ "herb-lemon-balm": {
+  "taxon": "Melissa officinalis",
+  "attribution": "Cbaile19, no known copyright restrictions (public domain)",
+  "license": "pd",
+  "url": "https://www.inaturalist.org/taxa/59901"
+ },
+ "herb-hyssop": {
+  "taxon": "Hyssopus officinalis",
+  "attribution": "(c) Jordi Bassols Garcia, bazı hakları saklıdır (CC BY-NC), yükleyen: Jordi Bassols Garcia",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/164026"
+ },
+ "herb-patchouli": {
+  "credit": "Krzysztof Ziarnek, Kenraiz · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Pogostemon_cablin_kz01.jpg"
+ },
+ "herb-sandalwood": {
+  "taxon": "Santalum album",
+  "attribution": "no rights reserved, uploaded by 葉子",
+  "license": "cc0",
+  "url": "https://www.inaturalist.org/taxa/68656"
+ },
+ "herb-frankincense": {
+  "taxon": "Boswellia sacra",
+  "attribution": "(c) scott.zona, certains droits réservés (CC BY)",
+  "license": "cc-by",
+  "url": "https://www.inaturalist.org/taxa/189867"
+ },
+ "herb-myrrh": {
+  "taxon": "Commiphora myrrha",
+  "attribution": "\nBrandt, Wilhelm; Gürke, M.; Köhler, F. E.; Pabst, G.; Schellenberg, G.; Vogtherr, Max., aucune restriction de droit connue (domaine public)",
+  "license": "pd",
+  "url": "https://www.inaturalist.org/taxa/789240"
+ },
+ "herb-dragons-blood": {
+  "taxon": "Dracaena cinnabari",
+  "attribution": "(c) julianjvr, some rights reserved (CC BY-NC)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/124825"
+ },
+ "herb-copal": {
+  "taxon": "Bursera",
+  "attribution": "(c) Dan Nydick, some rights reserved (CC BY-NC), uploaded by Dan Nydick",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/62961"
+ },
+ "herb-benzoin": {
+  "taxon": "Styrax benzoin",
+  "attribution": "(c) James Gaither, some rights reserved (CC BY-NC-ND)",
+  "license": "cc-by-nc-nd",
+  "url": "https://www.inaturalist.org/taxa/347834"
+ },
+ "herb-cedar": {
+  "credit": "Milada Vigerova · CC0 · Wikimedia Commons",
+  "license": "CC0",
+  "url": "https://commons.wikimedia.org/wiki/File:Cedar_pollen_cones,_Bratislava_(Unsplash).jpg"
+ },
+ "herb-juniper": {
+  "taxon": "Juniperus communis",
+  "attribution": "(c) FreckLes, some rights reserved (CC BY-NC), uploaded by FreckLes",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/58725"
+ },
+ "herb-pine": {
+  "credit": "Derek Ramsey (Ram-Man) · CC BY-SA 2.5 · Wikimedia Commons",
+  "license": "CC BY-SA 2.5",
+  "url": "https://commons.wikimedia.org/wiki/File:Pinus_virginiana_Scrub_Pine_Branch_3200px.jpg"
+ },
+ "herb-eucalyptus": {
+  "credit": "Thouny · CC BY 3.0 · Wikimedia Commons",
+  "license": "CC BY 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Eucalyptus_gundal_leaves_juvenile.jpg"
+ },
+ "herb-elder": {
+  "taxon": "Sambucus nigra",
+  "attribution": "(c) Rison Thumboor, some rights reserved (CC BY-SA)",
+  "license": "cc-by-sa",
+  "url": "https://www.inaturalist.org/taxa/1665961"
+ },
+ "herb-hawthorn": {
+  "credit": "Ввласенко · CC BY-SA 3.0 · Wikimedia Commons",
+  "license": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Blooming_hawthorn_(Crataegus_monogyna).jpg"
+ },
+ "herb-rowan": {
+  "taxon": "Sorbus aucuparia",
+  "attribution": "(c) Hans Kylberg, some rights reserved (CC BY)",
+  "license": "cc-by",
+  "url": "https://www.inaturalist.org/taxa/56063"
+ },
+ "herb-oak": {
+  "taxon": "Quercus robur",
+  "attribution": "(c) Karen Andrea Boehme, some rights reserved (CC BY-NC), uploaded by Karen Andrea Boehme",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/1520309"
+ },
+ "herb-willow": {
+  "taxon": "Salix alba",
+  "attribution": "(c) saartje281, some rights reserved (CC BY-NC)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/54841"
+ },
+ "herb-birch": {
+  "taxon": "Betula pendula",
+  "attribution": "(c) Полина Яковлевна Нехаева (Лихачева), some rights reserved (CC BY-NC), uploaded by Полина Яковлевна Нехаева (Лихачева)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/83992"
+ },
+ "herb-mistletoe": {
+  "taxon": "Viscum album",
+  "attribution": "(c) Aleksandr_Levon, bazı hakları saklıdır (CC BY-NC), yükleyen: Aleksandr_Levon",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/57512"
+ },
+ "herb-holly": {
+  "taxon": "Ilex aquifolium",
+  "attribution": "(c) Joan Septembre, some rights reserved (CC BY-NC), uploaded by Joan Septembre",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/53856"
+ },
+ "herb-ivy": {
+  "taxon": "Hedera helix",
+  "attribution": "(c) Marianna Boi, some rights reserved (CC BY), uploaded by Marianna Boi",
+  "license": "cc-by",
+  "url": "https://www.inaturalist.org/taxa/55882"
+ },
+ "herb-dandelion": {
+  "taxon": "Taraxacum officinale",
+  "attribution": "(c) Paul Reeves, some rights reserved (CC BY-NC-SA), uploaded by Paul Reeves",
+  "license": "cc-by-nc-sa",
+  "url": "https://www.inaturalist.org/taxa/47602"
+ },
+ "herb-nettle": {
+  "taxon": "Urtica dioica",
+  "attribution": "(c) V.S. Volkotrub, some rights reserved (CC BY-NC), uploaded by V.S. Volkotrub",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/1631210"
+ },
+ "herb-plantain": {
+  "taxon": "Plantago major",
+  "attribution": "(c) Reiner Richter, some rights reserved (CC BY-NC-SA), uploaded by Reiner Richter",
+  "license": "cc-by-nc-sa",
+  "url": "https://www.inaturalist.org/taxa/58961"
+ },
+ "herb-burdock": {
+  "taxon": "Arctium lappa",
+  "attribution": "(c) Norbert Sauberer, some rights reserved (CC BY-NC), uploaded by Norbert Sauberer",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/75501"
+ },
+ "herb-comfrey": {
+  "taxon": "Symphytum officinale",
+  "attribution": "(c) Matthieu Gauvain, some rights reserved (CC BY-NC), uploaded by Matthieu Gauvain",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/1247945"
+ },
+ "herb-mullein": {
+  "credit": "Fischer.H · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:K%C3%B6nigskerze_P1250816.jpg"
+ },
+ "herb-red-clover": {
+  "taxon": "Trifolium pratense",
+  "attribution": "(c) Hornbeam Arts, some rights reserved (CC BY-NC)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/51875"
+ },
+ "herb-echinacea": {
+  "taxon": "Echinacea purpurea",
+  "attribution": "(c) Virginia (Ginny) Sanderson, some rights reserved (CC BY-NC-ND)",
+  "license": "cc-by-nc-nd",
+  "url": "https://www.inaturalist.org/taxa/48627"
+ },
+ "herb-elecampane": {
+  "taxon": "Inula helenium",
+  "attribution": "(c) lauridsen81, some rights reserved (CC BY-NC)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/133951"
+ },
+ "herb-angelica": {
+  "credit": "Agnieszka Kwiecień, Nova · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Angelica_archangelica_subsp._archangelica_Dzi%C4%99giel_litwor_2019-06-07_03.jpg"
+ },
+ "herb-lovage": {
+  "taxon": "Levisticum officinale",
+  "attribution": "(c) kingamatanina, some rights reserved (CC BY-NC)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/59432"
+ },
+ "herb-fennel": {
+  "credit": "Tiia Monto · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Fennel_bulb.jpg"
+ },
+ "herb-dill": {
+  "taxon": "Anethum graveolens",
+  "attribution": "(c) Олександр Гриб, some rights reserved (CC BY-NC), uploaded by Олександр Гриб",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/75445"
+ },
+ "herb-caraway": {
+  "taxon": "Carum carvi",
+  "attribution": "(c) Регина, some rights reserved (CC BY-NC), uploaded by Регина",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/160162"
+ },
+ "herb-coriander": {
+  "taxon": "Coriandrum sativum",
+  "attribution": "no rights reserved, uploaded by 葉子",
+  "license": "cc0",
+  "url": "https://www.inaturalist.org/taxa/67759"
+ },
+ "herb-cumin": {
+  "taxon": "Cuminum cyminum",
+  "attribution": "\nFranz Eugen Köhler, Köhler's Medizinal-Pflanzen, no known copyright restrictions (public domain)",
+  "license": "pd",
+  "url": "https://www.inaturalist.org/taxa/161251"
+ },
+ "herb-black-pepper": {
+  "credit": "Raimiga · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Black_peppers.jpg"
+ },
+ "herb-cayenne": {
+  "taxon": "Capsicum annuum",
+  "attribution": "(c) bigdannyb, some rights reserved (CC BY-NC), uploaded by bigdannyb",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/48514"
+ },
+ "herb-mustard-seed": {
+  "taxon": "Hirschfeldia incana",
+  "attribution": "(c) Shaun Swanepoel, some rights reserved (CC BY), uploaded by Shaun Swanepoel",
+  "license": "cc-by",
+  "url": "https://www.inaturalist.org/taxa/53097"
+ },
+ "herb-bayberry": {
+  "taxon": "Morella cerifera",
+  "attribution": "(c) Homer Edward Price, some rights reserved (CC BY)",
+  "license": "cc-by",
+  "url": "https://www.inaturalist.org/taxa/119956"
+ },
+ "herb-allspice": {
+  "taxon": "Pimenta dioica",
+  "attribution": "(c) Pedro, certains droits réservés (CC BY-NC), publiées par Pedro",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/122811"
+ },
+ "herb-cardamom": {
+  "taxon": "Elettaria cardamomum",
+  "attribution": "(c) permaculturacaimito, some rights reserved (CC BY-NC), uploaded by permaculturacaimito",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/119387"
+ },
+ "herb-vanilla": {
+  "taxon": "Vanilla planifolia",
+  "attribution": "(c) Sébastien SANT, some rights reserved (CC BY-NC), uploaded by Sébastien SANT",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/1617486"
+ },
+ "herb-orange-peel": {
+  "taxon": "Citrus × aurantium",
+  "attribution": "(c) Roberto R. Calderón, some rights reserved (CC BY-NC), uploaded by Roberto R. Calderón",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/331122"
+ },
+ "herb-lemon": {
+  "credit": "Kuldeepburjbhalaike · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Five_Lemons_on_lemon_tree,_Burj_Bhalaike.jpg"
+ },
+ "herb-apple": {
+  "taxon": "Malus domestica",
+  "attribution": "(c) Vilma Bharatan, some rights reserved (CC BY-NC-ND)",
+  "license": "cc-by-nc-nd",
+  "url": "https://www.inaturalist.org/taxa/469472"
+ },
+ "herb-pomegranate": {
+  "taxon": "Punica granatum",
+  "attribution": "(c) H. Zell, some rights reserved (CC BY-SA)",
+  "license": "cc-by-sa",
+  "url": "https://www.inaturalist.org/taxa/58300"
+ },
+ "herb-raspberry-leaf": {
+  "taxon": "Rubus idaeus",
+  "attribution": "(c) Ole Husby, some rights reserved (CC BY-SA)",
+  "license": "cc-by-sa",
+  "url": "https://www.inaturalist.org/taxa/54436"
+ },
+ "herb-blackberry": {
+  "taxon": "Rubus fruticosus",
+  "attribution": "(c) abourne, some rights reserved (CC BY-NC)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/1090496"
+ },
+ "herb-strawberry": {
+  "taxon": "Fragaria vesca",
+  "attribution": "(c) Алексей Афонин, some rights reserved (CC BY-NC), uploaded by Алексей Афонин",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/50298"
+ },
+ "herb-catnip": {
+  "taxon": "Nepeta cataria",
+  "attribution": "(c) Mark Kluge, some rights reserved (CC BY-NC), uploaded by Mark Kluge",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/48622"
+ },
+ "herb-damiana": {
+  "credit": "Katherine Wagner-Reiss · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Turnera_diffusa_(aphrodisiaca).jpg"
+ },
+ "herb-passionflower": {
+  "taxon": "Passiflora incarnata",
+  "attribution": "(c) Alex Abair, some rights reserved (CC BY), uploaded by Alex Abair",
+  "license": "cc-by",
+  "url": "https://www.inaturalist.org/taxa/51453"
+ },
+ "herb-skullcap": {
+  "taxon": "Scutellaria lateriflora",
+  "attribution": "(c) Joe Bartok, some rights reserved (CC BY-NC), uploaded by Joe Bartok",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/79017"
+ },
+ "herb-hops": {
+  "taxon": "Humulus lupulus",
+  "attribution": "(c) spygliukuburys, some rights reserved (CC BY-NC), uploaded by spygliukuburys",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/1603987"
+ },
+ "herb-blue-lotus": {
+  "taxon": "Nymphaea nouchali caerulea",
+  "attribution": "(c) Jenny, some rights reserved (CC BY-NC), uploaded by Jenny",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/321502"
+ },
+ "herb-violet": {
+  "taxon": "Viola odorata",
+  "attribution": "(c) EmaL, some rights reserved (CC BY-NC), uploaded by EmaL",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/55845"
+ },
+ "herb-marjoram": {
+  "taxon": "Origanum majorana",
+  "attribution": "(c) Christoph Zurnieden, some rights reserved (CC BY)",
+  "license": "cc-by",
+  "url": "https://www.inaturalist.org/taxa/165925"
+ },
+ "herb-oregano": {
+  "taxon": "Origanum vulgare",
+  "attribution": "(c) Παναγιώτης Ραφαηλίδης, some rights reserved (CC BY-NC), uploaded by Παναγιώτης Ραφαηλίδης",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/61396"
+ },
+ "herb-parsley": {
+  "taxon": "Petroselinum crispum",
+  "attribution": "(c) Юрий, some rights reserved (CC BY-NC), uploaded by Юрий",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/78465"
+ },
+ "herb-tansy": {
+  "taxon": "Tanacetum vulgare",
+  "attribution": "(c) Robert D Stevenson, some rights reserved (CC BY-NC), uploaded by Robert D Stevenson",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/55971"
+ },
+ "herb-feverfew": {
+  "taxon": "Tanacetum parthenium",
+  "attribution": "(c) Denise Wawman, some rights reserved (CC BY-NC), uploaded by Denise Wawman",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/54520"
+ },
+ "herb-horehound": {
+  "taxon": "Marrubium vulgare",
+  "attribution": "(c) gail, some rights reserved (CC BY-NC), uploaded by gail",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/54605"
+ },
+ "herb-licorice-root": {
+  "taxon": "Glycyrrhiza glabra",
+  "attribution": "(c) J. IGNASI, bazı hakları saklıdır (CC BY-NC), yükleyen: J. IGNASI",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/77295"
+ },
+ "herb-marshmallow-root": {
+  "taxon": "Althaea officinalis",
+  "attribution": "(c) Maxim Sharapov, some rights reserved (CC BY-NC), uploaded by Maxim Sharapov",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/52565"
+ },
+ "herb-slippery-elm": {
+  "taxon": "Ulmus rubra",
+  "attribution": "(c) Zihao Wang, some rights reserved (CC BY), uploaded by Zihao Wang",
+  "license": "cc-by",
+  "url": "https://www.inaturalist.org/taxa/54860"
+ },
+ "herb-black-cohosh": {
+  "taxon": "Actaea racemosa",
+  "attribution": "(c) dogtooth77, some rights reserved (CC BY-NC-SA)",
+  "license": "cc-by-nc-sa",
+  "url": "https://www.inaturalist.org/taxa/119813"
+ },
+ "herb-goldenseal": {
+  "taxon": "Hydrastis canadensis",
+  "attribution": "(c) Matt Tomlinson, some rights reserved (CC BY-NC), uploaded by Matt Tomlinson",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/118768"
+ },
+ "herb-ginseng": {
+  "taxon": "Panax ginseng",
+  "attribution": "(c) onidiras-iNaturalist, some rights reserved (CC BY-NC), uploaded by onidiras-iNaturalist",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/366498"
+ },
+ "herb-high-john-the-conqueror": {
+  "taxon": "Ipomoea purga",
+  "attribution": "(c) Pete Siminski, some rights reserved (CC BY-NC), uploaded by Pete Siminski",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/277789"
+ },
+ "herb-cinquefoil": {
+  "taxon": "Potentilla reptans",
+  "attribution": "(c) anezkab, some rights reserved (CC BY-NC)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/167373"
+ },
+ "herb-devils-shoestring": {
+  "taxon": "Viburnum lantanoides",
+  "attribution": "(c) emilycgriff86, some rights reserved (CC BY-NC)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/63166"
+ },
+ "herb-solomons-seal": {
+  "taxon": "Polygonatum multiflorum",
+  "attribution": "(c) Rolf Theodor Borlinghaus, some rights reserved (CC BY-NC), uploaded by Rolf Theodor Borlinghaus",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/57418"
+ },
+ "herb-agrimony": {
+  "taxon": "Agrimonia eupatoria",
+  "attribution": "(c) Mikko Lehikoinen, some rights reserved (CC BY-NC), uploaded by Mikko Lehikoinen",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/55893"
+ },
+ "herb-wood-betony": {
+  "taxon": "Betonica officinalis",
+  "attribution": "(c) Les, some rights reserved (CC BY-NC-ND)",
+  "license": "cc-by-nc-nd",
+  "url": "https://www.inaturalist.org/taxa/906118"
+ },
+ "herb-meadowsweet": {
+  "taxon": "Filipendula ulmaria",
+  "attribution": "(c) Liisa-Maija Harju, some rights reserved (CC BY-NC-ND)",
+  "license": "cc-by-nc-nd",
+  "url": "https://www.inaturalist.org/taxa/63134"
+ },
+ "herb-vetiver": {
+  "taxon": "Chrysopogon zizanioides",
+  "attribution": "(c) feno, some rights reserved (CC BY-NC), uploaded by feno",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/142763"
+ },
+ "herb-lemongrass": {
+  "taxon": "Cymbopogon citratus",
+  "attribution": "(c) Yantza Farm, Zamora-Chinchipe, Ecuador, some rights reserved (CC BY-NC), uploaded by Yantza Farm, Zamora-Chinchipe, Ecuador",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/123728"
+ },
+ "herb-mandrake": {
+  "taxon": "Mandragora officinarum",
+  "attribution": "(c) Steve Daniels, bazı hakları saklıdır (CC BY-NC), yükleyen: Steve Daniels",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/357389"
+ },
+ "herb-belladonna": {
+  "taxon": "Atropa bella-donna",
+  "attribution": "(c) AnneTanne, some rights reserved (CC BY-NC-SA)",
+  "license": "cc-by-nc-sa",
+  "url": "https://www.inaturalist.org/taxa/159098"
+ },
+ "herb-foxglove": {
+  "taxon": "Digitalis purpurea",
+  "attribution": "(c) z7nikon, some rights reserved (CC BY-NC), uploaded by z7nikon",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/53983"
+ },
+ "herb-datura": {
+  "credit": "The NYSIPM Image Gallery · CC BY 2.0 · Openverse/Flickr",
+  "license": "CC BY 2.0",
+  "url": "https://www.flickr.com/photos/99758165@N06/18219521653"
+ },
+ "herb-henbane": {
+  "taxon": "Hyoscyamus niger",
+  "attribution": "(c) Antoine Guilbaud, some rights reserved (CC BY-NC), uploaded by Antoine Guilbaud",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/163951"
+ },
+ "herb-wolfsbane": {
+  "taxon": "Aconitum napellus",
+  "attribution": "(c) alpintist, some rights reserved (CC BY-NC)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/131201"
+ },
+ "herb-pennyroyal": {
+  "taxon": "Mentha pulegium",
+  "attribution": "(c) starbuckskate, some rights reserved (CC BY-NC)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/57116"
+ },
+ "herb-ladys-mantle": {
+  "taxon": "Alchemilla vulgaris",
+  "attribution": "(c) AnneTanne, some rights reserved (CC BY-NC)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/56054"
+ },
+ "herb-motherwort": {
+  "taxon": "Leonurus cardiaca",
+  "attribution": "(c) AnneTanne, some rights reserved (CC BY-NC)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/56171"
+ },
+ "herb-sweetgrass": {
+  "taxon": "Anthoxanthum nitens",
+  "attribution": "(c) Соколков Юрий Павлович, some rights reserved (CC BY-NC), uploaded by Соколков Юрий Павлович",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/75473"
+ },
+ "herb-hibiscus": {
+  "taxon": "Sabdariffa gossypiifolia",
+  "attribution": "no rights reserved, uploaded by 葉子",
+  "license": "cc0",
+  "url": "https://www.inaturalist.org/taxa/1687652"
+ },
+ "herb-saffron": {
+  "taxon": "Crocus sativus",
+  "attribution": "(c) Юрий Данилевский (Yuriy Danilevsky), some rights reserved (CC BY), uploaded by Юрий Данилевский (Yuriy Danilevsky)",
+  "license": "cc-by",
+  "url": "https://www.inaturalist.org/taxa/118933"
+ },
+ "herb-lemon-verbena": {
+  "taxon": "Aloysia citrodora",
+  "attribution": "(c) M a n u e l, some rights reserved (CC BY-SA)",
+  "license": "cc-by-sa",
+  "url": "https://www.inaturalist.org/taxa/332455"
+ },
+ "herb-borage": {
+  "taxon": "Borago officinalis",
+  "attribution": "(c) Paul Werner Süss, some rights reserved (CC BY-NC), uploaded by Paul Werner Süss",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/52287"
+ },
+ "herb-anise": {
+  "taxon": "Pimpinella anisum",
+  "attribution": "(c) Oscar Efren Torres Gutierrez, some rights reserved (CC BY-NC), uploaded by Oscar Efren Torres Gutierrez",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/166878"
+ },
+ "herb-ashwagandha": {
+  "taxon": "Withania somnifera",
+  "attribution": "(c) Yael Orgad, some rights reserved (CC BY-NC), uploaded by Yael Orgad",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/182191"
+ },
+ "herb-bee-balm": {
+  "credit": "Susanne Nilsson · CC BY-SA 2.0 · Wikimedia Commons",
+  "license": "CC BY-SA 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Monarda_didyma_flower.jpg"
+ },
+ "herb-blessed-thistle": {
+  "credit": "Didier Descouens · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:(MHNT)_Centaurea_Benedicta_-_Jardin_Botanique_Henri_GAUSSEN.jpg"
+ },
+ "herb-boneset": {
+  "taxon": "Eupatorium perfoliatum",
+  "attribution": "(c) Stacey Patrick, some rights reserved (CC BY-NC), uploaded by Stacey Patrick",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/119045"
+ },
+ "herb-chickweed": {
+  "taxon": "Stellaria media",
+  "attribution": "(c) Felix Riegel, some rights reserved (CC BY-NC), uploaded by Felix Riegel",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/1087592"
+ },
+ "herb-cleavers": {
+  "taxon": "Galium aparine",
+  "attribution": "(c) pedrosanz-anapri, some rights reserved (CC BY-NC), uploaded by pedrosanz-anapri",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/1403902"
+ },
+ "herb-galangal": {
+  "taxon": "Alpinia galanga",
+  "attribution": "(c) Jacy Chen, some rights reserved (CC BY), uploaded by Jacy Chen",
+  "license": "cc-by",
+  "url": "https://www.inaturalist.org/taxa/123732"
+ },
+ "herb-holy-basil": {
+  "taxon": "Ocimum tenuiflorum",
+  "attribution": "(c) 小铖/Smalltown, some rights reserved (CC BY-NC), uploaded by 小铖/Smalltown",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/181060"
+ },
+ "herb-honeysuckle": {
+  "credit": "rainerburkard · CC BY 4.0 · Wikimedia Commons",
+  "license": "CC BY 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Lonicera_periclymenum_164444301.jpg"
+ },
+ "herb-horsetail": {
+  "taxon": "Equisetum arvense",
+  "attribution": "(c) gwenbezodis, some rights reserved (CC BY-NC)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/52724"
+ },
+ "herb-lilac": {
+  "taxon": "Syringa vulgaris",
+  "attribution": "(c) Игорь Поспелов, some rights reserved (CC BY-NC), uploaded by Игорь Поспелов",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/83072"
+ },
+ "herb-linden": {
+  "taxon": "Tilia cordata",
+  "attribution": "AnRo0002, no known copyright restrictions (public domain)",
+  "license": "pd",
+  "url": "https://www.inaturalist.org/taxa/132600"
+ },
+ "herb-magnolia": {
+  "taxon": "Magnolia grandiflora",
+  "attribution": "(c) 潘立傑 LiChieh Pan, some rights reserved (CC BY-NC-SA)",
+  "license": "cc-by-nc-sa",
+  "url": "https://www.inaturalist.org/taxa/83074"
+ },
+ "herb-mexican-marigold": {
+  "taxon": "Tagetes erecta",
+  "attribution": "(c) sofiadanielaperezsan01, some rights reserved (CC BY-NC)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/79312"
+ },
+ "herb-milk-thistle": {
+  "credit": "Frank Schulenburg · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Silybum_marianum_at_Mount_Burdell_Open_Space_Preserve.jpg"
+ },
+ "herb-orris-root": {
+  "taxon": "Iris × germanica",
+  "attribution": "(c) Ana, some rights reserved (CC BY-NC-ND)",
+  "license": "cc-by-nc-nd",
+  "url": "https://www.inaturalist.org/taxa/709635"
+ },
+ "herb-poppy": {
+  "taxon": "Papaver somniferum",
+  "attribution": "(c) David Perez, some rights reserved (CC BY)",
+  "license": "cc-by",
+  "url": "https://www.inaturalist.org/taxa/78346"
+ },
+ "herb-self-heal": {
+  "taxon": "Prunella vulgaris",
+  "attribution": "(c) kenbuchholz, some rights reserved (CC BY-NC)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/52764"
+ },
+ "herb-sunflower": {
+  "taxon": "Helianthus annuus",
+  "attribution": "(c) Emily Scherer, some rights reserved (CC BY-NC), uploaded by Emily Scherer",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/57983"
+ },
+ "herb-tobacco": {
+  "taxon": "Nicotiana tabacum",
+  "attribution": "no rights reserved, uploaded by 葉子",
+  "license": "cc0",
+  "url": "https://www.inaturalist.org/taxa/873768"
+ },
+ "herb-turmeric": {
+  "credit": "Lavinia Engelbrecht · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Turmeric_rhizomes.jpg"
+ },
+ "herb-witch-hazel": {
+  "taxon": "Hamamelis virginiana",
+  "attribution": "(c) Loïc Mathieu, some rights reserved (CC BY), uploaded by Loïc Mathieu",
+  "license": "cc-by",
+  "url": "https://www.inaturalist.org/taxa/51970"
+ },
+ "herb-yew": {
+  "taxon": "Taxus baccata",
+  "attribution": "(c) Jonathan Tyler, some rights reserved (CC BY-NC-SA)",
+  "license": "cc-by-nc-sa",
+  "url": "https://www.inaturalist.org/taxa/47553"
+ },
+ "herb-yerba-santa": {
+  "taxon": "Eriodictyon californicum",
+  "attribution": "(c) Eric Koberle, some rights reserved (CC BY-NC), uploaded by Eric Koberle",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/57095"
+ },
+ "herb-cacao": {
+  "taxon": "Theobroma cacao",
+  "attribution": "(c) Mikaeel, some rights reserved (CC BY-NC), uploaded by Mikaeel",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/64340"
+ },
+ "herb-coffee": {
+  "taxon": "Coffea arabica",
+  "attribution": "(c) Andrea Talone Rìo, some rights reserved (CC BY-NC), uploaded by Andrea Talone Rìo",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/64342"
+ },
+ "herb-hazel": {
+  "taxon": "Corylus avellana",
+  "attribution": "(c) David Ballesteros, some rights reserved (CC BY-NC), uploaded by David Ballesteros",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/54491"
+ },
+ "herb-heather": {
+  "taxon": "Calluna vulgaris",
+  "attribution": "(c) Sean Womack, some rights reserved (CC BY-NC), uploaded by Sean Womack",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/119450"
+ },
+ "herb-oat": {
+  "taxon": "Avena sativa",
+  "attribution": "(c) Tony Ernst, some rights reserved (CC BY-NC), uploaded by Tony Ernst",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/57156"
+ },
+ "herb-onion": {
+  "taxon": "Allium cepa",
+  "attribution": "(c) Monteregina (Nicole), some rights reserved (CC BY-NC-SA)",
+  "license": "cc-by-nc-sa",
+  "url": "https://www.inaturalist.org/taxa/48592"
+ },
+ "herb-pansy": {
+  "taxon": "Viola tricolor",
+  "attribution": "(c) AnneTanne, some rights reserved (CC BY-NC)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/55739"
+ },
+ "herb-rush": {
+  "taxon": "Juncus effusus",
+  "attribution": "(c) Markus Ackermann, some rights reserved (CC BY-NC), uploaded by Markus Ackermann",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/1536756"
+ },
+ "herb-shiitake-mushroom": {
+  "taxon": "Lentinula edodes",
+  "attribution": "(c) Masaki Hamaguchi, some rights reserved (CC BY-NC), uploaded by Masaki Hamaguchi",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/123351"
+ },
+ "herb-wheat": {
+  "taxon": "Triticum aestivum",
+  "attribution": "(c) jackheijnemans, some rights reserved (CC BY-NC)",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/64161"
+ },
+ "herb-beet": {
+  "credit": "Zenon Sych · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Beta_vulgaris_var_conditiva_%D0%91%D1%83%D1%80%D1%8F%D0%BA_%D1%81%D1%82%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%B9_%D1%83_%D0%BF%D1%83%D1%87%D0%BA%D0%BE%D0%B2%D1%96%D0%B9_%D1%81%D1%82%D0%B8%D0%B3%D0%BB%D0%BE%D1%81%D1%82%D1%96.jpg"
+ },
+ "herb-horseradish": {
+  "credit": "Amanda Slater from Coventry, West Midlands, UK · CC BY-SA 2.0 · Wikimedia Commons",
+  "license": "CC BY-SA 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Hren_(Horseradish)_(25955939202).jpg"
+ },
+ "herb-fern": {
+  "taxon": "Dryopteris filix-mas",
+  "attribution": "(c) Valentin Hamon, some rights reserved (CC BY-NC), uploaded by Valentin Hamon",
+  "license": "cc-by-nc",
+  "url": "https://www.inaturalist.org/taxa/76721"
+ }
+}

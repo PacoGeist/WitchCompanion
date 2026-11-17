@@ -1,0 +1,76 @@
+[
+ {
+  "id": "crystal-river-stone",
+  "name": "River Stone",
+  "folkNames": [
+   "Brook Stone",
+   "Water-Worn Stone",
+   "Hag Stone (when holed)",
+   "Holey Stone",
+   "Witch Stone",
+   "Adder Stone",
+   "Odin Stone"
+  ],
+  "mineral": "varies (often quartz, basalt, granite or sandstone)",
+  "hardness": "varies (about 5-7)",
+  "color": "#8a8a84",
+  "colors": "soft grays, browns, black, white and banded or speckled tones, darker and glossy when wet",
+  "chakra": "Root",
+  "element": "Water, Earth",
+  "planet": "Moon",
+  "zodiac": [
+   "Cancer",
+   "Pisces",
+   "Taurus"
+  ],
+  "description": "A smooth stone gathered from a stream bed, rounded over countless years by moving water. River stones are among the oldest and humblest tools of folk magic, free for the finding and carrying the spirit of the place they come from. When the water wears a natural hole straight through one, it becomes a hag stone, long treasured in British and European folklore as a charm against witches, nightmares and the fairy folk.",
+  "metaphysical": [
+   "grounding",
+   "protection",
+   "peace",
+   "flow",
+   "release",
+   "patience",
+   "divination",
+   "fairy sight"
+  ],
+  "metaphysicalUses": "A river stone holds the lessons of the water that shaped it: patience, persistence and the power to soften what is hard over time. Hold one to calm the mind and ground scattered energy, write a worry on one and return it to the stream to let the current carry it away, or keep a stone from a beloved place as a link to its spirit. Stones gathered in sets are used for casting lots and runes. A holed stone, the hag stone, is traditionally hung by the bed or over the door to ward off nightmares and the 'hag riding' that was blamed for sleep troubles, tied to stable keys so witches could not ride the horses at night, and worn as a protective amulet. Folklore says that looking through the hole reveals the fairy realm, hidden spirits and the truth behind glamours.",
+  "uses": [
+   "Hold a smooth river stone during meditation for calm and grounding",
+   "Write a worry on a stone with a water-safe marker and return it to the stream to release it",
+   "Gather a matched set and mark them as runes or casting stones",
+   "Hang a holed hag stone by the bed on a red thread against nightmares",
+   "Look through a hag stone at dusk to glimpse fairies or see through deception",
+   "Place a stone from a sacred river or home stream on your altar to link with that place",
+   "Use stones to mark the quarters of a circle cast outdoors"
+  ],
+  "substitutes": [
+   "Hag Stone",
+   "Ocean Jasper",
+   "Smoky Quartz",
+   "Hematite",
+   "Petrified Wood"
+  ],
+  "substituteNotes": "Hag Stone is a holed river or beach stone with its own entry; Smoky Quartz and Hematite share the river stone's grounding, while Ocean Jasper and Petrified Wood carry the patient, shaping power of water and time.",
+  "cleansing": "Completely water-safe: cleanse in running stream water, rain or moonlight, or with smoke cleansing and sound. Sun-safe. Most river stones can be returned to the water for a deep cleanse.",
+  "whereToFind": "Found in streams, rivers and creek beds worldwide, best gathered where the water is shallow and slow. Ask permission of the place and leave a small biodegradable offering or thanks. Collecting is restricted or forbidden in many parks and protected areas, so check local rules, take only a few, and avoid disturbing spawning beds and stream habitats.",
+  "caution": "Stream banks and wet rocks are slippery; watch water levels and supervise children near water. Do not collect from private, protected or sacred sites without permission, and scrub stones from polluted water before handling. Never swallow it, and do not put it directly in elixirs or drinking water; use only the indirect method (stone sealed in a separate glass container). Keep small stones away from young children, who can choke on them. Do not dry-cut, sand or grind it; stone dust harms the lungs, so use wet methods and a respirator.",
+  "bestTime": "Gather river stones in late spring and summer when the water runs low and clear, ideally at dawn or dusk, and seek hag stones around Beltane and Midsummer when the fairy veil is thin.",
+  "moonPhases": [
+   "New Moon",
+   "Full Moon",
+   "Waning Crescent"
+  ],
+  "interactions": "",
+  "pets": "Keep small stones away from pets that chew; a swallowed stone can block the intestines and may need surgery.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cpsc.gov/FAQ/Small-Parts-and-Choking-Hazard-Labeling-FAQs",
+   "https://vcahospitals.com/know-your-pet/ingestion-of-foreign-bodies-in-dogs",
+   "https://www.merckvetmanual.com/digestive-system/surgical-problems-of-the-gastrointestinal-tract-in-small-animals/gastrointestinal-obstruction-in-small-animals",
+   "https://www.cdc.gov/niosh/silica/about/index.html",
+   "https://www.rockngem.com/dangerous-dust/"
+  ]
+ }
+]

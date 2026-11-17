@@ -1,0 +1,2025 @@
+[
+ {
+  "id": "incense-planetary-mercury",
+  "type": "incense",
+  "name": "Planetary Mercury Incense",
+  "description": "A planetary blend for the swift messenger, Mercury, ruler of speech, writing, commerce, travel and the clever mind. Traditional Mercurial herbs of the old herbals — lavender, fennel, dill and mastic-like resins — are combined into a light, quick-burning, airy smoke. Burn it on Wednesdays to sharpen wit and smooth communication.",
+  "ingredients": [
+   {
+    "item": "Benzoin resin",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Sandalwood powder",
+    "amount": "1 part"
+   },
+   {
+    "item": "Lavender buds",
+    "amount": "1 part"
+   },
+   {
+    "item": "Fennel seed",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Dill seed",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Lemongrass, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Peppermint, dried",
+    "amount": "1/4 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Lightly crack the fennel and dill seeds rather than powdering them, so they release their scent slowly.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 2 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. Burn on Wednesday, ideally in the planetary hour of Mercury, before writing, studying, interviews, negotiations, or setting out on a journey. Pass letters, pens or contracts through the smoke to bless them.",
+  "chant": "Mercury, swift on silver wing, quicken the words my lips will bring; clear of mind and quick of tongue, let every message rightly run.",
+  "intention": "My mind is quick, my words are clear, and my messages arrive.",
+  "timing": "Wednesday, planetary hour of Mercury; waxing moon.",
+  "bestTime": "Any season; especially late spring and early autumn (May–June, Aug–Sept), under Gemini and Virgo",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous"
+  ],
+  "metaphysical": [
+   "communication",
+   "knowledge",
+   "clarity",
+   "travel",
+   "business",
+   "wisdom"
+  ],
+  "medical": [],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. Never add toxic plants (such as belladonna, datura, henbane, wolfsbane, foxglove, mandrake, yew or oleander) to incense, because their smoke can poison.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave. Keep the loose blend from pets, since lavender, mint and lemongrass are toxic to them if eaten.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://www.nccih.nih.gov/health/lavender",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/mint",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lemon-grass",
+   "https://www.drugs.com/npp/lemongrass.html"
+  ]
+ },
+ {
+  "id": "incense-planetary-jupiter",
+  "type": "incense",
+  "name": "Planetary Jupiter Incense",
+  "description": "Jupiter, the Greater Fortune of astrology, governs expansion, prosperity, honor, law and generosity. This rich, warm incense draws on the herbs Culpeper and Agrippa assigned to the sky-king: nutmeg, clove, anise, sage and cedar, bound with frankincense. Burn it on Thursdays to invite growth, good fortune and favor from those in authority.",
+  "ingredients": [
+   {
+    "item": "Frankincense resin",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Cedar wood shavings",
+    "amount": "1 part"
+   },
+   {
+    "item": "Nutmeg, grated",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Clove, ground",
+    "amount": "1/4 part"
+   },
+   {
+    "item": "Star Anise, ground",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Common Sage, dried",
+    "amount": "1 part"
+   },
+   {
+    "item": "Agrimony, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Orange Peel, dried",
+    "amount": "1/2 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Grate the nutmeg fresh and grind the star anise and clove together to a medium powder.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 2 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. Burn on Thursday in the hour of Jupiter for prosperity, career growth, legal matters, or before asking for promotions, loans or favors. Waft the smoke over your wallet, business papers or job application.",
+  "chant": "Jupiter, king of the open sky, let fortune grow and blessings fly; widen my path and fill my hand, let honor and plenty answer my command.",
+  "intention": "Abundance, honor and good fortune expand in my life.",
+  "timing": "Thursday, planetary hour of Jupiter; waxing to full moon.",
+  "bestTime": "Late autumn to winter (Nov–Mar), under Sagittarius and Pisces; any Thursday",
+  "moonPhases": [
+   "Waxing Gibbous",
+   "Full Moon",
+   "First Quarter"
+  ],
+  "metaphysical": [
+   "prosperity",
+   "abundance",
+   "success",
+   "legal matters",
+   "luck",
+   "power"
+  ],
+  "medical": [],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. Never add toxic plants (such as belladonna, datura, henbane, wolfsbane, foxglove, mandrake, yew or oleander) to incense, because their smoke can poison.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave. Keep the loose blend from pets, since nutmeg and citrus peel are toxic to them if eaten.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.petpoisonhelpline.com/poisons/nutmeg/",
+   "https://www.drugs.com/npp/nutmeg.html",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/orange",
+   "https://www.nccih.nih.gov/health/boswellia"
+  ]
+ },
+ {
+  "id": "incense-planetary-saturn",
+  "type": "incense",
+  "name": "Planetary Saturn Incense",
+  "description": "Saturn, the old timekeeper, rules boundaries, discipline, endings, binding, protection and the long patient work of years. Its incense is dark and earthy: myrrh, cypress-like cedar, patchouli and vetiver root. Burn it on Saturdays for banishing, setting limits, protection of the home, breaking bad habits and honoring ancestors.",
+  "ingredients": [
+   {
+    "item": "Myrrh resin",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Copal resin, black or dark",
+    "amount": "1 part"
+   },
+   {
+    "item": "Patchouli leaf, dried",
+    "amount": "1 part"
+   },
+   {
+    "item": "Vetiver root, chopped",
+    "amount": "1 part"
+   },
+   {
+    "item": "Cedar wood shavings",
+    "amount": "1 part"
+   },
+   {
+    "item": "Mullein leaf, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Solomon's Seal root, chopped",
+    "amount": "1/2 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Snip the vetiver and Solomon's Seal roots into small pieces with scissors before grinding; roots are tough and grind best when very dry.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 3 to 4 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. Burn on Saturday in the hour of Saturn for binding harmful influences, banishing, setting firm boundaries, ending habits, protection and ancestor work. Use sparingly; Saturn's smoke is heavy and best for focused workings.",
+  "chant": "Saturn, keeper of the gate, set the bound and seal the fate; what must end now fades away, what must stand is built to stay.",
+  "intention": "I set strong boundaries and release what has run its course.",
+  "timing": "Saturday, planetary hour of Saturn; waning moon.",
+  "bestTime": "Winter (Dec–Feb), under Capricorn and Aquarius; any Saturday",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent",
+   "Dark Moon"
+  ],
+  "metaphysical": [
+   "binding",
+   "banishing",
+   "protection",
+   "endings",
+   "grounding",
+   "ancestors"
+  ],
+  "medical": [],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. Never add toxic plants (such as belladonna, datura, henbane, wolfsbane, foxglove, mandrake, yew or oleander) to incense, because their smoke can poison.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.drugs.com/npp/myrrh.html"
+  ]
+ },
+ {
+  "id": "incense-dark-moon",
+  "type": "incense",
+  "name": "Dark Moon Incense",
+  "description": "The dark moon is the three nights when no moon shows, a time traditionally kept for rest, shadow work, deep divination and the hidden goddesses. This incense is smoky and introspective, blending myrrh and dark copal with mugwort and a whisper of clove. It supports reflection, release and honest meeting with the self.",
+  "ingredients": [
+   {
+    "item": "Myrrh resin",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Copal resin",
+    "amount": "1 part"
+   },
+   {
+    "item": "Mugwort, dried",
+    "amount": "1 part"
+   },
+   {
+    "item": "Patchouli leaf, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Juniper berries",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Clove, ground",
+    "amount": "1/4 part"
+   },
+   {
+    "item": "Willow bark, shredded",
+    "amount": "1/2 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Crush the juniper berries lightly with the back of a spoon so they do not roll off the charcoal.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 2 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. Burn in a darkened room by a single black or deep purple candle on the night(s) of the dark moon. Use it for shadow journaling, mirror gazing, cord-cutting, release rituals, or quiet rest and reflection.",
+  "chant": "Moon unseen and night so deep, in your silence wisdom keep; shadow shown and shadow freed, I take only what I need.",
+  "intention": "In the quiet dark I meet myself honestly and let go.",
+  "timing": "The 1-3 nights before the new crescent appears.",
+  "bestTime": "Any month; especially autumn and winter, Samhain to Yule (Oct–Dec)",
+  "moonPhases": [
+   "Dark Moon",
+   "Waning Crescent"
+  ],
+  "metaphysical": [
+   "shadow work",
+   "release",
+   "divination",
+   "moon magic",
+   "endings",
+   "meditation"
+  ],
+  "medical": [],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. Mugwort smoke is traditionally avoided in pregnancy and can bother people allergic to ragweed-family plants.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.nccih.nih.gov/health/mugwort",
+   "https://www.webmd.com/vitamins/ai/ingredientmono-123/mugwort",
+   "https://www.drugs.com/npp/myrrh.html",
+   "https://www.drugs.com/npp/juniper.html"
+  ]
+ },
+ {
+  "id": "incense-hecates-crossroads",
+  "type": "incense",
+  "name": "Hecate's Crossroads Incense",
+  "description": "Hecate, torch-bearing goddess of crossroads, keys, witches and the liminal, was honored in Greece with suppers left at three-way crossings on the dark moon. This devotional blend gathers plants long linked to her — myrrh, lavender, mugwort, cypress-like cedar and garlic skin — in a smoke for offerings, protection and guidance at life's turning points. It deliberately omits the poisonous plants of her legend.",
+  "ingredients": [
+   {
+    "item": "Myrrh resin",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Frankincense resin",
+    "amount": "1 part"
+   },
+   {
+    "item": "Lavender buds",
+    "amount": "1 part"
+   },
+   {
+    "item": "Mugwort, dried",
+    "amount": "1 part"
+   },
+   {
+    "item": "Cedar wood shavings",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Garlic, papery outer skins",
+    "amount": "1/4 part"
+   },
+   {
+    "item": "Dandelion root, dried and chopped",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Mint (Peppermint), dried",
+    "amount": "1/4 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Crumble the garlic skins finely by hand; they are traditional in Hecate's suppers and add only a faint note when burned.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 3 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. Burn on the dark moon, ideally at midnight, with a key and a candle on the altar, or at a crossroads shrine. Offer the smoke to Hecate when seeking direction at a decision point, protection on the road, or help with witchcraft. Leave the ashes at a crossroads and walk away without looking back.",
+  "chant": "Hecate of the three-fold way, torch that turns the night to day; at the crossroads where I stand, light my path and hold my hand.",
+  "intention": "Hecate, light my way at the crossroads and keep me safe.",
+  "timing": "Dark moon at midnight; 30th of each month (Hecate's Deipnon); November 16 (modern Hecate's Night).",
+  "bestTime": "Autumn and early winter, especially Samhain to late November (Oct–Nov)",
+  "moonPhases": [
+   "Dark Moon",
+   "New Moon",
+   "Waning Crescent"
+  ],
+  "metaphysical": [
+   "spirit work",
+   "protection",
+   "road opening",
+   "divination",
+   "shadow work",
+   "wisdom"
+  ],
+  "medical": [],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. Mugwort smoke is traditionally avoided in pregnancy and can bother people allergic to ragweed-family plants.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave. Keep the loose blend from pets, since garlic, lavender and mint are toxic to them if eaten.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets",
+   "https://www.nccih.nih.gov/health/garlic",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://www.nccih.nih.gov/health/lavender",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/mint",
+   "https://www.nccih.nih.gov/health/mugwort",
+   "https://www.webmd.com/vitamins/ai/ingredientmono-123/mugwort",
+   "https://www.drugs.com/npp/myrrh.html",
+   "https://www.nccih.nih.gov/health/boswellia"
+  ]
+ },
+ {
+  "id": "incense-ancestor",
+  "type": "incense",
+  "name": "Ancestor Incense",
+  "description": "Smoke has carried prayers to the beloved dead in nearly every culture, from Chinese joss to Mexican copal on Día de Muertos altars. This blend combines copal, myrrh and rosemary (\"for remembrance\") with mullein and sweet apple to create a warm, welcoming smoke for honoring those who came before. Use it at an ancestor altar, gravesite visit, or family remembrance.",
+  "ingredients": [
+   {
+    "item": "Copal resin",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Myrrh resin",
+    "amount": "1 part"
+   },
+   {
+    "item": "Rosemary, dried",
+    "amount": "1 part"
+   },
+   {
+    "item": "Mullein leaf, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Apple peel, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Mexican Marigold petals, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Cinnamon bark, ground",
+    "amount": "1/4 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Dry apple peel and marigold petals fully (a week on a screen) before adding, as any moisture causes mold in the jar.",
+   "As you mix, speak the names of your ancestors that you know, and greet those whose names are lost.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 2 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. Burn at your ancestor altar beside photos, a glass of water and a candle. Speak to your dead, share news, ask for guidance or protection, and give thanks. Especially potent on Samhain, Día de Muertos (Nov 1-2) and family anniversaries.",
+  "chant": "Blood of my blood and bone of my bone, you who walked where I walk alone; smoke of memory, rise and call, I honor you, my ancestors all.",
+  "intention": "I honor and remember those who came before me.",
+  "timing": "Samhain, Nov 1-2, death anniversaries; waning or dark moon.",
+  "bestTime": "Autumn, Mabon to Samhain and Día de Muertos (Sept–Nov)",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Waning Crescent",
+   "Dark Moon",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "ancestors",
+   "spirit work",
+   "memory",
+   "grief",
+   "blessing",
+   "protection"
+  ],
+  "medical": [],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. Never add toxic plants (such as belladonna, datura, henbane, wolfsbane, foxglove, mandrake, yew or oleander) to incense, because their smoke can poison.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.drugs.com/npp/myrrh.html",
+   "https://www.nccih.nih.gov/health/cinnamon"
+  ]
+ },
+ {
+  "id": "incense-faery",
+  "type": "incense",
+  "name": "Faery Incense",
+  "description": "A light, flowery incense to honor the fair folk and nature spirits of hedgerow and wood, drawing on plants tied to faery lore: rose, lavender, elder flower, violet and thyme (\"wild thyme\" where Titania slept). It is meant as courteous offering and invitation, not command — tradition warns to deal with the Good Neighbors politely. Burn outdoors in the garden or at the edge of a wild place.",
+  "ingredients": [
+   {
+    "item": "Benzoin resin",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Sandalwood powder",
+    "amount": "1 part"
+   },
+   {
+    "item": "Rose petals, dried",
+    "amount": "1 part"
+   },
+   {
+    "item": "Lavender buds",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Elder flowers, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Violet flowers, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Thyme, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Hawthorn blossom or leaf, dried",
+    "amount": "1/4 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Gently crumble the flowers by hand; do not powder them, as faery blends should look as pretty as they smell.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 2 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. Burn at dusk or dawn in the garden, by a hawthorn or elder, or on a nature altar, alongside an offering of milk, honey or bread. Ask only for friendship and blessing on the land; never promise what you cannot give and never take faery food in return.",
+  "chant": "Gentle folk of hill and tree, take this sweet smoke offered free; bless the garden, bless the land, in friendship only here I stand.",
+  "intention": "I offer friendship and respect to the spirits of this land.",
+  "timing": "Dawn or twilight; Beltane eve and Midsummer eve.",
+  "bestTime": "Late spring to midsummer, Beltane to Litha (May–June)",
+  "moonPhases": [
+   "Full Moon",
+   "Waxing Gibbous"
+  ],
+  "metaphysical": [
+   "faery",
+   "spirit work",
+   "blessing",
+   "happiness",
+   "love",
+   "beauty"
+  ],
+  "medical": [],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. When burning outdoors, set the censer on bare ground or stone, never on dry grass, and do not burn in wind or during fire bans.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave. Keep the loose blend from pets, since lavender is toxic to them if eaten.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://www.nccih.nih.gov/health/lavender"
+  ]
+ },
+ {
+  "id": "incense-altar-consecration",
+  "type": "incense",
+  "name": "Altar Consecration Incense",
+  "description": "Before an altar or tool is used, many traditions bless it with the four elements: salt for earth, water, flame and incense for air. This incense is the air element of that rite — a bright, clean resin blend of frankincense, copal and benzoin with a touch of rosemary and bay — composed to purify and dedicate anything to sacred use.",
+  "ingredients": [
+   {
+    "item": "Frankincense resin",
+    "amount": "3 parts"
+   },
+   {
+    "item": "Copal resin",
+    "amount": "1 part"
+   },
+   {
+    "item": "Benzoin resin",
+    "amount": "1 part"
+   },
+   {
+    "item": "Rosemary, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Bay Laurel leaves, crumbled",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Hyssop, dried",
+    "amount": "1/2 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Remove the central rib from bay leaves before crumbling; the rib burns harshly.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 2 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. When setting up a new altar or consecrating a tool (athame, wand, chalice, pentacle, tarot deck, jewelry), sprinkle with salt water, pass it through a candle flame and then hold it in this smoke while dedicating it aloud. Re-consecrate altars seasonally or after moving house.",
+  "chant": "By earth and water, fire and air, I bless and make this altar fair; to sacred work I give it now, sealed by smoke and spoken vow.",
+  "intention": "I consecrate this altar and these tools to sacred work.",
+  "timing": "Sunday or the full moon; at the start of a new practice.",
+  "bestTime": "Any time; especially Imbolc and the start of a new year of practice (Feb), or after moving",
+  "moonPhases": [
+   "Full Moon",
+   "Waxing Gibbous",
+   "New Moon"
+  ],
+  "metaphysical": [
+   "consecration",
+   "purification",
+   "blessing",
+   "spirituality",
+   "protection"
+  ],
+  "medical": [],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. Never add toxic plants (such as belladonna, datura, henbane, wolfsbane, foxglove, mandrake, yew or oleander) to incense, because their smoke can poison.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave. Keep the loose blend from pets, since bay leaf is toxic to them if eaten.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bay-laurel",
+   "https://www.nccih.nih.gov/health/boswellia"
+  ]
+ },
+ {
+  "id": "incense-meditation",
+  "type": "incense",
+  "name": "Meditation Incense",
+  "description": "A calm, grounding incense for sitting practice, inspired by the sandalwood-and-resin blends used in Buddhist and Hindu temples for centuries. Sandalwood steadies the mind, frankincense deepens the breath, and a little lavender and vetiver keep the smoke soft and centering. Burn it lightly; a meditation smoke should be a background presence, not a cloud.",
+  "ingredients": [
+   {
+    "item": "Sandalwood powder",
+    "amount": "3 parts"
+   },
+   {
+    "item": "Frankincense resin",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Benzoin resin",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Lavender buds",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Vetiver root, chopped",
+    "amount": "1/4 part"
+   },
+   {
+    "item": "Holy Basil (Tulsi), dried",
+    "amount": "1/2 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Sift the ground sandalwood so it is fine and even; this helps the blend burn gently without spitting.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 2 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. Use only a small pinch at the start of meditation, breathwork, yoga, chanting or prayer, and let it burn down without adding more. Sit an arm's length or more from the censer, in a ventilated room.",
+  "chant": "Breath goes in and breath goes out, stillness here and peace about; mind like water, clear and deep, the quiet center now I keep.",
+  "intention": "My mind settles into stillness and clear awareness.",
+  "timing": "Dawn or early evening; any day.",
+  "bestTime": "Any season; especially winter retreat time (Dec–Feb)",
+  "moonPhases": [
+   "New Moon",
+   "Full Moon",
+   "Dark Moon"
+  ],
+  "metaphysical": [
+   "meditation",
+   "calm",
+   "peace",
+   "spirituality",
+   "focus",
+   "grounding"
+  ],
+  "medical": [
+   "stress",
+   "anxiety"
+  ],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. Never add toxic plants (such as belladonna, datura, henbane, wolfsbane, foxglove, mandrake, yew or oleander) to incense, because their smoke can poison.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave. Keep the loose blend from pets, since lavender is toxic to them if eaten.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://www.nccih.nih.gov/health/lavender",
+   "https://www.nccih.nih.gov/health/boswellia"
+  ]
+ },
+ {
+  "id": "incense-courage",
+  "type": "incense",
+  "name": "Courage Incense",
+  "description": "A fiery, resinous incense to steady the heart before a challenge, drawing on herbs long carried for bravery: dragon's blood, thyme (Roman soldiers bathed in it), borage (\"I, borage, bring always courage\") and black pepper. Burn it before difficult conversations, auditions, court dates, medical appointments, or any time fear holds you back.",
+  "ingredients": [
+   {
+    "item": "Dragon's Blood resin",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Frankincense resin",
+    "amount": "1 part"
+   },
+   {
+    "item": "Thyme, dried",
+    "amount": "1 part"
+   },
+   {
+    "item": "Borage flowers or leaf, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Black Pepper, cracked",
+    "amount": "1/4 part"
+   },
+   {
+    "item": "Yarrow, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Orange Peel, dried",
+    "amount": "1/2 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Wear gloves when grinding dragon's blood; it stains skin and stone a deep red.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 2 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. Burn on a Tuesday or Sunday morning, or immediately before facing a fear. Stand in the smoke with your feet planted and shoulders back, breathe in your own strength (not the smoke directly) and speak the chant aloud.",
+  "chant": "Heart of lion, spine of oak, courage rise within this smoke; fear may whisper, I stand tall, I will face it, one and all.",
+  "intention": "I am brave, steady and equal to what is before me.",
+  "timing": "Tuesday (Mars) or Sunday (Sun); waxing moon.",
+  "bestTime": "Summer, Litha to Lammas (June–Aug), or before any challenge",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "courage",
+   "strength",
+   "confidence",
+   "victory",
+   "power"
+  ],
+  "medical": [],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. Black pepper smoke is pungent and can make eyes water, so use very little. Buy only plant-resin dragon's blood (Daemonorops or Dracaena); the name is also used for other red substances, including toxic mercury sulfide (cinnabar), which must never be burned or put on skin.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave. Keep the loose blend from pets, since citrus peel and yarrow are toxic to them if eaten.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/orange",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/yarrow",
+   "https://www.drugs.com/npp/dragon-s-blood.html",
+   "https://pubmed.ncbi.nlm.nih.gov/18060708/",
+   "https://www.nccih.nih.gov/health/boswellia"
+  ]
+ },
+ {
+  "id": "incense-success",
+  "type": "incense",
+  "name": "Success Incense",
+  "description": "A golden, solar incense to attract accomplishment, recognition and the fruition of long efforts. Frankincense and cinnamon, the Sun's classic pairing, combine with bay laurel (the victor's wreath), High John root and sunflower petals. Burn it while working on goals, launching projects, or preparing for an exam or job interview.",
+  "ingredients": [
+   {
+    "item": "Frankincense resin",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Benzoin resin",
+    "amount": "1 part"
+   },
+   {
+    "item": "Cinnamon bark, ground",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Bay Laurel leaves, crumbled",
+    "amount": "1 part"
+   },
+   {
+    "item": "High John the Conqueror root, chopped",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Sunflower petals, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Calendula petals, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Orange Peel, dried",
+    "amount": "1/2 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Write your goal on a bay leaf before crumbling it into the mix.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 2 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. Burn on Sunday mornings, at the start of a work session, or before key events. Pass your résumé, business cards or project plans through the smoke and visualize the finished success vividly.",
+  "chant": "Laurel crown and golden sun, the work is done, the race is won; what I seek now comes to me, success and triumph, so mote it be.",
+  "intention": "My efforts bear fruit and success comes to me.",
+  "timing": "Sunday, planetary hour of the Sun; waxing to full moon.",
+  "bestTime": "Summer, Litha to Lammas (June–Aug); also at the start of any new venture",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "success",
+   "victory",
+   "employment",
+   "confidence",
+   "sun magic",
+   "manifestation"
+  ],
+  "medical": [],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. High John the Conqueror root is a strong purgative if eaten, so keep the loose blend well away from children and pets.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave. Keep the loose blend from pets, since citrus peel, bay leaf and High John root are toxic to them if eaten.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/orange",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bay-laurel",
+   "https://www.webmd.com/vitamins/ai/ingredientmono-288/jalap",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/calendula",
+   "https://www.drugs.com/npp/calendula.html",
+   "https://www.nccih.nih.gov/health/boswellia",
+   "https://www.nccih.nih.gov/health/cinnamon"
+  ]
+ },
+ {
+  "id": "incense-luck",
+  "type": "incense",
+  "name": "Luck Incense",
+  "description": "A cheerful, green-and-gold blend to turn the wheel of fortune your way, built from classic luck herbs of European and American folk magic: allspice, nutmeg, star anise, cinquefoil (five-finger grass) and a little vanilla. Burn it before games of chance, job searches, contests, or whenever life needs a lucky break.",
+  "ingredients": [
+   {
+    "item": "Benzoin resin",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Allspice berries, crushed",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Nutmeg, grated",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Star Anise, ground",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Cinquefoil, dried",
+    "amount": "1 part"
+   },
+   {
+    "item": "Vanilla bean, chopped",
+    "amount": "1/4 part"
+   },
+   {
+    "item": "Orange Peel, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Basil, dried",
+    "amount": "1/2 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Split the vanilla bean and scrape the seeds into the resin powder, then chop the pod finely.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 2 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. Burn on Thursday or before any venture where chance plays a part. Smoke your lottery tickets, dice, lucky charms or job applications. A pinch on the coal at the new moon keeps luck flowing all month.",
+  "chant": "Turn, O wheel, and turn my way, fortune smile on me today; five-finger grass and star of seed, bring me luck in word and deed.",
+  "intention": "Good luck finds me and fortune turns in my favor.",
+  "timing": "Thursday or Sunday; new to full moon.",
+  "bestTime": "Spring (Mar–May), especially around Ostara, and any time of new starts",
+  "moonPhases": [
+   "New Moon",
+   "Waxing Crescent",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "luck",
+   "gambling",
+   "prosperity",
+   "wishes",
+   "success"
+  ],
+  "medical": [],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. Never add toxic plants (such as belladonna, datura, henbane, wolfsbane, foxglove, mandrake, yew or oleander) to incense, because their smoke can poison.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave. Keep the loose blend from pets, since nutmeg and citrus peel are toxic to them if eaten.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.petpoisonhelpline.com/poisons/nutmeg/",
+   "https://www.drugs.com/npp/nutmeg.html",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/orange"
+  ]
+ },
+ {
+  "id": "incense-uncrossing",
+  "type": "incense",
+  "name": "Uncrossing Incense",
+  "description": "In hoodoo and folk magic, being \"crossed\" means being burdened by bad luck, jinxes, envy or ill-wishing. This cleansing and reversing incense draws on uncrossing staples: hyssop (\"purge me with hyssop\"), agrimony to send harm back, rosemary, bay, and angelica root for spiritual protection. Use it to clear stuck energy and start fresh.",
+  "ingredients": [
+   {
+    "item": "Frankincense resin",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Copal resin",
+    "amount": "1 part"
+   },
+   {
+    "item": "Hyssop, dried",
+    "amount": "1 part"
+   },
+   {
+    "item": "Agrimony, dried",
+    "amount": "1 part"
+   },
+   {
+    "item": "Rosemary, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Bay Laurel leaves, crumbled",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Angelica root, chopped",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Lemon peel, dried",
+    "amount": "1/2 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Mix the blend counterclockwise to turn back and undo crossed conditions.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 1 to 2 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. Open the windows and doors, then carry the censer through every room counterclockwise, starting at the back of the home and moving toward the front door, letting the smoke drive out heaviness. Follow with a cleansing bath or floor wash and finish by burning a sweet blessing incense to fill the space.",
+  "chant": "Crossed and tangled, now unwound, every jinx to dust is ground; what was sent returns away, I walk free and clear today.",
+  "intention": "Every crossed condition is lifted and I walk free.",
+  "timing": "Saturday or Monday; waning moon.",
+  "bestTime": "Any time it is needed; especially late winter cleaning season (Feb–Mar)",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent"
+  ],
+  "metaphysical": [
+   "uncrossing",
+   "hex breaking",
+   "cleansing",
+   "protection",
+   "road opening",
+   "banishing"
+  ],
+  "medical": [],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. Angelica root is traditionally avoided in pregnancy.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave. Keep the loose blend from pets, since citrus peel and bay leaf are toxic to them if eaten.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lemon",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bay-laurel",
+   "https://www.drugs.com/npp/angelica.html",
+   "https://www.nccih.nih.gov/health/boswellia"
+  ]
+ },
+ {
+  "id": "incense-home-blessing",
+  "type": "incense",
+  "name": "Home Blessing Incense",
+  "description": "A warm, sweet incense for blessing a new home or refreshing the spirit of the one you have. It brings together homely herbs of hearth and garden — rosemary, basil, lavender, cinnamon and orange — with frankincense and a little sweet benzoin. Burn it at housewarmings, after cleansing, or whenever you want your home to feel welcoming and safe.",
+  "ingredients": [
+   {
+    "item": "Frankincense resin",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Benzoin resin",
+    "amount": "1 part"
+   },
+   {
+    "item": "Rosemary, dried",
+    "amount": "1 part"
+   },
+   {
+    "item": "Basil, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Lavender buds",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Cinnamon bark, ground",
+    "amount": "1/4 part"
+   },
+   {
+    "item": "Orange Peel, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Bay Laurel leaves, crumbled",
+    "amount": "1/2 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Ask each household member to add a pinch to the bowl and stir once, so the blend carries everyone's blessing.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 2 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. After cleansing a home, carry the censer clockwise through each room, pausing at doors, windows and the hearth or stove to speak a blessing. Burn at housewarmings, the first night in a new home, or seasonally at Imbolc and Yule.",
+  "chant": "Hearth and threshold, roof and wall, peace and plenty bless us all; love within and harm without, joy and safety round about.",
+  "intention": "This home is blessed with peace, safety, warmth and love.",
+  "timing": "Moving day; Imbolc; Friday or Sunday; waxing moon.",
+  "bestTime": "Imbolc (early Feb) and spring cleaning season (Feb–Apr); any moving day",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "home blessing",
+   "blessing",
+   "protection",
+   "peace",
+   "happiness"
+  ],
+  "medical": [],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. Never add toxic plants (such as belladonna, datura, henbane, wolfsbane, foxglove, mandrake, yew or oleander) to incense, because their smoke can poison.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave. Keep the loose blend from pets, since lavender, citrus peel and bay leaf are toxic to them if eaten.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://www.nccih.nih.gov/health/lavender",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/orange",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bay-laurel",
+   "https://www.nccih.nih.gov/health/boswellia",
+   "https://www.nccih.nih.gov/health/cinnamon"
+  ]
+ },
+ {
+  "id": "incense-study-memory",
+  "type": "incense",
+  "name": "Study and Memory Incense",
+  "description": "Rosemary has been tied to memory since ancient Greece, where students wore garlands of it during exams. This Mercurial study blend pairs rosemary with peppermint, lemon peel and a light frankincense base to wake the mind and support focus. Burn it briefly before (not during long) study sessions, then let the room air out.",
+  "ingredients": [
+   {
+    "item": "Frankincense resin",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Benzoin resin",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Rosemary, dried",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Peppermint, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Lemon peel, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Lemongrass, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Sage (Common Sage), dried",
+    "amount": "1/2 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 2 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. Burn a small pinch for a few minutes before studying, writing or preparing for exams, then open the window and let the smoke clear before you sit down to work. Keep a sprig of fresh rosemary on your desk to recall the scent later.",
+  "chant": "Rosemary for remembrance, mint to wake the mind; what I learn I keep and hold, and recall when I've a mind.",
+  "intention": "My mind is clear, focused and retains what I learn.",
+  "timing": "Wednesday; waxing moon; before exams.",
+  "bestTime": "Autumn school season and exam periods (Sept–Dec, Apr–June)",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous"
+  ],
+  "metaphysical": [
+   "memory",
+   "focus",
+   "knowledge",
+   "clarity",
+   "wisdom"
+  ],
+  "medical": [],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. Burn briefly rather than continuously in a closed study, then air the room before you start work.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave. Keep the loose blend from pets, since citrus peel, mint and lemongrass are toxic to them if eaten.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lemon",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/mint",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lemon-grass",
+   "https://www.drugs.com/npp/lemongrass.html",
+   "https://www.nccih.nih.gov/health/boswellia"
+  ]
+ },
+ {
+  "id": "incense-peace",
+  "type": "incense",
+  "name": "Peace Incense",
+  "description": "A soft, soothing incense to calm tension after arguments, stressful days or grief. Lavender, chamomile, rose and violet are classic peace herbs, carried on a gentle base of benzoin and sandalwood with a little meadowsweet. Burn it to quiet a home, ease conflict between housemates, or settle a restless spirit.",
+  "ingredients": [
+   {
+    "item": "Benzoin resin",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Sandalwood powder",
+    "amount": "1 part"
+   },
+   {
+    "item": "Lavender buds",
+    "amount": "1 part"
+   },
+   {
+    "item": "Chamomile flowers, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Rose petals, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Violet flowers, dried",
+    "amount": "1/4 part"
+   },
+   {
+    "item": "Meadowsweet, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Passionflower, dried",
+    "amount": "1/4 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 2 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. Burn in the main living space after conflict, during family gatherings, or in the evening to wind down. Light a blue or white candle alongside, breathe slowly, and speak the chant to call peace into the home.",
+  "chant": "Lavender and chamomile, still the storm and calm the will; soft as dove and still as stream, peace descend on all who dream.",
+  "intention": "Peace settles over this home and every heart within it.",
+  "timing": "Monday or Friday; full or waning moon.",
+  "bestTime": "Any season; especially high summer and the stressful holiday season (July–Aug, Dec)",
+  "moonPhases": [
+   "Full Moon",
+   "Waning Gibbous",
+   "Waning Crescent"
+  ],
+  "metaphysical": [
+   "peace",
+   "calm",
+   "reconciliation",
+   "happiness",
+   "emotional healing"
+  ],
+  "medical": [
+   "stress",
+   "anxiety"
+  ],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. Never add toxic plants (such as belladonna, datura, henbane, wolfsbane, foxglove, mandrake, yew or oleander) to incense, because their smoke can poison.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave. Keep the loose blend from pets, since chamomile and lavender are toxic to them if eaten.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/chamomile",
+   "https://www.nccih.nih.gov/health/chamomile",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://www.nccih.nih.gov/health/lavender"
+  ]
+ },
+ {
+  "id": "incense-astral-travel",
+  "type": "incense",
+  "name": "Astral Travel Incense",
+  "description": "Many old flying ointments and astral blends relied on deadly nightshades; this one does not. It uses only safe, traditionally associated plants — mugwort, sandalwood, benzoin, star anise and a touch of jasmine — to support relaxation, trance and visualization through suggestion and scent, not intoxication. Burn it at the start of guided journeying or astral projection practice.",
+  "ingredients": [
+   {
+    "item": "Sandalwood powder",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Benzoin resin",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Mugwort, dried",
+    "amount": "1 part"
+   },
+   {
+    "item": "Star Anise, ground",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Jasmine flowers, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Cinnamon bark, ground",
+    "amount": "1/4 part"
+   },
+   {
+    "item": "Blue Lotus petals, dried",
+    "amount": "1/4 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Note: this is a non-toxic formula. Never substitute Belladonna, Datura, Henbane, Mandrake or Wolfsbane from older 'flying' recipes; they are deadly even as smoke.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 3 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. Burn a small pinch, then extinguish or move the censer to a safe spot out of reach before lying down; never fall asleep or enter trance with burning charcoal nearby. Lie comfortably, breathe slowly, and visualize rising from your body or walking a guided path. Ground afterward with food and water.",
+  "chant": "Silver cord and starry sea, loose the bonds and set me free; far I wander, safe I roam, and by the cord return me home.",
+  "intention": "I journey safely in spirit and return whole and grounded.",
+  "timing": "Night; Monday; full moon.",
+  "bestTime": "Winter's long nights, Samhain to Imbolc (Nov–Feb)",
+  "moonPhases": [
+   "Full Moon",
+   "Waxing Gibbous",
+   "Dark Moon"
+  ],
+  "metaphysical": [
+   "astral travel",
+   "psychic powers",
+   "meditation",
+   "dreams",
+   "spirit work"
+  ],
+  "medical": [],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. Mugwort and blue lotus should be avoided in pregnancy and while breastfeeding, and blue lotus smoke is psychoactive (it can cause drowsiness, confusion or a fast heartbeat), so do not combine it with alcohol or sedating medicines and do not drive afterward; never leave charcoal burning while you sleep or are in trance.",
+  "interactions": "Blue lotus smoke may add to the sedating effects of alcohol, opioid painkillers, anti-anxiety medicines and sleep aids.",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.nccih.nih.gov/health/mugwort",
+   "https://www.webmd.com/vitamins/ai/ingredientmono-123/mugwort",
+   "https://www.poison.org/articles/blue-lotus-serenity-in-every-petal-but-is-it-safe",
+   "https://www.nccih.nih.gov/health/cinnamon"
+  ]
+ },
+ {
+  "id": "incense-elemental-earth",
+  "type": "incense",
+  "name": "Elemental Earth Incense",
+  "description": "An incense for the element of Earth, the north, midnight, winter and the body: stability, prosperity, fertility and roots. It smells of forest floor and soil, built from patchouli, vetiver, cedar, pine and oakmoss-like oak bark on a base of dark copal and myrrh. Burn it to call the North quarter or for grounding and money work.",
+  "ingredients": [
+   {
+    "item": "Myrrh resin",
+    "amount": "1 part"
+   },
+   {
+    "item": "Copal resin",
+    "amount": "1 part"
+   },
+   {
+    "item": "Patchouli leaf, dried",
+    "amount": "1 part"
+   },
+   {
+    "item": "Vetiver root, chopped",
+    "amount": "1 part"
+   },
+   {
+    "item": "Cedar wood shavings",
+    "amount": "1 part"
+   },
+   {
+    "item": "Pine needles, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Oak bark, shredded",
+    "amount": "1/2 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Chop pine needles into short lengths; whole needles flare.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 3 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. Burn at the north of the circle when calling Earth, or alone for grounding after psychic or energetic work. Use for prosperity, stability, fertility of land and body, and to help you feel at home in your body.",
+  "chant": "Earth beneath and stone below, roots that hold and seeds that grow; guardian of the northern gate, steady me and make me great.",
+  "intention": "I am grounded, steady and rooted like the ancient earth.",
+  "timing": "Midnight; Saturday or Friday; any moon.",
+  "bestTime": "Winter, Yule to Imbolc (Dec–Feb)",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "New Moon",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "grounding",
+   "prosperity",
+   "balance",
+   "fertility",
+   "strength",
+   "abundance"
+  ],
+  "medical": [],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. Never add toxic plants (such as belladonna, datura, henbane, wolfsbane, foxglove, mandrake, yew or oleander) to incense, because their smoke can poison.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.drugs.com/npp/myrrh.html"
+  ]
+ },
+ {
+  "id": "incense-elemental-air",
+  "type": "incense",
+  "name": "Elemental Air Incense",
+  "description": "An incense for the element of Air, the east, dawn, spring and the mind: thought, speech, inspiration and new beginnings. The scent is light and lifting — benzoin and frankincense with lavender, lemongrass, peppermint and anise. Burn it to call the East quarter or for clarity, study and communication.",
+  "ingredients": [
+   {
+    "item": "Benzoin resin",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Frankincense resin",
+    "amount": "1 part"
+   },
+   {
+    "item": "Lavender buds",
+    "amount": "1 part"
+   },
+   {
+    "item": "Lemongrass, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Peppermint, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Anise seed",
+    "amount": "1/4 part"
+   },
+   {
+    "item": "Lemon Verbena, dried",
+    "amount": "1/2 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 2 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. Burn at the east of the circle when calling Air, or at dawn for inspiration, creative writing, learning, clear speech and fresh starts. Watch the movement of the smoke for messages (capnomancy).",
+  "chant": "Wind of morning, breath of dawn, from the east the light is drawn; quick of thought and clear of sight, lift my mind on wings of light.",
+  "intention": "My mind is clear, inspired and free as the morning wind.",
+  "timing": "Dawn; Wednesday; waxing moon.",
+  "bestTime": "Spring, Imbolc to Ostara (Feb–Mar)",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "New Moon"
+  ],
+  "metaphysical": [
+   "communication",
+   "clarity",
+   "knowledge",
+   "new beginnings",
+   "wisdom"
+  ],
+  "medical": [],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. Never add toxic plants (such as belladonna, datura, henbane, wolfsbane, foxglove, mandrake, yew or oleander) to incense, because their smoke can poison.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave. Keep the loose blend from pets, since lavender, mint and lemongrass are toxic to them if eaten. Also keep the loose blend from pets because lemon verbena is toxic to dogs and cats if eaten.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://www.nccih.nih.gov/health/lavender",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/mint",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lemon-grass",
+   "https://www.drugs.com/npp/lemongrass.html",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lemon-verbena",
+   "https://www.nccih.nih.gov/health/boswellia"
+  ]
+ },
+ {
+  "id": "incense-elemental-fire",
+  "type": "incense",
+  "name": "Elemental Fire Incense",
+  "description": "An incense for the element of Fire, the south, noon, summer and the will: passion, courage, transformation and energy. Its smoke is hot and spicy, built from dragon's blood, frankincense, cinnamon, clove, ginger and orange peel. Burn it to call the South quarter or to fuel motivation, protection and change.",
+  "ingredients": [
+   {
+    "item": "Dragon's Blood resin",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Frankincense resin",
+    "amount": "1 part"
+   },
+   {
+    "item": "Cinnamon bark, ground",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Clove, ground",
+    "amount": "1/4 part"
+   },
+   {
+    "item": "Ginger root, dried",
+    "amount": "1/4 part"
+   },
+   {
+    "item": "Orange Peel, dried",
+    "amount": "1 part"
+   },
+   {
+    "item": "Bay Laurel leaves, crumbled",
+    "amount": "1/2 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Grind dried ginger in short bursts; it is fibrous and can clog a spice grinder.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 2 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. Burn at the south of the circle when calling Fire, or at noon for motivation, courage, passion, purification by flame and transformation. Pair with a red or orange candle.",
+  "chant": "Flame of noon and southern fire, kindle will and lift desire; burn away what holds me back, light the forward-shining track.",
+  "intention": "My will burns bright and I transform what I touch.",
+  "timing": "Noon; Tuesday or Sunday; waxing to full moon.",
+  "bestTime": "Summer, Beltane to Litha (May–June)",
+  "moonPhases": [
+   "First Quarter",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "energy",
+   "courage",
+   "transformation",
+   "passion",
+   "power",
+   "vitality"
+  ],
+  "medical": [],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. Clove and cinnamon smoke can irritate eyes and airways, so use small amounts. Buy only plant-resin dragon's blood (Daemonorops or Dracaena); the name is also used for other red substances, including toxic mercury sulfide (cinnabar), which must never be burned or put on skin.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave. Keep the loose blend from pets, since citrus peel and bay leaf are toxic to them if eaten.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/orange",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bay-laurel",
+   "https://www.drugs.com/npp/dragon-s-blood.html",
+   "https://pubmed.ncbi.nlm.nih.gov/18060708/",
+   "https://www.nccih.nih.gov/health/boswellia",
+   "https://www.nccih.nih.gov/health/cinnamon"
+  ]
+ },
+ {
+  "id": "incense-elemental-water",
+  "type": "incense",
+  "name": "Elemental Water Incense",
+  "description": "An incense for the element of Water, the west, twilight, autumn and the heart: emotion, intuition, love, dreams and healing. The smoke is soft and sweet, with myrrh and sandalwood carrying rose, chamomile, jasmine, lemon balm and willow. Burn it to call the West quarter or for emotional healing and psychic work.",
+  "ingredients": [
+   {
+    "item": "Myrrh resin",
+    "amount": "1 part"
+   },
+   {
+    "item": "Sandalwood powder",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Rose petals, dried",
+    "amount": "1 part"
+   },
+   {
+    "item": "Chamomile flowers, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Jasmine flowers, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Lemon Balm, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Willow bark, shredded",
+    "amount": "1/2 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 2 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. Burn at the west of the circle when calling Water, or at twilight for love, emotional healing, intuition, scrying in a bowl of water, and dream work. Pair with a blue candle and a chalice of water.",
+  "chant": "Waters of the western shore, flow within me evermore; heal the heart and clear the sight, carry me through dream and night.",
+  "intention": "My heart flows open, healed and wise.",
+  "timing": "Twilight; Monday or Friday; full moon.",
+  "bestTime": "Autumn, Mabon to Samhain (Sept–Oct)",
+  "moonPhases": [
+   "Full Moon",
+   "Waxing Gibbous",
+   "Waning Gibbous"
+  ],
+  "metaphysical": [
+   "emotional healing",
+   "love",
+   "psychic powers",
+   "dreams",
+   "healing",
+   "moon magic"
+  ],
+  "medical": [],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. People allergic to ragweed-family plants may react to chamomile smoke.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave. Keep the loose blend from pets, since chamomile is toxic to them if eaten.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/chamomile",
+   "https://www.nccih.nih.gov/health/chamomile",
+   "https://www.drugs.com/npp/myrrh.html"
+  ]
+ },
+ {
+  "id": "incense-cleansing-smoke",
+  "type": "incense",
+  "name": "Cleansing Smoke Blend (Smudge Alternative)",
+  "description": "A loose, charcoal-burned cleansing blend offered as a respectful alternative to bundled White Sage \"smudging\", a sacred practice of specific Native American nations whose wild sage has been over-harvested for commercial sale. It uses widely grown European and garden herbs — rosemary, garden sage, juniper, bay, lavender and pine — that carry their own long smoke-cleansing traditions (such as Scottish saining with juniper).",
+  "ingredients": [
+   {
+    "item": "Rosemary, dried",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Common Sage (garden sage), dried",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Juniper berries and/or needles",
+    "amount": "1 part"
+   },
+   {
+    "item": "Bay Laurel leaves, crumbled",
+    "amount": "1 part"
+   },
+   {
+    "item": "Lavender buds",
+    "amount": "1 part"
+   },
+   {
+    "item": "Pine needles or resin",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Frankincense resin",
+    "amount": "1 part"
+   }
+  ],
+  "steps": [
+   "Ethical sourcing: grow these herbs yourself or buy organic, cultivated stock from reputable herb suppliers; avoid wildcrafted White Sage, Palo Santo and other at-risk plants, and never harvest from protected land.",
+   "Dry fresh herbs by hanging small bundles upside down in a warm, dark, airy place for 1-2 weeks until crisp.",
+   "Grind the frankincense to a coarse powder; crush juniper berries lightly; snip pine needles short.",
+   "Crumble the dry leaves and flowers by hand into a bowl and mix with the resin, stating that the blend is for cleansing and release.",
+   "Store in a labeled, airtight glass jar in a dark place; this blend can be used right away but improves after 1 week."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. Open a window or door first so stagnant energy has a way out. Carry the censer (with a heatproof base or handle) through the space counterclockwise, wafting smoke into corners, doorways, under furniture and around people with a feather or your hand. Follow with a blessing incense or simply fresh air. This blend can also be used to cleanse crystals, tools and yourself.",
+  "chant": "Rosemary, juniper, sage and bay, carry the heavy and stale away; smoke of the hearth and the garden green, leave this place and spirit clean.",
+  "intention": "This space and all within it are cleansed and renewed.",
+  "timing": "Any time; especially Saturday or Monday, waning moon, or after illness, arguments or moving.",
+  "bestTime": "Any season; especially spring cleaning (Mar–Apr) and Samhain (Oct)",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent",
+   "Dark Moon"
+  ],
+  "metaphysical": [
+   "cleansing",
+   "purification",
+   "protection",
+   "banishing",
+   "release"
+  ],
+  "medical": [],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. Smoke alarms may trigger, but never disable them; carry the censer on a heatproof tray, never by hand over carpet, and do not waft smoke directly into faces.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave. Keep the loose blend from pets, since lavender and bay leaf are toxic to them if eaten.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://www.nccih.nih.gov/health/lavender",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bay-laurel",
+   "https://www.nccih.nih.gov/health/boswellia",
+   "https://www.drugs.com/npp/juniper.html"
+  ]
+ },
+ {
+  "id": "incense-wishing",
+  "type": "incense",
+  "name": "Wishing Incense",
+  "description": "A sweet, starry incense for making wishes and manifestations, blending traditional wish herbs: bay leaves (write your wish and burn it), sandalwood, star anise, sunflower petals and dandelion, whose seed-clocks have carried children's wishes for generations. Burn it at the new moon to plant a wish and the full moon to celebrate its growth.",
+  "ingredients": [
+   {
+    "item": "Sandalwood powder",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Benzoin resin",
+    "amount": "1 part"
+   },
+   {
+    "item": "Star Anise, ground",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Bay Laurel leaves, crumbled",
+    "amount": "1 part"
+   },
+   {
+    "item": "Sunflower petals, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Dandelion flower or leaf, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Vanilla bean, chopped",
+    "amount": "1/4 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Keep one whole bay leaf aside to write your wish on at the time of burning.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 2 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. Write your wish in the present tense on a whole bay leaf. Burn a pinch of the incense, then hold the leaf in the smoke, speak the wish aloud, and lay the leaf on the coal to burn. Repeat on the next three nights if you like.",
+  "chant": "Star and seed and laurel leaf, carry wish beyond belief; on the smoke my hope takes flight, grant my wish by moon and light.",
+  "intention": "My heart's wish is heard and set in motion.",
+  "timing": "New moon to plant; full moon to celebrate; any birthday.",
+  "bestTime": "New Year, Imbolc and spring (Jan–Apr); also your birthday",
+  "moonPhases": [
+   "New Moon",
+   "Waxing Crescent",
+   "Full Moon"
+  ],
+  "metaphysical": [
+   "wishes",
+   "manifestation",
+   "luck",
+   "new beginnings",
+   "happiness"
+  ],
+  "medical": [],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. Whole bay leaves flare when they ignite, so keep the censer clear of hair and sleeves.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave. Keep the loose blend from pets, since bay leaf is toxic to them if eaten.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bay-laurel"
+  ]
+ },
+ {
+  "id": "incense-divination",
+  "type": "incense",
+  "name": "Divination Incense",
+  "description": "A clarifying incense to open the inner eye before tarot, runes, pendulum, scrying or tea-leaf reading. Mugwort, the classic seer's herb, is paired with bay laurel (chewed by the Pythia at Delphi), sandalwood, cinnamon and a touch of orris root. It helps the reader settle into a receptive, intuitive state.",
+  "ingredients": [
+   {
+    "item": "Sandalwood powder",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Frankincense resin",
+    "amount": "1 part"
+   },
+   {
+    "item": "Mugwort, dried",
+    "amount": "1 part"
+   },
+   {
+    "item": "Bay Laurel leaves, crumbled",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Cinnamon bark, ground",
+    "amount": "1/4 part"
+   },
+   {
+    "item": "Orris Root, powdered",
+    "amount": "1/4 part"
+   },
+   {
+    "item": "Yarrow, dried",
+    "amount": "1/2 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Orris root powder is very fine; mix it in last and stir gently to avoid breathing it in.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 2 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. Burn before and during a reading. Pass your tarot deck, runes, pendulum or scrying mirror through the smoke to clear previous readings, then sit quietly for a few breaths before asking your question.",
+  "chant": "Mugwort, laurel, smoke of seeing, open eye of inner being; what is hidden, now be shown, truth be spoken, truth be known.",
+  "intention": "My inner sight is open and I read truly.",
+  "timing": "Monday or Wednesday; full moon or dark moon; Samhain.",
+  "bestTime": "Autumn and winter, Samhain to Yule (Oct–Dec)",
+  "moonPhases": [
+   "Full Moon",
+   "Dark Moon",
+   "Waxing Gibbous"
+  ],
+  "metaphysical": [
+   "divination",
+   "psychic powers",
+   "clarity",
+   "wisdom",
+   "prophetic dreams"
+  ],
+  "medical": [],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. Mugwort and yarrow smoke are traditionally avoided in pregnancy, and orris root can cause allergic reactions.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave. Keep the loose blend from pets, since bay leaf and yarrow are toxic to them if eaten.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bay-laurel",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/yarrow",
+   "https://www.nccih.nih.gov/health/mugwort",
+   "https://www.webmd.com/vitamins/ai/ingredientmono-123/mugwort",
+   "https://pubmed.ncbi.nlm.nih.gov/33533482",
+   "https://pubmed.ncbi.nlm.nih.gov/18875189",
+   "https://www.nccih.nih.gov/health/boswellia",
+   "https://www.nccih.nih.gov/health/cinnamon"
+  ]
+ },
+ {
+  "id": "incense-spirit-offering",
+  "type": "incense",
+  "name": "Spirit Offering Incense",
+  "description": "A generous, sweet-smelling offering incense for deities, guides, land spirits and household spirits. Across cultures, sweet resins and fragrant woods have been considered the food of the gods; this blend combines frankincense, copal, sandalwood and benzoin with a little honey-dried rose and sweetgrass. It is an all-purpose gift of smoke rather than a working for a specific outcome.",
+  "ingredients": [
+   {
+    "item": "Frankincense resin",
+    "amount": "2 parts"
+   },
+   {
+    "item": "Copal resin",
+    "amount": "1 part"
+   },
+   {
+    "item": "Benzoin resin",
+    "amount": "1 part"
+   },
+   {
+    "item": "Sandalwood powder",
+    "amount": "1 part"
+   },
+   {
+    "item": "Rose petals, dried",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Sweetgrass, cut",
+    "amount": "1/2 part"
+   },
+   {
+    "item": "Cinnamon bark, ground",
+    "amount": "1/4 part"
+   }
+  ],
+  "steps": [
+   "Cleanse your mortar and pestle and mixing bowl, then set out each ingredient and measure by parts (1 part can be a teaspoon for a small batch or a tablespoon for a jar).",
+   "Grind the resins first, alone, into a coarse powder; chill them in the freezer for 10 minutes beforehand if they are sticky.",
+   "Grind the woods, barks, roots and seeds next, then crumble the leaves and flowers by hand so they keep some texture.",
+   "Source sweetgrass from cultivated growers; it is sacred to many Indigenous nations, so use it with respect or substitute extra rose petals.",
+   "Combine everything in the bowl, mixing clockwise (or counterclockwise for banishing work) while speaking the chant and holding your intention.",
+   "Store in a labeled, airtight glass jar in a dark place and let it cure for 2 weeks before burning so the scents meld."
+  ],
+  "howToUse": "Light a charcoal disc with tongs and wait until it is fully ashed over and glowing (about 5 minutes). Sprinkle a pinch (1/4 teaspoon) of incense onto it, adding more as the smoke fades. Burn as a gift at your altar or shrine, at a sacred site, or for land spirits when you begin working in a new place. Greet the spirit or deity by name, offer the smoke with words of thanks, and leave a moment of silence to listen. Pair with water, bread, flowers or a candle.",
+  "chant": "Sweet the smoke I offer you, gift of thanks and honor true; spirits kind and powers near, take this gift and find me here.",
+  "intention": "I offer this smoke in gratitude and respect.",
+  "timing": "Any time; especially sabbats, esbats and feast days.",
+  "bestTime": "Year-round; especially at the eight sabbats and on feast days of your deities",
+  "moonPhases": [
+   "Full Moon",
+   "New Moon",
+   "Waxing Gibbous"
+  ],
+  "metaphysical": [
+   "spirit work",
+   "blessing",
+   "spirituality",
+   "consecration",
+   "ancestors"
+  ],
+  "medical": [],
+  "caution": "Burn only on a charcoal disc handled with tongs, in a heatproof censer filled with sand or salt, on a stable surface away from curtains, paper, hair and sleeves; never leave it unattended or fall asleep while it burns, and let used charcoal cool completely (several hours, or douse it in water) before disposal. Burning charcoal gives off carbon monoxide, so burn only in a well-ventilated room with a window open (never in a closed room, tent or vehicle), keep working smoke and carbon monoxide alarms, and get to fresh air if you feel a headache, dizziness or nausea. Incense smoke irritates the lungs: avoid it if you have asthma, COPD or another breathing condition, and keep it away from pregnant people, infants and young children. Keep birds out of the area entirely (their lungs are extremely sensitive to smoke), let other pets leave the room, and store the loose blend where children and pets cannot reach it; never eat or drink it. Never add toxic plants (such as belladonna, datura, henbane, wolfsbane, foxglove, mandrake, yew or oleander) to incense, because their smoke can poison.",
+  "interactions": "",
+  "pets": "Smoke is dangerous to birds and irritates cats' and dogs' airways: keep birds well away in a closed-off room and let pets leave.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://www.cdc.gov/carbon-monoxide/about/index.html",
+   "https://pubmed.ncbi.nlm.nih.gov/34712057/",
+   "https://pubmed.ncbi.nlm.nih.gov/18439280/",
+   "https://pubmed.ncbi.nlm.nih.gov/32944420/",
+   "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.nccih.nih.gov/health/boswellia",
+   "https://www.nccih.nih.gov/health/cinnamon"
+  ]
+ }
+]

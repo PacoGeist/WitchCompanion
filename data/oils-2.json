@@ -1,0 +1,2159 @@
+[
+ {
+  "id": "oil-blessing",
+  "type": "oil",
+  "name": "Blessing Oil",
+  "description": "A gentle all-purpose blessing oil of the kind kept by nearly every folk practitioner, used to bless people, homes, babies' cribs, new ventures and anything that needs a kindly hand laid upon it. Its soft blend of frankincense, rose and lavender draws on centuries of these plants being offered at shrines and churches. Think of it as a liquid benediction: warm, uplifting and safe for almost any occasion.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Frankincense essential oil",
+    "amount": "5 drops"
+   },
+   {
+    "item": "Rose absolute (or rose geranium) essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Lavender essential oil",
+    "amount": "4 drops"
+   },
+   {
+    "item": "Sandalwood essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Dried Rose petals",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Dried Lavender buds",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Drop the rose petals and lavender buds into the empty bottle as the 'bones' of the oil.",
+   "Add the essential oils one at a time, beginning with frankincense and sandalwood as the base, then lavender and rose.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Anoint the brow of anyone who asks for a blessing, trace a small equal-armed cross or pentacle on doorframes of a new home, dress white candles for blessing rites, and touch a drop to gifts, letters or cards before giving them.",
+  "chant": "Blessed be the hand that gives, blessed be the one who lives; by rose and resin, light and grace, a blessing falls upon this place.",
+  "intention": "I call blessing, kindness and good fortune upon all this oil touches.",
+  "timing": "Sunday or Monday, in the waxing moon or at the full moon.",
+  "metaphysical": [
+   "blessing",
+   "consecration",
+   "peace",
+   "happiness",
+   "home blessing",
+   "spirituality"
+  ],
+  "medical": [
+   "stress",
+   "anxiety"
+  ],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 2.2% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Absolutes are concentrated and can trigger allergies, so keep to the drops given; sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Year-round; especially lovely at Imbolc (early Feb) and Midsummer (Jun) for blessing homes and families",
+  "moonPhases": [
+   "Waxing Crescent",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "interactions": "",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://www.nccih.nih.gov/health/lavender",
+   "https://www.nccih.nih.gov/health/boswellia",
+   "https://tisserandinstitute.org/?p=5745",
+   "https://www.drugs.com/npp/sandalwood-oil.html"
+  ]
+ },
+ {
+  "id": "oil-holy-anointing",
+  "type": "oil",
+  "name": "Holy Anointing Oil",
+  "description": "Inspired by the sacred anointing oil of Exodus 30, which blended myrrh, sweet cinnamon, calamus and cassia into olive oil to consecrate priests and holy vessels. Calamus is now avoided for safety, so this version uses olive oil, myrrh, frankincense and a tiny touch of cinnamon leaf. It is a solemn, resinous oil for consecration, ordination of your own practice and deep devotional work.",
+  "ingredients": [
+   {
+    "item": "Extra-virgin olive oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Myrrh essential oil",
+    "amount": "6 drops"
+   },
+   {
+    "item": "Frankincense essential oil",
+    "amount": "5 drops"
+   },
+   {
+    "item": "Cinnamon leaf essential oil",
+    "amount": "1 drop"
+   },
+   {
+    "item": "Cedar (Atlas cedarwood) essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Frankincense resin tear",
+    "amount": "1 small piece"
+   },
+   {
+    "item": "Myrrh resin tear",
+    "amount": "1 small piece"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Place the frankincense and myrrh tears in the empty bottle.",
+   "Add myrrh first, then frankincense and cedar, and lastly the single drop of cinnamon leaf.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Hold the bottle up to candlelight or sunlight and pray or speak words of dedication from your own tradition.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Anoint the forehead, hands and feet before devotion or initiation, consecrate altars, chalices and prayer beads by tracing a sign upon them, and dress beeswax candles for sacred rites.",
+  "chant": "Myrrh of mourning, incense of praise, holy oil of ancient days; set apart and sanctified, let the sacred here abide.",
+  "intention": "I set this apart as holy and dedicate it to the Divine.",
+  "timing": "Sunday at sunrise, or the full moon.",
+  "metaphysical": [
+   "consecration",
+   "blessing",
+   "spirituality",
+   "protection",
+   "purification",
+   "meditation"
+  ],
+  "medical": [],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 2.3% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Cinnamon leaf oil is a strong skin sensitizer, so keep to the drops given and never substitute cinnamon bark or cassia oil, which are far harsher; olive oil turns rancid faster than jojoba, so make small batches and discard if it smells sharp. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Year-round; traditionally made at Easter/Ostara (Mar–Apr) or Yule (Dec) for the year's consecrations",
+  "moonPhases": [
+   "Full Moon",
+   "Waxing Gibbous"
+  ],
+  "interactions": "Cinnamon leaf oil is rich in eugenol, which has antiplatelet effects; if you take warfarin, aspirin, clopidogrel or other blood thinners, have a bleeding disorder or have surgery coming up, use this blend sparingly or not at all.",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds. This blend contains cinnamon oil, which is especially risky for cats.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.drugs.com/npp/myrrh.html",
+   "https://www.nccih.nih.gov/health/boswellia",
+   "https://tisserandinstitute.org/learn-more/eugenol/",
+   "https://www.drugs.com/npp/clove.html",
+   "https://tisserandinstitute.org/wp-content/uploads/2022/10/Tisserand-Cinnamon-Report-FINAL-9.30.15.pdf"
+  ]
+ },
+ {
+  "id": "oil-jinx-removing",
+  "type": "oil",
+  "name": "Jinx Removing Oil",
+  "description": "Jinx Removing is a classic hoodoo condition formula for breaking runs of bad luck, whether caused by someone's ill wishes or simple misfortune. Herbs like hyssop, rosemary and lemon have long been used in folk cleansing baths, and this oil brings them together in a sharp, clean blend. Use it when everything seems to go wrong at once.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Lemon (steam-distilled) essential oil",
+    "amount": "4 drops"
+   },
+   {
+    "item": "Rosemary essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Eucalyptus essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Peppermint essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Dried Hyssop",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Sea salt",
+    "amount": "a few grains"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Add the dried hyssop and a few grains of sea salt to the empty bottle.",
+   "Add lemon first, then rosemary, eucalyptus and peppermint.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Dress a white candle from the wick down to the base (drawing away) and burn it over seven nights, add a few drops to a cleansing bath with salt, anoint the soles of your shoes, and wipe a drop over the threshold sweeping outward.",
+  "chant": "Jinx be gone and crossing break, every curse your leave now take; lemon, rosemary, hyssop pure, my luck returns, my path is sure.",
+  "intention": "Every jinx, hex and run of bad luck upon me is broken and washed away.",
+  "timing": "Waning moon, on Saturday or Tuesday.",
+  "metaphysical": [
+   "uncrossing",
+   "hex breaking",
+   "cleansing",
+   "purification",
+   "luck",
+   "protection"
+  ],
+  "medical": [
+   "congestion"
+  ],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 1.8% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Eucalyptus, peppermint and rosemary oils must never be used on or near the face of infants and young children, and people with epilepsy should avoid this blend; sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Year-round; especially after the autumn equinox through Samhain (Sep–Oct) for clearing the year",
+  "moonPhases": [
+   "Waning Gibbous",
+   "Last Quarter",
+   "Waning Crescent"
+  ],
+  "interactions": "",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds. This blend contains citrus, peppermint and eucalyptus oils, which are especially risky for cats.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lemon",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/mint",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/eucalyptus",
+   "https://www.poison.org/articles/eucalyptus-oil",
+   "https://tisserandinstitute.org/learn-more/citruses-a-comparison-of-different-oils/",
+   "https://tisserandinstitute.org/learn-more/kids-inhalation-safety/",
+   "https://www.nccih.nih.gov/health/peppermint-oil",
+   "https://medlineplus.gov/ency/article/002646.htm"
+  ]
+ },
+ {
+  "id": "oil-cast-off-evil",
+  "type": "oil",
+  "name": "Cast Off Evil Oil",
+  "description": "A protective, exorcising oil in the spirit of old 'Cast Off Evil' and 'Devil's Shoestring' formulas, made entirely with gentle, skin-safe ingredients. Devil's Shoestring root was traditionally carried to 'trip up' evil before it could reach you, and here it rests in the bottle alongside protective basil and frankincense. It is used to drive off bad habits, unwanted influences and negative spirits.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Frankincense essential oil",
+    "amount": "5 drops"
+   },
+   {
+    "item": "Basil (sweet, linalool type) essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Juniper berry essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Vetiver essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Devil's Shoestring root",
+    "amount": "1 small piece"
+   },
+   {
+    "item": "Dried Angelica root",
+    "amount": "1 small piece"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Place the Devil's Shoestring and angelica root pieces in the empty bottle.",
+   "Add vetiver and frankincense first as the base, then juniper and basil.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Dress a black or white candle while speaking aloud the habit or influence you want to cast off, anoint your wrists and the back of your neck before difficult encounters, and rub a drop on a protective charm bag or under the doormat.",
+  "chant": "Cast off evil, cast off harm, root and resin be my charm; what would bind me, trip and fall, I stand free above it all.",
+  "intention": "I cast off every evil influence, habit and spirit that does not serve me.",
+  "timing": "Waning or dark moon, Saturday in the hour of Saturn.",
+  "metaphysical": [
+   "banishing",
+   "protection",
+   "exorcism",
+   "release",
+   "cleansing",
+   "uncrossing"
+  ],
+  "medical": [],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 2% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Use only linalool-type sweet basil oil, since estragole-rich basil is not safe at this amount; sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Autumn into winter, Mabon to Yule (Sep–Dec), when the year naturally lets go",
+  "moonPhases": [
+   "Last Quarter",
+   "Waning Crescent",
+   "Dark Moon"
+  ],
+  "interactions": "",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.drugs.com/npp/angelica.html",
+   "https://www.nccih.nih.gov/health/boswellia",
+   "https://tisserandinstitute.org/?p=5745",
+   "https://www.drugs.com/npp/sweet-basil.html",
+   "https://www.drugs.com/npp/juniper.html"
+  ]
+ },
+ {
+  "id": "oil-fast-luck",
+  "type": "oil",
+  "name": "Fast Luck Oil",
+  "description": "Fast Luck is one of the best-known hoodoo condition oils, prized by gamblers and shopkeepers for bringing luck quickly. Traditional recipes call for cinnamon, vanilla and wintergreen; this version drops wintergreen (which is toxic in quantity) and keeps cinnamon at a whisper, adding bright orange and bergamot. Use it when you need luck to arrive in a hurry.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Sweet Orange Peel essential oil",
+    "amount": "5 drops"
+   },
+   {
+    "item": "Bergamot (FCF) essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Vanilla CO2 extract or absolute",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Cinnamon leaf essential oil",
+    "amount": "1 drop"
+   },
+   {
+    "item": "Dried Orange Peel",
+    "amount": "1 small strip"
+   },
+   {
+    "item": "Allspice berry",
+    "amount": "1"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Place the orange peel and allspice berry in the empty bottle.",
+   "Add vanilla first, then orange and bergamot, then the single drop of cinnamon.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Dress green or gold candles from base to wick (drawing toward you), anoint your palms before a game, sales call or interview, touch a drop to the cash register or wallet, and wipe it onto lottery tickets for a quick boost.",
+  "chant": "Luck come fast and luck come quick, money stay and fortune stick; spinning wheel and rolling die, fortune turn and come to I.",
+  "intention": "Good luck comes to me quickly and easily.",
+  "timing": "Thursday or Sunday during the waxing moon, in the hour of Jupiter.",
+  "metaphysical": [
+   "luck",
+   "gambling",
+   "money",
+   "success",
+   "attraction",
+   "prosperity"
+  ],
+  "medical": [],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 2% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Cinnamon leaf oil is a strong skin sensitizer, so keep to the drops given and never substitute cinnamon bark or cassia oil, which are far harsher; use only bergamot labeled FCF (bergaptene-free), because ordinary bergamot can cause severe sunburn-like blistering; absolutes are concentrated and can trigger allergies, so keep to the drops given; sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Year-round; especially spring and summer, Ostara to Lammas (Mar–Aug)",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous"
+  ],
+  "interactions": "Cinnamon leaf oil is rich in eugenol, which has antiplatelet effects; if you take warfarin, aspirin, clopidogrel or other blood thinners, have a bleeding disorder or have surgery coming up, use this blend sparingly or not at all.",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds. This blend contains citrus and cinnamon oils, which are especially risky for cats.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/orange",
+   "https://tisserandinstitute.org/learn-more/eugenol/",
+   "https://www.drugs.com/npp/clove.html",
+   "https://tisserandinstitute.org/wp-content/uploads/2022/10/Tisserand-Cinnamon-Report-FINAL-9.30.15.pdf",
+   "https://www.drugs.com/npp/bergamot-oil.html",
+   "https://tisserandinstitute.org/learn-more/citruses-a-comparison-of-different-oils/"
+  ]
+ },
+ {
+  "id": "oil-lucky-hand",
+  "type": "oil",
+  "name": "Lucky Hand Oil",
+  "description": "Named for the 'Lucky Hand' root (salep orchid), whose hand-like shape made it a famed gambler's charm in hoodoo. Because wild orchid roots are now endangered, this formula uses cinquefoil, the 'five-finger grass' that carries the same 'whatever five fingers can do' symbolism. It favors skill, deft hands and winning games of chance.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Patchouli essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Bergamot (FCF) essential oil",
+    "amount": "4 drops"
+   },
+   {
+    "item": "Basil (sweet, linalool type) essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Nutmeg essential oil",
+    "amount": "1 drop"
+   },
+   {
+    "item": "Dried Cinquefoil",
+    "amount": "a pinch (five leaflets if whole)"
+   },
+   {
+    "item": "Small lodestone or pyrite chip",
+    "amount": "1"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Place the cinquefoil and the lodestone or pyrite chip in the empty bottle.",
+   "Add patchouli first, then bergamot, basil and the single drop of nutmeg.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Rub a drop between your palms before playing cards, dice, bingo or any game of skill, anoint a gambling mojo bag, and dress a green candle with a five-fingered hand carved into it.",
+  "chant": "Five fingers strong, five fingers sure, what my hand touches turns to more; the cards fall right, the dice run true, Lucky Hand, I work with you.",
+  "intention": "My hands are skilled and lucky; I win fairly and well.",
+  "timing": "Thursday or Sunday, waxing moon.",
+  "metaphysical": [
+   "luck",
+   "gambling",
+   "victory",
+   "money",
+   "success",
+   "prosperity"
+  ],
+  "medical": [],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 1.7% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Use only bergamot labeled FCF (bergaptene-free), because ordinary bergamot can cause severe sunburn-like blistering; use only linalool-type sweet basil oil, since estragole-rich basil is not safe at this amount; nutmeg oil is potent, so keep to a single drop; sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Year-round; summer, Midsummer to Lammas (Jun–Aug), for peak fortune",
+  "moonPhases": [
+   "Waxing Crescent",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "interactions": "",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds. This blend contains citrus oil, which is especially risky for cats. It also contains nutmeg oil, to which cats are especially susceptible.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.petpoisonhelpline.com/poisons/nutmeg/",
+   "https://www.drugs.com/npp/nutmeg.html",
+   "https://www.drugs.com/npp/bergamot-oil.html",
+   "https://tisserandinstitute.org/learn-more/citruses-a-comparison-of-different-oils/",
+   "https://tisserandinstitute.org/?p=5745",
+   "https://www.drugs.com/npp/sweet-basil.html"
+  ]
+ },
+ {
+  "id": "oil-double-fast-luck",
+  "type": "oil",
+  "name": "Double Fast Luck Oil",
+  "description": "A stronger, doubled version of Fast Luck, traditionally used when ordinary luck work has not moved fast enough. The 'double' here comes from doubled allspice and a second warming note of ginger, which adds heat and speed without leaning on heavy skin sensitizers. It is a high-energy oil for urgent luck and sudden opportunities.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Sweet Orange Peel essential oil",
+    "amount": "4 drops"
+   },
+   {
+    "item": "Lemongrass essential oil",
+    "amount": "1 drop"
+   },
+   {
+    "item": "Ginger essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Vanilla CO2 extract or absolute",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Cinnamon leaf essential oil",
+    "amount": "1 drop"
+   },
+   {
+    "item": "Allspice berries",
+    "amount": "2"
+   },
+   {
+    "item": "Pyrite chip",
+    "amount": "1 small"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Drop two allspice berries (the 'double') and the pyrite chip into the empty bottle.",
+   "Add vanilla, then ginger, orange and lemongrass, finishing with the single drop of cinnamon.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Dress a green or gold double-action candle, anoint your shoes before heading out for an opportunity, add a drop to a lucky coin carried in your left pocket, and wipe onto business cards.",
+  "chant": "Twice as fast and twice as bright, luck come running day and night; double up and double true, fortune finds me, through and through.",
+  "intention": "Luck runs to me twice as fast and twice as strong.",
+  "timing": "Sunday or Thursday, between the first quarter and full moon.",
+  "metaphysical": [
+   "luck",
+   "gambling",
+   "success",
+   "energy",
+   "road opening",
+   "money"
+  ],
+  "medical": [],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 2% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Cinnamon leaf oil is a strong skin sensitizer, so keep to the drops given and never substitute cinnamon bark or cassia oil, which are far harsher; lemongrass is a skin sensitizer, so use no more than about 4 drops per ounce; absolutes are concentrated and can trigger allergies, so keep to the drops given; sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Spring through summer, Ostara to Midsummer (Mar–Jun)",
+  "moonPhases": [
+   "First Quarter",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "interactions": "Cinnamon leaf oil is rich in eugenol, which has antiplatelet effects; if you take warfarin, aspirin, clopidogrel or other blood thinners, have a bleeding disorder or have surgery coming up, use this blend sparingly or not at all.",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds. This blend contains citrus and cinnamon oils, which are especially risky for cats.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/orange",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lemon-grass",
+   "https://www.drugs.com/npp/lemongrass.html",
+   "https://tisserandinstitute.org/learn-more/eugenol/",
+   "https://www.drugs.com/npp/clove.html",
+   "https://tisserandinstitute.org/wp-content/uploads/2022/10/Tisserand-Cinnamon-Report-FINAL-9.30.15.pdf",
+   "https://tisserandinstitute.org/learn-more/citruses-a-comparison-of-different-oils/"
+  ]
+ },
+ {
+  "id": "oil-prosperity",
+  "type": "oil",
+  "name": "Prosperity Oil",
+  "description": "Where Money Drawing pulls in cash, Prosperity Oil is about lasting abundance: a full table, a stable home and a growing store of wealth over time. Earthy patchouli, cedar and vetiver root the blend while bay laurel and orange invite growth, all herbs traditionally associated with Jupiter and the Sun. Use it for long-term financial health rather than quick wins.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Patchouli essential oil",
+    "amount": "4 drops"
+   },
+   {
+    "item": "Cedar (Atlas cedarwood) essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Sweet Orange Peel essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Vetiver essential oil",
+    "amount": "1 drop"
+   },
+   {
+    "item": "Bay Laurel essential oil",
+    "amount": "1 drop"
+   },
+   {
+    "item": "Bay Laurel leaf",
+    "amount": "1 small piece"
+   },
+   {
+    "item": "Whole Clove",
+    "amount": "1"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Place the bay leaf piece and whole clove in the empty bottle.",
+   "Add vetiver and patchouli first, then cedar, bay laurel and orange.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Dress a green candle on a Thursday each week, anoint the corners of your bank book, wallet or business ledger, place a drop on seed packets before planting, and touch a drop to the four corners of your home's front door frame.",
+  "chant": "Root and branch and golden fruit, abundance grow from deepest root; my cup is full, my table spread, my house is warm and richly fed.",
+  "intention": "Abundance flows into my life steadily and stays.",
+  "timing": "Thursday, waxing moon, in the hour of Jupiter.",
+  "metaphysical": [
+   "prosperity",
+   "abundance",
+   "money",
+   "grounding",
+   "business",
+   "success"
+  ],
+  "medical": [],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 2% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Bay laurel oil can sensitize skin, so keep to the drops given; sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Harvest season, Lammas to Mabon (Aug–Sep), and again at the turning of the calendar year",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous"
+  ],
+  "interactions": "",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds. This blend contains citrus oil, which is especially risky for cats.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/orange",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bay-laurel",
+   "https://tisserandinstitute.org/learn-more/citruses-a-comparison-of-different-oils/"
+  ]
+ },
+ {
+  "id": "oil-success",
+  "type": "oil",
+  "name": "Success Oil",
+  "description": "A bright solar oil for achievement, recognition and seeing your efforts pay off. Bay laurel crowned victors in ancient Greece and Rome, while frankincense and orange have long been tied to the Sun's power and honor. Use it when you have done the work and want the world to notice.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Sweet Orange Peel essential oil",
+    "amount": "4 drops"
+   },
+   {
+    "item": "Frankincense essential oil",
+    "amount": "4 drops"
+   },
+   {
+    "item": "Bergamot (FCF) essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Bay Laurel essential oil",
+    "amount": "1 drop"
+   },
+   {
+    "item": "Ginger essential oil",
+    "amount": "1 drop"
+   },
+   {
+    "item": "Bay Laurel leaf",
+    "amount": "1 small piece"
+   },
+   {
+    "item": "Dried Calendula petals",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Place the bay leaf and calendula petals in the empty bottle.",
+   "Add frankincense first, then orange and bergamot, then bay laurel and ginger.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Dress an orange or gold candle before exams, auditions, launches or reviews, anoint your pulse points before important meetings, and touch a drop to your resume, portfolio or diploma.",
+  "chant": "Laurel crown upon my head, golden sun and path ahead; all my labors bear their fruit, success is mine from crown to root.",
+  "intention": "My work is recognized and I achieve my goals.",
+  "timing": "Sunday in the hour of the Sun, waxing to full moon.",
+  "metaphysical": [
+   "success",
+   "victory",
+   "confidence",
+   "sun magic",
+   "employment",
+   "power"
+  ],
+  "medical": [],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 2.2% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Use only bergamot labeled FCF (bergaptene-free), because ordinary bergamot can cause severe sunburn-like blistering; bay laurel oil can sensitize skin, so keep to the drops given; people allergic to ragweed or daisy-family plants may react to the calendula; sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Summer, Midsummer to Lammas (Jun–Aug), when the Sun is strongest",
+  "moonPhases": [
+   "First Quarter",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "interactions": "",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds. This blend contains citrus oil, which is especially risky for cats.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/orange",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bay-laurel",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/calendula",
+   "https://www.drugs.com/npp/calendula.html",
+   "https://www.nccih.nih.gov/health/boswellia",
+   "https://www.drugs.com/npp/bergamot-oil.html",
+   "https://tisserandinstitute.org/learn-more/citruses-a-comparison-of-different-oils/"
+  ]
+ },
+ {
+  "id": "oil-psychic-protection",
+  "type": "oil",
+  "name": "Psychic Protection Oil",
+  "description": "A shielding oil for empaths, readers and anyone who opens themselves to spirit work. Mugwort and lavender support psychic sight, while sandalwood, myrrh and rosemary form the protective 'wall' that keeps unwanted energies and entities out. Wear it before divination, mediumship or busy crowds.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Sandalwood essential oil",
+    "amount": "4 drops"
+   },
+   {
+    "item": "Myrrh essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Lavender essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Rosemary essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Dried Mugwort",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Small black tourmaline or obsidian chip",
+    "amount": "1"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Place the mugwort and the tourmaline or obsidian chip in the empty bottle.",
+   "Add sandalwood and myrrh first, then lavender and rosemary.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Anoint the third eye, back of the neck and solar plexus before readings or mediumship, dress the edges of your tarot cloth, and touch a drop to your wrists before entering crowded or emotionally heavy places.",
+  "chant": "Open eye but guarded gate, only light may enter straight; what is mine may come to me, all else turned back, so mote it be.",
+  "intention": "My psychic senses are open and my energy is shielded and sovereign.",
+  "timing": "Monday, full moon or any time before divination.",
+  "metaphysical": [
+   "protection",
+   "psychic powers",
+   "divination",
+   "spirit work",
+   "grounding"
+  ],
+  "medical": [
+   "stress"
+  ],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 2% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Rosemary oil must never be used on or near the face of infants and young children, and people with epilepsy should avoid this blend; mugwort should be avoided entirely in pregnancy and by people allergic to ragweed-family plants; sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Autumn and winter, Samhain to Imbolc (Oct–Feb), when the veil is thin",
+  "moonPhases": [
+   "Full Moon",
+   "Waxing Gibbous",
+   "Dark Moon"
+  ],
+  "interactions": "",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://www.nccih.nih.gov/health/lavender",
+   "https://www.nccih.nih.gov/health/mugwort",
+   "https://www.webmd.com/vitamins/ai/ingredientmono-123/mugwort",
+   "https://www.drugs.com/npp/myrrh.html",
+   "https://tisserandinstitute.org/learn-more/kids-inhalation-safety/",
+   "https://www.drugs.com/npp/sandalwood-oil.html"
+  ]
+ },
+ {
+  "id": "oil-new-moon",
+  "type": "oil",
+  "name": "New Moon Oil",
+  "description": "A fresh, quiet oil for the first sliver of the lunar cycle, when intentions are seeded and plans begin. Jasmine and lemon balm (melissa) belong to the Moon's gentle side, while clary sage-like clarity comes from rosemary. Use it to anoint candles and journals as you set intentions for the month ahead.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Jasmine absolute (or sambac) oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Lemon Balm (melissa) essential oil",
+    "amount": "1 drop"
+   },
+   {
+    "item": "Rosemary essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Lavender essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Sandalwood essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Dried Jasmine flowers or a Moonstone chip",
+    "amount": "1"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Place the jasmine flowers or moonstone chip in the empty bottle.",
+   "Add sandalwood first, then lavender and rosemary, finishing with jasmine and melissa.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "If possible, set the bottle on a windowsill on the night of the new moon to receive the first darkness and returning light.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Anoint a white or silver candle while writing your intentions for the coming cycle, touch a drop to the pages of your journal or seed packets, and dab the heart before new-moon meditation.",
+  "chant": "Silver seed in dark of night, grow with me toward the light; what I plant, the moon shall tend, from this beginning to its end.",
+  "intention": "I plant the seeds of my intentions and trust them to grow.",
+  "timing": "The new moon or within three days after; Monday.",
+  "metaphysical": [
+   "new beginnings",
+   "manifestation",
+   "moon magic",
+   "wishes",
+   "meditation",
+   "clarity"
+  ],
+  "medical": [
+   "anxiety"
+  ],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 1.8% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Melissa oil can sensitize skin, so keep to one drop; absolutes are concentrated and can trigger allergies, so keep to the drops given; rosemary oil must never be used on or near the face of infants and young children, and people with epilepsy should avoid this blend; sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Year-round each lunar month; especially the first new moon after Yule or Imbolc (Jan–Feb)",
+  "moonPhases": [
+   "New Moon",
+   "Waxing Crescent"
+  ],
+  "interactions": "",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://www.nccih.nih.gov/health/lavender",
+   "https://tisserandinstitute.org/learn-more/kids-inhalation-safety/",
+   "https://www.drugs.com/npp/lemon-balm.html",
+   "https://www.drugs.com/npp/sandalwood-oil.html"
+  ]
+ },
+ {
+  "id": "oil-dark-moon",
+  "type": "oil",
+  "name": "Dark Moon Oil",
+  "description": "The dark moon, the two or three nights when no moon is seen, has long been sacred to Hecate, Lilith and other underworld powers and is used for shadow work, deep divination and release. This oil blends smoky vetiver, myrrh and patchouli with a breath of cypress-like cedar. It is a grounding companion for introspection, banishing and turning inward.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Myrrh essential oil",
+    "amount": "4 drops"
+   },
+   {
+    "item": "Vetiver essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Patchouli essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Cedar (Atlas cedarwood) essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Myrrh resin tear",
+    "amount": "1 small piece"
+   },
+   {
+    "item": "Obsidian or jet chip",
+    "amount": "1"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Place the myrrh tear and obsidian or jet chip in the empty bottle.",
+   "Add vetiver, myrrh and patchouli, then cedar.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Make the oil in darkness or by a single candle, and leave it uncapped for a breath while you name what you wish to release.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Anoint a black candle for release or shadow work, dab the solar plexus before journaling or scrying in a dark mirror, and dress the edges of a release letter before burning it safely.",
+  "chant": "Moon unseen and moon of rest, show me what is hidden best; what is old I lay to sleep, wisdom from the dark I keep.",
+  "intention": "I enter the dark with courage and release what no longer serves.",
+  "timing": "Dark moon (the final nights before the new moon); Saturday.",
+  "metaphysical": [
+   "shadow work",
+   "release",
+   "banishing",
+   "divination",
+   "endings",
+   "moon magic"
+  ],
+  "medical": [],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 2% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Late autumn and deep winter, Samhain to Yule (Oct–Dec)",
+  "moonPhases": [
+   "Dark Moon",
+   "Waning Crescent"
+  ],
+  "interactions": "",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.drugs.com/npp/myrrh.html"
+  ]
+ },
+ {
+  "id": "oil-samhain",
+  "type": "oil",
+  "name": "Samhain Oil",
+  "description": "Samhain, the Celtic new year on October 31, is the night when the veil between the living and the dead is thinnest. This spiced, smoky oil captures autumn with apple-like orange, clove, nutmeg and myrrh, herbs long offered to the ancestors. Use it for ancestor altars, divination and honoring the turning of the dark half of the year.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Myrrh essential oil",
+    "amount": "4 drops"
+   },
+   {
+    "item": "Sweet Orange Peel essential oil",
+    "amount": "4 drops"
+   },
+   {
+    "item": "Patchouli essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Nutmeg essential oil",
+    "amount": "1 drop"
+   },
+   {
+    "item": "Clove bud essential oil",
+    "amount": "1 drop"
+   },
+   {
+    "item": "Dried Apple slice",
+    "amount": "1 small piece"
+   },
+   {
+    "item": "Dried Mugwort",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Place the apple piece and pinch of mugwort in the empty bottle.",
+   "Add myrrh and patchouli first, then orange, finishing with single drops of nutmeg and clove.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Dress orange and black candles for the Samhain rite, anoint photos and mementos on the ancestor altar, touch a drop to tarot decks and scrying tools, and dab the wrists before a dumb supper.",
+  "chant": "Veil grow thin and spirits near, welcome kin who gather here; apple sweet and candle bright, bless this ancient Samhain night.",
+  "intention": "I honor my beloved dead and welcome the wisdom of the dark half of the year.",
+  "timing": "Samhain eve (Oct 31) or the dark moon closest to it.",
+  "metaphysical": [
+   "ancestors",
+   "spirit work",
+   "divination",
+   "endings",
+   "transformation",
+   "protection"
+  ],
+  "medical": [],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 2% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Clove bud oil is a strong skin sensitizer, so keep to the drops given and never substitute cinnamon bark or cassia oil, which are far harsher; nutmeg oil is potent, so keep to a single drop; mugwort should be avoided entirely in pregnancy and by people allergic to ragweed-family plants; sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Autumn, from Mabon to Samhain (late Sep–Oct 31), especially the week of Samhain",
+  "moonPhases": [
+   "Dark Moon",
+   "Waning Crescent",
+   "Full Moon"
+  ],
+  "interactions": "Clove oil is rich in eugenol, which has antiplatelet effects; if you take warfarin, aspirin, clopidogrel or other blood thinners, have a bleeding disorder or have surgery coming up, use this blend sparingly or not at all.",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds. This blend contains citrus and clove oils, which are especially risky for cats. It also contains nutmeg oil, to which cats are especially susceptible.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.petpoisonhelpline.com/poisons/nutmeg/",
+   "https://www.drugs.com/npp/nutmeg.html",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/orange",
+   "https://www.nccih.nih.gov/health/mugwort",
+   "https://www.webmd.com/vitamins/ai/ingredientmono-123/mugwort",
+   "https://www.drugs.com/npp/myrrh.html",
+   "https://tisserandinstitute.org/learn-more/eugenol/",
+   "https://www.drugs.com/npp/clove.html",
+   "https://tisserandinstitute.org/learn-more/citruses-a-comparison-of-different-oils/"
+  ]
+ },
+ {
+  "id": "oil-yule",
+  "type": "oil",
+  "name": "Yule Oil",
+  "description": "Yule marks the winter solstice, the longest night, when the Sun is reborn and evergreens promise that life endures. Pine, cedar and frankincense bring the forest indoors, while orange and a whisper of cinnamon recall old midwinter feasts. Use it for solstice candles, gifts and blessing the home through the dark season.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Pine (Scots pine) essential oil",
+    "amount": "4 drops"
+   },
+   {
+    "item": "Cedar (Atlas cedarwood) essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Frankincense essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Sweet Orange Peel essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Cinnamon leaf essential oil",
+    "amount": "1 drop"
+   },
+   {
+    "item": "Pine needles (dried)",
+    "amount": "a few"
+   },
+   {
+    "item": "Dried Orange Peel",
+    "amount": "1 small strip"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Place the pine needles and orange peel strip in the empty bottle.",
+   "Add frankincense and cedar first, then pine and orange, then the single drop of cinnamon.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Dress the Yule log or a gold candle lit at sunset on the solstice, anoint wrapped gifts and wreaths, touch a drop to the front door to welcome the returning light, and wear a dab for midwinter gatherings.",
+  "chant": "Longest night and sun reborn, evergreen and light of morn; warmth return and darkness yield, bless the hearth and bless the field.",
+  "intention": "I welcome the return of the light and the promise of renewal.",
+  "timing": "Winter solstice (Dec 20–23), at sunset or dawn.",
+  "metaphysical": [
+   "new beginnings",
+   "sun magic",
+   "blessing",
+   "home blessing",
+   "happiness",
+   "prosperity"
+  ],
+  "medical": [
+   "congestion"
+  ],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 2.2% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Cinnamon leaf oil is a strong skin sensitizer, so keep to the drops given and never substitute cinnamon bark or cassia oil, which are far harsher; pine oil irritates skin once it oxidizes, so use it within a year; sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Winter, the solstice season (Dec), through Twelfth Night (Jan 6)",
+  "moonPhases": [
+   "New Moon",
+   "Waxing Crescent",
+   "Full Moon"
+  ],
+  "interactions": "Cinnamon leaf oil is rich in eugenol, which has antiplatelet effects; if you take warfarin, aspirin, clopidogrel or other blood thinners, have a bleeding disorder or have surgery coming up, use this blend sparingly or not at all.",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds. This blend contains citrus, pine and cinnamon oils, which are especially risky for cats.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/orange",
+   "https://www.nccih.nih.gov/health/boswellia",
+   "https://tisserandinstitute.org/learn-more/eugenol/",
+   "https://www.drugs.com/npp/clove.html",
+   "https://tisserandinstitute.org/wp-content/uploads/2022/10/Tisserand-Cinnamon-Report-FINAL-9.30.15.pdf",
+   "https://tisserandinstitute.org/learn-more/citruses-a-comparison-of-different-oils/"
+  ]
+ },
+ {
+  "id": "oil-beltane",
+  "type": "oil",
+  "name": "Beltane Oil",
+  "description": "Beltane (May Day) celebrates the full bloom of spring, fertility, passion and the sacred union of the Goddess and God. Rose, ylang-ylang-like jasmine and sweet orange evoke May blossoms and bonfires, with a hint of hawthorn's sacred tree in the bottle. Use it for love, creativity, fertility rites and joy.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Rose absolute (or rose geranium) essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Jasmine absolute (or sambac) oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Sweet Orange Peel essential oil",
+    "amount": "4 drops"
+   },
+   {
+    "item": "Sandalwood essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Dried Hawthorn blossom or berry",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Dried Rose petals",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Place the hawthorn and rose petals in the empty bottle.",
+   "Add sandalwood first, then rose and jasmine, then orange.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Dress red and white candles for the Beltane rite, anoint ribbons for the maypole or a handfasting cord, dab the heart and wrists for love and creativity, and touch a drop to garden tools before planting.",
+  "chant": "Hawthorn white and fire bright, Lord and Lady meet tonight; bloom and blossom, love and seed, bless the land in word and deed.",
+  "intention": "I celebrate life, love and creative fire in full bloom.",
+  "timing": "Beltane eve and day (Apr 30–May 1), waxing to full moon.",
+  "metaphysical": [
+   "love",
+   "fertility",
+   "lust",
+   "happiness",
+   "energy",
+   "beauty"
+  ],
+  "medical": [],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 2% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Absolutes are concentrated and can trigger allergies, so keep to the drops given; sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Late spring, Beltane (Apr 30–May 1) through May",
+  "moonPhases": [
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "interactions": "",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds. This blend contains citrus oil, which is especially risky for cats.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/orange",
+   "https://tisserandinstitute.org/learn-more/citruses-a-comparison-of-different-oils/",
+   "https://tisserandinstitute.org/?p=5745",
+   "https://www.drugs.com/npp/sandalwood-oil.html"
+  ]
+ },
+ {
+  "id": "oil-goddess",
+  "type": "oil",
+  "name": "Goddess Oil",
+  "description": "A devotional oil for honoring the Divine Feminine in her many forms, from maiden to mother to crone. Rose has belonged to Venus, Isis and Mary alike, jasmine and sandalwood to moon goddesses, and myrrh to the deep mysteries of mourning and rebirth. Use it to invoke goddess energy, for women's circles and for self-honoring rites.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Rose absolute (or rose geranium) essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Jasmine absolute (or sambac) oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Sandalwood essential oil",
+    "amount": "4 drops"
+   },
+   {
+    "item": "Myrrh essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Vanilla CO2 extract or absolute",
+    "amount": "1 drop"
+   },
+   {
+    "item": "Dried Rose petals",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Moonstone or rose quartz chip",
+    "amount": "1"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Place the rose petals and moonstone or rose quartz chip in the empty bottle.",
+   "Add sandalwood and myrrh first, then rose, jasmine and vanilla.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Anoint goddess statues or images on your altar, dress silver, white or red candles when invoking a goddess, dab the heart and belly before circle work, and use it in a self-blessing before a mirror.",
+  "chant": "Maiden, Mother, Crone of night, rose of love and moon of light; in your name I bless this oil, hand to heart and seed to soil.",
+  "intention": "I honor the Goddess in all her forms and in myself.",
+  "timing": "Monday or Friday, full moon.",
+  "metaphysical": [
+   "spirituality",
+   "love",
+   "self-love",
+   "moon magic",
+   "fertility",
+   "blessing"
+  ],
+  "medical": [
+   "stress"
+  ],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 2% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Absolutes are concentrated and can trigger allergies, so keep to the drops given; sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Spring, Imbolc to Beltane (Feb–May), and every full moon",
+  "moonPhases": [
+   "Waxing Crescent",
+   "Full Moon",
+   "Waning Crescent"
+  ],
+  "interactions": "",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.drugs.com/npp/myrrh.html",
+   "https://tisserandinstitute.org/?p=5745",
+   "https://www.drugs.com/npp/sandalwood-oil.html"
+  ]
+ },
+ {
+  "id": "oil-horned-god",
+  "type": "oil",
+  "name": "Horned God Oil",
+  "description": "An earthy, musky oil honoring the Horned God of the wild wood: Cernunnos, Pan and the Green Man. Cedar, pine, patchouli and vetiver smell of forest floor and stag-trodden earth, with a touch of ginger for his fire. Use it for invoking wild masculine energy, vitality, the hunt and the cycle of the seasons.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Cedar (Atlas cedarwood) essential oil",
+    "amount": "4 drops"
+   },
+   {
+    "item": "Pine (Scots pine) essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Patchouli essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Vetiver essential oil",
+    "amount": "1 drop"
+   },
+   {
+    "item": "Ginger essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Oak bark or acorn cap",
+    "amount": "1 small piece"
+   },
+   {
+    "item": "Pine needles (dried)",
+    "amount": "a few"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Place the oak bark or acorn cap and pine needles in the empty bottle.",
+   "Add vetiver and patchouli first, then cedar and pine, then ginger.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Anoint antlers, horns or images of the Horned God on the altar, dress green or brown candles for invoking him, dab the chest and wrists before forest walks or vitality rites, and anoint a staff or wand.",
+  "chant": "Antlered lord of wood and wild, hunter, guardian, sun's own child; oak and pine and beating drum, Horned One, I bid you come.",
+  "intention": "I honor the Horned God and the wild, living strength of the earth.",
+  "timing": "Sunday or Tuesday, waxing moon; Beltane, Midsummer or Samhain.",
+  "metaphysical": [
+   "vitality",
+   "strength",
+   "fertility",
+   "grounding",
+   "spirituality",
+   "power"
+  ],
+  "medical": [
+   "muscle pain"
+  ],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 2% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Pine oil irritates skin once it oxidizes, so use it within a year; sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Autumn hunt season and spring rut, Beltane (May) and Samhain (Oct–Nov)",
+  "moonPhases": [
+   "Waxing Gibbous",
+   "Full Moon",
+   "Waning Gibbous"
+  ],
+  "interactions": "",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds. This blend contains pine oil, which is especially risky for cats.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know"
+  ]
+ },
+ {
+  "id": "oil-faery",
+  "type": "oil",
+  "name": "Faery Oil",
+  "description": "In British and Irish folklore, the Fair Folk are drawn to sweet flowers, hawthorn, and the honeyed scent of meadows. This delicate oil blends lavender, rose, violet-like orris, and honeysuckle, ideal for honoring nature spirits respectfully and inviting enchantment into the garden. Folk wisdom always advises courtesy: offer, do not demand, and never promise what you cannot keep.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Lavender essential oil",
+    "amount": "4 drops"
+   },
+   {
+    "item": "Rose absolute (or rose geranium) essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Honeysuckle fragrance-free infusion or absolute",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Orris Root (powdered)",
+    "amount": "a tiny pinch"
+   },
+   {
+    "item": "Dried Violet or Hawthorn blossom",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Clear quartz chip",
+    "amount": "1"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Place the flowers, a tiny pinch of orris root and the quartz chip in the empty bottle.",
+   "Add lavender first, then rose and honeysuckle.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Leave the bottle in the garden or on a windowsill overnight at the full moon with an offering of milk, honey or bread beside it.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Dress pastel or green candles when leaving offerings for nature spirits, anoint garden stones and faery houses, dab the wrists lightly before nature meditation, and touch a drop to a sprig of thyme carried in the woods.",
+  "chant": "Gentle folk of hill and glen, friend to flower, friend to wren; honey sweet I offer free, come in kindness, bless this tree.",
+  "intention": "I honor the spirits of nature with courtesy and invite gentle enchantment.",
+  "timing": "Full moon, Friday, at dawn or twilight.",
+  "metaphysical": [
+   "faery",
+   "spirit work",
+   "happiness",
+   "beauty",
+   "wishes",
+   "blessing"
+  ],
+  "medical": [],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 1.3% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Absolutes are concentrated and can trigger allergies, so keep to the drops given; orris root can cause allergic reactions; sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Beltane to Midsummer (May–Jun), the classic faery seasons",
+  "moonPhases": [
+   "Full Moon",
+   "Waxing Gibbous"
+  ],
+  "interactions": "",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://www.nccih.nih.gov/health/lavender",
+   "https://pubmed.ncbi.nlm.nih.gov/33533482",
+   "https://pubmed.ncbi.nlm.nih.gov/18875189",
+   "https://tisserandinstitute.org/?p=5745"
+  ]
+ },
+ {
+  "id": "oil-lodestone",
+  "type": "oil",
+  "name": "Lodestone Oil",
+  "description": "Lodestone, naturally magnetic magnetite, has been a hoodoo and European folk charm for centuries because it literally attracts. Lodestone oil was traditionally made by soaking a lodestone in oil to carry its drawing power into anything anointed. This version adds a little earthy patchouli and vetiver to strengthen its attraction for money, love or luck.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Small lodestone",
+    "amount": "1 (or a pair for love work)"
+   },
+   {
+    "item": "Magnetic sand (iron filings)",
+    "amount": "a small pinch"
+   },
+   {
+    "item": "Patchouli essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Vetiver essential oil",
+    "amount": "1 drop"
+   },
+   {
+    "item": "Sweet Orange Peel essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Wash the lodestone, let it dry, and 'feed' it with a pinch of magnetic sand before dropping it in the empty bottle with a little more sand.",
+   "Add vetiver and patchouli, then orange.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Each Friday, open the bottle and add a grain of magnetic sand to 'feed' the stone and keep its drawing power alive.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Dress candles for drawing any condition (money, love, customers, luck), anoint charm bags and the soles of your shoes, and rub a drop on coins kept in the cash register. Pick the stone from the bottle and carry it in a red flannel bag if needed.",
+  "chant": "Stone of iron, stone of pull, fill my hands and keep them full; what I need now come to me, drawn as iron, firm and free.",
+  "intention": "What I need is drawn to me like iron to a magnet.",
+  "timing": "Friday or Thursday, waxing moon.",
+  "metaphysical": [
+   "attraction",
+   "money",
+   "luck",
+   "love",
+   "manifestation",
+   "grounding"
+  ],
+  "medical": [],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 1.2% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Strain out the magnetic sand before putting the oil on skin, since the filings can scratch and irritate; sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Year-round; especially spring growth season (Mar–May)",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous"
+  ],
+  "interactions": "",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds. This blend contains citrus oil, which is especially risky for cats.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/orange",
+   "https://tisserandinstitute.org/learn-more/citruses-a-comparison-of-different-oils/"
+  ]
+ },
+ {
+  "id": "oil-peace-water",
+  "type": "oil",
+  "name": "Peace Water Oil",
+  "description": "Peace Water is a traditional hoodoo formula, often layered in blue and white, for calming quarrels, nervous households and stormy minds. This oil version keeps its soothing character with lavender, chamomile and a touch of sandalwood, scents long used in folk remedies for stress. Use it when arguments are frequent and everyone needs to breathe.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Lavender essential oil",
+    "amount": "5 drops"
+   },
+   {
+    "item": "Roman Chamomile essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Sandalwood essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Sweet Orange Peel essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Dried Chamomile flowers",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Blue lace agate or howlite chip",
+    "amount": "1"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Place the chamomile flowers and crystal chip in the empty bottle.",
+   "Add sandalwood first, then lavender, chamomile and orange.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Dress light blue candles in the room where arguments happen, anoint the corners of the house and the kitchen table, dab temples and wrists before difficult conversations, and add a few drops to an unscented diffuser base or room spray.",
+  "chant": "Still the storm and soothe the sea, peace within and peace with me; quiet hearts and gentle word, let only kindness here be heard.",
+  "intention": "Peace settles over this home and everyone in it.",
+  "timing": "Monday or Friday, waxing or full moon.",
+  "metaphysical": [
+   "peace",
+   "calm",
+   "home blessing",
+   "reconciliation",
+   "happiness",
+   "emotional healing"
+  ],
+  "medical": [
+   "anxiety",
+   "stress",
+   "insomnia"
+  ],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 2% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. People allergic to ragweed or daisy-family plants may react to the chamomile; sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Year-round; especially the hectic holidays (Nov–Jan) and late summer heat (Jul–Aug)",
+  "moonPhases": [
+   "Waxing Gibbous",
+   "Full Moon",
+   "Waning Gibbous"
+  ],
+  "interactions": "",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds. This blend contains citrus oil, which is especially risky for cats.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/chamomile",
+   "https://www.nccih.nih.gov/health/chamomile",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://www.nccih.nih.gov/health/lavender",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/orange",
+   "https://tisserandinstitute.org/learn-more/citruses-a-comparison-of-different-oils/",
+   "https://www.drugs.com/npp/sandalwood-oil.html"
+  ]
+ },
+ {
+  "id": "oil-reconciliation",
+  "type": "oil",
+  "name": "Reconciliation Oil",
+  "description": "A gentle, non-coercive oil for healing rifts between friends, family or partners where both people are open to it. Rose and lavender soften hearts, while vanilla and orange recall warmth and shared good times. This oil works on your own willingness to forgive and communicate; it does not override anyone's free will.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Rose absolute (or rose geranium) essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Lavender essential oil",
+    "amount": "4 drops"
+   },
+   {
+    "item": "Vanilla CO2 extract or absolute",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Sweet Orange Peel essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Dried Rose petals",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Dried Lemon Balm",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Place the rose petals and lemon balm in the empty bottle.",
+   "Add vanilla first, then rose and lavender, then orange.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Dress a pink candle with a photo of the two of you (or two names written side by side, not bound), anoint a letter or message before sending it, and dab your heart and throat before a reconciliation conversation so you speak gently and listen well.",
+  "chant": "Mend the thread and heal the tear, soften words and calm the air; if it be right and freely won, let what was broken be made one.",
+  "intention": "I open my heart to forgiveness and honest, kind communication.",
+  "timing": "Friday, waxing moon, in the hour of Venus.",
+  "metaphysical": [
+   "reconciliation",
+   "friendship",
+   "communication",
+   "emotional healing",
+   "love",
+   "peace"
+  ],
+  "medical": [
+   "stress"
+  ],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 2% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Absolutes are concentrated and can trigger allergies, so keep to the drops given; sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Spring, Ostara to Beltane (Mar–May), the season of renewal",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous"
+  ],
+  "interactions": "",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds. This blend contains citrus oil, which is especially risky for cats.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://www.nccih.nih.gov/health/lavender",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/orange",
+   "https://tisserandinstitute.org/learn-more/citruses-a-comparison-of-different-oils/",
+   "https://tisserandinstitute.org/?p=5745"
+  ]
+ },
+ {
+  "id": "oil-love-me-now-self-love",
+  "type": "oil",
+  "name": "Love Me Now Self-Love Oil",
+  "description": "A reworking of the old 'Love Me Now' formula aimed not at someone else but at the person in the mirror. Rose, jasmine and vanilla are classic love herbs, and here they are turned inward to build self-worth, tenderness and confidence. Love that starts within radiates outward and draws healthy love naturally.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Rose absolute (or rose geranium) essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Jasmine absolute (or sambac) oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Vanilla CO2 extract or absolute",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Sandalwood essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Sweet Orange Peel essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Rose quartz chip",
+    "amount": "1"
+   },
+   {
+    "item": "Dried Rose petals",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Place the rose quartz and petals in the empty bottle.",
+   "Add sandalwood and vanilla first, then rose and jasmine, then orange.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Look at yourself in a mirror while you roll the bottle and say three things you love about yourself.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Anoint your heart center each morning while looking in a mirror, dress a pink candle during a self-care bath, add a drop to body lotion, and touch it to your journal before writing affirmations.",
+  "chant": "Love me now and love me true, the one I see is someone new; worthy, whole and freely mine, I am the rose, I am the vine.",
+  "intention": "I love, honor and cherish myself fully, now.",
+  "timing": "Friday, waxing to full moon, in the hour of Venus.",
+  "metaphysical": [
+   "self-love",
+   "love",
+   "confidence",
+   "beauty",
+   "emotional healing",
+   "happiness"
+  ],
+  "medical": [
+   "stress",
+   "anxiety"
+  ],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 2% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Absolutes are concentrated and can trigger allergies, so keep to the drops given; sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Spring through Midsummer (Mar–Jun), and around your birthday",
+  "moonPhases": [
+   "Waxing Crescent",
+   "Waxing Gibbous",
+   "Full Moon"
+  ],
+  "interactions": "",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds. This blend contains citrus oil, which is especially risky for cats.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/orange",
+   "https://tisserandinstitute.org/learn-more/citruses-a-comparison-of-different-oils/",
+   "https://tisserandinstitute.org/?p=5745",
+   "https://www.drugs.com/npp/sandalwood-oil.html"
+  ]
+ },
+ {
+  "id": "oil-spirit-guide",
+  "type": "oil",
+  "name": "Spirit Guide Oil",
+  "description": "A graveyard-free oil for contacting benevolent guides, guardian spirits and higher teachers rather than the restless dead. Frankincense and sandalwood have lifted prayers for millennia, while star anise and lavender open the inner senses. Use it before meditation, journeying and automatic writing to call in helpful, loving guidance.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Frankincense essential oil",
+    "amount": "5 drops"
+   },
+   {
+    "item": "Sandalwood essential oil",
+    "amount": "4 drops"
+   },
+   {
+    "item": "Lavender essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Star Anise pod",
+    "amount": "1"
+   },
+   {
+    "item": "Dried Mugwort",
+    "amount": "a pinch"
+   },
+   {
+    "item": "Celestite, angelite or clear quartz chip",
+    "amount": "1"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Place the star anise pod, mugwort and crystal chip in the empty bottle.",
+   "Add sandalwood and frankincense first, then lavender.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Anoint the crown and third eye before guided meditation or shamanic-style journeying, dress a white or light blue candle with your request for guidance, and touch a drop to a journal before automatic writing. Always open and close the session with protection.",
+  "chant": "Guide of light and teacher true, I open now to speak with you; only those of love may near, speak, and I will gladly hear.",
+  "intention": "I welcome only loving, wise guides who have my highest good at heart.",
+  "timing": "Monday or Wednesday evening, full moon.",
+  "metaphysical": [
+   "spirit work",
+   "spirituality",
+   "meditation",
+   "psychic powers",
+   "wisdom",
+   "astral travel"
+  ],
+  "medical": [
+   "stress"
+  ],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 1.8% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Mugwort should be avoided entirely in pregnancy and by people allergic to ragweed-family plants; sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Autumn and winter, Mabon to Imbolc (Sep–Feb)",
+  "moonPhases": [
+   "Full Moon",
+   "Waxing Gibbous",
+   "Waning Gibbous"
+  ],
+  "interactions": "",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender",
+   "https://www.nccih.nih.gov/health/lavender",
+   "https://www.nccih.nih.gov/health/mugwort",
+   "https://www.webmd.com/vitamins/ai/ingredientmono-123/mugwort",
+   "https://www.nccih.nih.gov/health/boswellia",
+   "https://www.drugs.com/npp/sandalwood-oil.html"
+  ]
+ },
+ {
+  "id": "oil-clarity-and-study",
+  "type": "oil",
+  "name": "Clarity and Study Oil",
+  "description": "A bright, herbal oil for students, writers and anyone who needs a clear head. Rosemary has been tied to memory since ancient Greek scholars wore garlands of it during exams, and peppermint and lemon have long been used to refresh the mind. Use it for study sessions, exams, research and creative problem-solving.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Rosemary essential oil",
+    "amount": "5 drops"
+   },
+   {
+    "item": "Peppermint essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Lemon (steam-distilled) essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Frankincense essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Dried Rosemary sprig",
+    "amount": "1 small"
+   },
+   {
+    "item": "Fluorite chip",
+    "amount": "1"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Place the rosemary sprig and fluorite chip in the empty bottle.",
+   "Add frankincense first, then rosemary, lemon and peppermint.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Dab temples and wrists (not near the eyes) before studying or exams, dress a yellow candle on Wednesday for learning, touch a drop to the corner of notebooks and textbooks, and inhale from the bottle when focus drifts.",
+  "chant": "Rosemary for remembrance, mint to make me keen; clear my mind and sharpen sight, let all I learn be seen.",
+  "intention": "My mind is clear, focused and retains all I learn.",
+  "timing": "Wednesday in the hour of Mercury, waxing moon.",
+  "metaphysical": [
+   "clarity",
+   "focus",
+   "memory",
+   "knowledge",
+   "wisdom",
+   "communication"
+  ],
+  "medical": [
+   "headache",
+   "stress"
+  ],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 2% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Peppermint and rosemary oils must never be used on or near the face of infants and young children, and people with epilepsy should avoid this blend; sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Back-to-school and exam seasons, Mabon (Sep) and late spring (Apr–Jun)",
+  "moonPhases": [
+   "Waxing Crescent",
+   "First Quarter",
+   "Waxing Gibbous"
+  ],
+  "interactions": "",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds. This blend contains citrus and peppermint oils, which are especially risky for cats.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lemon",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/mint",
+   "https://www.nccih.nih.gov/health/boswellia",
+   "https://tisserandinstitute.org/learn-more/citruses-a-comparison-of-different-oils/",
+   "https://tisserandinstitute.org/learn-more/kids-inhalation-safety/",
+   "https://www.nccih.nih.gov/health/peppermint-oil"
+  ]
+ },
+ {
+  "id": "oil-altar",
+  "type": "oil",
+  "name": "Altar Oil",
+  "description": "A traditional general-purpose consecration oil for setting up, refreshing and dedicating your altar and sacred space. The trio of frankincense, myrrh and sandalwood has filled temples from Egypt to India, and a touch of cedar adds a clean, grounding note. Use it whenever you create or reset a sacred space.",
+  "ingredients": [
+   {
+    "item": "Jojoba or sweet almond carrier oil",
+    "amount": "30 ml (1 oz)"
+   },
+   {
+    "item": "Frankincense essential oil",
+    "amount": "5 drops"
+   },
+   {
+    "item": "Myrrh essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Sandalwood essential oil",
+    "amount": "3 drops"
+   },
+   {
+    "item": "Cedar (Atlas cedarwood) essential oil",
+    "amount": "2 drops"
+   },
+   {
+    "item": "Frankincense resin tear",
+    "amount": "1 small piece"
+   },
+   {
+    "item": "Bay Laurel leaf",
+    "amount": "1 small piece"
+   },
+   {
+    "item": "Vitamin E oil",
+    "amount": "3 drops"
+   }
+  ],
+  "steps": [
+   "Cleanse a 1 oz (30 ml) amber or cobalt glass bottle by rinsing it with salt water and passing it through incense smoke, then dry it completely.",
+   "Place the frankincense tear and bay leaf piece in the empty bottle.",
+   "Add myrrh and sandalwood first, then frankincense, then cedar.",
+   "Fill the bottle almost to the shoulder with the carrier oil, leaving room to swirl, and add the vitamin E to slow rancidity.",
+   "Cap and roll the bottle gently between your palms (do not shake) for a few minutes while holding your intention firmly in mind.",
+   "Speak the chant over the bottle, label it with the name and date, and let it rest in a dark cupboard for at least 3 days (ideally one full moon cycle) so the scents marry."
+  ],
+  "howToUse": "Anoint the four corners of your altar when setting it up, dress altar candles at the start of each ritual, consecrate new tools by tracing a pentacle or your chosen symbol on them, and refresh the altar each new moon.",
+  "chant": "Sacred space and holy ground, here the old ways shall be found; resin, root and fragrant wood, bless this altar, keep it good.",
+  "intention": "This altar is consecrated as a sacred and protected space.",
+  "timing": "New or full moon; any sabbat.",
+  "metaphysical": [
+   "consecration",
+   "blessing",
+   "purification",
+   "spirituality",
+   "protection",
+   "meditation"
+  ],
+  "medical": [],
+  "caution": "External use only; never swallow, and keep it away from the eyes, the inside of the mouth and other mucous membranes. This blend is about 2.2% essential oil, suitable for occasional use on small areas of adult skin, so do not add extra drops; patch test on the inner forearm and wait 24 hours, stop if redness, itching or burning appears, and never apply it to broken or irritated skin. Avoid during pregnancy and breastfeeding unless cleared by a healthcare provider, do not use on infants or young children, and store the bottle out of reach of children and pets. Sweet almond oil can affect people with tree nut allergies, so use jojoba or sunflower instead if that applies. When dressing candles, wipe excess oil from the wick and never leave a burning candle unattended.",
+  "bestTime": "Year-round; at each sabbat, and especially Samhain (the witch's new year, Oct 31)",
+  "moonPhases": [
+   "New Moon",
+   "Full Moon"
+  ],
+  "interactions": "",
+  "pets": "Essential oils can poison cats, dogs and birds if licked, absorbed or inhaled in a small space: never apply to pets, keep them from licking anointed skin or surfaces, and do not diffuse around cats or birds.",
+  "toxic": false,
+  "externalOnly": true,
+  "sources": [
+   "https://tisserandinstitute.org/dilution-essential-oils/",
+   "https://tisserandinstitute.org/safety/irritation-allergic-reactions/",
+   "https://www.poison.org/articles/essential-oils",
+   "https://tisserandinstitute.org/cats-essential-oil-safety/",
+   "https://www.aspca.org/news/latest-home-trend-harmful-your-pets-what-you-need-know",
+   "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bay-laurel",
+   "https://www.drugs.com/npp/myrrh.html",
+   "https://www.nccih.nih.gov/health/boswellia",
+   "https://www.drugs.com/npp/sandalwood-oil.html"
+  ]
+ }
+]

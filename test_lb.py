@@ -1,0 +1,25 @@
+import asyncio
+from playwright.async_api import async_playwright
+async def main():
+    async with async_playwright() as p:
+        b = await p.chromium.launch(executable_path='/opt/pw-browsers/chromium-1243/chrome-linux64/chrome')
+        pg = await b.new_page(viewport={'width': 400, 'height': 860}, device_scale_factor=2)
+        errs=[]; pg.on('pageerror', lambda e: errs.append(str(e)))
+        await pg.goto('http://localhost:8765/index.html#/view/herb-lavender'); await pg.wait_for_timeout(1200)
+        await pg.screenshot(path='shots/lb0.png')
+        await pg.click('.banner'); await pg.wait_for_timeout(400)
+        await pg.screenshot(path='shots/lb1.png')
+        await pg.click('[data-z=in]'); await pg.click('[data-z=in]'); await pg.wait_for_timeout(400)
+        await pg.mouse.move(200,400); await pg.mouse.down(); await pg.mouse.move(80,300,steps=8); await pg.mouse.up(); await pg.wait_for_timeout(200)
+        await pg.screenshot(path='shots/lb2.png')
+        print('transform', await pg.evaluate("document.querySelector('.lb-content').style.transform"))
+        await pg.keyboard.press('Escape'); await pg.wait_for_timeout(200)
+        print('closed', await pg.locator('.lightbox').count()==0)
+        await pg.evaluate("location.hash='#/view/sigil-algiz'"); await pg.wait_for_timeout(600)
+        await pg.click('.banner'); await pg.wait_for_timeout(300)
+        await pg.mouse.dblclick(200,380); await pg.wait_for_timeout(400)
+        await pg.screenshot(path='shots/lb3.png')
+        print('appBack', await pg.evaluate("window.appBack()"), await pg.locator('.lightbox').count())
+        print(errs)
+        await b.close()
+asyncio.run(main())
