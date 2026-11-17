@@ -169,6 +169,7 @@ window.receiveIncoming = s => {
   if (!s) return;
   if (s.startsWith('file:')) { try { const b = atob(s.slice(5)), u = new Uint8Array(b.length); for (let i = 0; i < b.length; i++) u[i] = b.charCodeAt(i); receiveFileText(new TextDecoder().decode(u)); } catch (e) { toast('That file could not be read'); } }
   else if (s.startsWith('text:')) receiveCodeText(s.slice(5));
+  else if (s.startsWith('route:')) location.hash = s.slice(6);
 };
 function checkIncomingShare() {
   if (window.AndroidBridge && AndroidBridge.takeIncoming) { const s = AndroidBridge.takeIncoming(); if (s) setTimeout(() => window.receiveIncoming(s), 300); }

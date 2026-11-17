@@ -486,6 +486,7 @@ route('moon', async v => {
       ${nextFull ? `<div class="fact"><small>NEXT FULL MOON</small><span>${fmtDate(nextFull.date)} · ${fmtTime(nextFull.date)}</span><div class="small muted">${esc(nextFull.moonName)} · in ${daysTo(nextFull.date)} days</div></div>` : ''}
       ${nextNew ? `<div class="fact"><small>NEXT NEW MOON</small><span>${fmtDate(nextNew.date)} · ${fmtTime(nextNew.date)}</span><div class="small muted">in ${daysTo(nextNew.date)} days</div></div>` : ''}
     </div>
+    <div class="actions"><a class="btn small${Reminders.android() && Reminders.prefs().on ? '' : ' ghost'}" href="#/moon/reminders">${ART.bell} ${Reminders.android() ? (Reminders.prefs().on ? 'Reminders on' : 'Remind me') : 'Add to my calendar'}</a></div>
     ${works.length ? `<div class="section-title"><h2>Workings for Now</h2></div><div class="list">${works.slice(0, 5).map(i => rowHTML(i, `<span class="muted">${TYPES[i.type].one}</span> · ${esc(i.bestTime || '')}`)).join('')}</div>
       <div class="actions"><a class="btn small ghost" href="#/phase/${encodeURIComponent(nowPhase)}">All ${works.length} for the ${esc(nowPhase)}</a></div>` : ''}
     <div class="section-title"><h2>Phase Guide</h2></div>
@@ -565,6 +566,9 @@ route('settings', async v => {
     <div class="section-title"><h2>Backup</h2></div>
     <p class="small">Everything you add lives only on this phone. Export a backup file now and then (and before uninstalling) to keep your Book of Shadows safe.</p>
     <div class="actions"><button class="btn" id="exp">Export backup</button><button class="btn ghost" id="imp">Import backup</button></div>
+    <div class="section-title"><h2>Moon Reminders</h2></div>
+    <p class="small">${Reminders.android() ? 'A notification before the moon phases and sabbats you choose.' : 'A calendar file of the moon phases and sabbats you choose, with alerts.'} <span class="muted">${Reminders.android() ? 'Now: ' + esc(Reminders.summary()) : ''}</span></p>
+    <div class="actions"><a class="btn" href="#/moon/reminders">${ART.bell} Moon reminders</a></div>
     ${updatesSettingsHTML()}
     <div class="section-title"><h2>Sources</h2></div>
     <p class="small">Where the safety, health and reference information in this app comes from.</p>
@@ -613,7 +617,7 @@ async function importBackupData(data) {
       if (Array.isArray(data.decks)) { await Decks.load(); const have = new Set(Decks.list.map(d => d.id)); data.decks.forEach(d => { if (d && d.id && !have.has(d.id)) Decks.list.push(d); }); await Decks.save(); }
       if (data.deckImages && typeof data.deckImages === 'object') { for (const [k, url] of Object.entries(data.deckImages)) if (/^deckimg:[\w-]+:\d+$/.test(k) && typeof url === 'string' && url.startsWith('data:image/')) await DB.set(k, url); await applyDeckImages(); }
       if (data.favs) { Store.favs = new Set(data.favs); await DB.set('favs', data.favs); }
-      if (data.settings) { Store.settings = { ...Store.settings, ...data.settings }; await DB.set('settings', Store.settings); applyTheme(); }
+      if (data.settings) { Store.settings = { ...Store.settings, ...data.settings }; await DB.set('settings', Store.settings); applyTheme(); Reminders.sync(); }
   await applyDeckImages().catch(() => { });
   Store.reindex(); renderTabbar(); toast('Backup restored ✶'); location.hash = '#/'; render();
   return true;
