@@ -1,13 +1,10 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apk": "https://github.com/PacoGeist/WitchCompanion/releases/download/v1.0/WitchcraftCompanion.apk",
+  "versionCode": 10100,
+  "versionName": "1.1",
+  "apk": "https://github.com/PacoGeist/WitchCompanion/releases/download/v1.1/WitchcraftCompanion.apk",
   "notes": [
-    "Version 1.0: Paco Morningstar's Witches' Companion, now with its own app ID and signing key",
-    "Tried an earlier test version? In the old app go to Settings \u2192 Export backup, then uninstall it, install this one and use Settings \u2192 Import backup (or just open the backup file with the app)",
-    "Send to a Friend and Receive from a Friend, for your own spells, recipes, spreads and photographed decks",
-    "Print any page, choose your own bottom buttons, and arrange the home screen from Settings",
-    "One-tap updates from now on"
+    "Moon reminders: get a notification before the New Moon, Full Moon, quarter moons or sabbats you choose, at the time you choose (Moon Tracker, then Remind me)",
+    "On iPhone and the web, Moon Reminders makes a calendar file so your phone's calendar can remind you"
   ],
   "site": "https://pacogeist.github.io/WitchCompanion/"
 }

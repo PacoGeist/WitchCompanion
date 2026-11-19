@@ -52,6 +52,7 @@
 <script src="js/candles.js"></script>
 <script src="js/version.js"></script>
 <script src="js/update.js"></script>
+<script src="js/reminders.js"></script>
 <script src="js/share.js"></script>
 <script>
 (async function () {
@@ -67,6 +68,7 @@
   window.addEventListener('hashchange', render);
   render();
   autoUpdateCheck();
+  Reminders.sync();
   checkIncomingShare();
   // Android hardware back: let the page close modals first
   window.appBack = function () { const lb = document.querySelector('.lightbox'); if (lb) { lb._close(); return true; } const m = document.querySelector('.modal'); if (m) { m.remove(); return true; } if (location.hash && location.hash !== '#/' && location.hash !== '#') { history.back(); return true; } return false; };

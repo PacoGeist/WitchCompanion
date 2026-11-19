@@ -607,3 +607,16 @@ button.deck-cover{padding:0;cursor:pointer;color:var(--gold);flex-direction:colu
 .tabpick label{display:flex;align-items:center;gap:10px;font-family:"Cinzel Decorative";font-size:.8rem;color:var(--gold2)}
 .tabpick select{flex:1;min-width:0}
 .tabbar a{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+/* moon reminders */
+.rem-bell{width:64px;height:64px;margin:0 auto;color:var(--gold)}.rem-bell svg{width:100%;height:100%}
+.rem-opts{display:grid;gap:8px;margin-bottom:6px}
+.rem-opts .rem-ico{width:34px;height:34px;flex:0 0 34px;display:grid;place-items:center;color:var(--gold)}.rem-opts .rem-ico svg{width:30px;height:30px}
+.form .rem-opts label.share-row{display:flex;font-family:inherit;font-size:1rem;letter-spacing:0;color:var(--ink);margin:0}
+.form .rem-opts label.share-row b{color:var(--gold2)}
+.rem-time{width:auto;min-width:0;max-width:150px;flex:0 1 auto;margin:0;background:var(--input);border:1px solid var(--line2);border-radius:10px;color:var(--ink);font:inherit;font-size:1rem;padding:7px 10px;color-scheme:dark}
+html[data-mode=day] .rem-time{color-scheme:light}
+.rem-when{flex-wrap:wrap}.rem-when .seg{flex:1 1 100%;display:flex}.rem-when .seg button{flex:1;padding:8px 4px}
+.rem-next{display:flex;justify-content:space-between;align-items:baseline;gap:8px;flex-wrap:wrap;padding:6px 0;border-bottom:1px dashed var(--line)}.rem-next:last-child{border-bottom:0}
+.rem-next b{color:var(--gold2);min-width:0;overflow-wrap:anywhere}
+.rem-warn{border-color:var(--gold)}

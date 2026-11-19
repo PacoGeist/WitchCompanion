@@ -54,6 +54,7 @@
     menu: S(`<line x1="18" y1="30" x2="82" y2="30"/><line x1="18" y1="50" x2="82" y2="50"/><line x1="18" y1="70" x2="82" y2="70"/>`),
     close: S(`<line x1="24" y1="24" x2="76" y2="76" stroke-width="6"/><line x1="76" y1="24" x2="24" y2="76" stroke-width="6"/>`),
     image: S(`<rect x="12" y="20" width="76" height="60" rx="4"/><path d="M12 70l22-22 18 18 12-10 24 20"/><path d="M70 32a7 7 0 1 0 5 11 5 5 0 0 1-5-11z"/>`),
+    bell: S(`<path d="M50 14c-15 0-25 11-25 27v15c0 6-4 11-10 15h70c-6-4-10-9-10-15V41c0-16-10-27-25-27z"/><path d="M42 79a8 8 0 0 0 16 0"/><path d="M50 8v6"/>`),
     shuffle: S(`<path d="M14 30h18c16 0 20 40 36 40h18M14 70h18c16 0 20-40 36-40h18"/><path d="M78 22l8 8-8 8M78 62l8 8-8 8"/>`),
     divider: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 24" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"><path d="M6 12h104M190 12h104"/><circle cx="114" cy="12" r="2" fill="currentColor"/><circle cx="186" cy="12" r="2" fill="currentColor"/><path d="M138 4a9 9 0 1 0 0 16 11 11 0 0 1 0-16z"/><circle cx="150" cy="12" r="8"/><path d="M162 4a9 9 0 1 1 0 16 11 11 0 0 0 0-16z"/><path d="M20 12l-8-5M20 12l-8 5M280 12l8-5M280 12l8 5"/></svg>`,
   };
