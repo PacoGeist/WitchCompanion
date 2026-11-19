@@ -15,12 +15,43 @@ async function applyDeckImages() {
   if (!window.TAROT_DECK) return;
   TAROT_DECK.forEach(c => { if (!c.imgRWS) c.imgRWS = c.img; c.img = c.imgRWS; });
   await Decks.load();
+  const sys = sysOf(activeSystemId());           // the built-in deck's pictures first
+  TAROT_DECK.forEach(c => c.img = sys.img(c));
   const d = Decks.get(Store.settings.activeDeck);
   if (!d || !(d.cards || []).length) return;
   const imgs = await DeckImg.all(d.id);
   TAROT_DECK.forEach((c, i) => { if (imgs[i]) c.img = imgs[i]; });
 }
 const cardShort = c => c.name.replace(/^[0IVXL]+ · /, '');
+
+/* ----- card backs: the built-in deck's own design, or the back a person photographed for their deck ----- */
+const DEFAULT_BACK = (() => {
+  const G = '#d4ad5a', L = '#f0d48a';
+  const star = (x, y, r, o) => `<path d="M${x} ${y - r}L${x + r * .28} ${y - r * .28}L${x + r} ${y}L${x + r * .28} ${y + r * .28}L${x} ${y + r}L${x - r * .28} ${y + r * .28}L${x - r} ${y}L${x - r * .28} ${y - r * .28}Z" fill="${L}" opacity="${o}"/>`;
+  // the same above and below the middle, so the back looks the same either way up
+  const dots = [[48, 70, 1.6], [252, 92, 1.3], [80, 140, 1.1], [222, 160, 1.7], [60, 210, 1.2], [242, 222, 1.1], [104, 96, 1], [196, 120, 1.2]];
+  const field = dots.map(([x, y, r]) => `<circle cx="${x}" cy="${y}" r="${r}" fill="${L}" opacity=".55"/><circle cx="${300 - x}" cy="${518 - y}" r="${r}" fill="${L}" opacity=".55"/>`).join('');
+  const rays = Array.from({ length: 24 }, (_, i) => { const a = i * Math.PI / 12, r1 = 84, r2 = i % 2 ? 92 : 100; return `<line x1="${(150 + r1 * Math.cos(a)).toFixed(1)}" y1="${(259 + r1 * Math.sin(a)).toFixed(1)}" x2="${(150 + r2 * Math.cos(a)).toFixed(1)}" y2="${(259 + r2 * Math.sin(a)).toFixed(1)}" stroke="${G}" stroke-width="${i % 2 ? 1 : 1.6}" stroke-linecap="round"/>`; }).join('');
+  const corner = (x, y, sx, sy) => `<g transform="translate(${x} ${y}) scale(${sx} ${sy})"><path d="M0 34V12Q0 0 12 0H34" fill="none" stroke="${G}" stroke-width="1.4"/><circle cx="14" cy="14" r="5.5" fill="${G}"/><circle cx="16.5" cy="12.5" r="4.6" fill="#1c1230"/></g>`;
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 518" preserveAspectRatio="xMidYMid slice">
+<defs><radialGradient id="bg" cx="50%" cy="50%" r="70%"><stop offset="0" stop-color="#43296b"/><stop offset=".55" stop-color="#26173f"/><stop offset="1" stop-color="#120a20"/></radialGradient>
+<radialGradient id="fm" cx="42%" cy="40%" r="65%"><stop offset="0" stop-color="#fff3cf"/><stop offset=".6" stop-color="${L}"/><stop offset="1" stop-color="#b8903f"/></radialGradient>
+<mask id="ml"><circle cx="99" cy="259" r="21" fill="#fff"/><circle cx="109" cy="259" r="19" fill="#000"/></mask>
+<mask id="mr"><circle cx="201" cy="259" r="21" fill="#fff"/><circle cx="191" cy="259" r="19" fill="#000"/></mask></defs>
+<rect width="300" height="518" fill="url(#bg)"/>${field}
+<rect x="9" y="9" width="282" height="500" rx="14" fill="none" stroke="${G}" stroke-width="3"/>
+<rect x="18" y="18" width="264" height="482" rx="9" fill="none" stroke="${G}" stroke-width=".9" opacity=".75"/>
+${corner(26, 26, 1, 1)}${corner(274, 26, -1, 1)}${corner(26, 492, 1, -1)}${corner(274, 492, -1, -1)}
+<line x1="150" y1="40" x2="150" y2="150" stroke="${G}" stroke-width=".8" opacity=".6"/><line x1="150" y1="368" x2="150" y2="478" stroke="${G}" stroke-width=".8" opacity=".6"/>
+${star(150, 128, 14, .95)}${star(150, 390, 14, .95)}${star(150, 64, 7, .7)}${star(150, 454, 7, .7)}
+${rays}<circle cx="150" cy="259" r="78" fill="#1c1230" fill-opacity=".55" stroke="${G}" stroke-width="1.6"/><circle cx="150" cy="259" r="70" fill="none" stroke="${G}" stroke-width=".7" opacity=".7"/>
+<circle cx="99" cy="259" r="21" fill="url(#fm)" mask="url(#ml)"/><circle cx="201" cy="259" r="21" fill="url(#fm)" mask="url(#mr)"/><circle cx="150" cy="259" r="24" fill="url(#fm)"/>
+${star(150, 214, 5, .9)}${star(150, 304, 5, .9)}</svg>`;
+  return 'data:image/svg+xml;charset=utf-8,' + encodeURIComponent(svg);
+})();
+// the back to show for face-down cards: the deck chosen in My Decks, if it has a photographed back
+window.cardBack = () => { const d = typeof Decks !== 'undefined' && Decks.get(Store.settings.activeDeck); return (d && d.back) || sysOf(activeSystemId()).back(); };
+const SPECIAL_SLOT = { [-1]: { name: 'Deck cover', img: '', imgRWS: '' }, [-2]: { name: 'Card back', img: '', imgRWS: '' } };
 
 /* ----- one deck: its 78 card slots ----- */
 route('decks/:id', async (v, [id]) => {
@@ -30,8 +61,10 @@ route('decks/:id', async (v, [id]) => {
   const imgs = await DeckImg.all(d.id), have = Object.keys(imgs).length, active = Store.settings.activeDeck === d.id;
   const groups = ['Major', 'Wands', 'Cups', 'Swords', 'Pentacles'];
   v.innerHTML = `<div class="deck-head"><button type="button" class="deck-cover" id="dcov" aria-label="Deck cover photo">${d.image ? `<img src="${d.image}" alt="">` : `${ART.image}<span class="small">cover</span>`}</button>
+      <button type="button" class="deck-cover deck-back ${d.back ? '' : 'missing'}" id="dback" aria-label="Card back photo">${d.back ? `<img src="${d.back}" alt="">` : `<img src="${DEFAULT_BACK}" alt=""><span class="small">add back</span>`}</button>
       <div><h1>${esc(d.name)}</h1><div class="small muted">${esc([d.creator, d.since ? 'since ' + d.since : ''].filter(Boolean).join(' · '))}</div>
       <div class="craft-prog" style="margin-top:6px"><div class="bar"><i style="width:${Math.round(have / 78 * 100)}%"></i></div><span>${have} of 78 cards photographed</span></div></div></div>
+    ${d.back ? '' : `<p class="small center" style="margin:4px 6px 0">Tap <b>add back</b> to photograph the back of any one card. One photo is used for the whole deck when cards are face down.</p>`}
     <div class="actions">
       <button class="btn primary big" id="dshoot">${ART.image} ${have ? (have < 78 ? `Photograph the next card (${78 - have} to go)` : 'Retake a card') : 'Photograph my 78 cards'}</button>
       <button class="btn ghost" id="dedit">${ART.edit} Edit details</button></div>
@@ -41,10 +74,13 @@ route('decks/:id', async (v, [id]) => {
     <div class="actions"><button class="btn ghost" id="dexp" ${have ? '' : 'disabled'}>${ART.share || ART.book} Export to share</button></div>
     <p class="small muted center" style="margin:2px 6px 8px">Tap any card to photograph it, adjust it, or remove it. Faded cards still show the Rider–Waite–Smith picture.</p>
     <div id="dslots">${groups.map(g => `<div class="section-title"><h2>${g === 'Major' ? 'Major Arcana' : g}</h2></div>
-      <div class="deck-grid small-grid">${TAROT_DECK.map((c, i) => c.arcana !== g ? '' : `<button type="button" class="deck-card ${imgs[i] ? '' : 'missing'}" data-n="${i}"><img src="${imgs[i] || c.imgRWS || c.img}" alt="" loading="lazy"><b>${esc(cardShort(c))}</b>${imgs[i] ? '' : '<span>tap to photograph</span>'}</button>`).join('')}</div>`).join('')}</div>`;
+      <div class="deck-grid small-grid">${TAROT_DECK.map((c, i) => c.arcana !== g ? '' : `<button type="button" class="deck-card ${imgs[i] ? '' : 'missing'}" data-n="${i}"><img src="${imgs[i] || sysOf(d.system).img(c)}" alt="" loading="lazy"><b>${esc(cardShortTitle(c.name, d.system))}</b>${imgs[i] ? '' : '<span>tap to photograph</span>'}</button>`).join('')}</div>`).join('')}</div>`;
   $('#dedit', v).onclick = () => deckEditor(d);
   $('#dcov', v).onclick = () => photoChoice('Deck cover', d.image, () => captureCard(d, -1, false), async () => { const f = await pickFile('image/*'); if (!f) return; adjustCard(d, -1, await readImageFile(f, 2000, .9), false); });
-  $('#dshoot', v).onclick = () => { const first = TAROT_DECK.findIndex((c, i) => !imgs[i]); captureCard(d, first < 0 ? 0 : first, first >= 0); };
+  $('#dback', v).onclick = () => photoChoice('Card back', d.back, () => captureCard(d, -2, false), async () => { const f = await pickFile('image/*'); if (!f) return; adjustCard(d, -2, await readImageFile(f, 2000, .9), false); },
+    d.back ? `<button class="btn danger" data-extra>${ART.trash} Use the app's card back instead</button>` : '',
+    async () => { d.back = ''; await Decks.save(); toast('Card back removed'); render(); });
+  $('#dshoot', v).onclick = () => { const first = TAROT_DECK.findIndex((c, i) => !imgs[i]); if (!d.back && !have) return captureCard(d, -2, true); captureCard(d, first < 0 ? 0 : first, first >= 0); };
   $('#duse', v).onclick = async e => { const b = e.target.closest('button'); if (!b) return; await Store.setSetting('activeDeck', b.dataset.v === 'on' ? d.id : ''); await applyDeckImages(); toast(b.dataset.v === 'on' ? `Showing ${d.name} in the app ✶` : 'Showing Rider–Waite–Smith'); render(); };
   $('#dexp', v).onclick = () => exportDeck(d);
   $('#dslots', v).onclick = e => {
@@ -68,19 +104,22 @@ route('decks/:id', async (v, [id]) => {
 });
 
 // a small sheet: take a photo with the camera, or choose one already on the phone
-function photoChoice(title, current, onCamera, onPick, extra = '') {
+function photoChoice(title, current, onCamera, onPick, extra = '', onExtra) {
   modal(`<h2>${esc(title)}</h2>${current ? `<div class="deck-slot-prev"><img src="${current}" alt=""></div>` : ''}
     <div class="actions" style="flex-direction:column"><button class="btn primary" id="pc">${ART.image} Take a photo</button><button class="btn" id="pp">Choose a picture</button>${extra}<button class="btn ghost" id="px">Cancel</button></div>`,
-    (m, close) => { $('#px', m).onclick = close; $('#pc', m).onclick = () => { close(); onCamera(); }; $('#pp', m).onclick = () => { close(); onPick(); }; });
+    (m, close) => {
+      $('#px', m).onclick = close; $('#pc', m).onclick = () => { close(); onCamera(); }; $('#pp', m).onclick = () => { close(); onPick(); };
+      const x = $('[data-extra]', m); if (x && onExtra) x.onclick = () => { close(); onExtra(); };
+    });
 }
 
 /* ----- the camera: a live viewfinder with a card-shaped guide ----- */
 let camStream = null;
 function stopCamera() { if (camStream) { camStream.getTracks().forEach(t => t.stop()); camStream = null; } }
 async function captureCard(deck, n, sequence) {
-  const c = n < 0 ? { name: 'Deck cover', img: '', imgRWS: '' } : TAROT_DECK[n];
+  const c = n < 0 ? SPECIAL_SLOT[n] : TAROT_DECK[n];
   const ov = document.createElement('div'); ov.className = 'cam';
-  ov.innerHTML = `<div class="cam-top"><b>${esc(cardShort(c))}</b><span>${n < 0 ? 'The box, or your favorite card' : `Card ${n + 1} of 78`}</span></div>
+  ov.innerHTML = `<div class="cam-top"><b>${esc(cardShort(c))}</b><span>${n === -1 ? 'The box, or your favorite card' : n === -2 ? 'The back of any card. One photo is used for every card.' : `Card ${n + 1} of 78`}</span></div>
     <div class="cam-view"><video playsinline muted autoplay></video><div class="cam-frame">${n < 0 ? '' : `<img src="${c.imgRWS || c.img}" alt="">`}</div><p class="cam-msg">Starting the camera…</p></div>
     <div class="cam-tip">Lay the card flat in good light and line it up inside the frame.</div>
     <div class="cam-bar"><button class="btn ghost" id="cx">Done</button><button class="cam-shoot" id="cs" aria-label="Take photo"></button><button class="btn ghost" id="cp">Photos</button></div>
@@ -119,13 +158,13 @@ async function captureCard(deck, n, sequence) {
 }
 function nextCard(deck, n) {
   const have = new Set(deck.cards || []);
-  for (let k = n + 1; k < 78; k++) if (!have.has(k)) return captureCard(deck, k, true);
+  for (let k = Math.max(n + 1, 0); k < 78; k++) if (!have.has(k)) return captureCard(deck, k, true);
   toast(have.size >= 78 ? 'All 78 cards photographed ✶' : 'Reached the end of the deck'); render();
 }
 
 /* ----- the editor: pinch, drag and twist the photo inside the card frame ----- */
 function adjustCard(deck, n, src, sequence, guide) {
-  const c = n < 0 ? { name: 'Deck cover', img: '', imgRWS: '' } : TAROT_DECK[n];
+  const c = n < 0 ? SPECIAL_SLOT[n] : TAROT_DECK[n];
   const img = new Image();
   img.onload = () => {
     const ov = document.createElement('div'); ov.className = 'cam adj';
@@ -197,7 +236,7 @@ function adjustCard(deck, n, src, sequence, guide) {
     $('#as', ov).onclick = async () => {
       const out = document.createElement('canvas'); out.width = CARD_W; out.height = CARD_H;
       const g = out.getContext('2d'); g.fillStyle = '#111'; g.fillRect(0, 0, CARD_W, CARD_H); drawTo(g, 0, 0, 1);
-      if (n < 0) { deck.image = out.toDataURL('image/jpeg', .8); const i = Decks.list.findIndex(y => y.id === deck.id); if (i >= 0) Decks.list[i].image = deck.image; await Decks.save(); }
+      if (n < 0) { const f = n === -2 ? 'back' : 'image'; deck[f] = out.toDataURL('image/jpeg', n === -2 ? .85 : .8); const i = Decks.list.findIndex(y => y.id === deck.id); if (i >= 0) Decks.list[i][f] = deck[f]; await Decks.save(); }
       else await DeckImg.set(deck, n, out.toDataURL('image/jpeg', .85));
       if (Store.settings.activeDeck === deck.id) await applyDeckImages();
       done(); toast(`${cardShort(c)} saved ✶`);
@@ -213,7 +252,7 @@ async function exportDeck(d) {
   toast('Preparing your deck…');
   const imgs = await DeckImg.all(d.id), cards = {};
   for (const i in imgs) cards[TAROT_DECK[i].name] = imgs[i];
-  const data = { app: 'witches-companion-deck', version: 1, exported: new Date().toISOString(), deck: { name: d.name, creator: d.creator || '', since: d.since || '', notes: d.notes || '', image: d.image || '' }, cards };
+  const data = { app: 'witches-companion-deck', version: 1, exported: new Date().toISOString(), deck: { name: d.name, creator: d.creator || '', since: d.since || '', notes: d.notes || '', image: d.image || '', back: d.back || '' }, cards };
   const fname = `${d.name.replace(/[^\w\- ]+/g, '').trim().replace(/\s+/g, '-') || 'tarot'}-deck.json`;
   const n = Object.keys(cards).length;
   const ok = await sendFileToFriend(fname, JSON.stringify(data), `Here is my tarot deck “${d.name}” (${n} card pictures) for Paco Morningstar's Witches' Companion. Open the file with the app, or go to Tarot → My Decks → Install a shared deck. Get the free app: ${SITE_URL}`);
@@ -232,7 +271,7 @@ async function installDeckData(data) {
   await Decks.load();
   const names = new Set(Decks.list.map(x => x.name));
   let name = String(data.deck.name || 'Shared deck'); if (names.has(name)) { let k = 2; while (names.has(`${name} (${k})`)) k++; name = `${name} (${k})`; }
-  const deck = { id: newId('deck'), name, creator: data.deck.creator || '', since: '', notes: data.deck.notes || '', image: String(data.deck.image || '').startsWith('data:image/') ? data.deck.image : '', cards: [], shared: true };
+  const deck = { id: newId('deck'), name, creator: data.deck.creator || '', since: '', notes: data.deck.notes || '', image: String(data.deck.image || '').startsWith('data:image/') ? data.deck.image : '', back: String(data.deck.back || '').startsWith('data:image/') ? data.deck.back : '', cards: [], shared: true };
   Decks.list.push(deck); await Decks.save();
   let count = 0;
   for (const [cardName, url] of Object.entries(data.cards)) {

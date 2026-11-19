@@ -77,12 +77,28 @@ route('decks', async v => {
   await Decks.load(); await Journal.load();
   setTitle('My Decks');
   const used = id => Journal.list.filter(r => r.deck === id).length;
-  v.innerHTML = `<p class="center small muted" style="margin:6px 4px 10px">Keep a record of the decks you own. When you record a reading, choose which deck you used, and Card Stats can show the trends for each deck.</p>
+  const a0 = Store.settings.activeDeck || '', act = Decks.get(a0) || (a0.startsWith('sys:') && SYSTEMS[a0.slice(4)]) ? a0 : '';
+  const choice = (id, name, back, sub) => `<label class="deck-choice ${act === id ? 'on' : ''}"><input type="radio" name="actdeck" value="${esc(id)}" ${act === id ? 'checked' : ''}>
+      <span class="deck-choice-back"><img src="${back}" alt=""></span><span class="txt"><b>${esc(name)}</b><span class="small muted">${sub}</span></span></label>`;
+  v.innerHTML = `<div class="section-title" style="margin-top:6px"><h2>Deck used in the app</h2></div>
+    <p class="small muted" style="margin:0 2px 8px">Readings, card pages and lessons show this deck's pictures, and its card back when cards are face down.</p>
+    <div class="deck-choices" id="dchoose">
+      ${choice('', 'Rider–Waite–Smith', DEFAULT_BACK, 'Built in · 78 illustrated cards')}
+      ${choice('sys:marseille', 'Tarot de Marseille', SYSTEMS.marseille.back(), 'Built in · the classic French deck')}
+      ${choice('sys:thoth', 'Thoth', SYSTEMS.thoth.back(), 'Built in · Thoth names and meanings, plain title cards')}
+      ${Decks.list.map(d => choice(d.id, d.name, d.back || sysOf(d.system).back(), `${sysOf(d.system).name} names · ${(d.cards || []).length}/78 cards photographed${d.back ? ' · own card back' : ' · no card back yet'}${(d.cards || []).length < 78 ? ` · missing cards show ${sysOf(d.system).name}` : ''}`)).join('')}
+    </div>
+    <div class="section-title"><h2>Your decks</h2></div>
+    <p class="center small muted" style="margin:0 4px 10px">Keep a record of the decks you own. When you record a reading, choose which deck you used, and Card Stats can show the trends for each deck.</p>
     <div class="actions" style="margin-top:0"><button class="btn primary big" id="dphoto">${ART.image} Photograph a deck</button></div>
     <div class="list">${Decks.list.map(d => `<a class="row" href="#/decks/${d.id}"><div class="thumb">${d.image ? `<img src="${d.image}" alt="" style="object-fit:cover">` : ART.tarot}</div>
       <div class="txt"><div class="nm">${esc(d.name)}</div><div class="sb">${esc([d.creator, d.since ? 'since ' + d.since : ''].filter(Boolean).join(' · '))}</div><div class="small" style="color:var(--gold2)">${(d.cards || []).length}/78 cards photographed · open to photograph ›</div><div class="small muted">${used(d.id)} recorded reading${used(d.id) === 1 ? '' : 's'}${d.isDefault ? ' · your usual deck' : ''}${Store.settings.activeDeck === d.id ? ' · shown in the app' : ''}</div></div></a>`).join('') || `<div class="empty">${ART.tarot}No decks yet. Add the first one you love.</div>`}</div>
     <div class="actions"><button class="btn primary" id="dadd">${ART.plus} Add a deck</button><button class="btn ghost" id="dimp">Install a shared deck</button></div>
     <p class="small muted center">Open a deck to photograph its 78 cards, show them in your readings, or export the deck as a file to give to a friend.</p>`;
+  $('#dchoose', v).onchange = async e => {
+    const id = e.target.value; await Store.setSetting('activeDeck', id); await applyDeckImages();
+    toast(`Using ${id.startsWith('sys:') ? SYSTEMS[id.slice(4)].name : id ? Decks.get(id).name : 'Rider–Waite–Smith'} ✶`); render();
+  };
   $('#dadd', v).onclick = () => deckEditor(null);
   $('#dphoto', v).onclick = () => {
     if (!Decks.list.length) return deckEditor(null, true);
@@ -97,10 +113,11 @@ route('decks', async v => {
 function deckEditor(d, thenShoot) {
   const x = d ? { ...d } : { id: newId('deck'), name: '', creator: '', since: '', notes: '', image: '' };
   modal(`<h2>${d ? 'Edit Deck' : 'Add a Deck'}</h2><div class="form">
-      ${d ? `<div class="deck-photo" id="dph">${x.image ? `<img src="${x.image}" alt="">` : `${ART.image}<span class="small">Add a cover photo</span>`}</div>` : `<p class="small muted center" style="margin:0 0 6px">Name your deck, then save. Next the camera opens to photograph all 78 cards, one at a time. Tap the cover box on the deck page any time to add a cover photo.</p>`}
+      ${d ? `<div class="deck-photo" id="dph">${x.image ? `<img src="${x.image}" alt="">` : `${ART.image}<span class="small">Add a cover photo</span>`}</div>` : `<p class="small muted center" style="margin:0 0 6px">Name your deck, then save. Next the camera opens: first the back of any one card, then all 78 card faces, one at a time. Tap the cover box on the deck page any time to add a cover photo.</p>`}
       <label for="dn">Deck name</label><input type="text" id="dn" value="${esc(x.name)}" placeholder="e.g. Rider–Waite–Smith, Wild Unknown…">
       <label for="dc">Creator or publisher (optional)</label><input type="text" id="dc" value="${esc(x.creator)}">
       <label for="ds">Owned since (optional)</label><input type="text" id="ds" value="${esc(x.since)}" placeholder="e.g. 2019, or a birthday gift">
+      <label for="dsys">Card names and meanings follow</label><select id="dsys">${SYSTEM_IDS.map(k => `<option value="${k}" ${(x.system || 'rws') === k ? 'selected' : ''}>${esc(SYSTEMS[k].name)}</option>`).join('')}</select>
       <label for="dnt">Notes</label><textarea id="dnt" placeholder="How it reads for you, how you cleanse it, its personality…">${esc(x.notes)}</textarea>
       <label class="small" style="display:flex;gap:8px;align-items:center;margin-top:8px"><input type="checkbox" id="ddef" ${x.isDefault ? 'checked' : ''}> This is my usual deck (chosen automatically when I record a reading)</label>
       <div class="actions">${d ? `<button class="btn danger" id="ddel">${ART.trash} Remove</button>` : ''}<button class="btn ghost" id="dcan">Cancel</button><button class="btn primary" id="dsav">${d ? 'Save' : 'Save & photograph cards'}</button></div></div>`, (m, close) => {
@@ -109,11 +126,11 @@ function deckEditor(d, thenShoot) {
     if (d) $('#ddel', m).onclick = async () => { close(); if (!await confirmBox(`Remove “${d.name}”? Readings recorded with it are kept.`, 'Remove')) return; await DeckImg.delAll(d); Decks.list = Decks.list.filter(y => y.id !== d.id); await Decks.save(); if (Store.settings.activeDeck === d.id) { await Store.setSetting('activeDeck', ''); await applyDeckImages(); } location.hash = '#/decks'; render(); };
     $('#dsav', m).onclick = async () => {
       x.name = $('#dn', m).value.trim(); if (!x.name) { toast('Give the deck a name'); return; }
-      x.creator = $('#dc', m).value.trim(); x.since = $('#ds', m).value.trim(); x.notes = $('#dnt', m).value.trim(); x.isDefault = $('#ddef', m).checked;
+      x.system = $('#dsys', m).value; x.creator = $('#dc', m).value.trim(); x.since = $('#ds', m).value.trim(); x.notes = $('#dnt', m).value.trim(); x.isDefault = $('#ddef', m).checked;
       if (x.isDefault) Decks.list.forEach(y => y.isDefault = false);
       const i = Decks.list.findIndex(y => y.id === x.id); if (i >= 0) Decks.list[i] = x; else Decks.list.push(x);
-      await Decks.save(); close(); toast('Deck saved ✶');
-      if (!d) { location.hash = '#/decks/' + x.id; setTimeout(() => captureCard(Decks.get(x.id), 0, true), 400); } else render();
+      await Decks.save(); if (Store.settings.activeDeck === x.id) await applyDeckImages(); close(); toast('Deck saved ✶');
+      if (!d) { location.hash = '#/decks/' + x.id; setTimeout(() => captureCard(Decks.get(x.id), -2, true), 400); } else render();
     };
   });
 }

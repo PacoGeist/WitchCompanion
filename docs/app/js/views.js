@@ -358,8 +358,8 @@ function layoutHTML(positions, drawn, lines, theme) {
   const cards = g.ps.map((p, i) => {
     const left = (+p.x - g.minX) * g.s, top = (+p.y - g.minY) * g.s;
     const d = drawn && drawn[i];
-    const img = d && d.card && tarotImg(d.card.name);
-    return `<div class="card ${d ? 'drawn' + (p.rotate == 90 ? '' : ' flip') : ''} ${img ? 'pic' : ''} ${!d && under(p) ? 'under' : ''} ${!d && p.rotate == 90 ? 'side' : ''} ${d && d.rev ? 'rev' : ''}" data-i="${i}" ${img ? `data-card="${esc(d.card.name)}"` : ''} style="left:${left}px;top:${top}px;width:${g.s}px;height:${g.s * 1.5}px;${p.rotate == 90 ? 'transform:rotate(90deg);' : ''}font-size:${d ? Math.max(8, g.s * .19) : Math.max(10, g.s * .32)}px;${d ? `animation-delay:${i * 0.12}s` : ''}">${img ? `<img src="${img}" alt="${esc(d.card.name)}" loading="lazy"><b class="pn">${p.n}</b>` : d ? `<span>${esc(d.card.name.replace(/^[0IVXL]+ · /, ''))}</span>` : `<span class="num">${p.n}</span>`}</div>`;
+    const img = d && d.card && (d.down ? cardBack() : d.sys ? cardImg(d.card.name, d.sys) : tarotImg(d.card.name));   // d.down: lying face down
+    return `<div class="card ${d ? 'drawn' + (p.rotate == 90 ? '' : ' flip') : ''} ${img ? 'pic' : ''} ${d && d.down ? 'back' : ''} ${!d && under(p) ? 'under' : ''} ${!d && p.rotate == 90 ? 'side' : ''} ${d && d.rev ? 'rev' : ''}" data-i="${i}" ${img && !d.down ? `data-card="${esc(d.card.name)}"` : ''} style="left:${left}px;top:${top}px;width:${g.s}px;height:${g.s * 1.5}px;${p.rotate == 90 ? 'transform:rotate(90deg);' : ''}font-size:${d ? Math.max(8, g.s * .19) : Math.max(10, g.s * .32)}px;${d ? `animation-delay:${i * 0.12}s` : ''}">${img ? `<img src="${img}" alt="${d.down ? 'A face-down card' : esc(d.card.name)}" loading="lazy"><b class="pn">${p.n}</b>` : d ? `<span>${esc(d.card.name.replace(/^[0IVXL]+ · /, ''))}</span>` : `<span class="num">${p.n}</span>`}</div>`;
   }).join('');
   return `<div class="spread-stage bd-${kind}" data-theme="${esc(theme || '')}" data-w="${W}" data-h="${H}" data-lines='${JSON.stringify(segs)}' style="width:${W}px;height:${H}px">${backdropSVG(kind, W, H, segs)}<div class="layout" style="left:${OX}px;top:${OY}px;width:${g.w}px;height:${g.h}px">${cards}</div></div>${backdropPickerHTML()}`;
 }
@@ -707,6 +707,8 @@ route('citations', async (v, a, qs) => {
     <div class="frame small"><ul class="uses" style="margin:0">
       <li><b>Moon phases and the moon picture:</b> Jean Meeus, <i>Astronomical Algorithms</i>, 2nd ed. (Willmann-Bell, 1998), chapters 25, 47, 48 and 49.</li>
       <li><b>Tarot card images:</b> the Rider–Waite–Smith deck, illustrated by Pamela Colman Smith (Rider, 1909), in the public domain.</li>
+      <li><b>Tarot de Marseille images:</b> the A. Camoin edition (Marseille, 1890–1900) of Nicolas Conver's 1760 design, from the collection of Paul Marteau, Bibliothèque nationale de France (Gallica), via Wikimedia Commons, in the public domain.</li>
+      <li><b>Thoth:</b> card names and titles follow Aleister Crowley's Book of Thoth. The Thoth paintings by Lady Frieda Harris are still under copyright, so the app shows its own plain title cards instead. The meanings and descriptions are written for this app.</li>
       <li><b>Tarot card meanings and symbols:</b> traditional readings in the line of Arthur Edward Waite, <i>The Pictorial Key to the Tarot</i> (Rider, 1910).</li>
       <li><b>Wheel of the Year, full moon names, magical correspondences, spells and deity lore:</b> traditional European folk magic, hoodoo and rootwork, Wiccan and herbal lore as widely published. These are presented as lore and were not part of the safety review.</li>
     </ul></div>

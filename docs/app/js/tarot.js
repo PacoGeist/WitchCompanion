@@ -7,22 +7,30 @@ document.addEventListener('click', e => {
   if (!el || el.closest('.picker') || el.closest('.no-zoom')) return;
   const c = TAROT_BY_NAME[el.dataset.card]; if (!c || !c.img) return;
   e.preventDefault(); e.stopPropagation();
-  openLightbox({ src: c.img, caption: `${c.name} — ${c.up}` });
+  const src = el.dataset.src || (el.tagName === 'IMG' ? el.src : (el.querySelector('img') || {}).src) || c.img;
+  openLightbox({ src, caption: `${el.dataset.title || cardTitle(c.name)} — ${c.up}` });
 }, true);
 
 /* ---------- the deck ---------- */
+// which deck to learn about: the chips at the top of Card by Card and of each card page
+const deckChipsHTML = (sys, href) => `<div class="chips deck-sys" style="justify-content:center">${SYSTEM_IDS.map(k => `<a class="chip ${k === sys ? 'on' : ''}" href="${href(k)}">${esc(SYSTEMS[k].name)}</a>`).join('')}</div>`;
 route('deck', async (v, a, qs) => {
   setTitle('The Deck');
+  await Decks.load();
+  const sys = SYSTEMS[qs.d] ? qs.d : activeSystemId(), S = sysOf(sys), M = meaningsFor(sys);
   let arc = qs.a || '', f = '';
-  v.innerHTML = `<p class="center fell" style="margin:6px 0 2px"><i>The Rider–Waite–Smith tarot, illustrated by Pamela Colman Smith (1909)</i></p>
-    <p class="center small muted" style="margin:0 0 10px">Tap a card for its full meaning. All cards are read upright.</p>
+  const suitName = x => x === 'Major' ? 'Major Arcana' : sys === 'marseille' ? TDM_SUIT[x] : sys === 'thoth' ? THOTH_SUIT[x] : x;
+  v.innerHTML = `${deckChipsHTML(sys, k => `#/deck?d=${k}`)}
+    <p class="center fell" style="margin:6px 0 2px"><i>${esc(S.name)}</i></p>
+    <p class="center small muted" style="margin:0 6px 10px">${esc(S.blurb)} Tap a card for its full meaning. All cards are read upright.</p>
+    ${sys === 'thoth' ? '<p class="center small" style="margin:-4px 6px 10px">Thoth court cards: the Princess matches the Page, the Prince the Knight, and the Thoth Knight the King.</p>' : ''}
     <div class="searchbar">${ART.search}<input id="df" type="search" placeholder="Search cards or meanings…"></div>
-    <div class="chips scroll" id="da"><button class="chip ${!arc ? 'on' : ''}" data-a="">All 78</button>${ARCANA.map(x => `<button class="chip ${arc === x ? 'on' : ''}" data-a="${x}">${x === 'Major' ? 'Major Arcana' : x}</button>`).join('')}</div>
+    <div class="chips scroll" id="da"><button class="chip ${!arc ? 'on' : ''}" data-a="">All 78</button>${ARCANA.map(x => `<button class="chip ${arc === x ? 'on' : ''}" data-a="${x}">${esc(suitName(x))}</button>`).join('')}</div>
     <div class="deck-grid" id="dg"></div>`;
   const draw = () => {
     const n = norm(f);
-    const list = TAROT_DECK.filter(c => (!arc || c.arcana === arc) && (!n || norm(c.name + ' ' + c.up).includes(n)));
-    $('#dg', v).innerHTML = list.map(c => `<a class="deck-card" href="#/card/${encodeURIComponent(c.name)}"><img src="${c.img}" alt="" loading="lazy"><b>${esc(c.name.replace(/^[0IVXL]+ · /, ''))}</b><span>${esc(c.up)}</span></a>`).join('') || '<div class="empty">No cards match.</div>';
+    const list = TAROT_DECK.filter(c => (!arc || c.arcana === arc) && (!n || norm(c.name + ' ' + S.title(c) + ' ' + c.up + ' ' + ((M[c.name] || {}).keywords || []).join(' ')).includes(n)));
+    $('#dg', v).innerHTML = list.map(c => `<a class="deck-card" href="#/card/${encodeURIComponent(c.name)}?d=${sys}"><img src="${cardImg(c.name, sys)}" alt="" loading="lazy"><b>${esc(cardShortTitle(c.name, sys))}</b><span>${esc(((M[c.name] || {}).keywords || c.up.split(', ')).slice(0, 4).join(', '))}</span></a>`).join('') || '<div class="empty">No cards match.</div>';
   };
   $('#df', v).oninput = e => { f = e.target.value; draw(); };
   $('#da', v).onclick = e => { const b = e.target.closest('[data-a]'); if (!b) return; arc = b.dataset.a; $$('#da .chip', v).forEach(x => x.classList.toggle('on', x === b)); draw(); };
@@ -124,7 +132,7 @@ route('record', async (v, a, qs) => {
     const at = $('#rw', v).value ? new Date($('#rw', v).value).getTime() : Date.now();
     const m = MOON.current(new Date(at));
     const data = {
-      spreadId: spread.id, spreadName: spread.name, at, moon: m.dark ? 'Dark Moon' : m.name, manual: true, deck: ($('#rd', v) || {}).value || '',
+      spreadId: spread.id, spreadName: spread.name, at, moon: m.dark ? 'Dark Moon' : m.name, manual: true, deck: ($('#rd', v) || {}).value || '', system: ((Decks.get(($('#rd', v) || {}).value) || {}).system) || 'rws',
       question: $('#rq', v).value.trim(), notes: $('#rn', v).value.trim(),
       positions: ps.map(p => ({ n: p.n, x: p.x, y: p.y, rotate: p.rotate || 0, name: p.name })),
       cards: ps.map((p, i) => { const c = picks[i] && TAROT_BY_NAME[picks[i]]; return { n: p.n, pos: p.name, posMeaning: p.meaning || '', card: c ? c.name : '', arcana: c ? c.arcana : '', meaning: c ? c.up : '' }; }),
@@ -163,8 +171,8 @@ function posContext(name, meaning) {
   for (const src of [name || '', meaning || '']) for (const [ctx, re] of CTX_RULES) if (re.test(src)) return { ctx, lens: '' };
   return { ctx: 'present', lens: '' };
 }
-function interpret(cardName, posName, posMeaning) {
-  const m = window.TAROT_MEANINGS && TAROT_MEANINGS[cardName];
+function interpret(cardName, posName, posMeaning, sys) {
+  const m = meaningsFor(sys || activeSystemId())[cardName];
   const pc = posContext(posName, posMeaning);
   if (!m) return { ...pc, text: (TAROT_BY_NAME[cardName] || {}).up || '', m: null };
   return { ...pc, text: (m.ctx && m.ctx[pc.ctx]) || m.meaning, m };
@@ -195,19 +203,19 @@ const shortName = n => String(n || '').replace(/^[0IVXL]+ · /, '');
 // one position of a reading, with the card read through the position's meaning
 function positionHTML(c) {
   if (!c.card) return `<div class="pos interp"><span class="pos-card empty-card">?</span><div><div><span class="n">${c.n}</span> <b>${esc(c.pos)}</b></div><div class="small muted">${esc(c.posMeaning || '')}</div><div class="small muted"><i>No card recorded</i></div></div></div>`;
-  const it = interpret(c.card, c.pos, c.posMeaning);
+  const it = interpret(c.card, c.pos, c.posMeaning, c.sys);
   const kw = it.m ? it.m.keywords.slice(0, 4) : String(c.meaning || '').split(',').map(s => s.trim()).filter(Boolean);
   return `<div class="pos interp">
-    <img class="pos-card" src="${tarotImg(c.card)}" data-card="${esc(c.card)}" alt="">
+    <img class="pos-card" src="${cardImg(c.card, c.sys)}" data-card="${esc(c.card)}" alt="">
     <div class="interp-body">
       <div class="interp-head"><span class="n">${c.n}</span><b>${esc(c.pos)}</b></div>
       ${c.posMeaning ? `<div class="small muted">${esc(c.posMeaning)}</div>` : ''}
       ${c.guide ? `<div class="pos-guide">${esc(c.guide)}</div>` : ''}
-      <div class="card-name">${esc(c.card)}</div>
+      <div class="card-name">${esc(cardTitle(c.card, c.sys))}</div>
       <div class="chips" style="gap:4px;margin:4px 0">${kw.map(k => `<span class="chip" style="font-size:.72rem;padding:0 8px">${esc(k)}</span>`).join('')}</div>
       <div class="interp-lens">${esc(CTX_LABEL[it.ctx] || '')}${it.lens ? ` · <i>${esc(it.lens)}</i>` : ''}</div>
       <p class="interp-text">${esc(it.text)}</p>
-      <a class="small" href="#/card/${encodeURIComponent(c.card)}">More about ${esc(shortName(c.card))} ›</a>
+      <a class="small" href="#/card/${encodeURIComponent(c.card)}${c.sys ? '?d=' + c.sys : ''}">More about ${esc(cardShortTitle(c.card, c.sys))} ›</a>
     </div></div>`;
 }
 const NUM_MEANING = { 1: 'new beginnings and raw potential', 2: 'choices, balance and partnership', 3: 'growth, creativity and collaboration', 4: 'stability, structure and rest', 5: 'conflict, change and challenge', 6: 'harmony, healing and generosity', 7: 'reflection, tests and inner work', 8: 'movement, power and mastery', 9: 'nearing completion and fruition', 10: 'endings, fulfilment and a cycle completing' };
@@ -241,24 +249,30 @@ function readingOverviewHTML(cards) {
 }
 
 /* ---------- one card ---------- */
-route('card/:name', async (v, [name]) => {
+route('card/:name', async (v, [name], qs) => {
   const c = TAROT_BY_NAME[name]; if (!c) return (location.hash = '#/deck');
-  const m = (window.TAROT_MEANINGS || {})[name] || {};
-  setTitle(shortName(name));
-  v.innerHTML = `<div class="card-hero"><img src="${c.img}" alt="" data-card="${esc(name)}"></div>
-    <div class="dhead" style="margin-top:10px"><div class="type">${c.arcana === 'Major' ? 'Major Arcana' : c.arcana}</div><h1>${esc(shortName(name))}</h1>${m.affirmation ? `<div class="latin">“${esc(m.affirmation)}”</div>` : ''}</div>
+  await Decks.load();
+  const sys = SYSTEMS[qs.d] ? qs.d : activeSystemId(), S = sysOf(sys);
+  const m = meaningsFor(sys)[name] || {}, syms = symbolsFor(sys)[name];
+  const title = cardShortTitle(name, sys), img = cardImg(name, sys);
+  setTitle(title);
+  const suit = c.arcana === 'Major' ? 'Major Arcana' : sys === 'marseille' ? TDM_SUIT[c.arcana] : sys === 'thoth' ? THOTH_SUIT[c.arcana] : c.arcana;
+  v.innerHTML = `${deckChipsHTML(sys, k => `#/card/${encodeURIComponent(name)}?d=${k}`)}
+    <div class="card-hero"><img src="${img}" alt="" data-card="${esc(name)}" data-title="${esc(cardTitle(name, sys))}"></div>
+    <div class="dhead" style="margin-top:10px"><div class="type">${esc(S.name)} · ${esc(suit)}</div><h1>${esc(title)}</h1>${m.affirmation ? `<div class="latin">“${esc(m.affirmation)}”</div>` : ''}</div>
+    ${sys !== 'rws' ? `<p class="center small muted" style="margin:2px 0 6px">In the Rider–Waite–Smith deck: <a href="#/card/${encodeURIComponent(name)}?d=rws">${esc(shortName(name))}</a></p>` : ''}
     <div class="chips" style="justify-content:center;margin:10px 0">${(m.keywords || c.up.split(', ')).map(k => `<span class="chip gold">${esc(k)}</span>`).join('')}</div>
     <div class="facts">${[['ELEMENT', m.element], ['ASTROLOGY', m.astrology], ['YES OR NO', m.yesNo]].filter(f => f[1]).map(f => `<div class="fact"><small>${f[0]}</small><span>${esc(f[1])}</span></div>`).join('')}</div>
     ${m.meaning ? `<p class="lead">${esc(m.meaning)}</p>` : `<p>${esc(c.up)}</p>`}
     ${m.imagery ? `<div class="block"><h3>${ART.eye}The Imagery</h3><p>${esc(m.imagery)}</p></div>` : ''}
-    ${(window.TAROT_SYMBOLS || {})[name] ? `<div class="block frame"><h3>${ART.eye}Symbols & Features</h3><p class="small muted" style="margin-top:0">Every detail on this card carries meaning. Tap the card above to zoom in and find each one.</p>
-      ${TAROT_SYMBOLS[name].map(s => `<div class="sym-row"><div class="sym-f">${esc(s.feature)}</div>${s.where ? `<div class="small muted">${esc(s.where)}</div>` : ''}<p>${esc(s.meaning)}</p></div>`).join('')}
-      ${(() => { const rel = (window.SYMBOL_DICT || []).filter(d => arr(d.seenIn).includes(name)); return rel.length ? `<div class="small muted" style="margin-top:8px">Explore these symbols across the deck:</div><div class="chips" style="margin-top:4px">${rel.map(d => `<a class="chip" href="#/learn/symbols?f=${encodeURIComponent(d.symbol)}">${esc(d.symbol)}</a>`).join('')}</div>` : ''; })()}
+    ${syms ? `<div class="block frame"><h3>${ART.eye}Symbols & Features</h3><p class="small muted" style="margin-top:0">${sys === 'thoth' ? 'What the painted Thoth card shows and what each detail means. The app shows a plain title card; look for these on your own deck.' : 'Every detail on this card carries meaning. Tap the card above to zoom in and find each one.'}</p>
+      ${syms.map(s => `<div class="sym-row"><div class="sym-f">${esc(s.feature)}</div>${s.where ? `<div class="small muted">${esc(s.where)}</div>` : ''}<p>${esc(s.meaning)}</p></div>`).join('')}
+      ${sys === 'rws' ? (() => { const rel = (window.SYMBOL_DICT || []).filter(d => arr(d.seenIn).includes(name)); return rel.length ? `<div class="small muted" style="margin-top:8px">Explore these symbols across the deck:</div><div class="chips" style="margin-top:4px">${rel.map(d => `<a class="chip" href="#/learn/symbols?f=${encodeURIComponent(d.symbol)}">${esc(d.symbol)}</a>`).join('')}</div>` : ''; })() : ''}
     </div>` : ''}
     ${m.numerology ? `<div class="block"><h3>${ART.star}The Number</h3><p>${esc(m.numerology)}</p></div>` : ''}
     ${m.ctx ? `<div class="block frame"><h3>${ART.tarot}Reading It in Different Positions</h3>${Object.keys(CTX_LABEL).filter(k => m.ctx[k]).map(k => `<details class="ctx-d"><summary>${esc(CTX_LABEL[k])}</summary><p>${esc(m.ctx[k])}</p></details>`).join('')}</div>` : ''}
     ${cardHistoryHTML(name)}
-    <p class="disclaimer">All cards are read upright. Rider–Waite–Smith artwork by Pamela Colman Smith (1909), public domain.</p>`;
+    <p class="disclaimer">All cards are read upright. ${esc(S.credit)}</p>`;
 });
 
 /* ---------- Learning Tarot ---------- */
@@ -357,13 +371,13 @@ function guidedWalk(r) {
         $('#walk', m).innerHTML = `<h2>The Whole Path</h2>${readingAnalysisHTML(r)}<div class="actions"><button class="btn ghost" id="wb">‹ Back</button><button class="btn primary" id="wd">Done</button></div>`;
         $('#wb', m).onclick = () => { i--; draw(); }; $('#wd', m).onclick = close; return;
       }
-      const c = steps[i], it = interpret(c.card, c.pos, c.posMeaning), g = guideFor(sp, c.n, c.pos, c.posMeaning), up = turned.has(i);
+      const c = steps[i], it = interpret(c.card, c.pos, c.posMeaning, r.system), g = guideFor(sp, c.n, c.pos, c.posMeaning), up = turned.has(i);
       $('#walk', m).innerHTML = `<div class="walk-prog">Card ${i + 1} of ${steps.length}</div>
         <h2 style="margin:4px 0 2px">${esc(c.pos)}</h2>
         <p class="small muted center" style="margin:0 0 8px">${esc(c.posMeaning || '')}</p>
         ${g ? `<p class="walk-guide">${esc(g)}</p>` : ''}
-        <div class="walk-card ${up ? 'up' : ''}" id="wc">${up ? `<img src="${tarotImg(c.card)}" alt="">` : `<div class="walk-back">${ART.moon}<span>Tap to turn the card</span></div>`}</div>
-        ${up ? `<div class="center fade-in"><div class="card-name" style="font-family:'Cinzel Decorative';color:var(--violet);font-weight:700;margin-top:8px">${esc(c.card)}</div>
+        <div class="walk-card ${up ? 'up' : ''}" id="wc">${up ? `<img src="${cardImg(c.card, r.system)}" alt="">` : `<div class="walk-back"><img src="${cardBack()}" alt=""><span>Tap to turn the card</span></div>`}</div>
+        ${up ? `<div class="center fade-in"><div class="card-name" style="font-family:'Cinzel Decorative';color:var(--violet);font-weight:700;margin-top:8px">${esc(cardTitle(c.card, r.system))}</div>
           <div class="interp-lens">${esc(CTX_LABEL[it.ctx] || '')}${it.lens ? ` · <i>${esc(it.lens)}</i>` : ''}</div>
           <p style="text-align:left">${esc(it.text)}</p></div>` : ''}
         <div class="actions"><button class="btn ghost" id="wp" ${i ? '' : 'disabled'}>‹ Back</button><button class="btn primary" id="wn">${up ? (i === steps.length - 1 ? 'See the whole path ›' : 'Next card ›') : 'Turn the card'}</button></div>`;

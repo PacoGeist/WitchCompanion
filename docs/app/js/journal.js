@@ -1,7 +1,7 @@
 /* Journal: tarot readings + logged workings for every section, each with notes and later results */
 const Journal = {   // tarot readings
   list: [], loaded: false,
-  async load() { if (this.loaded) return; try { this.list = await DB.get('readings', []) || []; } catch (e) { this.list = []; } this.loaded = true; },
+  async load() { if (this.loaded) return; try { this.list = await DB.get('readings', []) || []; } catch (e) { this.list = []; } this.list.forEach(r => { if (!r.system) r.system = 'rws'; }); this.loaded = true; },
   async persist() { await DB.set('readings', this.list); },
   get(id) { return this.list.find(r => r.id === id); },
   async add(r) { this.list.unshift(r); await this.persist(); },
@@ -35,13 +35,13 @@ const fmtWhen = t => { const d = new Date(t); return `${fmtDate(d, { weekday: 's
 const shortCard = n => n.replace(/^[0IVXL]+ · /, '');
 const moonNow = () => { const m = MOON.current(); return m.dark ? 'Dark Moon' : m.name; };
 const newId = p => p + '-' + Date.now().toString(36) + Math.random().toString(36).slice(2, 6);
-function drawnFrom(r) { return r.cards.map(c => c.card ? ({ card: { name: c.card }, rev: false }) : null); }
+function drawnFrom(r) { return r.cards.map(c => c.card ? ({ card: { name: c.card }, rev: false, sys: r.system }) : null); }
 function readingPositionsHTML(r) {
-  return `${readingAnalysisHTML(r)}${readingOverviewHTML(r.cards.map(c => c.card))}<div class="positions reading">${r.cards.map(c => positionHTML({ ...c, guide: guideFor(Store.get(r.spreadId), c.n, c.pos, c.posMeaning) })).join('')}</div>`;
+  return `${readingAnalysisHTML(r)}${readingOverviewHTML(r.cards.map(c => c.card))}<div class="positions reading">${r.cards.map(c => positionHTML({ ...c, sys: r.system, guide: guideFor(Store.get(r.spreadId), c.n, c.pos, c.posMeaning) })).join('')}</div>`;
 }
 function readingText(r) {
   return `${r.spreadName} — ${new Date(r.at).toLocaleString()}${r.question ? `\nQuestion: ${r.question}` : ''}\n` +
-    r.cards.map(c => c.card ? `${c.n}. ${c.pos}: ${c.card}\n   ${interpret(c.card, c.pos, c.posMeaning).text}` : `${c.n}. ${c.pos}: —`).join('\n\n') + (r.notes ? `\n\nNotes: ${r.notes}` : '') +
+    r.cards.map(c => c.card ? `${c.n}. ${c.pos}: ${cardTitle(c.card, r.system)}\n   ${interpret(c.card, c.pos, c.posMeaning, r.system).text}` : `${c.n}. ${c.pos}: —`).join('\n\n') + (r.notes ? `\n\nNotes: ${r.notes}` : '') +
     (r.results ? `\n\nResults${r.outcome ? ' (' + outcomeLabel(r.outcome) + ')' : ''}: ${r.results}` : '');
 }
 function copyText(txt, msg = 'Copied') {
@@ -106,34 +106,122 @@ function journalSectionHTML(it) {
     <div class="actions" style="margin:10px 0 0"><button type="button" class="btn primary" id="logw">${ART.plus} ${esc(title)}</button></div></div>`;
 }
 
-/* ---------- draw a reading (every reading is saved to the journal) ---------- */
+/* ---------- draw a reading (every reading is saved to the journal) ----------
+   1. review the spread and ask a question, then choose how to turn the cards:
+      "Draw & reveal" deals them face down and one tap turns them all; "Walk through" turns them one tap at a time
+   2. the full reading, with notes; it is saved to the Journal as soon as the cards are dealt */
 route('reading/:id', async (v, [id], qs) => {
   const it = Store.get(id); if (!it) return (location.hash = '#/');
-  await Journal.load();
+  await Journal.load(); await Decks.load();
   setTitle('Reading');
   let question = '';
-  const draw = async () => {
+  const ps = arr(it.positions);
+  const deckName = () => { const d = Decks.get(Store.settings.activeDeck); return d ? d.name : 'Rider–Waite–Smith'; };
+  const sp = r => Store.get(r.spreadId) || {};
+
+  // 1. review before drawing
+  const ready = () => {
+    history.replaceState(null, '', `#/reading/${encodeURIComponent(id)}`);
+    v.innerHTML = `<div class="dhead" style="margin-top:6px"><div class="type">${esc(it.name)}</div><h1>Before You Draw</h1><div class="latin">${fmtDate(new Date(), { weekday: 'long', month: 'long', day: 'numeric' })} · ${esc(moonNow())}</div></div>
+      ${it.intention ? `<p class="intention">“${esc(it.intention)}”</p>` : ''}
+      <div class="form" style="margin:8px 0 12px"><label for="rq">Your question (optional)</label><input type="text" id="rq" placeholder="What do I need to know about…" value="${esc(question)}"></div>
+      <div class="block frame no-zoom">${layoutHTML(ps, null, it.lines, it.backdrop)}</div>
+      <div class="ready-pos">${ps.map(p => `<div class="ready-row"><span class="n">${p.n}</span><div><b>${esc(p.name)}</b>${p.meaning ? `<div class="small muted">${esc(p.meaning)}</div>` : ''}</div></div>`).join('')}</div>
+      <p class="small muted center" style="margin:10px 0 4px">Drawing from <b>${esc(deckName())}</b> · <a href="#/decks">change deck</a></p>
+      <div class="draw-choices">
+        <button type="button" class="draw-choice" id="dreveal"><span class="dc-back"><img src="${cardBack()}" alt=""></span><span class="dc-txt"><b>Draw &amp; reveal</b><span class="small">The cards are dealt face down. Tap once to turn them all over.</span></span></button>
+        <button type="button" class="draw-choice" id="dwalk"><span class="dc-back"><img src="${cardBack()}" alt=""><img src="${cardBack()}" alt=""></span><span class="dc-txt"><b>Walk through</b><span class="small">Tap each card to turn it over, one at a time, and read it as you go.</span></span></button>
+      </div>
+      <p class="disclaimer">All cards are read upright.</p>`;
+    const q = $('#rq', v); q.oninput = () => question = q.value.trim();
+    $('#dreveal', v).onclick = () => draw('reveal');
+    $('#dwalk', v).onclick = () => draw('walk');
+  };
+
+  const draw = async mode => {
     const deck = TAROT_DECK.slice();
     for (let i = deck.length - 1; i > 0; i--) { const r = new Uint32Array(1); crypto.getRandomValues(r); const j = r[0] % (i + 1);[deck[i], deck[j]] = [deck[j], deck[i]]; }
-    const ps = arr(it.positions);
     // all cards are read upright
     const r = {
       id: newId('reading'), spreadId: it.id, spreadName: it.name, at: Date.now(), moon: moonNow(),
-      question, notes: '', results: '', outcome: '',
+      question, notes: '', results: '', outcome: '', system: activeSystemId(),
       positions: ps.map(p => ({ n: p.n, x: p.x, y: p.y, rotate: p.rotate || 0, name: p.name })),
       cards: ps.map((p, i) => ({ n: p.n, pos: p.name, posMeaning: p.meaning || '', card: deck[i].name, arcana: deck[i].arcana, meaning: deck[i].up })),
     };
     await Journal.add(r);
-    show(r);
+    window.scrollTo(0, 0);
+    faceDown(r, mode);
   };
-  // the URL remembers the reading so going back or reloading doesn't draw a new one
-  const show = r => {
+
+  // 2. the cards lie face down until they are turned
+  const faceDown = (r, mode) => {
+    history.replaceState(null, '', `#/reading/${encodeURIComponent(id)}?r=${r.id}`);
+    const n = r.cards.length, turned = new Set(), walk = mode === 'walk';
+    v.innerHTML = `<div class="dhead" style="margin-top:6px"><div class="type">${esc(it.name)}</div><h1>${walk ? 'Turn Each Card' : 'Your Cards'}</h1><div class="latin">${fmtDate(new Date(r.at), { weekday: 'long', month: 'long', day: 'numeric' })} · ${esc(r.moon)}</div></div>
+      ${r.question ? `<p class="intention">“${esc(r.question)}”</p>` : ''}
+      <div class="block frame face-down" id="fd">${layoutHTML(readingLayout(r), r.cards.map(c => ({ card: { name: c.card }, down: true })), sp(r).lines, sp(r).backdrop)}</div>
+      <p class="turn-hint" id="hint"></p>
+      <div class="actions" id="fdbtns">${walk ? `<button class="btn small ghost" id="all">Turn them all</button>` : `<button class="btn primary big" id="all">${ART.eye} Reveal the cards</button>`}</div>
+      <div class="positions reading" id="walked"></div>
+      <div class="actions" id="after"></div>`;
+    const here = () => location.hash.includes(`r=${r.id}`);   // stop if the person has gone to another page
+    const nextUp = () => r.cards.findIndex((c, i) => !turned.has(i));
+    const hint = () => {
+      const k = nextUp();
+      $('#hint', v).innerHTML = k < 0 ? 'All your cards are turned.' : walk
+        ? `${turned.size ? 'Next, tap' : 'Tap'} card <b>${r.cards[k].n}</b>, <i>${esc(r.cards[k].pos)}</i>, to turn it over${n > 1 ? ` <span class="muted">(${turned.size} of ${n} turned)</span>` : ''}.`
+        : `Take a breath with your question in mind, then tap the ${n === 1 ? 'card' : 'cards'} to turn ${n === 1 ? 'it' : 'them'} over.`;
+    };
+    const flip = i => new Promise(res => {
+      const el = $(`#fd .layout .card[data-i="${i}"]`, v);
+      if (!el || turned.has(i)) return res(false);
+      turned.add(i);
+      const img = $('img', el); el.classList.add('turning');
+      setTimeout(() => {
+        if (!here()) return res(false);
+        img.src = cardImg(r.cards[i].card, r.system); img.alt = cardTitle(r.cards[i].card, r.system);
+        el.classList.remove('back'); el.dataset.card = r.cards[i].card;
+        requestAnimationFrame(() => el.classList.remove('turning')); res(true);
+      }, 230);
+    });
+    const finish = () => {
+      $('#fdbtns', v).innerHTML = '';
+      $('#after', v).innerHTML = `<button class="btn primary big" id="whole">${ART.book} See the whole reading ›</button>`;
+      $('#whole', v).onclick = () => { window.scrollTo(0, 0); show(r, true); };
+    };
+    const turnOne = async i => {
+      if (!await flip(i)) return;
+      const c = r.cards[i], box = document.createElement('div');
+      box.className = 'walk-step fade-in';
+      box.innerHTML = positionHTML({ ...c, sys: r.system, guide: guideFor(sp(r), c.n, c.pos, c.posMeaning) });
+      $('#walked', v).appendChild(box);
+      hint();
+      if (turned.size === n) finish();
+      else if (n > 1) setTimeout(() => $('#fd', v).scrollIntoView({ behavior: 'smooth', block: 'start' }), 900);
+    };
+    const turnAll = async () => {
+      $('#fdbtns', v).innerHTML = '';
+      const gap = Math.min(120, 900 / n);
+      for (let i = 0; i < n; i++) { if (!turned.has(i)) { await flip(i); if (!here()) return; await new Promise(z => setTimeout(z, gap)); } }
+      setTimeout(() => { if (here()) show(r, true); }, walk ? 300 : 650);
+    };
+    $('#fd', v).addEventListener('click', e => {
+      const el = e.target.closest('.layout .card.back'); if (!el) return;
+      e.preventDefault(); e.stopPropagation();
+      walk ? turnOne(+el.dataset.i) : turnAll();
+    });
+    $('#all', v).onclick = turnAll;
+    hint();
+  };
+
+  // 3. the whole reading. The URL remembers it, so going back or reloading doesn't draw a new one
+  const show = (r, calm) => {
     question = r.question || '';
     history.replaceState(null, '', `#/reading/${encodeURIComponent(id)}?r=${r.id}`);
     v.innerHTML = `<div class="dhead" style="margin-top:6px"><div class="type">${esc(it.name)}</div><h1>Your Reading</h1><div class="latin">${fmtDate(new Date(r.at), { weekday: 'long', month: 'long', day: 'numeric' })} · ${esc(r.moon)}</div></div>
       ${it.intention ? `<p class="intention">“${esc(it.intention)}”</p>` : ''}
       <div class="form" style="margin:8px 0 12px"><label for="rq">Your question (optional)</label><input type="text" id="rq" placeholder="What do I need to know about…" value="${esc(question)}"></div>
-      <div class="block frame">${layoutHTML(readingLayout(r), drawnFrom(r), (Store.get(r.spreadId) || {}).lines, (Store.get(r.spreadId) || {}).backdrop)}</div>
+      <div class="block frame ${calm ? 'calm' : ''}">${layoutHTML(readingLayout(r), drawnFrom(r), sp(r).lines, sp(r).backdrop)}</div>
       ${walkButtonHTML(r)}
       ${readingPositionsHTML(r)}
       <div class="form"><label for="rn">Notes & impressions</label><textarea id="rn" placeholder="What stood out, how it felt, first impressions…">${esc(r.notes || '')}</textarea><div class="hint">Saved to your Journal automatically. Add the results later from the Journal.</div></div>
@@ -142,12 +230,12 @@ route('reading/:id', async (v, [id], qs) => {
       <p class="disclaimer">All cards are read upright.</p>`;
     const q = $('#rq', v); bindAutosave(q, Journal, r.id, 'question'); q.addEventListener('input', () => question = q.value.trim());
     bindAutosave($('#rn', v), Journal, r.id, 'notes');
-    $('#again', v).onclick = () => { window.scrollTo(0, 0); draw(); };
+    $('#again', v).onclick = () => { window.scrollTo(0, 0); ready(); };
     $('#copy', v).onclick = () => copyText(readingText(Journal.get(r.id) || r), 'Reading copied');
     $('#discard', v).onclick = async () => { await Journal.remove(r.id); toast('Reading removed from the journal'); history.back(); };
   };
   const existing = qs.r && Journal.get(qs.r);
-  if (existing) show(existing); else draw();
+  if (existing) show(existing); else ready();
 });
 
 /* ---------- the Journal ---------- */
@@ -160,11 +248,11 @@ function allEntries() {
 function entryRow(e) {
   const r = e.r;
   if (e.kind === 'reading') return `<a class="row" href="#/journal/${r.id}" style="align-items:flex-start">
-      <div class="thumb">${r.cards[0] && tarotImg(r.cards[0].card) ? `<img src="${tarotImg(r.cards[0].card)}" alt="" style="object-fit:cover;object-position:top">` : ART.tarot}</div>
+      <div class="thumb">${r.cards[0] && cardImg(r.cards[0].card, r.system) ? `<img src="${cardImg(r.cards[0].card, r.system)}" alt="" style="object-fit:cover;object-position:top">` : ART.tarot}</div>
       <div class="txt"><div class="nm">${esc(r.spreadName)}</div>
         <div class="small muted">Tarot reading${r.manual ? ' · recorded' + (r.deck && typeof Decks !== 'undefined' && Decks.get(r.deck) ? ' with ' + esc(Decks.get(r.deck).name) : '') : ''} · ${fmtWhen(r.at)} · ${esc(r.moon || '')}</div>
         ${r.question ? `<div class="small" style="font-style:italic;margin:2px 0">“${esc(r.question)}”</div>` : ''}
-        <div class="chips" style="margin-top:4px;gap:4px">${r.cards.slice(0, 5).map(c => `<span class="chip" style="font-size:.74rem;padding:0 8px">${esc(shortCard(c.card))}</span>`).join('')}${r.cards.length > 5 ? `<span class="chip" style="font-size:.74rem;padding:0 8px">+${r.cards.length - 5}</span>` : ''}</div>
+        <div class="chips" style="margin-top:4px;gap:4px">${r.cards.slice(0, 5).map(c => `<span class="chip" style="font-size:.74rem;padding:0 8px">${esc(cardShortTitle(c.card, r.system || 'rws'))}</span>`).join('')}${r.cards.length > 5 ? `<span class="chip" style="font-size:.74rem;padding:0 8px">+${r.cards.length - 5}</span>` : ''}</div>
         <div style="margin-top:4px">${statusBadge(r)}</div>
       </div></a>`;
   const item = Store.get(r.itemId);
