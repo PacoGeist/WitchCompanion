@@ -59,6 +59,7 @@ for suit, (fr, motif, where, mean) in SUIT.items():
         elif i < 10:
             n = i + 1
             extra = CENTER[suit] if n % 2 else EVEN[suit]
+            if suit == 'Swords' and n == 10: extra = ('Two crossed blades', 'Two long swords cross in an X through the full oval: thought cutting through everything it once protected, the end of a cycle of conflict.')
             syms = [{'feature': motif, 'where': where, 'meaning': mean},
                     {'feature': f'{n} {fr.lower()}', 'where': 'the count', 'meaning': NUM[n]},
                     {'feature': extra[0], 'where': 'center of the pattern', 'meaning': extra[1]},
