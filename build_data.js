@@ -43,6 +43,16 @@ console.log(Object.entries(SEED).map(([k, v]) => k + ':' + v.length).join(' '), 
   const M = {}; for (let i = 1; i <= 6; i++) for (const c of J(`tarot-meanings-${i}.json`)) M[c.name] = c;
   const SY = {}; for (let i = 1; i <= 6; i++) for (const c of J(`tarot-symbols-${i}.json`)) SY[c.name] = c.symbols;
   fs.writeFileSync(__dirname + '/www/js/tarot-meanings.js', 'window.TAROT_MEANINGS=' + JSON.stringify(M) + ';window.POS_CTX=' + JSON.stringify(J('tarot-position-context.json')) + ';window.TAROT_SYMBOLS=' + JSON.stringify(SY) + ';window.SYMBOL_DICT=' + JSON.stringify(J('tarot-symbol-dictionary.json')) + ';window.TAROT_LESSONS=' + JSON.stringify(J('tarot-lessons.json')) + ';window.TAROT_TONE=' + JSON.stringify(J('tarot-tone.json')) + ';');
+  // the other built-in decks: data/tarot-meanings-<deck>-N.json and data/tarot-symbols-<deck>-N.json, keyed by the Rider-Waite-Smith card name
+  for (const [deck, G] of [['marseille', 'MARSEILLE'], ['thoth', 'THOTH']]) {
+    const DM = {}, DS = {};
+    for (const f of fs.readdirSync(D).sort()) {
+      if (f.startsWith(`tarot-meanings-${deck}-`)) for (const c of J(f)) DM[c.name] = c;
+      if (f.startsWith(`tarot-symbols-${deck}-`)) for (const c of J(f)) DS[c.name] = c.symbols;
+    }
+    fs.appendFileSync(__dirname + '/www/js/tarot-meanings.js', `;window.${G}_MEANINGS=${JSON.stringify(DM)};window.${G}_SYMBOLS=${JSON.stringify(DS)};`);
+    console.log(deck, 'meanings', Object.keys(DM).length, 'symbols', Object.keys(DS).length);
+  }
   console.log('symbols for', Object.keys(SY).length, 'cards');
   console.log('tarot meanings', Object.keys(M).length, Math.round(fs.statSync(__dirname + '/www/js/tarot-meanings.js').size / 1024) + 'KB');
 }

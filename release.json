@@ -1,8 +1,12 @@
 {
-  "versionCode": 10100,
-  "versionName": "1.1",
+  "versionCode": 10200,
+  "versionName": "1.2",
   "notes": [
-    "Moon reminders: get a notification before the New Moon, Full Moon, quarter moons or sabbats you choose, at the time you choose (Moon Tracker, then Remind me)",
-    "On iPhone and the web, Moon Reminders makes a calendar file so your phone's calendar can remind you"
+    "Drawing a reading now starts with a look at the spread and your question. Then choose Draw & reveal (the cards are dealt face down and one tap turns them over) or Walk through (tap each card to turn it and read it as you go)",
+    "Card backs: the app's deck has its own purple and gold back, and you can photograph the back of your own deck (one photo for the whole deck)",
+    "My Decks: choose which deck the app uses, the built-in Rider-Waite-Smith or one of your own",
+    "Two new built-in decks: the Tarot de Marseille (the 1890s Camoin edition of Nicolas Conver's 1760 deck) and the Thoth deck, each with their own meanings, symbol notes and all 15 position readings for every card",
+    "Card by Card: choose which deck to learn about, and see any card in all three decks",
+    "Your own photographed deck can follow Rider-Waite-Smith, Marseille or Thoth names and meanings"
   ]
 }

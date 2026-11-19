@@ -1,0 +1,1302 @@
+[
+ {
+  "name": "Ace of Wands",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "A great flaming club bursts upward, with ten tongues of fire leaping from it like lightning. The Ace of Wands is the root of Fire: pure will, creative force and spiritual energy."
+   },
+   {
+    "feature": "Root of Fire",
+    "where": "the title",
+    "meaning": "The Ace is the source of Fire: will, energy and spirit, in its purest form."
+   },
+   {
+    "feature": "Fire colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Wands belongs to Fire: will, energy and spirit."
+   }
+  ]
+ },
+ {
+  "name": "Two of Wands",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Two crossed thunderbolt wands blaze with flames against a red background. Dominion is will in its first expression: power, boldness and control."
+   },
+   {
+    "feature": "Title: Dominion",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Dominion is the key to reading it: dominion, power, will."
+   },
+   {
+    "feature": "Mars in Aries",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Fire colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Wands belongs to Fire: will, energy and spirit."
+   }
+  ]
+ },
+ {
+  "name": "Three of Wands",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Three wands topped with lotus flowers cross at the center, radiating warm orange light. Virtue is will established with integrity."
+   },
+   {
+    "feature": "Title: Virtue",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Virtue is the key to reading it: virtue, integrity, strength."
+   },
+   {
+    "feature": "Sun in Aries",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Fire colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Wands belongs to Fire: will, energy and spirit."
+   }
+  ]
+ },
+ {
+  "name": "Four of Wands",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Four wands with a ram's head at one end and a dove at the other are arranged in a circle, forming a wheel. Completion is a cycle of effort fulfilled."
+   },
+   {
+    "feature": "Title: Completion",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Completion is the key to reading it: completion, order, harmony."
+   },
+   {
+    "feature": "Venus in Aries",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Fire colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Wands belongs to Fire: will, energy and spirit."
+   }
+  ]
+ },
+ {
+  "name": "Five of Wands",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "A central winged wand is crossed by four others, sparking with flames and tension. Strife is energy in conflict."
+   },
+   {
+    "feature": "Title: Strife",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Strife is the key to reading it: strife, conflict, struggle."
+   },
+   {
+    "feature": "Saturn in Leo",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Fire colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Wands belongs to Fire: will, energy and spirit."
+   }
+  ]
+ },
+ {
+  "name": "Six of Wands",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Six wands cross in harmony with flames burning at their tips. Victory is will rewarded."
+   },
+   {
+    "feature": "Title: Victory",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Victory is the key to reading it: victory, success, triumph."
+   },
+   {
+    "feature": "Jupiter in Leo",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Fire colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Wands belongs to Fire: will, energy and spirit."
+   }
+  ]
+ },
+ {
+  "name": "Seven of Wands",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "A rough, heavy club crosses over six more refined wands, blazing with determined fire. Valour is courage under pressure."
+   },
+   {
+    "feature": "Title: Valour",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Valour is the key to reading it: valour, courage, bravery."
+   },
+   {
+    "feature": "Mars in Leo",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Fire colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Wands belongs to Fire: will, energy and spirit."
+   }
+  ]
+ },
+ {
+  "name": "Eight of Wands",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Eight lightning-like wands cross in rays of light beneath a rainbow, conveying rapid motion and energy. Swiftness is energy in rapid motion."
+   },
+   {
+    "feature": "Title: Swiftness",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Swiftness is the key to reading it: swiftness, speed, communication."
+   },
+   {
+    "feature": "Mercury in Sagittarius",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Fire colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Wands belongs to Fire: will, energy and spirit."
+   }
+  ]
+ },
+ {
+  "name": "Nine of Wands",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Eight arrow-like wands surround a central wand marked with sun and moon, radiating steady force. Strength is power that endures."
+   },
+   {
+    "feature": "Title: Strength",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Strength is the key to reading it: strength, resilience, power."
+   },
+   {
+    "feature": "Moon in Sagittarius",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Fire colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Wands belongs to Fire: will, energy and spirit."
+   }
+  ]
+ },
+ {
+  "name": "Ten of Wands",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Two great thunderbolt wands bar eight others like prison bars, with flames trapped behind. Oppression is fire turned against itself."
+   },
+   {
+    "feature": "Title: Oppression",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Oppression is the key to reading it: oppression, burden, pressure."
+   },
+   {
+    "feature": "Saturn in Sagittarius",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Fire colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Wands belongs to Fire: will, energy and spirit."
+   }
+  ]
+ },
+ {
+  "name": "Page of Wands",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "A naked young woman leaps through flames, holding a wand topped with a sun and grasping a tiger by the tail. The Princess of Wands is daring and enthusiastic."
+   },
+   {
+    "feature": "Princess of Wands",
+    "where": "the court title",
+    "meaning": "Earth of Fire: the element made solid: the throne and fertile ground of the suit."
+   },
+   {
+    "feature": "Fire colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Wands belongs to Fire: will, energy and spirit."
+   }
+  ]
+ },
+ {
+  "name": "Knight of Wands",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "A fiery young prince rides a chariot pulled by a lion, holding a phoenix wand. The Prince of Wands is driven and charismatic."
+   },
+   {
+    "feature": "Prince of Wands",
+    "where": "the court title",
+    "meaning": "Air of Fire: the element in motion, riding a chariot: intellect and drive."
+   },
+   {
+    "feature": "Fire colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Wands belongs to Fire: will, energy and spirit."
+   }
+  ]
+ },
+ {
+  "name": "Queen of Wands",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "A crowned queen sits enthroned in flames, holding a wand topped with a pinecone. The Queen of Wands is radiant and commanding."
+   },
+   {
+    "feature": "Queen of Wands",
+    "where": "the court title",
+    "meaning": "Water of Fire: the element received and reflected: inner power and maturity."
+   },
+   {
+    "feature": "Fire colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Wands belongs to Fire: will, energy and spirit."
+   }
+  ]
+ },
+ {
+  "name": "King of Wands",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "An armored knight rides a rearing black horse, carrying a flaming torch. The Thoth Knight of Wands is the most active form of Fire: swift, powerful and bold."
+   },
+   {
+    "feature": "Knight of Wands",
+    "where": "the court title",
+    "meaning": "Fire of Fire: the element at its swiftest and most active, on horseback."
+   },
+   {
+    "feature": "Fire colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Wands belongs to Fire: will, energy and spirit."
+   }
+  ]
+ },
+ {
+  "name": "Ace of Cups",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "A great shell-like cup rises from blue waters, filled with light pouring down from above. The Ace of Cups is the root of Water: love, receptivity and spiritual fulfillment."
+   },
+   {
+    "feature": "Root of Water",
+    "where": "the title",
+    "meaning": "The Ace is the source of Water: love, feeling and the unconscious, in its purest form."
+   },
+   {
+    "feature": "Water colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Cups belongs to Water: love, feeling and the unconscious."
+   }
+  ]
+ },
+ {
+  "name": "Two of Cups",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Two cups are filled from a fountain springing from a lotus, with two dolphins intertwined above. Love is the perfect union of two."
+   },
+   {
+    "feature": "Title: Love",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Love is the key to reading it: love, harmony, union."
+   },
+   {
+    "feature": "Venus in Cancer",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Water colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Cups belongs to Water: love, feeling and the unconscious."
+   }
+  ]
+ },
+ {
+  "name": "Three of Cups",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Three pomegranate-like cups overflow with water poured from lotuses above. Abundance is emotional plenty."
+   },
+   {
+    "feature": "Title: Abundance",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Abundance is the key to reading it: abundance, celebration, fertility."
+   },
+   {
+    "feature": "Mercury in Cancer",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Water colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Cups belongs to Water: love, feeling and the unconscious."
+   }
+  ]
+ },
+ {
+  "name": "Four of Cups",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Four cups stand stacked, overflowing from a lotus, set against calm water. Luxury is emotional comfort and pleasure."
+   },
+   {
+    "feature": "Title: Luxury",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Luxury is the key to reading it: luxury, comfort, pleasure."
+   },
+   {
+    "feature": "Moon in Cancer",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Water colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Cups belongs to Water: love, feeling and the unconscious."
+   }
+  ]
+ },
+ {
+  "name": "Five of Cups",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Five empty cups form a broken pattern above withered lotus flowers. Disappointment is emotional loss."
+   },
+   {
+    "feature": "Title: Disappointment",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Disappointment is the key to reading it: disappointment, loss, sorrow."
+   },
+   {
+    "feature": "Mars in Scorpio",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Water colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Cups belongs to Water: love, feeling and the unconscious."
+   }
+  ]
+ },
+ {
+  "name": "Six of Cups",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Six cups are filled by flowing lotuses arranged in a harmonious pattern, glowing with warm light. Pleasure is emotional well-being and joy."
+   },
+   {
+    "feature": "Title: Pleasure",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Pleasure is the key to reading it: pleasure, harmony, well-being."
+   },
+   {
+    "feature": "Sun in Scorpio",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Water colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Cups belongs to Water: love, feeling and the unconscious."
+   }
+  ]
+ },
+ {
+  "name": "Seven of Cups",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Seven cups drip with green slime from wilting lotuses above a stagnant swamp. Debauch is emotional excess and illusion."
+   },
+   {
+    "feature": "Title: Debauch",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Debauch is the key to reading it: debauch, excess, illusion."
+   },
+   {
+    "feature": "Venus in Scorpio",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Water colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Cups belongs to Water: love, feeling and the unconscious."
+   }
+  ]
+ },
+ {
+  "name": "Eight of Cups",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Eight broken, shallow cups sit above stagnant water, with drooping lotuses that give no flow. Indolence is emotional stagnation."
+   },
+   {
+    "feature": "Title: Indolence",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Indolence is the key to reading it: indolence, stagnation, apathy."
+   },
+   {
+    "feature": "Saturn in Pisces",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Water colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Cups belongs to Water: love, feeling and the unconscious."
+   }
+  ]
+ },
+ {
+  "name": "Nine of Cups",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Nine cups arranged in a square overflow with water from lotuses, glowing with violet and blue light. Happiness is emotional fulfillment."
+   },
+   {
+    "feature": "Title: Happiness",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Happiness is the key to reading it: happiness, fulfillment, joy."
+   },
+   {
+    "feature": "Jupiter in Pisces",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Water colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Cups belongs to Water: love, feeling and the unconscious."
+   }
+  ]
+ },
+ {
+  "name": "Ten of Cups",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Ten cups arranged like the Tree of Life are filled from a great tilting cup at the top, pouring into the others. Satiety is emotional fullness."
+   },
+   {
+    "feature": "Title: Satiety",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Satiety is the key to reading it: satiety, fulfillment, completion."
+   },
+   {
+    "feature": "Mars in Pisces",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Water colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Cups belongs to Water: love, feeling and the unconscious."
+   }
+  ]
+ },
+ {
+  "name": "Page of Cups",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "A graceful princess dances in flowing robes covered with crystals, holding a shell cup with a turtle emerging. The Princess of Cups is gentle, dreamy and imaginative."
+   },
+   {
+    "feature": "Princess of Cups",
+    "where": "the court title",
+    "meaning": "Earth of Water: the element made solid: the throne and fertile ground of the suit."
+   },
+   {
+    "feature": "Water colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Cups belongs to Water: love, feeling and the unconscious."
+   }
+  ]
+ },
+ {
+  "name": "Knight of Cups",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "A winged prince rides a chariot drawn by an eagle over water, holding a lotus and a cup with a snake rising from it. The Prince of Cups is intense, secretive and passionate."
+   },
+   {
+    "feature": "Prince of Cups",
+    "where": "the court title",
+    "meaning": "Air of Water: the element in motion, riding a chariot: intellect and drive."
+   },
+   {
+    "feature": "Water colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Cups belongs to Water: love, feeling and the unconscious."
+   }
+  ]
+ },
+ {
+  "name": "Queen of Cups",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "A veiled queen sits enthroned on still water, holding a shell cup with a crayfish inside. The Queen of Cups is the mirror of the soul."
+   },
+   {
+    "feature": "Queen of Cups",
+    "where": "the court title",
+    "meaning": "Water of Water: the element received and reflected: inner power and maturity."
+   },
+   {
+    "feature": "Water colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Cups belongs to Water: love, feeling and the unconscious."
+   }
+  ]
+ },
+ {
+  "name": "King of Cups",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "A winged knight on a white horse leaps over the waves, holding a cup with a crab emerging. The Thoth Knight of Cups is the active force of Water."
+   },
+   {
+    "feature": "Knight of Cups",
+    "where": "the court title",
+    "meaning": "Fire of Water: the element at its swiftest and most active, on horseback."
+   },
+   {
+    "feature": "Water colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Cups belongs to Water: love, feeling and the unconscious."
+   }
+  ]
+ },
+ {
+  "name": "Ace of Swords",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "A great sword rises upward, piercing a crown of light, its blade inscribed. The Ace of Swords is the root of Air: pure intellect, clarity and truth."
+   },
+   {
+    "feature": "Root of Air",
+    "where": "the title",
+    "meaning": "The Ace is the source of Air: mind, thought and conflict, in its purest form."
+   },
+   {
+    "feature": "Air colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Swords belongs to Air: mind, thought and conflict."
+   }
+  ]
+ },
+ {
+  "name": "Two of Swords",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Two crossed swords are united by a blue rose at their center, surrounded by calm geometric patterns. Peace is mental harmony after tension."
+   },
+   {
+    "feature": "Title: Peace",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Peace is the key to reading it: peace, truce, balance."
+   },
+   {
+    "feature": "Moon in Libra",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Air colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Swords belongs to Air: mind, thought and conflict."
+   }
+  ]
+ },
+ {
+  "name": "Three of Swords",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Three swords pierce a rose whose petals are falling, against a dark, stormy background. Sorrow is mental and emotional pain."
+   },
+   {
+    "feature": "Title: Sorrow",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Sorrow is the key to reading it: sorrow, grief, heartbreak."
+   },
+   {
+    "feature": "Saturn in Libra",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Air colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Swords belongs to Air: mind, thought and conflict."
+   }
+  ]
+ },
+ {
+  "name": "Four of Swords",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Four swords meet at their points in the center of a rose, arranged in perfect order. Truce is a pause from conflict."
+   },
+   {
+    "feature": "Title: Truce",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Truce is the key to reading it: truce, rest, retreat."
+   },
+   {
+    "feature": "Jupiter in Libra",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Air colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Swords belongs to Air: mind, thought and conflict."
+   }
+  ]
+ },
+ {
+  "name": "Five of Swords",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Five broken swords form an inverted pentagram, their hilts and blades shattered. Defeat is mental loss."
+   },
+   {
+    "feature": "Title: Defeat",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Defeat is the key to reading it: defeat, loss, failure."
+   },
+   {
+    "feature": "Venus in Aquarius",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Air colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Swords belongs to Air: mind, thought and conflict."
+   }
+  ]
+ },
+ {
+  "name": "Six of Swords",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Six swords point toward a rose cross at the center, forming a precise, balanced geometric pattern. Science is objective understanding."
+   },
+   {
+    "feature": "Title: Science",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Science is the key to reading it: science, intellect, understanding."
+   },
+   {
+    "feature": "Mercury in Aquarius",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Air colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Swords belongs to Air: mind, thought and conflict."
+   }
+  ]
+ },
+ {
+  "name": "Seven of Swords",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Six small swords press against one large sword, their efforts appearing futile. Futility is mental effort wasted."
+   },
+   {
+    "feature": "Title: Futility",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Futility is the key to reading it: futility, weakness, compromise."
+   },
+   {
+    "feature": "Moon in Aquarius",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Air colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Swords belongs to Air: mind, thought and conflict."
+   }
+  ]
+ },
+ {
+  "name": "Eight of Swords",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Two long swords cross over six shorter ones, blocking their paths. Interference is mental blockage."
+   },
+   {
+    "feature": "Title: Interference",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Interference is the key to reading it: interference, obstacles, distraction."
+   },
+   {
+    "feature": "Jupiter in Gemini",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Air colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Swords belongs to Air: mind, thought and conflict."
+   }
+  ]
+ },
+ {
+  "name": "Nine of Swords",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Nine jagged, rusty swords point downward, dripping against a dark background. Cruelty is mental anguish."
+   },
+   {
+    "feature": "Title: Cruelty",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Cruelty is the key to reading it: cruelty, despair, anxiety."
+   },
+   {
+    "feature": "Mars in Gemini",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Air colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Swords belongs to Air: mind, thought and conflict."
+   }
+  ]
+ },
+ {
+  "name": "Ten of Swords",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Ten swords shatter a central heart-shaped form, their points crowding together in disarray. Ruin is the collapse of a structure of thought."
+   },
+   {
+    "feature": "Title: Ruin",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Ruin is the key to reading it: ruin, collapse, ending."
+   },
+   {
+    "feature": "Sun in Gemini",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Air colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Swords belongs to Air: mind, thought and conflict."
+   }
+  ]
+ },
+ {
+  "name": "Page of Swords",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "A princess stands with sword raised beside an empty altar, among stormy clouds, ready to defend. The Princess of Swords is sharp and vigilant."
+   },
+   {
+    "feature": "Princess of Swords",
+    "where": "the court title",
+    "meaning": "Earth of Air: the element made solid: the throne and fertile ground of the suit."
+   },
+   {
+    "feature": "Air colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Swords belongs to Air: mind, thought and conflict."
+   }
+  ]
+ },
+ {
+  "name": "Knight of Swords",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "A prince rides a chariot pulled by small winged children, swinging a sword and a sickle among geometric forms. The Prince of Swords is pure intellect: full of ideas, restless and analytical."
+   },
+   {
+    "feature": "Prince of Swords",
+    "where": "the court title",
+    "meaning": "Air of Air: the element in motion, riding a chariot: intellect and drive."
+   },
+   {
+    "feature": "Air colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Swords belongs to Air: mind, thought and conflict."
+   }
+  ]
+ },
+ {
+  "name": "Queen of Swords",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "A queen sits enthroned on clouds, holding a sword in one hand and a severed mask in the other, a child's head crowning her. The Queen of Swords cuts through illusion."
+   },
+   {
+    "feature": "Queen of Swords",
+    "where": "the court title",
+    "meaning": "Water of Air: the element received and reflected: inner power and maturity."
+   },
+   {
+    "feature": "Air colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Swords belongs to Air: mind, thought and conflict."
+   }
+  ]
+ },
+ {
+  "name": "King of Swords",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "An armored knight charges on horseback through the air, sword drawn, with birds flying around him. The Thoth Knight of Swords is purposeful action of the mind."
+   },
+   {
+    "feature": "Knight of Swords",
+    "where": "the court title",
+    "meaning": "Fire of Air: the element at its swiftest and most active, on horseback."
+   },
+   {
+    "feature": "Air colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Swords belongs to Air: mind, thought and conflict."
+   }
+  ]
+ },
+ {
+  "name": "Ace of Pentacles",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "A great golden disk spins with wings, decorated with intricate symbols at its center. The Ace of Disks is the root of Earth: material foundation, health and manifestation."
+   },
+   {
+    "feature": "Root of Earth",
+    "where": "the title",
+    "meaning": "The Ace is the source of Earth: body, work and the material world, in its purest form."
+   },
+   {
+    "feature": "Earth colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Disks belongs to Earth: body, work and the material world."
+   }
+  ]
+ },
+ {
+  "name": "Two of Pentacles",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Two disks bearing yin-yang symbols are encircled by a serpent forming a figure eight, symbolizing endless change. Change is the constant flow of life."
+   },
+   {
+    "feature": "Title: Change",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Change is the key to reading it: change, flux, balance."
+   },
+   {
+    "feature": "Jupiter in Capricorn",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Earth colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Disks belongs to Earth: body, work and the material world."
+   }
+  ]
+ },
+ {
+  "name": "Three of Pentacles",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Three wheels sit at the base of a pyramid seen from above, set in a sea of gray-blue. Works is constructive effort."
+   },
+   {
+    "feature": "Title: Works",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Works is the key to reading it: works, building, effort."
+   },
+   {
+    "feature": "Mars in Capricorn",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Earth colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Disks belongs to Earth: body, work and the material world."
+   }
+  ]
+ },
+ {
+  "name": "Four of Pentacles",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Four square disks form the towers of a fortress, viewed from above, surrounded by a moat. Power is material stability and control."
+   },
+   {
+    "feature": "Title: Power",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Power is the key to reading it: power, stability, security."
+   },
+   {
+    "feature": "Sun in Capricorn",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Earth colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Disks belongs to Earth: body, work and the material world."
+   }
+  ]
+ },
+ {
+  "name": "Five of Pentacles",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Five disks form an inverted pentagram, like gears grinding together under strain. Worry is material anxiety."
+   },
+   {
+    "feature": "Title: Worry",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Worry is the key to reading it: worry, strain, anxiety."
+   },
+   {
+    "feature": "Mercury in Taurus",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Earth colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Disks belongs to Earth: body, work and the material world."
+   }
+  ]
+ },
+ {
+  "name": "Six of Pentacles",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Six planetary disks surround a central glowing rose cross in a balanced, radiant hexagram. Success is material harmony and achievement."
+   },
+   {
+    "feature": "Title: Success",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Success is the key to reading it: success, harmony, prosperity."
+   },
+   {
+    "feature": "Moon in Taurus",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Earth colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Disks belongs to Earth: body, work and the material world."
+   }
+  ]
+ },
+ {
+  "name": "Seven of Pentacles",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Seven dull, lead-colored disks are set against withered vegetation, as if the harvest has been blighted. Failure is effort that does not bear fruit."
+   },
+   {
+    "feature": "Title: Failure",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Failure is the key to reading it: failure, stagnation, delay."
+   },
+   {
+    "feature": "Saturn in Taurus",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Earth colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Disks belongs to Earth: body, work and the material world."
+   }
+  ]
+ },
+ {
+  "name": "Eight of Pentacles",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Eight disks hang like fruit from a carefully tended tree, ripening slowly. Prudence is careful, steady work."
+   },
+   {
+    "feature": "Title: Prudence",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Prudence is the key to reading it: prudence, care, patience."
+   },
+   {
+    "feature": "Sun in Virgo",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Earth colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Disks belongs to Earth: body, work and the material world."
+   }
+  ]
+ },
+ {
+  "name": "Nine of Pentacles",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Nine disks are arranged in a harmonious pattern of circles, glowing with prosperity. Gain is material increase and good fortune."
+   },
+   {
+    "feature": "Title: Gain",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Gain is the key to reading it: gain, prosperity, good fortune."
+   },
+   {
+    "feature": "Venus in Virgo",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Earth colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Disks belongs to Earth: body, work and the material world."
+   }
+  ]
+ },
+ {
+  "name": "Ten of Pentacles",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "Ten coins bearing symbols are arranged in the Tree of Life pattern, glowing with golden light. Wealth is material completion."
+   },
+   {
+    "feature": "Title: Wealth",
+    "where": "bottom of the card",
+    "meaning": "Every Thoth number card is named. Wealth is the key to reading it: wealth, completion, legacy."
+   },
+   {
+    "feature": "Mercury in Virgo",
+    "where": "astrological sign on the card",
+    "meaning": "The planet and sign that color this card, a ten-day stretch of the zodiac."
+   },
+   {
+    "feature": "Earth colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Disks belongs to Earth: body, work and the material world."
+   }
+  ]
+ },
+ {
+  "name": "Page of Pentacles",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "A princess wearing a ram-horned headdress stands in a grove holding a large disk with a rose at its center. The Princess of Disks is the fertile potential of Earth."
+   },
+   {
+    "feature": "Princess of Disks",
+    "where": "the court title",
+    "meaning": "Earth of Earth: the element made solid: the throne and fertile ground of the suit."
+   },
+   {
+    "feature": "Earth colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Disks belongs to Earth: body, work and the material world."
+   }
+  ]
+ },
+ {
+  "name": "Knight of Pentacles",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "A prince rides a chariot pulled by a bull through fields of grain, holding a globe. The Prince of Disks is practical and diligent."
+   },
+   {
+    "feature": "Prince of Disks",
+    "where": "the court title",
+    "meaning": "Air of Earth: the element in motion, riding a chariot: intellect and drive."
+   },
+   {
+    "feature": "Earth colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Disks belongs to Earth: body, work and the material world."
+   }
+  ]
+ },
+ {
+  "name": "Queen of Pentacles",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "A queen sits on a pineapple throne in a desert turning green, holding an orb and a scepter. The Queen of Disks is patient and nurturing."
+   },
+   {
+    "feature": "Queen of Disks",
+    "where": "the court title",
+    "meaning": "Water of Earth: the element received and reflected: inner power and maturity."
+   },
+   {
+    "feature": "Earth colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Disks belongs to Earth: body, work and the material world."
+   }
+  ]
+ },
+ {
+  "name": "King of Pentacles",
+  "symbols": [
+   {
+    "feature": "The painted scene",
+    "where": "the whole card",
+    "meaning": "An armored knight rides a heavy horse through fields of ripe grain, carrying a flail and a great disk shield. The Thoth Knight of Disks is the active force of Earth."
+   },
+   {
+    "feature": "Knight of Disks",
+    "where": "the court title",
+    "meaning": "Fire of Earth: the element at its swiftest and most active, on horseback."
+   },
+   {
+    "feature": "Earth colors",
+    "where": "background and suit signs",
+    "meaning": "The suit of Disks belongs to Earth: body, work and the material world."
+   }
+  ]
+ }
+]

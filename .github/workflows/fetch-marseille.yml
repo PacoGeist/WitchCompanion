@@ -1,0 +1,22 @@
+# One-time job: downloads the public-domain Tarot de Marseille card scans into www/img/tarot-marseille/
+# and commits them. Run it from the Actions tab: "Fetch Marseille pictures", then "Run workflow".
+name: Fetch Marseille pictures
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download the 79 pictures (78 cards and the back)
+        run: python3 tools/fetch_marseille.py
+      - name: Commit them
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add www/img/tarot-marseille
+          git diff --cached --quiet && { echo "Nothing new to add"; exit 0; }
+          git commit -m "Add Tarot de Marseille pictures (public domain, BnF via Wikimedia Commons)"
+          git push
